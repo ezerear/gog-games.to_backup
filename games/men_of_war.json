@@ -1,0 +1,119 @@
+{
+    "href": "/game/men_of_war",
+    "MSG": {
+        "id": "1426246476",
+        "title": "Men of War™",
+        "slug": "men_of_war",
+        "thumb_id": "6a9c008719534ff7298b8a527709f5e6651c095eb30bd5415793a8b7289de550",
+        "bg_id": "73b5ceebb7eafc38d36090fa8c74696ad3c46be58280a1d8d6dbf50c0e897ca2",
+        "url": "https://www.gog.com/game/men_of_war",
+        "developer": "Best Way",
+        "publisher": "1C Publishing",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1709389060",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_men_of_war_1.17.5_(21829)-1.bin",
+                    "size": "3417188524"
+                },
+                {
+                    "name": "setup_men_of_war_1.17.5_(21829).exe",
+                    "size": "798248"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "mow_artworks.zip",
+                    "size": "16638220"
+                },
+                {
+                    "name": "mow_manual.zip",
+                    "size": "2379037"
+                },
+                {
+                    "name": "mow_wallpapers.zip",
+                    "size": "14345309"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/66AD1785A4",
+                            "link": "https://filecrypt.cc/Container/66AD1785A4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/112FE4A602",
+                            "link": "https://filecrypt.cc/Container/112FE4A602"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/758B3E776A",
+                            "link": "https://filecrypt.cc/Container/758B3E776A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B8313E5FDA",
+                            "link": "https://filecrypt.cc/Container/B8313E5FDA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/71E959FFF3",
+                            "link": "https://filecrypt.cc/Container/71E959FFF3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FFDAEAB696",
+                            "link": "https://filecrypt.cc/Container/FFDAEAB696"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

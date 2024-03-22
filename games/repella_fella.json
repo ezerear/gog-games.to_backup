@@ -1,0 +1,76 @@
+{
+    "href": "/game/repella_fella",
+    "MSG": {
+        "id": "1617663442",
+        "title": "Repella Fella",
+        "slug": "repella_fella",
+        "thumb_id": "82f9a82945cf406e27ed4b6a278426985e5144ab8a5e42f5fd454743d901f3cd",
+        "bg_id": "75e57cb23990b9129f09b0bde1bf86826ea06cccf46d325eb7669e08d34281f4",
+        "url": "https://www.gog.com/en/game/repella_fella",
+        "developer": "Misadventurous",
+        "publisher": "2 Left Thumbs",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1705560385",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_repella_fella_1.0.1_(64bit)_(67496)-1.bin",
+                    "size": "4293219326"
+                },
+                {
+                    "name": "setup_repella_fella_1.0.1_(64bit)_(67496)-2.bin",
+                    "size": "4110582377"
+                },
+                {
+                    "name": "setup_repella_fella_1.0.1_(64bit)_(67496).exe",
+                    "size": "1757960"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3172D3801E",
+                            "link": "https://filecrypt.cc/Container/3172D3801E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4F88713D4A",
+                            "link": "https://filecrypt.cc/Container/4F88713D4A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/596A0E6ECB",
+                            "link": "https://filecrypt.cc/Container/596A0E6ECB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

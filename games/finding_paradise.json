@@ -1,0 +1,115 @@
+{
+    "href": "/game/finding_paradise",
+    "MSG": {
+        "id": "1321564059",
+        "title": "Finding Paradise",
+        "slug": "finding_paradise",
+        "thumb_id": "351c4daed0f35235938aa3cdbf137fd6274d3b142a32bfb69e4466901fb33a56",
+        "bg_id": "fd4b46c33386298d4a247060976b1862053056264b585921b14ea7eef3268ad3",
+        "url": "https://www.gog.com/game/finding_paradise",
+        "developer": "Freebird Games",
+        "publisher": "Freebird Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709975159",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_finding_paradise_1.2c_loc_patch2(fr)_(54923)-1.bin",
+                    "size": "301746582"
+                },
+                {
+                    "name": "setup_finding_paradise_1.2c_loc_patch2(fr)_(54923).exe",
+                    "size": "853560"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "finding_paradise_ost_flac.zip",
+                    "size": "578231521"
+                },
+                {
+                    "name": "finding_paradise_ost_mp3.zip",
+                    "size": "263114355"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/384793F387",
+                            "link": "https://filecrypt.cc/Container/384793F387"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D9242A45EB",
+                            "link": "https://filecrypt.cc/Container/D9242A45EB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/55379ECC04",
+                            "link": "https://filecrypt.cc/Container/55379ECC04"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/84B97EE9B0",
+                            "link": "https://filecrypt.cc/Container/84B97EE9B0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0EA7C38CE5",
+                            "link": "https://filecrypt.cc/Container/0EA7C38CE5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/17581CA3B8",
+                            "link": "https://filecrypt.cc/Container/17581CA3B8"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,141 @@
+{
+    "href": "/game/flashout_3_base",
+    "MSG": {
+        "id": "1086047076",
+        "title": "Flashout 3",
+        "slug": "flashout_3_base",
+        "thumb_id": "d9b2afeb6e7eb439edccfb2e2ad223ab1626af8f1b057f4d5e9af7363c0a9b3d",
+        "bg_id": "59f48cc768a17af6489c4b3ff46ad2a509e1154b37fb183a9e5815bd2accfcab",
+        "url": "https://www.gog.com/en/game/flashout_3",
+        "developer": "Jujubee S.A.",
+        "publisher": "Jujubee S.A.",
+        "category": "Racing",
+        "uploading": "0",
+        "last_upload": "1683733084",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_flashout_3_1.0.9_(62939)-1.bin",
+                    "size": "3023026863"
+                },
+                {
+                    "name": "setup_flashout_3_1.0.9_(62939).exe",
+                    "size": "888928"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "flashout3_ost_flac.zip",
+                    "size": "373814963"
+                },
+                {
+                    "name": "flashout3_ost_mp3.zip",
+                    "size": "74436991"
+                },
+                {
+                    "name": "flashout3_ost_wav.zip",
+                    "size": "529586721"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2B4EC8B012",
+                            "link": "https://filecrypt.cc/Container/2B4EC8B012"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CBC88EA916",
+                            "link": "https://filecrypt.cc/Container/CBC88EA916"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E6F563385D",
+                            "link": "https://filecrypt.cc/Container/E6F563385D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5C474116DC",
+                            "link": "https://filecrypt.cc/Container/5C474116DC"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/18CA77788B",
+                            "link": "https://filecrypt.cc/Container/18CA77788B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/52B6A175DF",
+                            "link": "https://filecrypt.cc/Container/52B6A175DF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C4E3840553",
+                            "link": "https://filecrypt.cc/Container/C4E3840553"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B8BF9B0A31",
+                            "link": "https://filecrypt.cc/Container/B8BF9B0A31"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

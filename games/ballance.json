@@ -1,0 +1,68 @@
+{
+    "href": "/game/ballance",
+    "MSG": {
+        "id": "1918420377",
+        "title": "Ballance",
+        "slug": "ballance",
+        "thumb_id": "08afd810587da831e6f24b795453e529cb58e0d8096b998243259cf577ae2286",
+        "bg_id": "16ef564f55796704cdba5e5e2cc6f18f248aa54fd47a33b01ea8078d92d925aa",
+        "url": "https://www.gog.com/en/game/ballance",
+        "developer": "Cyparade",
+        "publisher": "Ziggurat",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708388091",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_ballance_1.0.0_(69264).exe",
+                    "size": "186921888"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/xUqskP9",
+                            "link": "https://safelinking.net/xUqskP9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/xzbjlqh",
+                            "link": "https://safelinking.net/xzbjlqh"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/f9fI7Uh",
+                            "link": "https://safelinking.net/f9fI7Uh"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

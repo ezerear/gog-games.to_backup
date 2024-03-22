@@ -1,0 +1,79 @@
+{
+    "href": "/game/baby_storm",
+    "MSG": {
+        "id": "1193138771",
+        "title": "Baby Storm",
+        "slug": "baby_storm",
+        "thumb_id": "b856312b625fa947fa031d864f59028e70cd4cb8fdd5737a62270aa51407253d",
+        "bg_id": "9a0f663a00607542f76e7b19898897cbaaca24ea4d4be6850dd76b0a384a559e",
+        "url": "https://www.gog.com/en/game/baby_storm",
+        "developer": "Baby Corp",
+        "publisher": "Forever Entertainment S. A.",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1700141749",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_baby_storm_2.12.4_(65093).exe",
+                    "size": "941953504"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C382D8F5C8",
+                            "link": "https://filecrypt.cc/Container/C382D8F5C8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B85F1BBB21",
+                            "link": "https://filecrypt.cc/Container/B85F1BBB21"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B26084B952",
+                            "link": "https://filecrypt.cc/Container/B26084B952"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F7C94916B0",
+                            "link": "https://filecrypt.cc/Container/F7C94916B0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

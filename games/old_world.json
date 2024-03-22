@@ -1,0 +1,92 @@
+{
+    "href": "/game/old_world",
+    "MSG": {
+        "id": "2010300617",
+        "title": "Old World",
+        "slug": "old_world",
+        "thumb_id": "e215b8d6b72e9a197994a120018fa41df9e337b5e89b82d8c0908d5218c02499",
+        "bg_id": "adff8247be5d67931c5455c7af2ca35e9c5d593f548d90f7cf4f1fe731b0af39",
+        "url": "https://www.gog.com/game/old_world",
+        "developer": "Mohawk Games",
+        "publisher": "Hooded Horse",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1708935525",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_old_world_-_pharaohs_of_the_nile_70751_(64bit)_(70979).exe",
+                    "size": "5886296"
+                },
+                {
+                    "name": "setup_old_world_-_sacred_and_the_profane_70751_(64bit)_(70979).exe",
+                    "size": "6272440"
+                },
+                {
+                    "name": "setup_old_world_-_wonders_and_dynasties_70751_(64bit)_(70979).exe",
+                    "size": "6703808"
+                },
+                {
+                    "name": "setup_old_world_70751_(64bit)_(70979)-1.bin",
+                    "size": "4293812734"
+                },
+                {
+                    "name": "setup_old_world_70751_(64bit)_(70979)-2.bin",
+                    "size": "551003390"
+                },
+                {
+                    "name": "setup_old_world_70751_(64bit)_(70979).exe",
+                    "size": "1161552"
+                },
+                {
+                    "name": "setup_old_world_expansion_1_70751_(64bit)_(70979).exe",
+                    "size": "6185648"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2F5CDB626E",
+                            "link": "https://filecrypt.cc/Container/2F5CDB626E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5912CEFF78",
+                            "link": "https://filecrypt.cc/Container/5912CEFF78"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A5FD676D37",
+                            "link": "https://filecrypt.cc/Container/A5FD676D37"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,115 @@
+{
+    "href": "/game/geneforge_4",
+    "MSG": {
+        "id": "1207662963",
+        "title": "Geneforge 4",
+        "slug": "geneforge_4",
+        "thumb_id": "c8efeecf1f7cadcd4a23e9e33b1db907752363d2b359723cc3f2998d48a769b0",
+        "bg_id": "1f344e099e89c0c4861281ab4d09d75169cd5765478cbae3d27f54096e8a54c9",
+        "url": "https://www.gog.com/game/geneforge_15",
+        "developer": "Spiderweb Software",
+        "publisher": "Spiderweb Software",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1708755607",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_geneforge_4_-_rebellion_1.0g_(21279).exe",
+                    "size": "30662424"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "geneforge_artworks.zip",
+                    "size": "13732957"
+                },
+                {
+                    "name": "geneforge_avatars.zip",
+                    "size": "337820"
+                },
+                {
+                    "name": "geneforge_manuals.zip",
+                    "size": "1785346"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0C2878385A",
+                            "link": "https://filecrypt.cc/Container/0C2878385A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1FD1DE9FA7",
+                            "link": "https://filecrypt.cc/Container/1FD1DE9FA7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3869B76F51",
+                            "link": "https://filecrypt.cc/Container/3869B76F51"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/36BE964E2D",
+                            "link": "https://filecrypt.cc/Container/36BE964E2D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0189B8B08F",
+                            "link": "https://filecrypt.cc/Container/0189B8B08F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6FC6558092",
+                            "link": "https://filecrypt.cc/Container/6FC6558092"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,90 @@
+{
+    "href": "/game/golftopia",
+    "MSG": {
+        "id": "1924813316",
+        "title": "GolfTopia",
+        "slug": "golftopia",
+        "thumb_id": "8e9e411627c7b4e5450ef1ba5d271a84950de76604e35cbd777da528217096cb",
+        "bg_id": "cbea011df55f22e36db51fbfa655e34c18de058a40a929d276d458f2cdf5c02a",
+        "url": "https://www.gog.com/game/golftopia",
+        "developer": "MinMax Games Ltd.",
+        "publisher": "MinMax Games Ltd.",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1707720551",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_golftopia_1.1.0_(64bit)_(57933).exe",
+                    "size": "345539960"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/54EFE80B61",
+                            "link": "https://filecrypt.cc/Container/54EFE80B61"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/22308410CE",
+                            "link": "https://filecrypt.cc/Container/22308410CE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6D30C3EE07",
+                            "link": "https://filecrypt.cc/Container/6D30C3EE07"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A974A87616",
+                            "link": "https://filecrypt.cc/Container/A974A87616"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1A52AE08EF",
+                            "link": "https://filecrypt.cc/Container/1A52AE08EF"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

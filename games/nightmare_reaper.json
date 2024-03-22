@@ -1,0 +1,68 @@
+{
+    "href": "/game/nightmare_reaper",
+    "MSG": {
+        "id": "1324274122",
+        "title": "Nightmare Reaper",
+        "slug": "nightmare_reaper",
+        "thumb_id": "0cbc67f27060a693fc3d68a63341c0e3b89660a3fa410f3bb48f28f08d418b6e",
+        "bg_id": "0aa6e5df3dc9e167d69519ca01b6f7193241f7c5e901ebba7999327d269bd4f5",
+        "url": "https://www.gog.com/game/nightmare_reaper",
+        "developer": "Blazing Bit Games",
+        "publisher": "Blazing Bit Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709802375",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_nightmare_reaper_2.32.5_(64bit)_(64861).exe",
+                    "size": "941144088"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E37B27B15E",
+                            "link": "https://filecrypt.cc/Container/E37B27B15E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C88FD70AED",
+                            "link": "https://filecrypt.cc/Container/C88FD70AED"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/78C11AF1A7",
+                            "link": "https://filecrypt.cc/Container/78C11AF1A7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

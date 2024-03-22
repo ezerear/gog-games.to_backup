@@ -1,0 +1,68 @@
+{
+    "href": "/game/dark_rift",
+    "MSG": {
+        "id": "1998138683",
+        "title": "Dark Rift",
+        "slug": "dark_rift",
+        "thumb_id": "bf157a6ab22a23df3f4af0198062e8562ad5ce3f2ca1e34cbc4f54bca48a1d0f",
+        "bg_id": "f893cc5b06138d1fcbaf5a8edd1b358b963468f3b8fd7d364215b761b7e837dc",
+        "url": "https://www.gog.com/en/game/dark_rift",
+        "developer": "Kronos Digital Entertainment",
+        "publisher": "Piko Interactive",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708666104",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dark_rift_1.0_(61256).exe",
+                    "size": "162111456"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/20231B2C83",
+                            "link": "https://filecrypt.cc/Container/20231B2C83"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8E8AF5AF33",
+                            "link": "https://filecrypt.cc/Container/8E8AF5AF33"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/01F39C0F91",
+                            "link": "https://filecrypt.cc/Container/01F39C0F91"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

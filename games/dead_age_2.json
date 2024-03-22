@@ -1,0 +1,119 @@
+{
+    "href": "/game/dead_age_2",
+    "MSG": {
+        "id": "1979865595",
+        "title": "Dead Age 2",
+        "slug": "dead_age_2",
+        "thumb_id": "11df9d69f6815d8fdd74ab99f316ea31a3c9cb86e7d564eee661db1ce9a591e1",
+        "bg_id": "d76c354255a713d4cdea9722192fcfaaf352205fec2f711e7e6260b06f6d2bc7",
+        "url": "https://www.gog.com/game/dead_age_2",
+        "developer": "Silent Dreams",
+        "publisher": "Headup",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1708156522",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dead_age_2_1.114_(64bit)_(62245)-1.bin",
+                    "size": "4294098942"
+                },
+                {
+                    "name": "setup_dead_age_2_1.114_(64bit)_(62245)-2.bin",
+                    "size": "1722144435"
+                },
+                {
+                    "name": "setup_dead_age_2_1.114_(64bit)_(62245).exe",
+                    "size": "878456"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "dead_age_2_ost_flac.zip",
+                    "size": "404544512"
+                },
+                {
+                    "name": "dead_age_2_ost_mp3.zip",
+                    "size": "141289902"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7071066DD8",
+                            "link": "https://filecrypt.cc/Container/7071066DD8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A1CEB44C2C",
+                            "link": "https://filecrypt.cc/Container/A1CEB44C2C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/31E88E3972",
+                            "link": "https://filecrypt.cc/Container/31E88E3972"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E66D7C7BB5",
+                            "link": "https://filecrypt.cc/Container/E66D7C7BB5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7D150BE842",
+                            "link": "https://filecrypt.cc/Container/7D150BE842"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/845F065FD0",
+                            "link": "https://filecrypt.cc/Container/845F065FD0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

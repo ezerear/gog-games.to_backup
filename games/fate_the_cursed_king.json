@@ -1,0 +1,57 @@
+{
+    "href": "/game/fate_the_cursed_king",
+    "MSG": {
+        "id": "1971113392",
+        "title": "FATE: The Cursed King",
+        "slug": "fate_the_cursed_king",
+        "thumb_id": "d0c0179dcc905da6c2ca80e05d3994d7c3686e6823d955cc32d0717b282efb49",
+        "bg_id": "8b3d96f192905bcccda1ac067f570a6e5161c1aa68b0ad098a1221a303c3966f",
+        "url": "https://www.gog.com/game/fate_the_cursed_king",
+        "developer": "WildTangent",
+        "publisher": "WildTangent",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709503308",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_fate_the_cursed_king_4.0.3.0_(45488).exe",
+                    "size": "510203000"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/739A56DF1D",
+                            "link": "https://filecrypt.cc/Container/739A56DF1D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/668F90C8EE",
+                            "link": "https://filecrypt.cc/Container/668F90C8EE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

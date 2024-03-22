@@ -1,0 +1,96 @@
+{
+    "href": "/game/the_swindle",
+    "MSG": {
+        "id": "1436971395",
+        "title": "The Swindle",
+        "slug": "the_swindle",
+        "thumb_id": "cbaa183641d2c8a260c0fb18f36980f5208ec95e2100ae88d150a2fa243124e2",
+        "bg_id": "31af03baff526593de90eb761e4b863fd42494591e838e2859f88ed0dd614ad1",
+        "url": "https://www.gog.com/game/the_swindle",
+        "developer": "Size Five Games",
+        "publisher": "Size Five Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709452587",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_swindle_1.061_(21441).exe",
+                    "size": "530133176"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "swindle_wallpapers.zip",
+                    "size": "1911318"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/422C7DB522",
+                            "link": "https://filecrypt.cc/Container/422C7DB522"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/506FE71A30",
+                            "link": "https://filecrypt.cc/Container/506FE71A30"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/03263134FB",
+                            "link": "https://filecrypt.cc/Container/03263134FB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/036B829FAF",
+                            "link": "https://filecrypt.cc/Container/036B829FAF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2CC5F5A92E",
+                            "link": "https://filecrypt.cc/Container/2CC5F5A92E"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

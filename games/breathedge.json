@@ -1,0 +1,101 @@
+{
+    "href": "/game/breathedge",
+    "MSG": {
+        "id": "2104548474",
+        "title": "Breathedge",
+        "slug": "breathedge",
+        "thumb_id": "55421003997b40eed483d66a1b07c165d12c18e0ea95abafc7a9d374fbabcbe4",
+        "bg_id": "f9dc03985ec2e0cf540fb8a9bb8adfbc4d54e679de41b64365b489dff646647b",
+        "url": "https://www.gog.com/game/breathedge",
+        "developer": "RedRuins Softworks",
+        "publisher": "RedRuins Softworks",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710147064",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_breathedge_1.0.1.2_(64bit)_(50573)-1.bin",
+                    "size": "4294052862"
+                },
+                {
+                    "name": "setup_breathedge_1.0.1.2_(64bit)_(50573)-2.bin",
+                    "size": "3425171362"
+                },
+                {
+                    "name": "setup_breathedge_1.0.1.2_(64bit)_(50573).exe",
+                    "size": "920840"
+                },
+                {
+                    "name": "setup_breathedge_constructor_0.9.3.2_(64bit)_(34766)-1.bin",
+                    "size": "2314381425"
+                },
+                {
+                    "name": "setup_breathedge_constructor_0.9.3.2_(64bit)_(34766).exe",
+                    "size": "818632"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "breathedge_wallpapers.zip",
+                    "size": "4439919"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/21E5444F24",
+                            "link": "https://filecrypt.cc/Container/21E5444F24"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A9FD7DE251",
+                            "link": "https://filecrypt.cc/Container/A9FD7DE251"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EB7C702FB4",
+                            "link": "https://filecrypt.cc/Container/EB7C702FB4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/521747D45E",
+                            "link": "https://filecrypt.cc/Container/521747D45E"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

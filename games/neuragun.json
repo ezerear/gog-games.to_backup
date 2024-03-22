@@ -1,0 +1,83 @@
+{
+    "href": "/game/neuragun",
+    "MSG": {
+        "id": "1952724415",
+        "title": "NeuraGun",
+        "slug": "neuragun",
+        "thumb_id": "9d43a1a0e87e475974ed349e223430cb2e5dfe19c7bf8b97deb86fcc24ef16ad",
+        "bg_id": "64e4e26a5b1fd3a43a608f1aed592dfc594b7c5152c380d7069b82581bea694e",
+        "url": "https://www.gog.com/en/game/neuragun",
+        "developer": "Whale Rock Games",
+        "publisher": "Whale Rock Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1700128173",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_neuragun_1.0_(59965)-1.bin",
+                    "size": "2201173587"
+                },
+                {
+                    "name": "setup_neuragun_1.0_(59965).exe",
+                    "size": "830672"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3A89D90F2A",
+                            "link": "https://filecrypt.cc/Container/3A89D90F2A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D2E25BA962",
+                            "link": "https://filecrypt.cc/Container/D2E25BA962"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/62215D81A7",
+                            "link": "https://filecrypt.cc/Container/62215D81A7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DF4408FB31",
+                            "link": "https://filecrypt.cc/Container/DF4408FB31"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

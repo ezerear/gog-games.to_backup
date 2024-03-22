@@ -1,0 +1,91 @@
+{
+    "href": "/game/talisman_origins",
+    "MSG": {
+        "id": "1189260311",
+        "title": "Talisman: Origins",
+        "slug": "talisman_origins",
+        "thumb_id": "613c6032c113b5fdf071875c97c87618696e98c5308e4b9ad015523692bfc43c",
+        "bg_id": "c93a294c2d1d32a93c8fd0fd0e6f812a730bab03d4106b602f113312fe4c502d",
+        "url": "https://www.gog.com/game/talisman_origins",
+        "developer": "Nomad Games",
+        "publisher": "Nomad Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1702670139",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_talisman_origins_-_beyond_the_veil_74605_(40792).exe",
+                    "size": "6418440"
+                },
+                {
+                    "name": "setup_talisman_origins_-_the_eternal_conflict_74605_(40792).exe",
+                    "size": "6438184"
+                },
+                {
+                    "name": "setup_talisman_origins_-_the_legend_of_pandoras_box_74605_(40792).exe",
+                    "size": "5698352"
+                },
+                {
+                    "name": "setup_talisman_origins_74605_(40792).exe",
+                    "size": "1335346896"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1BC827476B",
+                            "link": "https://filecrypt.cc/Container/1BC827476B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3AA1F617FC",
+                            "link": "https://filecrypt.cc/Container/3AA1F617FC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DA633362D3",
+                            "link": "https://filecrypt.cc/Container/DA633362D3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EF3E5F2009",
+                            "link": "https://filecrypt.cc/Container/EF3E5F2009"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

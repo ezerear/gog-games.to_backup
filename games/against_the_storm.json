@@ -1,0 +1,61 @@
+{
+    "href": "/game/against_the_storm",
+    "MSG": {
+        "id": "1460447406",
+        "title": "Against the Storm",
+        "slug": "against_the_storm",
+        "thumb_id": "1d590304df9b8965cabc4ae603a3ee92219c8ff0c162d18abbd174175047b607",
+        "bg_id": "8799c2d97b71459b8b19c3a47bbc4a7d1278d92d1ff1b4a98dc13590076f20c6",
+        "url": "https://www.gog.com/game/against_the_storm",
+        "developer": "Eremite Games",
+        "publisher": "Eremite Games",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710114917",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_against_the_storm_1.2.3r_(71657)-1.bin",
+                    "size": "3360005958"
+                },
+                {
+                    "name": "setup_against_the_storm_1.2.3r_(71657).exe",
+                    "size": "866272"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/16A316478A",
+                            "link": "https://filecrypt.cc/Container/16A316478A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4CB90DF40D",
+                            "link": "https://filecrypt.cc/Container/4CB90DF40D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,115 @@
+{
+    "href": "/game/oaken",
+    "MSG": {
+        "id": "1669882559",
+        "title": "Oaken",
+        "slug": "oaken",
+        "thumb_id": "edf7a487adbbb28f52b5b5a69f3be7371294b5b9981ea7af9f74858b86d6c5db",
+        "bg_id": "841eaa70f3e94ce293a09ffe8d37850e54ae1f340756b12e5f59ec44080f3d30",
+        "url": "https://www.gog.com/game/oaken",
+        "developer": "Goblinz Studio",
+        "publisher": "Goblinz Studio",
+        "category": "Turn-based",
+        "uploading": "0",
+        "last_upload": "1709245928",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_oaken_1.1.6_(68844).exe",
+                    "size": "973193712"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "oaken_artbook.zip",
+                    "size": "40034726"
+                },
+                {
+                    "name": "oaken_soundtrack_mp3.zip",
+                    "size": "183816459"
+                },
+                {
+                    "name": "oaken_soundtrack_wav.zip",
+                    "size": "458363090"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BD32518BEA",
+                            "link": "https://filecrypt.cc/Container/BD32518BEA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FB48A710B8",
+                            "link": "https://filecrypt.cc/Container/FB48A710B8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7C867E9E3C",
+                            "link": "https://filecrypt.cc/Container/7C867E9E3C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D54E6F0FE0",
+                            "link": "https://filecrypt.cc/Container/D54E6F0FE0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C659D35FFD",
+                            "link": "https://filecrypt.cc/Container/C659D35FFD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2FF7F255DB",
+                            "link": "https://filecrypt.cc/Container/2FF7F255DB"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

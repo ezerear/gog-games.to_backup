@@ -1,0 +1,171 @@
+{
+    "href": "/game/darklands",
+    "MSG": {
+        "id": "1207658972",
+        "title": "Darklands",
+        "slug": "darklands",
+        "thumb_id": "28c62606434d22b21e51059e5b53378e5346511dc3cd6f0bc75184fb8b4d9836",
+        "bg_id": "5bdff116605a15c0108a02a51d237af292163732e15acd24574d586d2ca4f263",
+        "url": "https://www.gog.com/game/darklands",
+        "developer": "MPS Labs",
+        "publisher": "Retroism",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1706068078",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_darklands_2.0.0.6.exe",
+                    "size": "85795904"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "darklands_cluebook1.zip",
+                    "size": "3120961"
+                },
+                {
+                    "name": "darklands_manual1.zip",
+                    "size": "51484007"
+                },
+                {
+                    "name": "darklands_map.zip",
+                    "size": "4856435"
+                },
+                {
+                    "name": "darklands_ost_flac.zip",
+                    "size": "422012310"
+                },
+                {
+                    "name": "darklands_reference_card.zip",
+                    "size": "438277"
+                },
+                {
+                    "name": "darklands_soundtrack.zip",
+                    "size": "24129924"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CCFA8289B3",
+                            "link": "https://filecrypt.cc/Container/CCFA8289B3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/64B8825E79",
+                            "link": "https://filecrypt.cc/Container/64B8825E79"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B7E2C67241",
+                            "link": "https://filecrypt.cc/Container/B7E2C67241"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/14C8E3BB36",
+                            "link": "https://filecrypt.cc/Container/14C8E3BB36"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/69EA836E99",
+                            "link": "https://filecrypt.cc/Container/69EA836E99"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CDE05D4CC5",
+                            "link": "https://filecrypt.cc/Container/CDE05D4CC5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/265BB43CC8",
+                            "link": "https://filecrypt.cc/Container/265BB43CC8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BE4EA5757C",
+                            "link": "https://filecrypt.cc/Container/BE4EA5757C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A9F602ADCA",
+                            "link": "https://filecrypt.cc/Container/A9F602ADCA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E7B94CAE2D",
+                            "link": "https://filecrypt.cc/Container/E7B94CAE2D"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

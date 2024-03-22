@@ -1,0 +1,76 @@
+{
+    "href": "/game/deexit_eternal_matters",
+    "MSG": {
+        "id": "1905827099",
+        "title": "De-Exit - Eternal Matters",
+        "slug": "deexit_eternal_matters",
+        "thumb_id": "8cfaf68d7099d649ea55ff86f82931d3ec172f140bc2a104a6a3d4bd2152812d",
+        "bg_id": "1ea243ded9074f89d283167da15a29b87c0ab20e7b23309310cb825d26f78a2c",
+        "url": "https://www.gog.com/en/game/deexit_eternal_matters",
+        "developer": "SandBloom Studio",
+        "publisher": "HandyGames",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708625934",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_de-exit_-_eternal_matters_1.0.21.2_(62095)-1.bin",
+                    "size": "4293980158"
+                },
+                {
+                    "name": "setup_de-exit_-_eternal_matters_1.0.21.2_(62095)-2.bin",
+                    "size": "1470750170"
+                },
+                {
+                    "name": "setup_de-exit_-_eternal_matters_1.0.21.2_(62095).exe",
+                    "size": "997360"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8A0D9CDAB5",
+                            "link": "https://filecrypt.cc/Container/8A0D9CDAB5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6ED8661C09",
+                            "link": "https://filecrypt.cc/Container/6ED8661C09"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5EC63891C4",
+                            "link": "https://filecrypt.cc/Container/5EC63891C4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

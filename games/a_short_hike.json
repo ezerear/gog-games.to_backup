@@ -1,0 +1,79 @@
+{
+    "href": "/game/a_short_hike",
+    "MSG": {
+        "id": "2044653500",
+        "title": "A Short Hike",
+        "slug": "a_short_hike",
+        "thumb_id": "9dc15cadd8b45e0a945e1dbeeb4302ab72b609c09a3bf918e107e85df673a1f4",
+        "bg_id": "704ead452ec54eb86ce3df982d0bb77795490b58df6efc6e005220641f621311",
+        "url": "https://www.gog.com/game/a_short_hike",
+        "developer": "adamgryu",
+        "publisher": "adamgryu",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708244546",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_a_short_hike_1.9_v3_(51665).exe",
+                    "size": "230970280"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/629465BD63",
+                            "link": "https://filecrypt.cc/Container/629465BD63"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9968F3F98D",
+                            "link": "https://filecrypt.cc/Container/9968F3F98D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4ABD2EECCC",
+                            "link": "https://filecrypt.cc/Container/4ABD2EECCC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AFF2D39A0D",
+                            "link": "https://filecrypt.cc/Container/AFF2D39A0D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

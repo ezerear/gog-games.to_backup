@@ -1,0 +1,127 @@
+{
+    "href": "/game/chaser",
+    "MSG": {
+        "id": "1207658894",
+        "title": "Chaser",
+        "slug": "chaser",
+        "thumb_id": "f282f292d416e088f5b714445f37af7fecf2a68da1bf2b646547c638ca3b19e0",
+        "bg_id": "75eaf6f5cb498367d84af31ff4cc752cffa3b8787c4adcfe75924eb0c5247a8a",
+        "url": "https://www.gog.com/game/chaser",
+        "developer": "Cauldron Ltd.",
+        "publisher": "THQ Nordic GmbH",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710440227",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_chaser_1.50_(21613).exe",
+                    "size": "1366450776"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "Chaser_Artworks.zip",
+                    "size": "12773407"
+                },
+                {
+                    "name": "Chaser_Avatars.zip",
+                    "size": "164454"
+                },
+                {
+                    "name": "Chaser_Manual.zip",
+                    "size": "945649"
+                },
+                {
+                    "name": "Chaser_MapPack.zip",
+                    "size": "52179508"
+                },
+                {
+                    "name": "Chaser_Music.zip",
+                    "size": "80787686"
+                },
+                {
+                    "name": "Chaser_Wallpapers.zip",
+                    "size": "14910299"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/967AFA5627",
+                            "link": "https://filecrypt.cc/Container/967AFA5627"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/480048693F",
+                            "link": "https://filecrypt.cc/Container/480048693F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/492C195000",
+                            "link": "https://filecrypt.cc/Container/492C195000"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/09DF2FD8DB",
+                            "link": "https://filecrypt.cc/Container/09DF2FD8DB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9F547DD1BA",
+                            "link": "https://filecrypt.cc/Container/9F547DD1BA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1858CBBEAE",
+                            "link": "https://filecrypt.cc/Container/1858CBBEAE"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

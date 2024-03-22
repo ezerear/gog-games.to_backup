@@ -1,0 +1,76 @@
+{
+    "href": "/game/good_company",
+    "MSG": {
+        "id": "1220669720",
+        "title": "Good Company",
+        "slug": "good_company",
+        "thumb_id": "793eb6a9a5809348f6009d2744bc190ea62bad0538ed67e7be97f97c87c8908d",
+        "bg_id": "13a39bdec0580f0520a0c9a1ba3d09bf2e422ee3ff665bff09467cd1185acc06",
+        "url": "https://www.gog.com/game/good_company",
+        "developer": "Chasing Carrots",
+        "publisher": "The Irregular Corporation",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710772668",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_good_company_1.0.14b_(64bit)_(59072)-1.bin",
+                    "size": "765465725"
+                },
+                {
+                    "name": "setup_good_company_1.0.14b_(64bit)_(59072).exe",
+                    "size": "1058208"
+                },
+                {
+                    "name": "setup_good_company_pre-order_bonus_1.0.14b_(64bit)_(59072).exe",
+                    "size": "9926536"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/84F16F13C8",
+                            "link": "https://filecrypt.cc/Container/84F16F13C8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FB0FD381D9",
+                            "link": "https://filecrypt.cc/Container/FB0FD381D9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A8893177FE",
+                            "link": "https://filecrypt.cc/Container/A8893177FE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

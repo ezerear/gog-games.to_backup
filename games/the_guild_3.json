@@ -1,0 +1,94 @@
+{
+    "href": "/game/the_guild_3",
+    "MSG": {
+        "id": "1584560456",
+        "title": "The Guild 3",
+        "slug": "the_guild_3",
+        "thumb_id": "3bf334e4529c1110e6ea274bafb0e908ff0ad6961c09ab57d98ee6c92e7ccb99",
+        "bg_id": "863dd7ee16ed8f5a2989353ca92c426436eee152f9e91ca3eceab15b53e09d27",
+        "url": "https://www.gog.com/game/the_guild_3",
+        "developer": "Purple Lamp Studios, GolemLabs",
+        "publisher": "THQ Nordic GmbH",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1707197996",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_guild_3_1.0.6_(66495)-1.bin",
+                    "size": "3811835161"
+                },
+                {
+                    "name": "setup_the_guild_3_1.0.6_(66495).exe",
+                    "size": "2677200"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5A330E3E4B",
+                            "link": "https://filecrypt.cc/Container/5A330E3E4B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C051387EF3",
+                            "link": "https://filecrypt.cc/Container/C051387EF3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/43B1522C5E",
+                            "link": "https://filecrypt.cc/Container/43B1522C5E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F74FA76799",
+                            "link": "https://filecrypt.cc/Container/F74FA76799"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4A305B497E",
+                            "link": "https://filecrypt.cc/Container/4A305B497E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/rusty_lake_hotel",
+    "MSG": {
+        "id": "1212103132",
+        "title": "Rusty Lake Hotel",
+        "slug": "rusty_lake_hotel",
+        "thumb_id": "0976d59e44faaad01ee6aa107fdfdd3648d59580adbdfb02a092bcafc2447682",
+        "bg_id": "1bd5aa0ba525fc681761bb905c6489f231f6924dd47f93527d92c1a03cb24da9",
+        "url": "https://www.gog.com/game/rusty_lake_hotel",
+        "developer": "Rusty Lake",
+        "publisher": "Rusty Lake",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710718847",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_rusty_lake_hotel_gog-1_(30681).exe",
+                    "size": "42578536"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B4CB0F9C84",
+                            "link": "https://filecrypt.cc/Container/B4CB0F9C84"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3E78C4C062",
+                            "link": "https://filecrypt.cc/Container/3E78C4C062"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9421D2F49E",
+                            "link": "https://filecrypt.cc/Container/9421D2F49E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

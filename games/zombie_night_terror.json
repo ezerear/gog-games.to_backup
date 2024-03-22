@@ -1,0 +1,101 @@
+{
+    "href": "/game/zombie_night_terror",
+    "MSG": {
+        "id": "2071628374",
+        "title": "Zombie Night Terror",
+        "slug": "zombie_night_terror",
+        "thumb_id": "1b5906b5d1e6e02e486c8ea24085b1e7f9c1cb0df4f424d24ec7f873066ffd1a",
+        "bg_id": "b421ff50b259ac9791f3b18c4a38008c14d841b71b408316ea4aea3cdd068674",
+        "url": "https://www.gog.com/game/zombie_night_terror",
+        "developer": "NoClip",
+        "publisher": "Good Shepherd Entertainment\t",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710169411",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_zombie_night_terror_1.5.2_(36444).exe",
+                    "size": "507217216"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "znt_ost_flac.zip",
+                    "size": "1160814668"
+                },
+                {
+                    "name": "znt_ost_mp3.zip",
+                    "size": "116047056"
+                },
+                {
+                    "name": "zombie_night_terror_avatars.zip",
+                    "size": "861193"
+                },
+                {
+                    "name": "zombie_night_terror_cinema_poster.zip",
+                    "size": "8033950"
+                },
+                {
+                    "name": "zombie_night_terror_wallpapers.zip",
+                    "size": "5613764"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B915D91324",
+                            "link": "https://filecrypt.cc/Container/B915D91324"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EC562D6140",
+                            "link": "https://filecrypt.cc/Container/EC562D6140"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/18C313CA9E",
+                            "link": "https://filecrypt.cc/Container/18C313CA9E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E86CAEE983",
+                            "link": "https://filecrypt.cc/Container/E86CAEE983"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

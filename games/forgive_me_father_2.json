@@ -1,0 +1,72 @@
+{
+    "href": "/game/forgive_me_father_2",
+    "MSG": {
+        "id": "1807290517",
+        "title": "Forgive Me Father 2",
+        "slug": "forgive_me_father_2",
+        "thumb_id": "13eb75a9c6fc220ed9625721a908f3ffbfb314d348eed6bf642527f1e70c1bd6",
+        "bg_id": "5760e9c81ff95a32c0abcb6db6662120b51c51040a5f6836abcb524abacc7073",
+        "url": "https://www.gog.com/en/game/forgive_me_father_2",
+        "developer": "Byte Barrel",
+        "publisher": "Fulqrum Publishing",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1709730584",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_forgive_me_father_2_fmf2_0.1.9.6_ea_(64bit)_(68292)-1.bin",
+                    "size": "3345358993"
+                },
+                {
+                    "name": "setup_forgive_me_father_2_fmf2_0.1.9.6_ea_(64bit)_(68292).exe",
+                    "size": "828480"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AD24586598",
+                            "link": "https://filecrypt.cc/Container/AD24586598"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8945FFFBBF",
+                            "link": "https://filecrypt.cc/Container/8945FFFBBF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/865BFE7F0D",
+                            "link": "https://filecrypt.cc/Container/865BFE7F0D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

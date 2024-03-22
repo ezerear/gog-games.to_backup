@@ -1,0 +1,131 @@
+{
+    "href": "/game/arx_fatalis",
+    "MSG": {
+        "id": "1207658680",
+        "title": "Arx Fatalis",
+        "slug": "arx_fatalis",
+        "thumb_id": "c2520dded66c1e9fc65ebc0ece3fb480e26f40c966a6809366a0d9a43f2b27e0",
+        "bg_id": "45f3acec3ea1747890e560a458434174aae903a7e252de9c1583ae776b850b47",
+        "url": "https://www.gog.com/game/arx_fatalis",
+        "developer": "Arkane Studios",
+        "publisher": "Arkane Studios",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1708972425",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_arx_fatalis_1.22_(38577)-1.bin",
+                    "size": "668717871"
+                },
+                {
+                    "name": "setup_arx_fatalis_1.22_(38577).exe",
+                    "size": "807656"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "arx_fatalis_artworks.zip",
+                    "size": "25922259"
+                },
+                {
+                    "name": "arx_fatalis_avatars.zip",
+                    "size": "163368"
+                },
+                {
+                    "name": "arx_fatalis_manual.zip",
+                    "size": "743769"
+                },
+                {
+                    "name": "arx_fatalis_screensaver.zip",
+                    "size": "1127168"
+                },
+                {
+                    "name": "arx_fatalis_soundtrack.zip",
+                    "size": "2400750"
+                },
+                {
+                    "name": "arx_fatalis_wallpapers.zip",
+                    "size": "15314025"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/77A582F46A",
+                            "link": "https://filecrypt.cc/Container/77A582F46A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E37005D4C2",
+                            "link": "https://filecrypt.cc/Container/E37005D4C2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/629DB4474B",
+                            "link": "https://filecrypt.cc/Container/629DB4474B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FC4BA1862C",
+                            "link": "https://filecrypt.cc/Container/FC4BA1862C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/163A8E7977",
+                            "link": "https://filecrypt.cc/Container/163A8E7977"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A3F25B30AA",
+                            "link": "https://filecrypt.cc/Container/A3F25B30AA"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/tower_escape",
+    "MSG": {
+        "id": "2081458325",
+        "title": "Tower Escape",
+        "slug": "tower_escape",
+        "thumb_id": "80ad5f691174ef9fd667c3296a550e6a17fda35c42b3a07f0414e04ba1e820d5",
+        "bg_id": "67ffcc9b6b532c5d5c81a64ab4b3dd0b23b512d93fe1dbfecc70a753d07b5d85",
+        "url": "https://www.gog.com/en/game/tower_escape",
+        "developer": "Final Screw",
+        "publisher": "Final Screw, IndieArk",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1709610470",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tower_escape_1.11.5i_(64bit)_(66374).exe",
+                    "size": "119909768"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1E11FD7559",
+                            "link": "https://filecrypt.cc/Container/1E11FD7559"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9390230DF7",
+                            "link": "https://filecrypt.cc/Container/9390230DF7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4FEEB44E12",
+                            "link": "https://filecrypt.cc/Container/4FEEB44E12"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

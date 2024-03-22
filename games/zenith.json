@@ -1,0 +1,89 @@
+{
+    "href": "/game/zenith",
+    "MSG": {
+        "id": "1706509320",
+        "title": "Zenith",
+        "slug": "zenith",
+        "thumb_id": "e8f6d43a3d05dcdc8df4755b8f159fe94e4af5edee4bac13356bda648d2edd99",
+        "bg_id": "ceb94d37fba12851da41d1dab42afc870e8d1ebae34ce75508498f8b1548d94f",
+        "url": "https://www.gog.com/game/zenith",
+        "developer": "Infinigon",
+        "publisher": "Plug In Digital",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710173818",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_zenith_2.2.0.3-1.bin",
+                    "size": "2313715115"
+                },
+                {
+                    "name": "setup_zenith_2.2.0.3.exe",
+                    "size": "33966648"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "zenith_wallpapers.zip",
+                    "size": "2575861"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EC87888FD8",
+                            "link": "https://filecrypt.cc/Container/EC87888FD8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DACCA44361",
+                            "link": "https://filecrypt.cc/Container/DACCA44361"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3F81EA7D52",
+                            "link": "https://filecrypt.cc/Container/3F81EA7D52"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/03901C3DDD",
+                            "link": "https://filecrypt.cc/Container/03901C3DDD"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,79 @@
+{
+    "href": "/game/fae_tactics",
+    "MSG": {
+        "id": "1164461354",
+        "title": "Fae Tactics",
+        "slug": "fae_tactics",
+        "thumb_id": "36e83f468fca9de07a5febfaa4ffd9fefbfe3529bf80913b640cfdcca4469a8d",
+        "bg_id": "2b9f89b433fbae5509a1803d0fc4abb9b3a7ac02203cdf172d71ecd77574fb64",
+        "url": "https://www.gog.com/game/fae_tactics",
+        "developer": "Endlessfluff Games",
+        "publisher": "Humble Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1707218576",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_fae_tactics_v1.010_(46793).exe",
+                    "size": "1004756120"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D0BF3E9DB6",
+                            "link": "https://filecrypt.cc/Container/D0BF3E9DB6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A91070E8F4",
+                            "link": "https://filecrypt.cc/Container/A91070E8F4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/52A48E30CF",
+                            "link": "https://filecrypt.cc/Container/52A48E30CF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8617C714A5",
+                            "link": "https://filecrypt.cc/Container/8617C714A5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

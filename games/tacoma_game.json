@@ -1,0 +1,94 @@
+{
+    "href": "/game/tacoma_game",
+    "MSG": {
+        "id": "1452577588",
+        "title": "Tacoma",
+        "slug": "tacoma_game",
+        "thumb_id": "8fc4af937a0f0d9722921e6c1e274e91c9ddd231d22e8f74fceac5f2be257bb1",
+        "bg_id": "69260478af41d278d73c98b16bb23fb6da7c80722f08e2be55d3fac4d5306b83",
+        "url": "https://www.gog.com/game/tacoma_game",
+        "developer": "Fullbright",
+        "publisher": "Fullbright",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1705562689",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tacoma_2019-12-20_(64bit)_(34783)-1.bin",
+                    "size": "2771747521"
+                },
+                {
+                    "name": "setup_tacoma_2019-12-20_(64bit)_(34783).exe",
+                    "size": "930256"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D48D04EE00",
+                            "link": "https://filecrypt.cc/Container/D48D04EE00"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9598BD1D04",
+                            "link": "https://filecrypt.cc/Container/9598BD1D04"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/90B8858218",
+                            "link": "https://filecrypt.cc/Container/90B8858218"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C012F2779F",
+                            "link": "https://filecrypt.cc/Container/C012F2779F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/738C0FDD49",
+                            "link": "https://filecrypt.cc/Container/738C0FDD49"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

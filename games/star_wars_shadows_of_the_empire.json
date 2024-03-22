@@ -1,0 +1,68 @@
+{
+    "href": "/game/star_wars_shadows_of_the_empire",
+    "MSG": {
+        "id": "1449669419",
+        "title": "STAR WARS™ Shadows of the Empire™",
+        "slug": "star_wars_shadows_of_the_empire",
+        "thumb_id": "c13e88bb3d0a6a36fdef13be54e0d9d552b386e1f842cd66d4d91c065c9726f2",
+        "bg_id": "ea05a56c0339d448c91a303068267cb8e46168972de9f4389fc5e304e65b10ef",
+        "url": "https://www.gog.com/game/star_wars_shadows_of_the_empire",
+        "developer": "Lucasfilm",
+        "publisher": "Disney",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709978834",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sw_shadows_of_the_empire_2.2.0.11.exe",
+                    "size": "277962944"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/31FD3635F5",
+                            "link": "https://filecrypt.cc/Container/31FD3635F5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/77C7406315",
+                            "link": "https://filecrypt.cc/Container/77C7406315"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7B336C06B3",
+                            "link": "https://filecrypt.cc/Container/7B336C06B3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

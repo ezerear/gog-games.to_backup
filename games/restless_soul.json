@@ -1,0 +1,68 @@
+{
+    "href": "/game/restless_soul",
+    "MSG": {
+        "id": "1850853924",
+        "title": "RESTLESS SOUL",
+        "slug": "restless_soul",
+        "thumb_id": "e8d64ea9276b414b17e8d333b2d5af08477e1666fc6a26a210b72fc445cef3cb",
+        "bg_id": "1000bc9a7de2f5b88584796b515c7559ebbc080e84777b9f4f3b5cb32c82bb20",
+        "url": "https://www.gog.com/en/game/restless_soul",
+        "developer": "Fuz Games",
+        "publisher": "Graffiti Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708709516",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_restless_soul_1.0_(61604).exe",
+                    "size": "188353272"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/832B80647E",
+                            "link": "https://filecrypt.cc/Container/832B80647E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AA778ADCF0",
+                            "link": "https://filecrypt.cc/Container/AA778ADCF0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2BDC465C3C",
+                            "link": "https://filecrypt.cc/Container/2BDC465C3C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

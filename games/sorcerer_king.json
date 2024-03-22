@@ -1,0 +1,115 @@
+{
+    "href": "/game/sorcerer_king",
+    "MSG": {
+        "id": "1445609115",
+        "title": "Sorcerer King",
+        "slug": "sorcerer_king",
+        "thumb_id": "f867e20c66f6ff34b53471978f40f84f8c7ecc3bcf0266ab13b2fec7295068e6",
+        "bg_id": "425d148cd24a64df69de75995cd643853940da6a03f9a8403b4efd594c39ed82",
+        "url": "https://web.archive.org/web/20160616054949/https://www.gog.com/game/sorcerer_king",
+        "developer": "Stardock Entertainment",
+        "publisher": "Stardock Entertainment",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710387488",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sorcerer_king_1.50(a)_(20147)-1.bin",
+                    "size": "3456548446"
+                },
+                {
+                    "name": "setup_sorcerer_king_1.50(a)_(20147).exe",
+                    "size": "3841040"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "sk_avatars_jpg.zip",
+                    "size": "243454"
+                },
+                {
+                    "name": "sk_wallpapers_jpg.zip",
+                    "size": "11156069"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D8FF82F292",
+                            "link": "https://filecrypt.cc/Container/D8FF82F292"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4F87364295",
+                            "link": "https://filecrypt.cc/Container/4F87364295"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3685D0887A",
+                            "link": "https://filecrypt.cc/Container/3685D0887A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/23C01558A1",
+                            "link": "https://filecrypt.cc/Container/23C01558A1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0A5CF26C7C",
+                            "link": "https://filecrypt.cc/Container/0A5CF26C7C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/192051BF10",
+                            "link": "https://filecrypt.cc/Container/192051BF10"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

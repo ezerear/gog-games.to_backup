@@ -1,0 +1,76 @@
+{
+    "href": "/game/tormented_souls",
+    "MSG": {
+        "id": "1243021945",
+        "title": "Tormented Souls",
+        "slug": "tormented_souls",
+        "thumb_id": "c67f7867501238393d1dc3410569b1f74b08c0d280435b95759033bab7e02b47",
+        "bg_id": "bfb3536cddf2c012eef93137f57df09c075dc8714fea684fd484f58ef4056d4d",
+        "url": "https://www.gog.com/game/tormented_souls",
+        "developer": "Dual Effect, Abstract Digital",
+        "publisher": "PQube Limited",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709791931",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tormented_souls_1.10_(57757)-1.bin",
+                    "size": "4292440574"
+                },
+                {
+                    "name": "setup_tormented_souls_1.10_(57757)-2.bin",
+                    "size": "3542530402"
+                },
+                {
+                    "name": "setup_tormented_souls_1.10_(57757).exe",
+                    "size": "2536720"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BD3B5AA76F",
+                            "link": "https://filecrypt.cc/Container/BD3B5AA76F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/451A3F6565",
+                            "link": "https://filecrypt.cc/Container/451A3F6565"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BEF31E903A",
+                            "link": "https://filecrypt.cc/Container/BEF31E903A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

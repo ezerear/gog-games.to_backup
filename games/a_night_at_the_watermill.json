@@ -1,0 +1,90 @@
+{
+    "href": "/game/a_night_at_the_watermill",
+    "MSG": {
+        "id": "1889052360",
+        "title": "A Night at the Watermill",
+        "slug": "a_night_at_the_watermill",
+        "thumb_id": "f42bd1f132b31d0d494b8e7e86c9c570615744f961b609ca3f915d8818b385df",
+        "bg_id": "749a9bc2442510ef41b622eb89c10ad2aed6238e27193a5b5d1377ae8de89cbe",
+        "url": "https://www.gog.com/en/game/a_night_at_the_watermill",
+        "developer": "Neon Tales",
+        "publisher": "Neon Tales",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707048052",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_a_night_at_the_watermill_1.0.799_(70773).exe",
+                    "size": "546323336"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F0E817CEE8",
+                            "link": "https://filecrypt.cc/Container/F0E817CEE8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/71ED708CA6",
+                            "link": "https://filecrypt.cc/Container/71ED708CA6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A6FED4703C",
+                            "link": "https://filecrypt.cc/Container/A6FED4703C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E9C0041FAE",
+                            "link": "https://filecrypt.cc/Container/E9C0041FAE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4B3A8E5D5F",
+                            "link": "https://filecrypt.cc/Container/4B3A8E5D5F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

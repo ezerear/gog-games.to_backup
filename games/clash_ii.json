@@ -1,0 +1,115 @@
+{
+    "href": "/game/clash_ii",
+    "MSG": {
+        "id": "1726427840",
+        "title": "Clash II",
+        "slug": "clash_ii",
+        "thumb_id": "492af697233c822fdfc6b86aa74e5d809b72f6d16eeeb6f34f0ceab53c701d9a",
+        "bg_id": "7f815e217c4c1faa7270d4afc877fa25d52b08dbbeb9f9294f87ae561a0c4b79",
+        "url": "https://www.gog.com/game/clash_ii",
+        "developer": "Prime Bit Games SA",
+        "publisher": "Prime Bit Games SA",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710891235",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_clash_ii_385_(71893)-1.bin",
+                    "size": "4293930494"
+                },
+                {
+                    "name": "setup_clash_ii_385_(71893)-2.bin",
+                    "size": "3767493625"
+                },
+                {
+                    "name": "setup_clash_ii_385_(71893).exe",
+                    "size": "1043984"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "clash_ii_soundtrack_wav.zip",
+                    "size": "306684301"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A4497B14C1",
+                            "link": "https://filecrypt.cc/Container/A4497B14C1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/85E1545C6D",
+                            "link": "https://filecrypt.cc/Container/85E1545C6D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0B6C1D9FFF",
+                            "link": "https://filecrypt.cc/Container/0B6C1D9FFF"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B5AEB0D6DC",
+                            "link": "https://filecrypt.cc/Container/B5AEB0D6DC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/48DCCCF53D",
+                            "link": "https://filecrypt.cc/Container/48DCCCF53D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F9E676CF7B",
+                            "link": "https://filecrypt.cc/Container/F9E676CF7B"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

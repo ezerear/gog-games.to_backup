@@ -1,0 +1,123 @@
+{
+    "href": "/game/mirrors_edge",
+    "MSG": {
+        "id": "1893001152",
+        "title": "Mirror's Edge™",
+        "slug": "mirrors_edge",
+        "thumb_id": "993ef5679d3d98c88c787ddd7716e7d84b44ca5519d23ee912049b7bb583be31",
+        "bg_id": "5d3f1c59cd5ddaf8bed68c8b49862f8c45b43b42609f3945584250160ed6c6ca",
+        "url": "https://www.gog.com/game/mirrors_edge",
+        "developer": "DICE",
+        "publisher": "Electronic Arts",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709812554",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_mirrors_edge_1.01_jpfix_(41238)-1.bin",
+                    "size": "4293558782"
+                },
+                {
+                    "name": "setup_mirrors_edge_1.01_jpfix_(41238)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_mirrors_edge_1.01_jpfix_(41238)-3.bin",
+                    "size": "847316843"
+                },
+                {
+                    "name": "setup_mirrors_edge_1.01_jpfix_(41238).exe",
+                    "size": "1415808"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "mirrors_edge_avatars.zip",
+                    "size": "525718"
+                },
+                {
+                    "name": "mirrors_edge_wallpapers.zip",
+                    "size": "2104439"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0F26045B6F",
+                            "link": "https://filecrypt.cc/Container/0F26045B6F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/71BCC39E1E",
+                            "link": "https://filecrypt.cc/Container/71BCC39E1E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D9A67E133A",
+                            "link": "https://filecrypt.cc/Container/D9A67E133A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1E21129FB5",
+                            "link": "https://filecrypt.cc/Container/1E21129FB5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/72D25E6C03",
+                            "link": "https://filecrypt.cc/Container/72D25E6C03"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/617F9E648B",
+                            "link": "https://filecrypt.cc/Container/617F9E648B"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

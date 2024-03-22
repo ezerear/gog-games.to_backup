@@ -1,0 +1,79 @@
+{
+    "href": "/game/foxtail",
+    "MSG": {
+        "id": "1606709194",
+        "title": "FoxTail",
+        "slug": "foxtail",
+        "thumb_id": "3379b88c896feb5ce18058cedb6c4d83dfd31733b69b4302b62a18e375f68f38",
+        "bg_id": "1f464a78530c9a0c3ff07df899df4599df1135d3f408f97710b70373d94f0594",
+        "url": "https://www.gog.com/game/foxtail",
+        "developer": "Gingertips Game Studio",
+        "publisher": "Gingertips Game Studio",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1686917639",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_foxtail_1.2.902.4379_(38332).exe",
+                    "size": "155493616"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/228450CA8F",
+                            "link": "https://filecrypt.cc/Container/228450CA8F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/790E4BF179",
+                            "link": "https://filecrypt.cc/Container/790E4BF179"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3653D7DEB8",
+                            "link": "https://filecrypt.cc/Container/3653D7DEB8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AA49CC8928",
+                            "link": "https://filecrypt.cc/Container/AA49CC8928"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

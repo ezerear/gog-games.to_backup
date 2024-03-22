@@ -1,0 +1,68 @@
+{
+    "href": "/game/little_bug",
+    "MSG": {
+        "id": "1876014707",
+        "title": "Little Bug",
+        "slug": "little_bug",
+        "thumb_id": "13bdd3bb6d825788f0df1ba2387bafd4c1d3cf0daa0b073bdbb0ec58c78a7974",
+        "bg_id": "6e39d31954ee00924aeb73fa29c5e84be90f3cc49548d186cb27791e75b0135b",
+        "url": "https://www.gog.com/game/little_bug",
+        "developer": "Buddy System",
+        "publisher": "Fig Publishing Inc.",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708812784",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_little_bug_1.1.4_(26001).exe",
+                    "size": "255766128"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B9532257EC",
+                            "link": "https://filecrypt.cc/Container/B9532257EC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9F56A4BEE5",
+                            "link": "https://filecrypt.cc/Container/9F56A4BEE5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AA508B4507",
+                            "link": "https://filecrypt.cc/Container/AA508B4507"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

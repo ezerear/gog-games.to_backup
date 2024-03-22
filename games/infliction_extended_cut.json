@@ -1,0 +1,83 @@
+{
+    "href": "/game/infliction_extended_cut",
+    "MSG": {
+        "id": "1368061512",
+        "title": "Infliction: Extended Cut",
+        "slug": "infliction_extended_cut",
+        "thumb_id": "76c6d8e764e5980b84fd41d7db448eaef2be9ca41d61345ffb008a01fdbaac44",
+        "bg_id": "74f002cd0a2783c34ba975f3ac42fcad7a37751d76b927c7f26b256a68582ee4",
+        "url": "https://www.gog.com/game/infliction_extended_cut",
+        "developer": "Caustic Reality",
+        "publisher": "Blowfish Studios",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1685038068",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_infliction_extended_cut_3.0.1_(64bit)_(42270)-1.bin",
+                    "size": "4132230663"
+                },
+                {
+                    "name": "setup_infliction_extended_cut_3.0.1_(64bit)_(42270).exe",
+                    "size": "830552"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CC380B120E",
+                            "link": "https://filecrypt.cc/Container/CC380B120E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DE59A6CEC8",
+                            "link": "https://filecrypt.cc/Container/DE59A6CEC8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BC9D9658C3",
+                            "link": "https://filecrypt.cc/Container/BC9D9658C3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/81A0B9791E",
+                            "link": "https://filecrypt.cc/Container/81A0B9791E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

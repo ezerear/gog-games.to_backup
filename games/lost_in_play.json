@@ -1,0 +1,79 @@
+{
+    "href": "/game/lost_in_play",
+    "MSG": {
+        "id": "1479759252",
+        "title": "Lost in Play",
+        "slug": "lost_in_play",
+        "thumb_id": "97a6eeb4a1b574ff297f8836daccb1b4a366d8928280fe75fb6d8c352fbeee31",
+        "bg_id": "45293c9252b32cd468784a90f8a4455704261d0aab71f8519692df7c217bbaa5",
+        "url": "https://www.gog.com/en/game/lost_in_play",
+        "developer": "Happy Juice Games",
+        "publisher": "Joystick Ventures",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707153293",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_lost_in_play_1.0.45_(57871).exe",
+                    "size": "1191546608"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CED4E8450B",
+                            "link": "https://filecrypt.cc/Container/CED4E8450B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/273C09D9D4",
+                            "link": "https://filecrypt.cc/Container/273C09D9D4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5CD49233A2",
+                            "link": "https://filecrypt.cc/Container/5CD49233A2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/522CEEAE73",
+                            "link": "https://filecrypt.cc/Container/522CEEAE73"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

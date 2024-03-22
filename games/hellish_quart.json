@@ -1,0 +1,76 @@
+{
+    "href": "/game/hellish_quart",
+    "MSG": {
+        "id": "1731372333",
+        "title": "Hellish Quart",
+        "slug": "hellish_quart",
+        "thumb_id": "38ce0156e8bef5be680a9d4f835f03c16a4da941897cecfca248352ee97ef89c",
+        "bg_id": "1c41363c1274e60ace959d6f5b9e0c1754e7ab9a8baea9e02b67b6679da4a6bc",
+        "url": "https://www.gog.com/game/hellish_quart",
+        "developer": "Kubold",
+        "publisher": "Kubold",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710268837",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hellish_quart_0.336_(64bit)_(71049)-1.bin",
+                    "size": "4294012414"
+                },
+                {
+                    "name": "setup_hellish_quart_0.336_(64bit)_(71049)-2.bin",
+                    "size": "3327007403"
+                },
+                {
+                    "name": "setup_hellish_quart_0.336_(64bit)_(71049).exe",
+                    "size": "962160"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/61C9C4F512",
+                            "link": "https://filecrypt.cc/Container/61C9C4F512"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/595E4734B6",
+                            "link": "https://filecrypt.cc/Container/595E4734B6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EF9C819379",
+                            "link": "https://filecrypt.cc/Container/EF9C819379"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

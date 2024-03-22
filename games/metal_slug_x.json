@@ -1,0 +1,82 @@
+{
+    "href": "/game/metal_slug_x",
+    "MSG": {
+        "id": "2046360890",
+        "title": "METAL SLUG X",
+        "slug": "metal_slug_x",
+        "thumb_id": "94ef0537c2b933cc6d85ec938a4d91ef764be357decf25658ffc9d16dbc1ca5a",
+        "bg_id": "c8f9ab22f96727a1ab8f8cd9b7fa6f15164027a7b7f982ca3337c5d1e754425d",
+        "url": "https://www.gog.com/game/metal_slug_x",
+        "developer": "SNK CORPORATION",
+        "publisher": "SNK CORPORATION",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709267058",
+        "votes": "1",
+        "files": false,
+        "links": {
+            "GAME": [
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/64732E99D6",
+                            "link": "https://filecrypt.cc/Container/64732E99D6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9E29A658A9",
+                            "link": "https://filecrypt.cc/Container/9E29A658A9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8D68663F69",
+                            "link": "https://filecrypt.cc/Container/8D68663F69"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0AA70272BD",
+                            "link": "https://filecrypt.cc/Container/0AA70272BD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DFAFB61C20",
+                            "link": "https://filecrypt.cc/Container/DFAFB61C20"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

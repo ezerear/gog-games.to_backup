@@ -1,0 +1,119 @@
+{
+    "href": "/game/ultima_1",
+    "MSG": {
+        "id": "1207662593",
+        "title": "Ultima I™ ",
+        "slug": "ultima_1",
+        "thumb_id": "88cdb144bf409b565d5ff643d336d5c1f4ac93cb085431fe68ab72878ccc50de",
+        "bg_id": "7c8014cf0ed9ce2e313810476379f6b2051c5bee8f7fc2d37bfa980bb84c26e5",
+        "url": "https://www.gog.com/game/ultima_1_2_3",
+        "developer": "Origin Systems",
+        "publisher": "Electronic Arts",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710089635",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_ultima_1.0_cs_(28189).exe",
+                    "size": "13298368"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "Ultima_123_manuals.zip",
+                    "size": "8198812"
+                },
+                {
+                    "name": "Ultima_123_maps.zip",
+                    "size": "3039495"
+                },
+                {
+                    "name": "Ultima_3_cluebook.zip",
+                    "size": "3205116"
+                },
+                {
+                    "name": "Ultima_3_spellbooks.zip",
+                    "size": "15656364"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2F5C40EC67",
+                            "link": "https://filecrypt.cc/Container/2F5C40EC67"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/166C0C4425",
+                            "link": "https://filecrypt.cc/Container/166C0C4425"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4DA98DED57",
+                            "link": "https://filecrypt.cc/Container/4DA98DED57"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CE55840906",
+                            "link": "https://filecrypt.cc/Container/CE55840906"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/71A25FAEF4",
+                            "link": "https://filecrypt.cc/Container/71A25FAEF4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/79A8697E89",
+                            "link": "https://filecrypt.cc/Container/79A8697E89"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

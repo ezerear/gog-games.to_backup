@@ -1,0 +1,68 @@
+{
+    "href": "/game/star_explorers",
+    "MSG": {
+        "id": "2084176834",
+        "title": "Star Explorers",
+        "slug": "star_explorers",
+        "thumb_id": "bcca5cd8a1ad12531235fcaa6108364c6652be98c651055de08d0a2f13e9c73b",
+        "bg_id": "91f3886ad5ce7b17845b7708b96542878985cc106149dbf499fcf68d49fd4df9",
+        "url": "https://www.gog.com/en/game/star_explorers",
+        "developer": "Schmidt Workshops",
+        "publisher": "Schmidt Workshops",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710498012",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_star_explorers_5.4.4a_(70387).exe",
+                    "size": "351390568"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/425FFA0919",
+                            "link": "https://filecrypt.cc/Container/425FFA0919"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/28B5B4911A",
+                            "link": "https://filecrypt.cc/Container/28B5B4911A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/956D729B6D",
+                            "link": "https://filecrypt.cc/Container/956D729B6D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,155 @@
+{
+    "href": "/game/the_cave",
+    "MSG": {
+        "id": "2073786542",
+        "title": "The Cave",
+        "slug": "the_cave",
+        "thumb_id": "bdad77cf52af1f71ac4a5a68b62e743c1b364398ceaa6e7b98b0e1a207a0b50a",
+        "bg_id": "b5b54890003d17b2748d9b7cecd9366f72dc8913e73ea27b37f2765d63ca5ad6",
+        "url": "https://www.gog.com/en/game/the_cave",
+        "developer": "Double Fine Productions",
+        "publisher": "Double Fine Productions",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1706047523",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_cave_1.0_(65097).exe",
+                    "size": "1317381328"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "the_cave_soundtrack_mp3.zip",
+                    "size": "113262366"
+                },
+                {
+                    "name": "the_cave_soundtrack_wav.zip",
+                    "size": "475600128"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7E694C2407",
+                            "link": "https://filecrypt.cc/Container/7E694C2407"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/85FC3830FA",
+                            "link": "https://filecrypt.cc/Container/85FC3830FA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/92E9383EE2",
+                            "link": "https://filecrypt.cc/Container/92E9383EE2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D1239EE2DD",
+                            "link": "https://filecrypt.cc/Container/D1239EE2DD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3F2B904B80",
+                            "link": "https://filecrypt.cc/Container/3F2B904B80"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E04B4F343E",
+                            "link": "https://filecrypt.cc/Container/E04B4F343E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9AC8502B9E",
+                            "link": "https://filecrypt.cc/Container/9AC8502B9E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/782A31FE8C",
+                            "link": "https://filecrypt.cc/Container/782A31FE8C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F6968B9339",
+                            "link": "https://filecrypt.cc/Container/F6968B9339"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/032109B1F6",
+                            "link": "https://filecrypt.cc/Container/032109B1F6"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

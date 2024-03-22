@@ -1,0 +1,68 @@
+{
+    "href": "/game/kynseed",
+    "MSG": {
+        "id": "1899284966",
+        "title": "Kynseed",
+        "slug": "kynseed",
+        "thumb_id": "bad3255644c05cdb4c10065cd580d1dab198286c4319fb8b6dfd52555a547926",
+        "bg_id": "4bb353bc0967f5a88c4ba18d1cfdb385d01b43021de5d1cd9b75a6e1dab88ccb",
+        "url": "https://www.gog.com/game/kynseed",
+        "developer": "PixelCount Studios",
+        "publisher": "PixelCount Studios",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710385923",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_kynseed_1.1.1.12000_(71680).exe",
+                    "size": "663613344"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7CA194706D",
+                            "link": "https://filecrypt.cc/Container/7CA194706D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/33B426E539",
+                            "link": "https://filecrypt.cc/Container/33B426E539"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/93A4C96BC5",
+                            "link": "https://filecrypt.cc/Container/93A4C96BC5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

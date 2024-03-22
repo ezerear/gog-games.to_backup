@@ -1,0 +1,90 @@
+{
+    "href": "/game/neurovoider",
+    "MSG": {
+        "id": "1578859173",
+        "title": "NeuroVoider",
+        "slug": "neurovoider",
+        "thumb_id": "b7a144b84961a34ca3b229db41486e80534d3d71738bf06829857f7def585dd7",
+        "bg_id": "6158e447e48dc751e674a613e45b836b683f200f54f393df7eca14727c6abc2b",
+        "url": "https://www.gog.com/game/neurovoider",
+        "developer": "Flying Oak Games",
+        "publisher": "Playdius",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1695877515",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_neurovoider_57.13_extended_(26384).exe",
+                    "size": "169987104"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BC8C046AD1",
+                            "link": "https://filecrypt.cc/Container/BC8C046AD1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B30C066B4D",
+                            "link": "https://filecrypt.cc/Container/B30C066B4D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9DDCC7AC45",
+                            "link": "https://filecrypt.cc/Container/9DDCC7AC45"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4ED535B8D0",
+                            "link": "https://filecrypt.cc/Container/4ED535B8D0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D09C479CA8",
+                            "link": "https://filecrypt.cc/Container/D09C479CA8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

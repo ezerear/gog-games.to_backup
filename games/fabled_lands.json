@@ -1,0 +1,68 @@
+{
+    "href": "/game/fabled_lands",
+    "MSG": {
+        "id": "1639417146",
+        "title": "Fabled Lands",
+        "slug": "fabled_lands",
+        "thumb_id": "f6360c861e6eb69c57c12c870ffbfc090bdf5f6e2be20123a5f5f77cc2fa7d27",
+        "bg_id": "171c7847e4c487510c48ca4cdbf676d8de257a2fea92fb048e5ebbf55b660d9a",
+        "url": "https://www.gog.com/en/game/fabled_lands",
+        "developer": "Prime Games",
+        "publisher": "Prime Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710268104",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_fabled_lands_1.3.2c_(69498).exe",
+                    "size": "678343432"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/632C5F7A7E",
+                            "link": "https://filecrypt.cc/Container/632C5F7A7E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/49296C7113",
+                            "link": "https://filecrypt.cc/Container/49296C7113"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6390D7E2C1",
+                            "link": "https://filecrypt.cc/Container/6390D7E2C1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

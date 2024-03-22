@@ -1,0 +1,61 @@
+{
+    "href": "/game/shadow_ops_red_mercury",
+    "MSG": {
+        "id": "1479095781",
+        "title": "Shadow Ops: Red Mercury",
+        "slug": "shadow_ops_red_mercury",
+        "thumb_id": "2625aacaa3e4d0ff3086166697ee134a95b68b0b937c69b23d440be55f1b34aa",
+        "bg_id": "e894a7506ae698fc558686ef19e29f8bfe6ec615037a3c8b2025aa17c24d7bdd",
+        "url": "https://www.gog.com/game/shadow_ops_red_mercury",
+        "developer": "Zombie Studios",
+        "publisher": "Retroism",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710141575",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_shadow_ops_red_mercury_1.0_(38313)-1.bin",
+                    "size": "2836653188"
+                },
+                {
+                    "name": "setup_shadow_ops_red_mercury_1.0_(38313).exe",
+                    "size": "909536"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/627D07E97F",
+                            "link": "https://filecrypt.cc/Container/627D07E97F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/082C0D9A4B",
+                            "link": "https://filecrypt.cc/Container/082C0D9A4B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

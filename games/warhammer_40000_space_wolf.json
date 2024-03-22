@@ -1,0 +1,72 @@
+{
+    "href": "/game/warhammer_40000_space_wolf",
+    "MSG": {
+        "id": "1662586446",
+        "title": "Warhammer 40,000: Space Wolf - Complete Edition",
+        "slug": "warhammer_40000_space_wolf",
+        "thumb_id": "0cf8e75466a71b193c322a32756bf2214675fa9c64358dc040ffc85cc6c186d8",
+        "bg_id": "ffe215f290daf4786ed32bd05dd6d61f269f4a98e7e9d33bb009591435cfde1a",
+        "url": "https://www.gog.com/game/warhammer_40000_space_wolf",
+        "developer": "HeroCraft",
+        "publisher": "HeroCraft",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710711780",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_warhammer_40000_space_wolf_1.0.2_(51013)-1.bin",
+                    "size": "2262355907"
+                },
+                {
+                    "name": "setup_warhammer_40000_space_wolf_1.0.2_(51013).exe",
+                    "size": "2704632"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0EF9CBF276",
+                            "link": "https://filecrypt.cc/Container/0EF9CBF276"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DB69271147",
+                            "link": "https://filecrypt.cc/Container/DB69271147"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6A433DE6DE",
+                            "link": "https://filecrypt.cc/Container/6A433DE6DE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

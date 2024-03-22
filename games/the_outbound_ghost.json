@@ -1,0 +1,94 @@
+{
+    "href": "/game/the_outbound_ghost",
+    "MSG": {
+        "id": "1142263290",
+        "title": "The Outbound Ghost",
+        "slug": "the_outbound_ghost",
+        "thumb_id": "f61756da74c761b0b748999e3d33bd1fc4ad865e2cd1390e33a80e16d7be403a",
+        "bg_id": "cb66be437dd6bbebb4cda99dcd6757016d5eec70c00f87781e4574a7347bc8b7",
+        "url": "https://www.gog.com/en/game/the_outbound_ghost",
+        "developer": "Conradical Games",
+        "publisher": "Digerati Distribution",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1702003387",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_outbound_ghost_1.0.17_(59318)-1.bin",
+                    "size": "3941703133"
+                },
+                {
+                    "name": "setup_the_outbound_ghost_1.0.17_(59318).exe",
+                    "size": "862488"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9F2BACE688",
+                            "link": "https://filecrypt.cc/Container/9F2BACE688"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F47A8E6597",
+                            "link": "https://filecrypt.cc/Container/F47A8E6597"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/44E96D7B0D",
+                            "link": "https://filecrypt.cc/Container/44E96D7B0D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/37B0B7DC32",
+                            "link": "https://filecrypt.cc/Container/37B0B7DC32"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/86802BCE95",
+                            "link": "https://filecrypt.cc/Container/86802BCE95"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

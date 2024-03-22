@@ -1,0 +1,90 @@
+{
+    "href": "/game/magicmaker",
+    "MSG": {
+        "id": "1207665973",
+        "title": "Magicmaker",
+        "slug": "magicmaker",
+        "thumb_id": "0fb6e21a6f1868783cd3490041c97e7ca06541b79ddb23d544c0b461793ea85b",
+        "bg_id": "fd09d6d39587e7a263ae4c1c2e41f3cf2602aee276aa6d998f345f913050ce34",
+        "url": "https://www.gog.com/game/magicmaker",
+        "developer": "Tasty Stewdios LLC",
+        "publisher": "Tasty Stewdios LLC",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1706504606",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_magicmaker_1.0.17_(46312).exe",
+                    "size": "312525320"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/37123703CD",
+                            "link": "https://filecrypt.cc/Container/37123703CD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/38FFE817FC",
+                            "link": "https://filecrypt.cc/Container/38FFE817FC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B2D2AA53E2",
+                            "link": "https://filecrypt.cc/Container/B2D2AA53E2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A84ACADA4D",
+                            "link": "https://filecrypt.cc/Container/A84ACADA4D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4FA1C84C43",
+                            "link": "https://filecrypt.cc/Container/4FA1C84C43"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

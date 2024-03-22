@@ -1,0 +1,69 @@
+{
+    "href": "/game/master_of_magic",
+    "MSG": {
+        "id": "1074533562",
+        "title": "Master of Magic",
+        "slug": "master_of_magic",
+        "thumb_id": "9c4b306fb475677f85a0516d2a16632e6b356f2eae8be50393747a6596fe8ded",
+        "bg_id": "fa6d980565329c684d5e55ff99fe1eac1e779ee4eaa24b1a35cd022ba1d0a7a7",
+        "url": "https://www.gog.com/game/master_of_magic",
+        "developer": "MuHa Games, Eerie Forest Studio",
+        "publisher": "Slitherine Ltd.",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1708921344",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_master_of_magic_1.09.14_(64bit)_(71370)-1.bin",
+                    "size": "3495448387"
+                },
+                {
+                    "name": "setup_master_of_magic_1.09.14_(64bit)_(71370).exe",
+                    "size": "1123352"
+                },
+                {
+                    "name": "setup_master_of_magic_rise_of_the_soultrapped_1.09.14_(64bit)_(71370).exe",
+                    "size": "202808608"
+                },
+                {
+                    "name": "setup_master_of_magic_scourge_of_the_seas_1.09.14_(64bit)_(71370).exe",
+                    "size": "242952192"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FCF9DCE526",
+                            "link": "https://filecrypt.cc/Container/FCF9DCE526"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/694D2A5C25",
+                            "link": "https://filecrypt.cc/Container/694D2A5C25"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

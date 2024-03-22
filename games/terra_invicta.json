@@ -1,0 +1,127 @@
+{
+    "href": "/game/terra_invicta",
+    "MSG": {
+        "id": "1235051722",
+        "title": "Terra Invicta",
+        "slug": "terra_invicta",
+        "thumb_id": "69d6de3298e78c3906e7e2137ab5083f451910d9faa25f63bf15435eafe16d87",
+        "bg_id": "1a1eadb1eca2d384474277ef7e861a783c499d14d2c3f798ca239a07a2a178a9",
+        "url": "https://www.gog.com/game/terra_invicta",
+        "developer": "Pavonis Interactive",
+        "publisher": "Hooded Horse",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710376137",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_terra_invicta_0.3.134_(64bit)_(71661)-1.bin",
+                    "size": "4293772798"
+                },
+                {
+                    "name": "setup_terra_invicta_0.3.134_(64bit)_(71661)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_terra_invicta_0.3.134_(64bit)_(71661)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_terra_invicta_0.3.134_(64bit)_(71661)-4.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_terra_invicta_0.3.134_(64bit)_(71661)-5.bin",
+                    "size": "3977096289"
+                },
+                {
+                    "name": "setup_terra_invicta_0.3.134_(64bit)_(71661).exe",
+                    "size": "1201536"
+                }
+            ],
+            "PATCHES": [
+                {
+                    "name": "patch_terra_invicta_0.3.125_(70730)_to_0.3.134_(71661).exe",
+                    "size": "415940584"
+                }
+            ],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C66586602A",
+                            "link": "https://filecrypt.cc/Container/C66586602A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4ECCB4530E",
+                            "link": "https://filecrypt.cc/Container/4ECCB4530E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/71B0E44729",
+                            "link": "https://filecrypt.cc/Container/71B0E44729"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6795B69AA8",
+                            "link": "https://filecrypt.cc/Container/6795B69AA8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C47F5FF989",
+                            "link": "https://filecrypt.cc/Container/C47F5FF989"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/671889A888",
+                            "link": "https://filecrypt.cc/Container/671889A888"
+                        }
+                    ]
+                }
+            ],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

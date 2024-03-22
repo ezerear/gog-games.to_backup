@@ -1,0 +1,61 @@
+{
+    "href": "/game/call_of_juarez",
+    "MSG": {
+        "id": "1909524379",
+        "title": "Call of Juarez",
+        "slug": "call_of_juarez",
+        "thumb_id": "78a1dceebceefb8e407755c05bc3c2f1201bff3d5934b73128c6b769dc7e5d32",
+        "bg_id": "beba2bd98738cb566a327023353d33cced3165ceb97993567b3961e15bf3ef40",
+        "url": "https://www.gog.com/game/call_of_juarez",
+        "developer": "Techland",
+        "publisher": "Techland Publishing",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710157304",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_call_of_juarez_1.1.1.0_(24945)-1.bin",
+                    "size": "2853161919"
+                },
+                {
+                    "name": "setup_call_of_juarez_1.1.1.0_(24945).exe",
+                    "size": "920888"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7678CACF98",
+                            "link": "https://filecrypt.cc/Container/7678CACF98"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DA62F97F4D",
+                            "link": "https://filecrypt.cc/Container/DA62F97F4D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

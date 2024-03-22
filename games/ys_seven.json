@@ -1,0 +1,79 @@
+{
+    "href": "/game/ys_seven",
+    "MSG": {
+        "id": "1344324173",
+        "title": "Ys SEVEN",
+        "slug": "ys_seven",
+        "thumb_id": "4bb612727c3f55e5d6032a7fdea407e1c5a811a264fbf3ac8ad11a8f333470ed",
+        "bg_id": "762eb792fc9d52eef69d04a551fbb9c9b379e2f483704b74f4d82ef6f110c1ae",
+        "url": "https://www.gog.com/game/ys_seven",
+        "developer": "Nihon Falcom Corporation",
+        "publisher": "XSEED Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1708182688",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_ys_seven_1.0.0.8_(15191).exe",
+                    "size": "1467821904"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2178C46C17",
+                            "link": "https://filecrypt.cc/Container/2178C46C17"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3592380BE1",
+                            "link": "https://filecrypt.cc/Container/3592380BE1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F7A0051376",
+                            "link": "https://filecrypt.cc/Container/F7A0051376"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1C24B6C932",
+                            "link": "https://filecrypt.cc/Container/1C24B6C932"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,57 @@
+{
+    "href": "/game/tonight_we_riot",
+    "MSG": {
+        "id": "1095982752",
+        "title": "Tonight We Riot",
+        "slug": "tonight_we_riot",
+        "thumb_id": "4e04bf6980c83ef6c19cb5baa5c36a94859f78d0de14ec9d17f4fbc760fce358",
+        "bg_id": "f08e71c98d6d94eacd4c71cda2fcbaeef836ca152c82e8a25cc55192b328a1db",
+        "url": "https://www.gog.com/game/tonight_we_riot",
+        "developer": "Pixel Pushers Union 512",
+        "publisher": "Means Interactive",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710153262",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tonight_we_riot_pcrelease.c_(64bit)_(38380).exe",
+                    "size": "429870224"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3B4278771D",
+                            "link": "https://filecrypt.cc/Container/3B4278771D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/708049086A",
+                            "link": "https://filecrypt.cc/Container/708049086A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

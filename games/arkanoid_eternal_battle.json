@@ -1,0 +1,94 @@
+{
+    "href": "/game/arkanoid_eternal_battle",
+    "MSG": {
+        "id": "1630907432",
+        "title": "Arkanoid - Eternal Battle",
+        "slug": "arkanoid_eternal_battle",
+        "thumb_id": "7f26ad92b27dbc7104ceb707561d7513ef3f752226e25d57202adb500f00470a",
+        "bg_id": "0197cb93919a0a55afad79689aa466e4b92c3dbb026d3b61f4e5b02e2a901c89",
+        "url": "https://www.gog.com/en/game/arkanoid_eternal_battle",
+        "developer": "Pastagames",
+        "publisher": "Microids",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1706525072",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_arkanoid_-_eternal_battle_1.1.24_(64bit)_(59223).exe",
+                    "size": "462755360"
+                },
+                {
+                    "name": "setup_arkanoid_-_limited_edition_pack_1.1.24_(64bit)_(59223).exe",
+                    "size": "5619712"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7FADE6A8A6",
+                            "link": "https://filecrypt.cc/Container/7FADE6A8A6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/83C4B0C612",
+                            "link": "https://filecrypt.cc/Container/83C4B0C612"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CFC7E52105",
+                            "link": "https://filecrypt.cc/Container/CFC7E52105"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A0D943FB6C",
+                            "link": "https://filecrypt.cc/Container/A0D943FB6C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F705EEB489",
+                            "link": "https://filecrypt.cc/Container/F705EEB489"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

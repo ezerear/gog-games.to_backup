@@ -1,0 +1,72 @@
+{
+    "href": "/game/the_legend_of_bumbo",
+    "MSG": {
+        "id": "1627302940",
+        "title": "The Legend of Bum-bo",
+        "slug": "the_legend_of_bumbo",
+        "thumb_id": "cda1c732a94987ae3042fb4e5744437028cd27358abc79c93f5724b3071d6515",
+        "bg_id": "8d143870b1ae02284dd077646e532d4e65f61656a8109076838c9615357d1f7b",
+        "url": "https://www.gog.com/en/game/the_legend_of_bumbo",
+        "developer": "Edmund McMillen, James Interactive",
+        "publisher": "Nicalis, Inc.",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710267963",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_legend_of_bum-bo_1.0.1.41f_(56945)-1.bin",
+                    "size": "1940185732"
+                },
+                {
+                    "name": "setup_the_legend_of_bum-bo_1.0.1.41f_(56945).exe",
+                    "size": "850720"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/563C1F77F9",
+                            "link": "https://filecrypt.cc/Container/563C1F77F9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EA7F42BD5C",
+                            "link": "https://filecrypt.cc/Container/EA7F42BD5C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B00389BC05",
+                            "link": "https://filecrypt.cc/Container/B00389BC05"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

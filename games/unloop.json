@@ -1,0 +1,68 @@
+{
+    "href": "/game/unloop",
+    "MSG": {
+        "id": "1626915765",
+        "title": "Unloop",
+        "slug": "unloop",
+        "thumb_id": "c63d58a37d8f627fb400ca26ca62178767c514dd557a041b445e2ecb7fd4d385",
+        "bg_id": "48ea3462d1857d2ca95c67c752113c3b286be2686b979542b0f1fd8144dc68b4",
+        "url": "https://www.gog.com/en/game/unloop",
+        "developer": "ThreeTrees.eu",
+        "publisher": "",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710021859",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_unloop_1.21a_(64bit)_(71593).exe",
+                    "size": "55463960"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E1895D6FA2",
+                            "link": "https://filecrypt.cc/Container/E1895D6FA2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/104A83B8CB",
+                            "link": "https://filecrypt.cc/Container/104A83B8CB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9A58BE4747",
+                            "link": "https://filecrypt.cc/Container/9A58BE4747"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

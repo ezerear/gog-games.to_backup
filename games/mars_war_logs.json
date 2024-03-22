@@ -1,0 +1,94 @@
+{
+    "href": "/game/mars_war_logs",
+    "MSG": {
+        "id": "1129934535",
+        "title": "Mars: War Logs",
+        "slug": "mars_war_logs",
+        "thumb_id": "1c319831a69bea48af7ffe75da18f5859d496d9ea68510ad7bdd1898c6ee6455",
+        "bg_id": "1947b71ef9733f4aa738e1cf7e50138c04a7ef342b88d8bcdd7aa146573fa647",
+        "url": "https://www.gog.com/game/mars_war_logs",
+        "developer": "Spiders",
+        "publisher": "Focus Home Interactive",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1704347583",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_mars_war_logs_1.0_(32670)-1.bin",
+                    "size": "2749621283"
+                },
+                {
+                    "name": "setup_mars_war_logs_1.0_(32670).exe",
+                    "size": "832936"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A8930AA1C7",
+                            "link": "https://filecrypt.cc/Container/A8930AA1C7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/67F32D7930",
+                            "link": "https://filecrypt.cc/Container/67F32D7930"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B5FDBFA307",
+                            "link": "https://filecrypt.cc/Container/B5FDBFA307"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CF95F007E5",
+                            "link": "https://filecrypt.cc/Container/CF95F007E5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/500132EC52",
+                            "link": "https://filecrypt.cc/Container/500132EC52"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

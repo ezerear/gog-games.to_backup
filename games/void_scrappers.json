@@ -1,0 +1,89 @@
+{
+    "href": "/game/void_scrappers",
+    "MSG": {
+        "id": "1919622235",
+        "title": "Void Scrappers",
+        "slug": "void_scrappers",
+        "thumb_id": "0f50d466e24670b353fc183148bc3174c9baa03b61c8be4c6450d29f29a4d848",
+        "bg_id": "e35ca02ea787bf14c60c9f6247286a6d8a71a43358c71ca25595e78f5c38476f",
+        "url": "https://www.gog.com/en/game/void_scrappers",
+        "developer": "8BitSkull",
+        "publisher": "8BitSkull",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710156188",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_void_scrappers_1.37_(64bit)_(64501).exe",
+                    "size": "179087040"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "void_scrappers_soundtrack_mp3.zip",
+                    "size": "76983339"
+                },
+                {
+                    "name": "void_scrappers_soundtrack_wav.zip",
+                    "size": "483613824"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DDF34E9089",
+                            "link": "https://filecrypt.cc/Container/DDF34E9089"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5D5C488E65",
+                            "link": "https://filecrypt.cc/Container/5D5C488E65"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/40982D7697",
+                            "link": "https://filecrypt.cc/Container/40982D7697"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9B0A62EAE7",
+                            "link": "https://filecrypt.cc/Container/9B0A62EAE7"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

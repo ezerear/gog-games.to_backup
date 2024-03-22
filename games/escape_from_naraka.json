@@ -1,0 +1,123 @@
+{
+    "href": "/game/escape_from_naraka",
+    "MSG": {
+        "id": "1504984627",
+        "title": "Escape from Naraka",
+        "slug": "escape_from_naraka",
+        "thumb_id": "c8b2d97b506c60befbdab6a71d649b3b702b82431f595f84528de75c2117608f",
+        "bg_id": "a025d50c9bec7c938d6774a3dbb39aa488de4b299e9f0a7a06d2ef4f42bcde2b",
+        "url": "https://www.gog.com/game/escape_from_naraka",
+        "developer": "XeloGames",
+        "publisher": "Headup",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1704145965",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_escape_from_naraka_1.0_(52240)-1.bin",
+                    "size": "4293993470"
+                },
+                {
+                    "name": "setup_escape_from_naraka_1.0_(52240)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_escape_from_naraka_1.0_(52240)-3.bin",
+                    "size": "3712277828"
+                },
+                {
+                    "name": "setup_escape_from_naraka_1.0_(52240).exe",
+                    "size": "980256"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "mp3.zip",
+                    "size": "48802208"
+                },
+                {
+                    "name": "wav.zip",
+                    "size": "316996456"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CADE998C15",
+                            "link": "https://filecrypt.cc/Container/CADE998C15"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/06DFA52D7A",
+                            "link": "https://filecrypt.cc/Container/06DFA52D7A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EAF4350FE6",
+                            "link": "https://filecrypt.cc/Container/EAF4350FE6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EA57AE4717",
+                            "link": "https://filecrypt.cc/Container/EA57AE4717"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/14BF43C03B",
+                            "link": "https://filecrypt.cc/Container/14BF43C03B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AE185FADF5",
+                            "link": "https://filecrypt.cc/Container/AE185FADF5"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

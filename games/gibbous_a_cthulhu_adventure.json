@@ -1,0 +1,123 @@
+{
+    "href": "/game/gibbous_a_cthulhu_adventure",
+    "MSG": {
+        "id": "1376056537",
+        "title": "Gibbous - A Cthulhu Adventure",
+        "slug": "gibbous_a_cthulhu_adventure",
+        "thumb_id": "47b7cca296d19217ff5044d44c5d42ae579e1d8120f327174fd8179aee863c94",
+        "bg_id": "253296cd5e0f70c2ce1b955fc814aea913426000c9cf6299622501ba89561771",
+        "url": "https://www.gog.com/game/gibbous_a_cthulhu_adventure",
+        "developer": "Stuck In Attic",
+        "publisher": "Stuck In Attic",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1704410392",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_gibbous_-_a_cthulhu_adventure_1.8_(35771)-1.bin",
+                    "size": "4294053886"
+                },
+                {
+                    "name": "setup_gibbous_-_a_cthulhu_adventure_1.8_(35771)-2.bin",
+                    "size": "74594547"
+                },
+                {
+                    "name": "setup_gibbous_-_a_cthulhu_adventure_1.8_(35771).exe",
+                    "size": "920656"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "gibbous_artbook.zip",
+                    "size": "125605652"
+                },
+                {
+                    "name": "gibbous_soundtrack_FLAC.zip",
+                    "size": "663116961"
+                },
+                {
+                    "name": "gibbous_soundtrack_MP3.zip",
+                    "size": "220249737"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E6ACD4BD8A",
+                            "link": "https://filecrypt.cc/Container/E6ACD4BD8A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4E987DAD92",
+                            "link": "https://filecrypt.cc/Container/4E987DAD92"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/393620CE55",
+                            "link": "https://filecrypt.cc/Container/393620CE55"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4C9A60ECAA",
+                            "link": "https://filecrypt.cc/Container/4C9A60ECAA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2EE2A57928",
+                            "link": "https://filecrypt.cc/Container/2EE2A57928"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E56FD54655",
+                            "link": "https://filecrypt.cc/Container/E56FD54655"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/kromaia",
+    "MSG": {
+        "id": "1207666573",
+        "title": "Kromaia",
+        "slug": "kromaia",
+        "thumb_id": "985e552928f5ba6d5d1d76c0dc92732ea9f06ce1b0164d11b5ba31006c22df3d",
+        "bg_id": "26b2ef9d6ff473079408b97ff1172322c070c67138da786b67809a0b5139a93f",
+        "url": "https://web.archive.org/web/20190601060957/https://www.gog.com/game/kromaia",
+        "developer": "Kraken Empire",
+        "publisher": "Rising Star Games",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1682774847",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_kromaia_1.05_(21302).exe",
+                    "size": "112488952"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/113A9C4274",
+                            "link": "https://filecrypt.cc/Container/113A9C4274"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/AxRsu3k",
+                            "link": "https://safelinking.net/AxRsu3k"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2B15CCEBC7",
+                            "link": "https://filecrypt.cc/Container/2B15CCEBC7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

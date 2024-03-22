@@ -1,0 +1,79 @@
+{
+    "href": "/game/don_duality",
+    "MSG": {
+        "id": "1259701185",
+        "title": "Don Duality",
+        "slug": "don_duality",
+        "thumb_id": "0c28b520e5a60aa6d2b3ac3983fb05a36d8b1740f9994c750e8b3d664d86002c",
+        "bg_id": "95fa5afb5ccb958bebef01599d70bd36e7f9a6ad4de55089fa2a0a0cc7c818e3",
+        "url": "https://www.gog.com/en/game/don_duality",
+        "developer": "Königsborgs",
+        "publisher": "Ravenage Games",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1706427105",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_don_duality_1.0.3.21_(69874).exe",
+                    "size": "239604504"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1B57363417",
+                            "link": "https://filecrypt.cc/Container/1B57363417"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/57A5B98DDA",
+                            "link": "https://filecrypt.cc/Container/57A5B98DDA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E0DAF266FE",
+                            "link": "https://filecrypt.cc/Container/E0DAF266FE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6DCAC70D3C",
+                            "link": "https://filecrypt.cc/Container/6DCAC70D3C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

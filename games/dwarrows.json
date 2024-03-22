@@ -1,0 +1,90 @@
+{
+    "href": "/game/dwarrows",
+    "MSG": {
+        "id": "1248478688",
+        "title": "Dwarrows",
+        "slug": "dwarrows",
+        "thumb_id": "c2afce51bd7d82f63f23f69d49f8f1194b48caa26ece6a1ae3a927f3e692afc0",
+        "bg_id": "197de6bc7fae2c17c1409521cc6b95723caa233c193742bb3729cdb50b51e0cb",
+        "url": "https://www.gog.com/game/dwarrows",
+        "developer": "Lithic Entertainment Inc.",
+        "publisher": "Lithic Entertainment Inc.",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1706442910",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dwarrows_win64_v1.5-1_(64bit)_(47017).exe",
+                    "size": "843738152"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AF2F5F70C3",
+                            "link": "https://filecrypt.cc/Container/AF2F5F70C3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/27B53362E9",
+                            "link": "https://filecrypt.cc/Container/27B53362E9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/38D5D21622",
+                            "link": "https://filecrypt.cc/Container/38D5D21622"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/630CB48944",
+                            "link": "https://filecrypt.cc/Container/630CB48944"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/65C95A0CE4",
+                            "link": "https://filecrypt.cc/Container/65C95A0CE4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

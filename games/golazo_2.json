@@ -1,0 +1,76 @@
+{
+    "href": "/game/golazo_2",
+    "MSG": {
+        "id": "1130617902",
+        "title": "Golazo! 2",
+        "slug": "golazo_2",
+        "thumb_id": "b256f947ddf5d74420148cec8a542fbf7ac93ef9a5a18af5caa9f00f09ee0056",
+        "bg_id": "2efdccaad4f637ced20304f95439f83a7b6ba372c97e871bf1470ddba83a251b",
+        "url": "https://www.gog.com/en/game/golazo_2",
+        "developer": "Purple Tree S R L",
+        "publisher": "Purple Tree S R L",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709041789",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_golazo_2_1.2.3_(63992).exe",
+                    "size": "266103048"
+                },
+                {
+                    "name": "setup_golazo_2_pixel_stars_1.2.3_(63992).exe",
+                    "size": "6717304"
+                },
+                {
+                    "name": "setup_golazo_2_qatar_international_stars_1.2.3_(63992).exe",
+                    "size": "6328648"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D1937E7C19",
+                            "link": "https://filecrypt.cc/Container/D1937E7C19"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A44345850D",
+                            "link": "https://filecrypt.cc/Container/A44345850D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/42FB9CE033",
+                            "link": "https://filecrypt.cc/Container/42FB9CE033"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

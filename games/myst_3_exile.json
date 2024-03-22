@@ -1,0 +1,122 @@
+{
+    "href": "/game/myst_3_exile",
+    "MSG": {
+        "id": "1766899243",
+        "title": "Myst III: Exile",
+        "slug": "myst_3_exile",
+        "thumb_id": "6c424621b7fc2b7e7dd1a761b7a0273d77f4606a963bb50beee8a5c021534988",
+        "bg_id": "2ba7c8c6634b7902aa47140bbae7f8292a569d2d65f170a2d6f20571fa6510a3",
+        "url": "https://www.gog.com/game/myst_3_exile",
+        "developer": "Presto Studios",
+        "publisher": "Cyan Worlds",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708066728",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_myst_3_exile_1.27_rvm_(21807)-1.bin",
+                    "size": "2371615514"
+                },
+                {
+                    "name": "setup_myst_3_exile_1.27_rvm_(21807).exe",
+                    "size": "845728"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "myst_3_exile_manual.zip",
+                    "size": "1174923"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5150E85CEC",
+                            "link": "https://filecrypt.cc/Container/5150E85CEC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/66084717BC",
+                            "link": "https://filecrypt.cc/Container/66084717BC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9C670740DE",
+                            "link": "https://filecrypt.cc/Container/9C670740DE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/16750F46AD",
+                            "link": "https://filecrypt.cc/Container/16750F46AD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DC80352F42",
+                            "link": "https://filecrypt.cc/Container/DC80352F42"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6B31316E12",
+                            "link": "https://filecrypt.cc/Container/6B31316E12"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AAC443D070",
+                            "link": "https://filecrypt.cc/Container/AAC443D070"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

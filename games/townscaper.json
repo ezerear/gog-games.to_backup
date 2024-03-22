@@ -1,0 +1,68 @@
+{
+    "href": "/game/townscaper",
+    "MSG": {
+        "id": "1775735638",
+        "title": "Townscaper",
+        "slug": "townscaper",
+        "thumb_id": "ec69b7163a758703360cc5c99c2482b39d82fb09a05bf322d7c9d3b29233605f",
+        "bg_id": "35e8350b89e3dcd1ae17c39b30f1f48f8d4eac41bbf2a563a3618add11518761",
+        "url": "https://www.gog.com/game/townscaper",
+        "developer": "Oskar Stålberg",
+        "publisher": "Raw Fury",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710678279",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_townscaper_1.2.1_(65961).exe",
+                    "size": "119307384"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3BC7CDE206",
+                            "link": "https://filecrypt.cc/Container/3BC7CDE206"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0609EAE167",
+                            "link": "https://filecrypt.cc/Container/0609EAE167"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DD9D795357",
+                            "link": "https://filecrypt.cc/Container/DD9D795357"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

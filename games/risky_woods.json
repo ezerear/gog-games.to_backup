@@ -1,0 +1,79 @@
+{
+    "href": "/game/risky_woods",
+    "MSG": {
+        "id": "1363728995",
+        "title": "Risky Woods",
+        "slug": "risky_woods",
+        "thumb_id": "dc341ef00d7bc59571e0f4a6d88e34e018c9970c83c3446d72cdb2ad066d315c",
+        "bg_id": "a70ea9b0fb0d8350514358adceb473e9d5ad89d20794634fd84c8096b5d21511",
+        "url": "https://www.gog.com/game/risky_woods",
+        "developer": "Dinamic Software, Zeus Software",
+        "publisher": "Piko Interactive",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1682086958",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_risky_woods_1.0_(51541).exe",
+                    "size": "8634440"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4B79EB8B94",
+                            "link": "https://filecrypt.cc/Container/4B79EB8B94"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/q7f9dJt",
+                            "link": "https://safelinking.net/q7f9dJt"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/17C9341C0A",
+                            "link": "https://filecrypt.cc/Container/17C9341C0A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/i9HYkTk",
+                            "link": "https://safelinking.net/i9HYkTk"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,57 @@
+{
+    "href": "/game/galactic_pick_up_artist",
+    "MSG": {
+        "id": "1746263052",
+        "title": "Galactic Pick Up Artist",
+        "slug": "galactic_pick_up_artist",
+        "thumb_id": "1e9c65592f004ed3bade1e80809cfbf019023766067c2b67a06d74f82a975486",
+        "bg_id": "147b78a575d039523ec45c446edec811c715d9fa443cde539a1afdd9cc004230",
+        "url": "https://www.gog.com/en/game/galactic_pick_up_artist",
+        "developer": "Schneeritter Studios",
+        "publisher": "Shady Corner Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710141837",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_galactic_pick_up_artist_1.1_(67281).exe",
+                    "size": "403176696"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/03186112A6",
+                            "link": "https://filecrypt.cc/Container/03186112A6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/070B32BA64",
+                            "link": "https://filecrypt.cc/Container/070B32BA64"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

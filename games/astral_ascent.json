@@ -1,0 +1,68 @@
+{
+    "href": "/game/astral_ascent",
+    "MSG": {
+        "id": "1258111216",
+        "title": "Astral Ascent",
+        "slug": "astral_ascent",
+        "thumb_id": "0b9512cc2e9a60585a9da6c40293a8aa9ad7b4f048f5fd4093cfbea14031b47c",
+        "bg_id": "6624841040a0553416125d79a05d4c012d27ed2a04c635f034b9a0d32d536bbe",
+        "url": "https://www.gog.com/game/astral_ascent",
+        "developer": "Hibernian Workshop",
+        "publisher": "Hibernian Workshop, Maple Whispering Limited",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710882953",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_astral_ascent_v749-release_(71867).exe",
+                    "size": "1248472864"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CED66D5FA7",
+                            "link": "https://filecrypt.cc/Container/CED66D5FA7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D85C6BC664",
+                            "link": "https://filecrypt.cc/Container/D85C6BC664"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8A07C0122E",
+                            "link": "https://filecrypt.cc/Container/8A07C0122E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

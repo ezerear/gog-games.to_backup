@@ -1,0 +1,68 @@
+{
+    "href": "/game/longstory",
+    "MSG": {
+        "id": "1515265421",
+        "title": "LongStory",
+        "slug": "longstory",
+        "thumb_id": "8c6370b6218efb69d4556205d42e1660db9cd7f43355cb5bf5c9d81c3d450afb",
+        "bg_id": "42d42b2cb0f7cb8ad884e675f7b5d8640e6ba5fdad638c9e1d82a35e9306d5ea",
+        "url": "https://www.gog.com/game/longstory",
+        "developer": "Bloom Digital Media",
+        "publisher": "Bloom Digital Media",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1682603943",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_longstory_1.0_(48353).exe",
+                    "size": "351497848"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/943CAABFD6",
+                            "link": "https://filecrypt.cc/Container/943CAABFD6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/lAnwHkM",
+                            "link": "https://safelinking.net/lAnwHkM"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D270D5940C",
+                            "link": "https://filecrypt.cc/Container/D270D5940C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

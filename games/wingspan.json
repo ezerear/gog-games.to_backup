@@ -1,0 +1,105 @@
+{
+    "href": "/game/wingspan",
+    "MSG": {
+        "id": "1404732312",
+        "title": "Wingspan",
+        "slug": "wingspan",
+        "thumb_id": "4b4218f9aef5ccfa2cc6991f8692aa217daa4e71b93ddf481690266181de4474",
+        "bg_id": "d8bfc6f046c831847b69130c21417b41917c850a7c98375e7aa03179b94b3680",
+        "url": "https://www.gog.com/game/wingspan",
+        "developer": "Monster Couch",
+        "publisher": "Monster Couch, Stonemaier Games, indienova ",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710120506",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_wingspan_-_european_expansion_192_(71029).exe",
+                    "size": "6201304"
+                },
+                {
+                    "name": "setup_wingspan_-_oceania_expansion_192_(71029).exe",
+                    "size": "6095192"
+                },
+                {
+                    "name": "setup_wingspan_-_seasonal_decorative_pack_192_(71029).exe",
+                    "size": "6877176"
+                },
+                {
+                    "name": "setup_wingspan_192_(71029)-1.bin",
+                    "size": "1248775435"
+                },
+                {
+                    "name": "setup_wingspan_192_(71029).exe",
+                    "size": "1089912"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "wingspan_soundtrack_mp3.zip",
+                    "size": "58958504"
+                },
+                {
+                    "name": "wingspan_soundtrack_wav.zip",
+                    "size": "375595610"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EAEDB3B6FE",
+                            "link": "https://filecrypt.cc/Container/EAEDB3B6FE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9EE3174E12",
+                            "link": "https://filecrypt.cc/Container/9EE3174E12"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/53EA53ADE8",
+                            "link": "https://filecrypt.cc/Container/53EA53ADE8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/08FA230404",
+                            "link": "https://filecrypt.cc/Container/08FA230404"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

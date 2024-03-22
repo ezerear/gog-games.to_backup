@@ -1,0 +1,127 @@
+{
+    "href": "/game/obduction",
+    "MSG": {
+        "id": "2003665371",
+        "title": "Obduction ®",
+        "slug": "obduction",
+        "thumb_id": "241212a359c580bf23eb418118a7a8841262030d2e09d14e38e52768c7dc19f3",
+        "bg_id": "6670cbeb3b1641c42a15a97b168ef663ae815c2a5aeb089ad66eee23713d5a36",
+        "url": "https://www.gog.com/game/obduction",
+        "developer": "Cyan Inc",
+        "publisher": "Cyan Inc",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707781140",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_obduction_1.8.4.1-ssl_(51210)-1.bin",
+                    "size": "4293780990"
+                },
+                {
+                    "name": "setup_obduction_1.8.4.1-ssl_(51210)-2.bin",
+                    "size": "795470262"
+                },
+                {
+                    "name": "setup_obduction_1.8.4.1-ssl_(51210).exe",
+                    "size": "1192768"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "obduction_manual_version_165.zip",
+                    "size": "342869"
+                },
+                {
+                    "name": "obduction_soundtrack_flac.zip",
+                    "size": "287997552"
+                },
+                {
+                    "name": "obduction_soundtrack_mp3.zip",
+                    "size": "189473726"
+                },
+                {
+                    "name": "obduction_wallpaper.zip",
+                    "size": "11039828"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D2693BD756",
+                            "link": "https://filecrypt.cc/Container/D2693BD756"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7D354F0AD5",
+                            "link": "https://filecrypt.cc/Container/7D354F0AD5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F47DB2665E",
+                            "link": "https://filecrypt.cc/Container/F47DB2665E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9B0DF18C6A",
+                            "link": "https://filecrypt.cc/Container/9B0DF18C6A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/06B64B7AD8",
+                            "link": "https://filecrypt.cc/Container/06B64B7AD8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/442304A78F",
+                            "link": "https://filecrypt.cc/Container/442304A78F"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

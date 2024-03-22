@@ -1,0 +1,111 @@
+{
+    "href": "/game/tower_of_guns",
+    "MSG": {
+        "id": "1207660863",
+        "title": "Tower of Guns",
+        "slug": "tower_of_guns",
+        "thumb_id": "d545772984d678e42f5d4b3869ce3fdc108c8beee178dbabf824b15d503d8222",
+        "bg_id": "c5f49679c53ab80da07b483c826ea54a64c1ba573ff46a7e057fb93eca5bb770",
+        "url": "https://www.gog.com/game/tower_of_guns",
+        "developer": "Terrible Posture Games",
+        "publisher": "Terrible Posture Games",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1709269195",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tower_of_guns_1.3c_(22306).exe",
+                    "size": "637781600"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "tog_artworks.zip",
+                    "size": "1452797"
+                },
+                {
+                    "name": "tog_avatar.zip",
+                    "size": "185591"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/674CED90D5",
+                            "link": "https://filecrypt.cc/Container/674CED90D5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8FCA05E7AF",
+                            "link": "https://filecrypt.cc/Container/8FCA05E7AF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FCF022DE19",
+                            "link": "https://filecrypt.cc/Container/FCF022DE19"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/592BB6C3DC",
+                            "link": "https://filecrypt.cc/Container/592BB6C3DC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FE554D4F79",
+                            "link": "https://filecrypt.cc/Container/FE554D4F79"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F7AABF90E1",
+                            "link": "https://filecrypt.cc/Container/F7AABF90E1"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

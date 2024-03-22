@@ -1,0 +1,94 @@
+{
+    "href": "/game/the_fabulous_fear_machine",
+    "MSG": {
+        "id": "1354195656",
+        "title": "The Fabulous Fear Machine",
+        "slug": "the_fabulous_fear_machine",
+        "thumb_id": "09cfc1aa5d1660d69e0b229331201ed0e15e8663447cf283b624a0001daf1d52",
+        "bg_id": "6bb74890db37facf8283bfb0988ed22726b6c507dff483afe1b6f20236ea2554",
+        "url": "https://www.gog.com/en/game/the_fabulous_fear_machine",
+        "developer": "Fictiorama Studios",
+        "publisher": "AMC Games",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1706772791",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_fabulous_fear_machine_1.0.28_(68696)-1.bin",
+                    "size": "2830157566"
+                },
+                {
+                    "name": "setup_the_fabulous_fear_machine_1.0.28_(68696).exe",
+                    "size": "839480"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9924BF053B",
+                            "link": "https://filecrypt.cc/Container/9924BF053B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E712BE61DB",
+                            "link": "https://filecrypt.cc/Container/E712BE61DB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B302AA2256",
+                            "link": "https://filecrypt.cc/Container/B302AA2256"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/600CB847EA",
+                            "link": "https://filecrypt.cc/Container/600CB847EA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D8DF5C2B38",
+                            "link": "https://filecrypt.cc/Container/D8DF5C2B38"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

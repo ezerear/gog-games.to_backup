@@ -1,0 +1,88 @@
+{
+    "href": "/game/returning_to_mia",
+    "MSG": {
+        "id": "1604903045",
+        "title": "Returning To Mia",
+        "slug": "returning_to_mia",
+        "thumb_id": "c1bd7a0e4e2fbf1ca3ae83d39dd50623f51b3b1dd5c0ccf192156e2f6aa437c0",
+        "bg_id": "2306127e40b778237763f1637d7d461c2dbaf1e153cdc065cafc6fa4426e58b7",
+        "url": "https://www.gog.com/en/game/returning_to_mia",
+        "developer": "Inceton games",
+        "publisher": "Inceton games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710890212",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_returning_to_mia_1.1.1_(71987)-1.bin",
+                    "size": "4292273150"
+                },
+                {
+                    "name": "setup_returning_to_mia_1.1.1_(71987)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_returning_to_mia_1.1.1_(71987)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_returning_to_mia_1.1.1_(71987)-4.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_returning_to_mia_1.1.1_(71987)-5.bin",
+                    "size": "1444386067"
+                },
+                {
+                    "name": "setup_returning_to_mia_1.1.1_(71987).exe",
+                    "size": "2701512"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/02B5673718",
+                            "link": "https://filecrypt.cc/Container/02B5673718"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BF85666F7F",
+                            "link": "https://filecrypt.cc/Container/BF85666F7F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/62176063C3",
+                            "link": "https://filecrypt.cc/Container/62176063C3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

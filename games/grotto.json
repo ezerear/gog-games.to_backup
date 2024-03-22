@@ -1,0 +1,68 @@
+{
+    "href": "/game/grotto",
+    "MSG": {
+        "id": "1330646559",
+        "title": "Grotto",
+        "slug": "grotto",
+        "thumb_id": "90955b146d5d27b9be5366ba86dd24063240c953a7257ea036bff3a159c3d58d",
+        "bg_id": "b7ec9ba5eb0f3bb1738e622710161c4bae43e863ffe6e2e65ecd51d0e9b77ae7",
+        "url": "https://www.gog.com/game/grotto",
+        "developer": "Brainwash Gang",
+        "publisher": "Digerati",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1687431632",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_grotto_1.1.4_(51225).exe",
+                    "size": "267537984"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1C83CE714B",
+                            "link": "https://filecrypt.cc/Container/1C83CE714B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8B825C852D",
+                            "link": "https://filecrypt.cc/Container/8B825C852D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9811CE34FB",
+                            "link": "https://filecrypt.cc/Container/9811CE34FB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,94 @@
+{
+    "href": "/game/suffer_the_night",
+    "MSG": {
+        "id": "1299787444",
+        "title": "Suffer The Night",
+        "slug": "suffer_the_night",
+        "thumb_id": "97bc402d4c00da1f0ce3184bf257a487c419ef36bea4ec8046e9f8cbcbbfff85",
+        "bg_id": "58d1e335e00cfdfac33684ca512455986e80b10210efe46b58206b101f6f5ad9",
+        "url": "https://www.gog.com/en/game/suffer_the_night",
+        "developer": "Tainted Pact",
+        "publisher": "Assemble Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1694950414",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_suffer_the_night_release_build_(63921)-1.bin",
+                    "size": "3265067482"
+                },
+                {
+                    "name": "setup_suffer_the_night_release_build_(63921).exe",
+                    "size": "825824"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F7C31F8589",
+                            "link": "https://filecrypt.cc/Container/F7C31F8589"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DDFCB2766C",
+                            "link": "https://filecrypt.cc/Container/DDFCB2766C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AB1479D09E",
+                            "link": "https://filecrypt.cc/Container/AB1479D09E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3FEC9C3D05",
+                            "link": "https://filecrypt.cc/Container/3FEC9C3D05"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D7375EAC5B",
+                            "link": "https://filecrypt.cc/Container/D7375EAC5B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

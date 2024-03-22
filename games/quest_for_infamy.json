@@ -1,0 +1,131 @@
+{
+    "href": "/game/quest_for_infamy",
+    "MSG": {
+        "id": "1207664993",
+        "title": "Quest for Infamy",
+        "slug": "quest_for_infamy",
+        "thumb_id": "27be82b8b3e9cc20a6931bc56cbb117b28a68036316212f25cbd0c7b6d154092",
+        "bg_id": "01730d298f29dcea867717e7e607dc144d1d7c46d22565e3d445d39858457276",
+        "url": "https://www.gog.com/game/quest_for_infamy",
+        "developer": "Infamous Quests",
+        "publisher": "Infamous Quests",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709790617",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_quest_for_infamy_1.1_(18729).exe",
+                    "size": "1683211712"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "qfi_avatars.zip",
+                    "size": "82993"
+                },
+                {
+                    "name": "qfi_manual.zip",
+                    "size": "3302812"
+                },
+                {
+                    "name": "qfi_map.zip",
+                    "size": "1258696"
+                },
+                {
+                    "name": "qfi_ost_sample.zip",
+                    "size": "11173191"
+                },
+                {
+                    "name": "qfi_poster.zip",
+                    "size": "2880241"
+                },
+                {
+                    "name": "qfi_sketches.zip",
+                    "size": "1254778"
+                },
+                {
+                    "name": "qfi_wallpapers.zip",
+                    "size": "3221856"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A47714F8D3",
+                            "link": "https://filecrypt.cc/Container/A47714F8D3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/01AEFEDC17",
+                            "link": "https://filecrypt.cc/Container/01AEFEDC17"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7259DAB2B9",
+                            "link": "https://filecrypt.cc/Container/7259DAB2B9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/70FFC6CB8A",
+                            "link": "https://filecrypt.cc/Container/70FFC6CB8A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/43BAC4D754",
+                            "link": "https://filecrypt.cc/Container/43BAC4D754"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D2A45D6DF2",
+                            "link": "https://filecrypt.cc/Container/D2A45D6DF2"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

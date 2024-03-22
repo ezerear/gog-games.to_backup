@@ -1,0 +1,68 @@
+{
+    "href": "/game/qomp2",
+    "MSG": {
+        "id": "1511224452",
+        "title": "qomp2",
+        "slug": "qomp2",
+        "thumb_id": "f901dd96a58d65aca19f685fa85ca6d2d8e1350c78e3bba4c82cc533d1c4cd2f",
+        "bg_id": "ca0ccd7cea71ce55712decf4037b6878f73917a60fe8f0981b6f0ee58b9aa9a6",
+        "url": "https://www.gog.com/en/game/qomp2",
+        "developer": "Graphite Lab",
+        "publisher": "Atari",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708970911",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_qomp2_1.1.2257_(71371).exe",
+                    "size": "93053408"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A69B7C256F",
+                            "link": "https://filecrypt.cc/Container/A69B7C256F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3D146603CB",
+                            "link": "https://filecrypt.cc/Container/3D146603CB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B8D18C98EF",
+                            "link": "https://filecrypt.cc/Container/B8D18C98EF"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

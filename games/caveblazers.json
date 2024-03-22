@@ -1,0 +1,72 @@
+{
+    "href": "/game/caveblazers",
+    "MSG": {
+        "id": "1600722961",
+        "title": "Caveblazers",
+        "slug": "caveblazers",
+        "thumb_id": "ee37e0bb054cc9a65bc3a8f62efd4336b08aac05e8bbaafebc2f39499a015333",
+        "bg_id": "561f373a8589357c5b1babb4705058d55df809688926b33cd4212aa6dd0e79e9",
+        "url": "https://www.gog.com/game/caveblazers",
+        "developer": "Deadpan Games",
+        "publisher": "The Yogscast",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709496377",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_caveblazers_-_arena_mode_v1.5.2a_(39657).exe",
+                    "size": "5318680"
+                },
+                {
+                    "name": "setup_caveblazers_v1.5.2a_(39657).exe",
+                    "size": "49838088"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B69A87BAC0",
+                            "link": "https://filecrypt.cc/Container/B69A87BAC0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3C64F92DFE",
+                            "link": "https://filecrypt.cc/Container/3C64F92DFE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5FFC14B135",
+                            "link": "https://filecrypt.cc/Container/5FFC14B135"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

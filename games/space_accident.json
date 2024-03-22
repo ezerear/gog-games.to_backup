@@ -1,0 +1,68 @@
+{
+    "href": "/game/space_accident",
+    "MSG": {
+        "id": "1810099340",
+        "title": "SPACE ACCIDENT",
+        "slug": "space_accident",
+        "thumb_id": "12543a169e884194c7ae45725c1efd53dd54e727631793fd112af463c3f64d0b",
+        "bg_id": "9c5fc30d392231e1a693590a68324b2717ccad017f9c3bdc408bb8104a49c152",
+        "url": "https://www.gog.com/en/game/space_accident",
+        "developer": "Whale Rock Games",
+        "publisher": "Whale Rock Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1687845720",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_space_accident_update_2_(62315).exe",
+                    "size": "687619752"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9096BEA48D",
+                            "link": "https://filecrypt.cc/Container/9096BEA48D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/73553FB3E3",
+                            "link": "https://filecrypt.cc/Container/73553FB3E3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BF4493727C",
+                            "link": "https://filecrypt.cc/Container/BF4493727C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

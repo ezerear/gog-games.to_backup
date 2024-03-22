@@ -1,0 +1,101 @@
+{
+    "href": "/game/gravitar_recharged",
+    "MSG": {
+        "id": "2076004618",
+        "title": "Gravitar: Recharged",
+        "slug": "gravitar_recharged",
+        "thumb_id": "ab6aa16b325532c63efbe24071d8876b0bb1b4fad5749c5cc2624cf64b00ea7c",
+        "bg_id": "50b13b7cb0f6065166332e9e74cf4713b47cc29dd954a02b5eeda45840205a40",
+        "url": "https://www.gog.com/en/game/gravitar_recharged",
+        "developer": "Adamvision Studios",
+        "publisher": "Atari",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1693019321",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_gravitar_recharged_1.0_(61258).exe",
+                    "size": "183145336"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9514ED96F0",
+                            "link": "https://filecrypt.cc/Container/9514ED96F0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DD5234A11B",
+                            "link": "https://filecrypt.cc/Container/DD5234A11B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D6B1F402B6",
+                            "link": "https://filecrypt.cc/Container/D6B1F402B6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/942C7A88B5",
+                            "link": "https://filecrypt.cc/Container/942C7A88B5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "uptobox",
+                    "name": "Uptobox",
+                    "icon": "<img src=\"/static/img/hoster_logos/uptobox.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E8C850ADB7",
+                            "link": "https://filecrypt.cc/Container/E8C850ADB7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EA8DEB6F6B",
+                            "link": "https://filecrypt.cc/Container/EA8DEB6F6B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

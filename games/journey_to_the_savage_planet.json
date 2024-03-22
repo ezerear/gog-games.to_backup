@@ -1,0 +1,80 @@
+{
+    "href": "/game/journey_to_the_savage_planet",
+    "MSG": {
+        "id": "1519147341",
+        "title": "Journey to the Savage Planet",
+        "slug": "journey_to_the_savage_planet",
+        "thumb_id": "cd09483e0c827639f1967da1a09561e57dc1c21806a1cb40391bad356eabce44",
+        "bg_id": "af2c0bad7f1bc17b952477706cba6cebcf1f23356e3f18b23455afd87715f00e",
+        "url": "https://www.gog.com/game/journey_to_the_savage_planet",
+        "developer": "Typhoon",
+        "publisher": "505 Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707085941",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_journey_to_the_savage_planet_1.0.10_(44657)-1.bin",
+                    "size": "4294114302"
+                },
+                {
+                    "name": "setup_journey_to_the_savage_planet_1.0.10_(44657)-2.bin",
+                    "size": "1562441362"
+                },
+                {
+                    "name": "setup_journey_to_the_savage_planet_1.0.10_(44657).exe",
+                    "size": "859448"
+                },
+                {
+                    "name": "setup_journey_to_the_savage_planet_hot_garbage_1.0.10_(44657).exe",
+                    "size": "6038504"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F110062E9B",
+                            "link": "https://filecrypt.cc/Container/F110062E9B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C22C94C00E",
+                            "link": "https://filecrypt.cc/Container/C22C94C00E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A209551CDC",
+                            "link": "https://filecrypt.cc/Container/A209551CDC"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

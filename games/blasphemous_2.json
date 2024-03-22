@@ -1,0 +1,119 @@
+{
+    "href": "/game/blasphemous_2",
+    "MSG": {
+        "id": "1747340100",
+        "title": "Blasphemous 2",
+        "slug": "blasphemous_2",
+        "thumb_id": "3639657bd8616fc70aa16a120b01cd06b004e1196aeffa276d61e937eb98f306",
+        "bg_id": "00b29465059e0340011e194edad44620041eecb65f54e50268723dba39046da4",
+        "url": "https://www.gog.com/en/game/blasphemous_2",
+        "developer": "The Game Kitchen",
+        "publisher": "Team17 Digital LTD.",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709966808",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_blasphemous_2_1.1.0-cs44447_(64bit)_(67644)-1.bin",
+                    "size": "3082763236"
+                },
+                {
+                    "name": "setup_blasphemous_2_1.1.0-cs44447_(64bit)_(67644).exe",
+                    "size": "927936"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "blasphemous_2_digital_artbook_pdf.zip",
+                    "size": "130016125"
+                },
+                {
+                    "name": "blasphemous_2_original_soundtrack_mp3.zip",
+                    "size": "314502509"
+                },
+                {
+                    "name": "blasphemous_2_original_soundtrack_wav.zip",
+                    "size": "2229608382"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AE49AF4896",
+                            "link": "https://filecrypt.cc/Container/AE49AF4896"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FD3AF30B2E",
+                            "link": "https://filecrypt.cc/Container/FD3AF30B2E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/43FA61F3CD",
+                            "link": "https://filecrypt.cc/Container/43FA61F3CD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E76690E1FF",
+                            "link": "https://filecrypt.cc/Container/E76690E1FF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/69ADC47CF5",
+                            "link": "https://filecrypt.cc/Container/69ADC47CF5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9EAF55B74B",
+                            "link": "https://filecrypt.cc/Container/9EAF55B74B"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

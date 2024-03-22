@@ -1,0 +1,72 @@
+{
+    "href": "/game/inside_jennifer",
+    "MSG": {
+        "id": "1222133130",
+        "title": "Inside Jennifer",
+        "slug": "inside_jennifer",
+        "thumb_id": "3ea3a403c7733cf917b122a11eb649ea36113874045ed8753bf8081ab5004a2e",
+        "bg_id": "bbdba394815d737a201aaa95f49aca1e46088510d4f1e5c32597730821847119",
+        "url": "https://www.gog.com/en/game/inside_jennifer",
+        "developer": "Inceton games",
+        "publisher": "Inceton games",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710098539",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_inside_jennifer_1.0_(64bit)_(61450)-1.bin",
+                    "size": "4150030488"
+                },
+                {
+                    "name": "setup_inside_jennifer_1.0_(64bit)_(61450).exe",
+                    "size": "4084568"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6DFAA3F799",
+                            "link": "https://filecrypt.cc/Container/6DFAA3F799"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3AD0BEBBD4",
+                            "link": "https://filecrypt.cc/Container/3AD0BEBBD4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5F77F0C81A",
+                            "link": "https://filecrypt.cc/Container/5F77F0C81A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

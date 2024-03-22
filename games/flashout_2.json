@@ -1,0 +1,68 @@
+{
+    "href": "/game/flashout_2",
+    "MSG": {
+        "id": "1997220672",
+        "title": "Flashout 2",
+        "slug": "flashout_2",
+        "thumb_id": "7ed24c83870f0ce5ee13a98da9ecb45203d87b2b3f100bf644d4f299fce3d105",
+        "bg_id": "0e35ea05daff5ff27e34b569906eb0591a8836c85137d789d4c8f949ec0e0db4",
+        "url": "#",
+        "developer": "Jujubee S.A.",
+        "publisher": "Jujubee S.A.",
+        "category": "Combat",
+        "uploading": "0",
+        "last_upload": "1707906736",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_flashout_2_1.2.0_(58883).exe",
+                    "size": "137816296"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7BC78DE2EB",
+                            "link": "https://filecrypt.cc/Container/7BC78DE2EB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D835C9C30C",
+                            "link": "https://filecrypt.cc/Container/D835C9C30C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4BA3E29EB8",
+                            "link": "https://filecrypt.cc/Container/4BA3E29EB8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

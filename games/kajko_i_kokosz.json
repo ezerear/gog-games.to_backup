@@ -1,0 +1,68 @@
+{
+    "href": "/game/kajko_i_kokosz",
+    "MSG": {
+        "id": "1720224179",
+        "title": "Kajko i Kokosz",
+        "slug": "kajko_i_kokosz",
+        "thumb_id": "698b8101b47c546da91d211158af21acb13d69715fb99d863991358a5e29e527",
+        "bg_id": "5435b9f5c583c7f7da37d41dfa9ccac3bb0a46b829db7937a935360342950931",
+        "url": "https://www.gog.com/game/kajko_i_kokosz",
+        "developer": "CMB",
+        "publisher": "CMB",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1682656938",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_kajko_i_kokosz_1.0_(polish)_(37303).exe",
+                    "size": "192004096"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ADCAB6C2C9",
+                            "link": "https://filecrypt.cc/Container/ADCAB6C2C9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/yp2yheM",
+                            "link": "https://safelinking.net/yp2yheM"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9C374BFCC3",
+                            "link": "https://filecrypt.cc/Container/9C374BFCC3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

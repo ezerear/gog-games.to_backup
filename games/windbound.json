@@ -1,0 +1,72 @@
+{
+    "href": "/game/windbound",
+    "MSG": {
+        "id": "1583820607",
+        "title": "Windbound",
+        "slug": "windbound",
+        "thumb_id": "b5c3f944af3851e083af6c1ef3b8634ac4c66f6a65c856923369cb7a09aaef52",
+        "bg_id": "d9faca24bded2eacc2e058c8924b8158bf4ee83af69f7f55d5aa01438b6c0627",
+        "url": "https://www.gog.com/game/windbound",
+        "developer": "5 Lives Studios",
+        "publisher": "Deep Silver",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1688338061",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_windbound_-_pre-order_bonus_1.3.40746.183_(64bit)_(44984).exe",
+                    "size": "6762192"
+                },
+                {
+                    "name": "setup_windbound_1.3.40746.183_(64bit)_(44984).exe",
+                    "size": "1437772496"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/63CD7E9801",
+                            "link": "https://filecrypt.cc/Container/63CD7E9801"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/18902CDD31",
+                            "link": "https://filecrypt.cc/Container/18902CDD31"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AD09FFAFF0",
+                            "link": "https://filecrypt.cc/Container/AD09FFAFF0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

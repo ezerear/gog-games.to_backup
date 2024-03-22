@@ -1,0 +1,72 @@
+{
+    "href": "/game/thrillville_off_the_rails",
+    "MSG": {
+        "id": "1505509034",
+        "title": "Thrillville®: Off the Rails™",
+        "slug": "thrillville_off_the_rails",
+        "thumb_id": "35f71d2c04deb15726eb62e26fc7edf341082ba9b8977b5184285b5efdd5ecf7",
+        "bg_id": "2a68d81318737da89ca14d2fa3087f8499f4138daf5e1df7334b71a3bf691ea9",
+        "url": "https://www.gog.com/game/thrillville_off_the_rails",
+        "developer": "Frontier",
+        "publisher": "LucasArts",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1709028839",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_thrillville_off_the_rails_1.0_(48058)-1.bin",
+                    "size": "2096438925"
+                },
+                {
+                    "name": "setup_thrillville_off_the_rails_1.0_(48058).exe",
+                    "size": "882784"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C5310DBBB7",
+                            "link": "https://filecrypt.cc/Container/C5310DBBB7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5ACF0336A2",
+                            "link": "https://filecrypt.cc/Container/5ACF0336A2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F01E449906",
+                            "link": "https://filecrypt.cc/Container/F01E449906"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

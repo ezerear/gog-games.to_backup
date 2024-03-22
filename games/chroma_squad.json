@@ -1,0 +1,79 @@
+{
+    "href": "/game/chroma_squad",
+    "MSG": {
+        "id": "1430123043",
+        "title": "Chroma Squad",
+        "slug": "chroma_squad",
+        "thumb_id": "59bdf2ef4466f9d53dad0d755130882afa6e4a91e72e82df74f0e09f456f2950",
+        "bg_id": "d2ae3dae3e962fb2adf36ef079c53866d0e1e780a51778e7d23a28cefe158f43",
+        "url": "https://www.gog.com/game/chroma_squad",
+        "developer": "Behold Studios",
+        "publisher": "Behold Studios",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1708123862",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_chroma_squad_1.12b_(15290).exe",
+                    "size": "155451752"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C0E4EC1408",
+                            "link": "https://filecrypt.cc/Container/C0E4EC1408"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4220AAEC5E",
+                            "link": "https://filecrypt.cc/Container/4220AAEC5E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/762E4F8DCD",
+                            "link": "https://filecrypt.cc/Container/762E4F8DCD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A0FD7CC692",
+                            "link": "https://filecrypt.cc/Container/A0FD7CC692"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

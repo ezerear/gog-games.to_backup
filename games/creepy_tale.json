@@ -1,0 +1,68 @@
+{
+    "href": "/game/creepy_tale",
+    "MSG": {
+        "id": "1632854179",
+        "title": "Creepy Tale",
+        "slug": "creepy_tale",
+        "thumb_id": "b1614d031de59124f1b9cc32f4e8fe06eee3aa5d95797afa090744f86e0b57ea",
+        "bg_id": "c3b9d629533ab22602c61e207ccd907e922be997c391be4775dcf13fad49c665",
+        "url": "https://www.gog.com/game/creepy_tale",
+        "developer": " Deqaf Studio",
+        "publisher": " Deqaf Studio",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709700702",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_creepy_tale_1.0.2d_(64bit)_(42424).exe",
+                    "size": "130781976"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0C029BE354",
+                            "link": "https://filecrypt.cc/Container/0C029BE354"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AD4F21246A",
+                            "link": "https://filecrypt.cc/Container/AD4F21246A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/75A92F2C90",
+                            "link": "https://filecrypt.cc/Container/75A92F2C90"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

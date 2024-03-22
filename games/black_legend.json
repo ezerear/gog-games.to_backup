@@ -1,0 +1,76 @@
+{
+    "href": "/game/black_legend",
+    "MSG": {
+        "id": "1291175793",
+        "title": "Black Legend",
+        "slug": "black_legend",
+        "thumb_id": "c28d6954125d224089756a4057a71b666acf355ae1f75c265ed3197e9bb80201",
+        "bg_id": "aafaa182f079f804c48cf24a426e44bfd3bc164e487791309dee84ae85e97059",
+        "url": "https://www.gog.com/game/black_legend",
+        "developer": "Warcave",
+        "publisher": "Warcave",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710613453",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_black_legend_1.0.8_(64bit)_(47635)-1.bin",
+                    "size": "4294006270"
+                },
+                {
+                    "name": "setup_black_legend_1.0.8_(64bit)_(47635)-2.bin",
+                    "size": "1989288264"
+                },
+                {
+                    "name": "setup_black_legend_1.0.8_(64bit)_(47635).exe",
+                    "size": "967304"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E804414D73",
+                            "link": "https://filecrypt.cc/Container/E804414D73"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DECA42B3FD",
+                            "link": "https://filecrypt.cc/Container/DECA42B3FD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/515003CC98",
+                            "link": "https://filecrypt.cc/Container/515003CC98"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

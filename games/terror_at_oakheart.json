@@ -1,0 +1,68 @@
+{
+    "href": "/game/terror_at_oakheart",
+    "MSG": {
+        "id": "1468864162",
+        "title": "Terror at Oakheart",
+        "slug": "terror_at_oakheart",
+        "thumb_id": "9ba1c3c3bb26c90b78018b226d63ddc426d6d10350d86bae06e6158f25e930a1",
+        "bg_id": "d0c809ca229b3013732f91b6f138b99c3cc987349dbce7b101a5929e954bc38a",
+        "url": "https://www.gog.com/en/game/terror_at_oakheart",
+        "developer": "Tainted Pact",
+        "publisher": "Assemble Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709051968",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_terror_at_oakheart_v1.0.1_(71488).exe",
+                    "size": "362304824"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FF14C08E46",
+                            "link": "https://filecrypt.cc/Container/FF14C08E46"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A729EB7212",
+                            "link": "https://filecrypt.cc/Container/A729EB7212"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0245DE1317",
+                            "link": "https://filecrypt.cc/Container/0245DE1317"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

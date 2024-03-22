@@ -1,0 +1,112 @@
+{
+    "href": "/game/wing_commander_ii",
+    "MSG": {
+        "id": "1207662653",
+        "title": "Wing Commander II",
+        "slug": "wing_commander_ii",
+        "thumb_id": "c9ad0b473e2f598cc42927bdf8e357dde9d18f9e024bb8123b6fabd8fa60325d",
+        "bg_id": "45b43d52e7c0d7df667e6f50747f8d10e96ac439ca5da7f057f48e53b370cfa4",
+        "url": "https://www.gog.com/game/wing_commander_1_2",
+        "developer": "Origin Systems",
+        "publisher": "Electronic Arts",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1709412693",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_wing_commander_ii_1.0_(28045).exe",
+                    "size": "28478368"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "wings_commander_product_proposal.zip",
+                    "size": "4732670"
+                },
+                {
+                    "name": "wing_commander_bible.zip",
+                    "size": "44888371"
+                },
+                {
+                    "name": "wing_commander_blueprints.zip",
+                    "size": "14100102"
+                },
+                {
+                    "name": "wing_commander_manual.zip",
+                    "size": "2735435"
+                },
+                {
+                    "name": "wing_commander_reference_cards.zip",
+                    "size": "9998094"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2E3442028E",
+                            "link": "https://filecrypt.cc/Container/2E3442028E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/47B24CD451",
+                            "link": "https://filecrypt.cc/Container/47B24CD451"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FE176C766F",
+                            "link": "https://filecrypt.cc/Container/FE176C766F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E6BAA9D13C",
+                            "link": "https://filecrypt.cc/Container/E6BAA9D13C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2419800D5D",
+                            "link": "https://filecrypt.cc/Container/2419800D5D"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

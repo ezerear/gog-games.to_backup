@@ -1,0 +1,115 @@
+{
+    "href": "/game/the_quest",
+    "MSG": {
+        "id": "1219333898",
+        "title": "The Quest",
+        "slug": "the_quest",
+        "thumb_id": "016e5c2262c85b8d6a3c27dd66a542380666d8cce87021c19f47893608434dd4",
+        "bg_id": "1997ff9029bd9c733eae60893d1e6f2fdc29cea518de5cd181c2aa2107fb3c09",
+        "url": "https://www.gog.com/game/the_quest",
+        "developer": "Redshift",
+        "publisher": "Redshift",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710297868",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_quest_1.9.10_(36445).exe",
+                    "size": "292090608"
+                },
+                {
+                    "name": "setup_the_quest_islands_of_ice_and_fire_1.9.10_(36445).exe",
+                    "size": "28895280"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "the_quest_manual.zip",
+                    "size": "3582549"
+                },
+                {
+                    "name": "the_quest_soundtrack_mp3.zip",
+                    "size": "33957076"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/301EF93701",
+                            "link": "https://filecrypt.cc/Container/301EF93701"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C5D35D6080",
+                            "link": "https://filecrypt.cc/Container/C5D35D6080"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/679E535050",
+                            "link": "https://filecrypt.cc/Container/679E535050"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5BEFF574A8",
+                            "link": "https://filecrypt.cc/Container/5BEFF574A8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8BC3132E2C",
+                            "link": "https://filecrypt.cc/Container/8BC3132E2C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0216E632E4",
+                            "link": "https://filecrypt.cc/Container/0216E632E4"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

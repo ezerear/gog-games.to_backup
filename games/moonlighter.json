@@ -1,0 +1,72 @@
+{
+    "href": "/game/moonlighter",
+    "MSG": {
+        "id": "2147483047",
+        "title": "Moonlighter",
+        "slug": "moonlighter",
+        "thumb_id": "d932080bc0bcec83e1fec96bda27caa6a576949b627bfe035b9d62ae7c63c1ad",
+        "bg_id": "17b458ede512ebac3a2320bead41ee76626340bc9e975300761e28ac11b79867",
+        "url": "https://www.gog.com/game/moonlighter",
+        "developer": "Digital Sun",
+        "publisher": "11 bit studios",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709768685",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_moonlighter_-_between_dimensions_1.14.37_(48034).exe",
+                    "size": "597982528"
+                },
+                {
+                    "name": "setup_moonlighter_1.14.37_(48034).exe",
+                    "size": "710364944"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/583A2F13E8",
+                            "link": "https://filecrypt.cc/Container/583A2F13E8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E9118E52BF",
+                            "link": "https://filecrypt.cc/Container/E9118E52BF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0009B59FF0",
+                            "link": "https://filecrypt.cc/Container/0009B59FF0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

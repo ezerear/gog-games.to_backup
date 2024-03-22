@@ -1,0 +1,68 @@
+{
+    "href": "/game/world_of_horror",
+    "MSG": {
+        "id": "1169377716",
+        "title": "WORLD OF HORROR",
+        "slug": "world_of_horror",
+        "thumb_id": "f76821c95e5198e836f3f0e8f88c5b5fac31943916e53a725e1c986b4fba5c26",
+        "bg_id": "8b05c23bb60cbd45c55598e6d580ade0bc94672771fc1d51a8768df5b592ec6d",
+        "url": "https://www.gog.com/game/world_of_horror",
+        "developer": "panstasz",
+        "publisher": "Ysbryd Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710238779",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_world_of_horror_1.01_(69617).exe",
+                    "size": "297310288"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FF2665E845",
+                            "link": "https://filecrypt.cc/Container/FF2665E845"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4EB9D63E34",
+                            "link": "https://filecrypt.cc/Container/4EB9D63E34"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/28077EC71D",
+                            "link": "https://filecrypt.cc/Container/28077EC71D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

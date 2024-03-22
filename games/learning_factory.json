@@ -1,0 +1,68 @@
+{
+    "href": "/game/learning_factory",
+    "MSG": {
+        "id": "1731507098",
+        "title": "Learning Factory",
+        "slug": "learning_factory",
+        "thumb_id": "9b598338fa38807994a155a85f9fc759d10b9ebf1318388ed90a69afa47db5b0",
+        "bg_id": "9f53e7e54c8018327605c48ed03a58a2a83fdbbc9246f1896e299e59abc26bf9",
+        "url": "https://www.gog.com/en/game/learning_factory",
+        "developer": "Luden.io",
+        "publisher": "Luden.io",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710379533",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_learning_factory_0.30.171b_(64bit)_(71651).exe",
+                    "size": "759959040"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C41C54B0DA",
+                            "link": "https://filecrypt.cc/Container/C41C54B0DA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5BA4F2F95C",
+                            "link": "https://filecrypt.cc/Container/5BA4F2F95C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/26EE43F259",
+                            "link": "https://filecrypt.cc/Container/26EE43F259"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

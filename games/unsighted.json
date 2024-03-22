@@ -1,0 +1,90 @@
+{
+    "href": "/game/unsighted",
+    "MSG": {
+        "id": "1809847399",
+        "title": "UNSIGHTED",
+        "slug": "unsighted",
+        "thumb_id": "b8811a55d14fcf0a8c1ab9e9532b53adae3c62ded8b7db6c3ef95d668c933686",
+        "bg_id": "3fa193a73dca7c101d1e6fc93e26b8435b86b49b82e34f36f05f89e9cc3330e3",
+        "url": "https://www.gog.com/game/unsighted",
+        "developer": "Studio Pixel Punk",
+        "publisher": "Humble Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707682352",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_unsighted_1-1-4_(52795).exe",
+                    "size": "368343928"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A46D24E62A",
+                            "link": "https://filecrypt.cc/Container/A46D24E62A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1B0F339B99",
+                            "link": "https://filecrypt.cc/Container/1B0F339B99"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/32ADCFD60A",
+                            "link": "https://filecrypt.cc/Container/32ADCFD60A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BB0BAAF7DC",
+                            "link": "https://filecrypt.cc/Container/BB0BAAF7DC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/608B2BD9F3",
+                            "link": "https://filecrypt.cc/Container/608B2BD9F3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

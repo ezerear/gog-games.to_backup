@@ -1,0 +1,135 @@
+{
+    "href": "/game/tex_murphy_overseer",
+    "MSG": {
+        "id": "1207658769",
+        "title": "Tex Murphy: Overseer",
+        "slug": "tex_murphy_overseer",
+        "thumb_id": "05d3459f8f6cf035a9d365294df30efa607bf714bda4a89164457f1e972d86d5",
+        "bg_id": "83bc627593bf6ceb74ea2860ee6ddc105ab78a37ab3c4b3fb3cf693c607e2c4e",
+        "url": "https://www.gog.com/game/tex_murphy_overseer",
+        "developer": "Access Software",
+        "publisher": "Wordplay LLC",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710456176",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_overseer_2.0.0.21-1.bin",
+                    "size": "1565124992"
+                },
+                {
+                    "name": "setup_overseer_2.0.0.21-2.bin",
+                    "size": "1566000000"
+                },
+                {
+                    "name": "setup_overseer_2.0.0.21-3.bin",
+                    "size": "540056628"
+                },
+                {
+                    "name": "setup_overseer_2.0.0.21.exe",
+                    "size": "883104"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "overseer_manual.zip",
+                    "size": "19089869"
+                },
+                {
+                    "name": "overseer_reference_card.zip",
+                    "size": "463713"
+                },
+                {
+                    "name": "overseer_soundtrack.zip",
+                    "size": "41859297"
+                },
+                {
+                    "name": "TexExpert.zip",
+                    "size": "1557373"
+                },
+                {
+                    "name": "tex_murphy_avatars.zip",
+                    "size": "177859"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6401B3DBAF",
+                            "link": "https://filecrypt.cc/Container/6401B3DBAF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/552F3DD0CD",
+                            "link": "https://filecrypt.cc/Container/552F3DD0CD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E855F3C1D2",
+                            "link": "https://filecrypt.cc/Container/E855F3C1D2"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5A52F51E5C",
+                            "link": "https://filecrypt.cc/Container/5A52F51E5C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5C236A20E1",
+                            "link": "https://filecrypt.cc/Container/5C236A20E1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/45628F9E7A",
+                            "link": "https://filecrypt.cc/Container/45628F9E7A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

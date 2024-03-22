@@ -1,0 +1,115 @@
+{
+    "href": "/game/full_metal_daemon_muramasa",
+    "MSG": {
+        "id": "1209310984",
+        "title": "Full Metal Daemon Muramasa",
+        "slug": "full_metal_daemon_muramasa",
+        "thumb_id": "a372384702597832c9d8b4fb32481cf5d4aa2a746662304fc841f5f06b2f8de9",
+        "bg_id": "d64445c488ec244e52eaf7d842563018c0cd8773f8835253032f4b165afa28b4",
+        "url": "https://www.gog.com/game/full_metal_daemon_muramasa",
+        "developer": "Nitroplus",
+        "publisher": "JAST USA",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709100927",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_full_metal_daemon_muramasa_1.0.6_(52870)-1.bin",
+                    "size": "3862445156"
+                },
+                {
+                    "name": "setup_full_metal_daemon_muramasa_1.0.6_(52870).exe",
+                    "size": "838344"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "full_metal_daemon_muramasa_appendix.zip",
+                    "size": "584059"
+                },
+                {
+                    "name": "full_metal_daemon_muramasa_manual.zip",
+                    "size": "4422311"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0BDBC0070F",
+                            "link": "https://filecrypt.cc/Container/0BDBC0070F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FD612C7CA2",
+                            "link": "https://filecrypt.cc/Container/FD612C7CA2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/553A09E8DD",
+                            "link": "https://filecrypt.cc/Container/553A09E8DD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4B258BEFFB",
+                            "link": "https://filecrypt.cc/Container/4B258BEFFB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C48AF8938E",
+                            "link": "https://filecrypt.cc/Container/C48AF8938E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/03EA2169A2",
+                            "link": "https://filecrypt.cc/Container/03EA2169A2"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

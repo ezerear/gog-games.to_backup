@@ -1,0 +1,76 @@
+{
+    "href": "/game/lego_star_wars_the_clone_wars",
+    "MSG": {
+        "id": "2119193622",
+        "title": "LEGO® Star Wars™ III - The Clone Wars™",
+        "slug": "lego_star_wars_the_clone_wars",
+        "thumb_id": "835a0947eda2ed8f1d6b6d6f656c2cbe21da54857376fcdb279989bd5b89fc9c",
+        "bg_id": "2c9cff0694c0edbd135c557090569b1afa21309ebcf5232bb72b2b09d9684716",
+        "url": "https://www.gog.com/game/lego_star_wars_the_clone_wars",
+        "developer": "Traveller's Tales",
+        "publisher": "Disney",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708823532",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_lego_star_wars_-_the_clone_wars_1.0_(16810)-1.bin",
+                    "size": "4294239742"
+                },
+                {
+                    "name": "setup_lego_star_wars_-_the_clone_wars_1.0_(16810)-2.bin",
+                    "size": "2947666324"
+                },
+                {
+                    "name": "setup_lego_star_wars_-_the_clone_wars_1.0_(16810).exe",
+                    "size": "734632"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C10807872F",
+                            "link": "https://filecrypt.cc/Container/C10807872F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E524FD4FFB",
+                            "link": "https://filecrypt.cc/Container/E524FD4FFB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C5D2BE137D",
+                            "link": "https://filecrypt.cc/Container/C5D2BE137D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

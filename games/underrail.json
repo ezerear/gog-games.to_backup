@@ -1,0 +1,131 @@
+{
+    "href": "/game/underrail",
+    "MSG": {
+        "id": "1447688349",
+        "title": "UnderRail",
+        "slug": "underrail",
+        "thumb_id": "87ca1683e714cda0492dbf6fd56b3270eb5cd432c5f19ac3b3057896c6fb6766",
+        "bg_id": "84f8f199316f53d73e71cb55ed7b2071db1a482cdfae52afb42decdf08f52cfa",
+        "url": "https://www.gog.com/game/underrail",
+        "developer": "Stygian Software",
+        "publisher": "Stygian Software",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709535773",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_underrail_1.2.0.14_(69808)-1.bin",
+                    "size": "3721998218"
+                },
+                {
+                    "name": "setup_underrail_1.2.0.14_(69808).exe",
+                    "size": "4258624"
+                },
+                {
+                    "name": "setup_underrail_expedition_1.2.0.14_(69808)-1.bin",
+                    "size": "4290998270"
+                },
+                {
+                    "name": "setup_underrail_expedition_1.2.0.14_(69808)-2.bin",
+                    "size": "1937883578"
+                },
+                {
+                    "name": "setup_underrail_expedition_1.2.0.14_(69808).exe",
+                    "size": "3978936"
+                },
+                {
+                    "name": "setup_underrail_heavy_duty_1.2.0.14_(69808)-1.bin",
+                    "size": "1735985354"
+                },
+                {
+                    "name": "setup_underrail_heavy_duty_1.2.0.14_(69808).exe",
+                    "size": "1860528"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "underrail_ost_mp3.zip",
+                    "size": "144222637"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6041620C5C",
+                            "link": "https://filecrypt.cc/Container/6041620C5C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4392C5184E",
+                            "link": "https://filecrypt.cc/Container/4392C5184E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EB8429FB58",
+                            "link": "https://filecrypt.cc/Container/EB8429FB58"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8DAE78ADEF",
+                            "link": "https://filecrypt.cc/Container/8DAE78ADEF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0B6F533C6D",
+                            "link": "https://filecrypt.cc/Container/0B6F533C6D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6ECE5AC930",
+                            "link": "https://filecrypt.cc/Container/6ECE5AC930"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

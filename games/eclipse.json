@@ -1,0 +1,123 @@
+{
+    "href": "/game/eclipse",
+    "MSG": {
+        "id": "2115858327",
+        "title": "Eclipse",
+        "slug": "eclipse",
+        "thumb_id": "da389ba32e180eea5fdab34df7c5b1c6db0896251011da3eb62b1666f0c2ff93",
+        "bg_id": "e0686a5585116599707487128425361975df2421fc282e0ccb1e47a38a19ccee",
+        "url": "https://www.gog.com/en/game/eclipse",
+        "developer": "MadRock",
+        "publisher": "MadRock",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1697467290",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_eclipse_eclipse_v0.2.0.0.0(3)_(56415)-1.bin",
+                    "size": "4293751806"
+                },
+                {
+                    "name": "setup_eclipse_eclipse_v0.2.0.0.0(3)_(56415)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_eclipse_eclipse_v0.2.0.0.0(3)_(56415)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_eclipse_eclipse_v0.2.0.0.0(3)_(56415)-4.bin",
+                    "size": "3878071970"
+                },
+                {
+                    "name": "setup_eclipse_eclipse_v0.2.0.0.0(3)_(56415).exe",
+                    "size": "1223968"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "eclipse_ost.zip",
+                    "size": "108566560"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/06A9DDFFD1",
+                            "link": "https://filecrypt.cc/Container/06A9DDFFD1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2288CBF891",
+                            "link": "https://filecrypt.cc/Container/2288CBF891"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/37B2983BA0",
+                            "link": "https://filecrypt.cc/Container/37B2983BA0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7D84D85DE7",
+                            "link": "https://filecrypt.cc/Container/7D84D85DE7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E67922C3C2",
+                            "link": "https://filecrypt.cc/Container/E67922C3C2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/81B7377EDB",
+                            "link": "https://filecrypt.cc/Container/81B7377EDB"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,90 @@
+{
+    "href": "/game/stonefly",
+    "MSG": {
+        "id": "1091825740",
+        "title": "Stonefly",
+        "slug": "stonefly",
+        "thumb_id": "f210c9727be838c97e9cb3ff524592df47719e4fa3dcfbbda469d8704d92a15a",
+        "bg_id": "1b29cea8b9778f4b95cc73324358801c1900585b80a1896a30ad55eee89d542e",
+        "url": "https://www.gog.com/game/stonefly",
+        "developer": "Flight School Studio",
+        "publisher": "MWM Interactive",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1706414840",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_stonefly_1.1.0-263835-4_(49528).exe",
+                    "size": "1270483168"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FF0630B64C",
+                            "link": "https://filecrypt.cc/Container/FF0630B64C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/88C9579D8B",
+                            "link": "https://filecrypt.cc/Container/88C9579D8B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D773DA0FBF",
+                            "link": "https://filecrypt.cc/Container/D773DA0FBF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/04CA46902C",
+                            "link": "https://filecrypt.cc/Container/04CA46902C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B1A73C842C",
+                            "link": "https://filecrypt.cc/Container/B1A73C842C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

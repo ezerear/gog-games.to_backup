@@ -1,0 +1,79 @@
+{
+    "href": "/game/archvale",
+    "MSG": {
+        "id": "1536961491",
+        "title": "Archvale",
+        "slug": "archvale",
+        "thumb_id": "ad984014c6b09dfbf1af84e1eb751c4a3d44f9462cf2145267b0435864012482",
+        "bg_id": "633d9c72cc84abbe0e259f3c560af85bb08a25a6f73d4951ca22de4785243344",
+        "url": "https://www.gog.com/game/archvale",
+        "developer": "idoz & phops",
+        "publisher": "Humble Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708240269",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_archvale_1.1.3_(52714).exe",
+                    "size": "891170184"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F2CDB347E1",
+                            "link": "https://filecrypt.cc/Container/F2CDB347E1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0B32E3BD36",
+                            "link": "https://filecrypt.cc/Container/0B32E3BD36"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/000FAEFF34",
+                            "link": "https://filecrypt.cc/Container/000FAEFF34"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7EF4DA4A97",
+                            "link": "https://filecrypt.cc/Container/7EF4DA4A97"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

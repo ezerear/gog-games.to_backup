@@ -1,0 +1,94 @@
+{
+    "href": "/game/monolith",
+    "MSG": {
+        "id": "1231448648",
+        "title": "Monolith",
+        "slug": "monolith",
+        "thumb_id": "5b32ae969b5f966b98861178cd520017a0b26904a93208ba76029a636ce5c607",
+        "bg_id": "a345950edefe34f29d65df5272a8ff2ac90daefe3b2f82760a55c15183800ccd",
+        "url": "https://www.gog.com/game/monolith",
+        "developer": " Team D-13",
+        "publisher": " Team D-13",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1706923951",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_monolith_1.1.0_(36961).exe",
+                    "size": "30088480"
+                },
+                {
+                    "name": "setup_monolith_relics_of_the_past_1.1.0_(36961).exe",
+                    "size": "54573488"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CF9F63BA15",
+                            "link": "https://filecrypt.cc/Container/CF9F63BA15"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/87D9BAEDD6",
+                            "link": "https://filecrypt.cc/Container/87D9BAEDD6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D5E9E4F011",
+                            "link": "https://filecrypt.cc/Container/D5E9E4F011"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CABA519F14",
+                            "link": "https://filecrypt.cc/Container/CABA519F14"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2628657AD0",
+                            "link": "https://filecrypt.cc/Container/2628657AD0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

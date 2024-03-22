@@ -1,0 +1,72 @@
+{
+    "href": "/game/stellar_monarch",
+    "MSG": {
+        "id": "1621938862",
+        "title": "Stellar Monarch",
+        "slug": "stellar_monarch",
+        "thumb_id": "6609898bf91af3a414c255d3a1a45a6838b4dc30243eda276d4730c7d45f80cf",
+        "bg_id": "0cc3919f4a7267616bdf35ff2dcfdddd3eb7f858c3952d5b675cea9468680200",
+        "url": "https://www.gog.com/en/game/stellar_monarch",
+        "developer": "Silver Lemur Games",
+        "publisher": "Silver Lemur Games",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710437596",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_stellar_monarch_1.48_(63350).exe",
+                    "size": "51430296"
+                },
+                {
+                    "name": "setup_stellar_monarch_the_age_of_technology_1.48_(63350).exe",
+                    "size": "7238464"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ED99FB396D",
+                            "link": "https://filecrypt.cc/Container/ED99FB396D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0C0F697831",
+                            "link": "https://filecrypt.cc/Container/0C0F697831"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A96A9DB1D3",
+                            "link": "https://filecrypt.cc/Container/A96A9DB1D3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,127 @@
+{
+    "href": "/game/liberated",
+    "MSG": {
+        "id": "1780442795",
+        "title": "Liberated",
+        "slug": "liberated",
+        "thumb_id": "2040460178b8b9e3f34f2bc96cdbd9580805dba63240289dd5a2efecd0a831d2",
+        "bg_id": "994c3cebb4654b98f0d67b0d6613a98710a87b70cc5b0bbec017b1c4aa6e73ce",
+        "url": "https://www.gog.com/game/liberated",
+        "developer": "Atomic Wolf",
+        "publisher": "L.INC, Walkabout",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710460195",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_liberated_1.16_(43095).exe",
+                    "size": "1490941928"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "avatars.zip",
+                    "size": "1158817"
+                },
+                {
+                    "name": "liberated_sountrack_mixtape_vol_1_flac.zip",
+                    "size": "193820476"
+                },
+                {
+                    "name": "liberated_sountrack_mixtape_vol_1_mp3.zip",
+                    "size": "100650735"
+                },
+                {
+                    "name": "virtual_backgrounds.zip",
+                    "size": "12561095"
+                },
+                {
+                    "name": "wallpapers_mobile.zip",
+                    "size": "3317947"
+                },
+                {
+                    "name": "wallpapers_pc.zip",
+                    "size": "11342272"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/40B32A9379",
+                            "link": "https://filecrypt.cc/Container/40B32A9379"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/497740C9A5",
+                            "link": "https://filecrypt.cc/Container/497740C9A5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F878E6C7B9",
+                            "link": "https://filecrypt.cc/Container/F878E6C7B9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/450743776F",
+                            "link": "https://filecrypt.cc/Container/450743776F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FE9426F502",
+                            "link": "https://filecrypt.cc/Container/FE9426F502"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/012D10373C",
+                            "link": "https://filecrypt.cc/Container/012D10373C"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

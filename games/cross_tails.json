@@ -1,0 +1,57 @@
+{
+    "href": "/game/cross_tails",
+    "MSG": {
+        "id": "1626799159",
+        "title": "Cross Tails",
+        "slug": "cross_tails",
+        "thumb_id": "bf6e4ae3d4e94d0c3566f735d53176fda1931a86552ebca35662bf98e5a80956",
+        "bg_id": "292d891a41af6c85d37eace2ccaf1c7e9e09286103e02d7b8185ac67f4d95b84",
+        "url": "https://www.gog.com/en/game/cross_tails",
+        "developer": "Rideon,Inc.",
+        "publisher": "KEMCO",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710114954",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_cross_tails_0.1.9_(64bit)_(70706).exe",
+                    "size": "425414544"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BFE6AEA636",
+                            "link": "https://filecrypt.cc/Container/BFE6AEA636"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3D1C0EE41C",
+                            "link": "https://filecrypt.cc/Container/3D1C0EE41C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

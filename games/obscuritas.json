@@ -1,0 +1,76 @@
+{
+    "href": "/game/obscuritas",
+    "MSG": {
+        "id": "1457696008",
+        "title": "Obscuritas",
+        "slug": "obscuritas",
+        "thumb_id": "7d1b9c1cd9312ae40af876c028f2d0f599286c69d7a8f16b3bb30405b4539b22",
+        "bg_id": "e1163b4e192f05e0641ae88c26fdb3cdf760892d3075d6ee614e7699da70b975",
+        "url": "https://www.gog.com/game/obscuritas",
+        "developer": "VIS Games",
+        "publisher": "Ravenscourt",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1704872934",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_obscuritas_2.2.0.4-1.bin",
+                    "size": "4194304000"
+                },
+                {
+                    "name": "setup_obscuritas_2.2.0.4-2.bin",
+                    "size": "64727852"
+                },
+                {
+                    "name": "setup_obscuritas_2.2.0.4.exe",
+                    "size": "30923920"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A77A4F952A",
+                            "link": "https://filecrypt.cc/Container/A77A4F952A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EA906D3FC3",
+                            "link": "https://filecrypt.cc/Container/EA906D3FC3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A35B1DF324",
+                            "link": "https://filecrypt.cc/Container/A35B1DF324"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

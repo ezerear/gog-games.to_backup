@@ -1,0 +1,94 @@
+{
+    "href": "/game/togainu_no_chi_lost_blood",
+    "MSG": {
+        "id": "1304628649",
+        "title": "Togainu no Chi ~Lost Blood~",
+        "slug": "togainu_no_chi_lost_blood",
+        "thumb_id": "a97b8757f676e0097563e7c3184192894bd250e267bbe2f521fd8f1758505c66",
+        "bg_id": "c2c3196425eeaa30c1648c72167f060bc2a3d04344795974c6ec74717b987e6e",
+        "url": "https://www.gog.com/en/game/togainu_no_chi_lost_blood",
+        "developer": "Nitroplus",
+        "publisher": "JAST USA",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707902845",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_togainu_no_chi_lost_blood_1.00s_(61095).exe",
+                    "size": "1136936672"
+                },
+                {
+                    "name": "setup_togainu_no_chi_lost_blood_unrated_patch_1.00s_(61095).exe",
+                    "size": "36866744"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7A96EE52A5",
+                            "link": "https://filecrypt.cc/Container/7A96EE52A5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F98E38042D",
+                            "link": "https://filecrypt.cc/Container/F98E38042D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BF00192ADC",
+                            "link": "https://filecrypt.cc/Container/BF00192ADC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/49212EFD58",
+                            "link": "https://filecrypt.cc/Container/49212EFD58"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DCC7234181",
+                            "link": "https://filecrypt.cc/Container/DCC7234181"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

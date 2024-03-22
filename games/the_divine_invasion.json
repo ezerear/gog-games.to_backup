@@ -1,0 +1,80 @@
+{
+    "href": "/game/the_divine_invasion",
+    "MSG": {
+        "id": "1539124990",
+        "title": "The Divine Invasion",
+        "slug": "the_divine_invasion",
+        "thumb_id": "49a63bd00b65ab1f87878f541d4bd652a7d6194eb840ed7e54c9638aea029079",
+        "bg_id": "07f23e4e7be07569abfd19d8e49b29bc5e43af001a8323091eae5df3c2f14c81",
+        "url": "https://www.gog.com/en/game/the_divine_invasion",
+        "developer": "Whale Rock Games",
+        "publisher": "Whale Rock Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709961446",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_divine_invasion_1.0_(64bit)_(59989)-1.bin",
+                    "size": "4293929470"
+                },
+                {
+                    "name": "setup_the_divine_invasion_1.0_(64bit)_(59989)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_the_divine_invasion_1.0_(64bit)_(59989)-3.bin",
+                    "size": "777518553"
+                },
+                {
+                    "name": "setup_the_divine_invasion_1.0_(64bit)_(59989).exe",
+                    "size": "1047680"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6D0965F8D9",
+                            "link": "https://filecrypt.cc/Container/6D0965F8D9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A32E3C622F",
+                            "link": "https://filecrypt.cc/Container/A32E3C622F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E5F0C37617",
+                            "link": "https://filecrypt.cc/Container/E5F0C37617"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

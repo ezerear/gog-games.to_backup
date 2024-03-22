@@ -1,0 +1,68 @@
+{
+    "href": "/game/the_longing",
+    "MSG": {
+        "id": "1091099749",
+        "title": "The Longing",
+        "slug": "the_longing",
+        "thumb_id": "921b46a0a56f8e0faf3f12e458dc5fee4cfc5043c757709c678588452bc8a78b",
+        "bg_id": "8c49461cc11dd29cd54a68fcd248ddcad66e0b36c3730acc9a09fa9b1cdb5ec6",
+        "url": "https://www.gog.com/game/the_longing",
+        "developer": "Studio Seufz",
+        "publisher": "Application Systems Heidelberg",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710464839",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_longing_1.6.4_(58114).exe",
+                    "size": "621873408"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B725EE6C58",
+                            "link": "https://filecrypt.cc/Container/B725EE6C58"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E9FEE760D4",
+                            "link": "https://filecrypt.cc/Container/E9FEE760D4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/821DCAADD3",
+                            "link": "https://filecrypt.cc/Container/821DCAADD3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,115 @@
+{
+    "href": "/game/rogue_legacy",
+    "MSG": {
+        "id": "1207659242",
+        "title": "Rogue Legacy",
+        "slug": "rogue_legacy",
+        "thumb_id": "c614fb2ab596ba0b66311cf54cb713b2ec4659b82c9477e1bcdbecccd1468125",
+        "bg_id": "5ba636bb8cf737efb231e211dfe502df771ef2811dce0ff32a1ff8508ec38e44",
+        "url": "https://www.gog.com/game/rogue_legacy",
+        "developer": "Cellar Door Games",
+        "publisher": "Cellar Door Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710589765",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_rogue_legacy_1.4.0_(22479).exe",
+                    "size": "437582944"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "rogue_legacy_artworks.zip",
+                    "size": "1050431"
+                },
+                {
+                    "name": "rogue_legacy_avatars.zip",
+                    "size": "238928"
+                },
+                {
+                    "name": "rogue_legacy_wallpapers.zip",
+                    "size": "11356582"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B4A1A40D0F",
+                            "link": "https://filecrypt.cc/Container/B4A1A40D0F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/919567EE35",
+                            "link": "https://filecrypt.cc/Container/919567EE35"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2D0DC2429D",
+                            "link": "https://filecrypt.cc/Container/2D0DC2429D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6C029E1F52",
+                            "link": "https://filecrypt.cc/Container/6C029E1F52"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CD82A5DC17",
+                            "link": "https://filecrypt.cc/Container/CD82A5DC17"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3AE08ED3CC",
+                            "link": "https://filecrypt.cc/Container/3AE08ED3CC"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

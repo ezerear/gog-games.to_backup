@@ -1,0 +1,76 @@
+{
+    "href": "/game/the_occupation",
+    "MSG": {
+        "id": "2127248426",
+        "title": "The Occupation",
+        "slug": "the_occupation",
+        "thumb_id": "47bafa591e99e70abb1f3aa974d5d1582e4a33c4e2f75354a45b78894c016f7a",
+        "bg_id": "6858d46ebfd54f575d14f781e6012a6fac6022cfb99585fa161abf1e48d9239a",
+        "url": "https://www.gog.com/game/the_occupation",
+        "developer": "White Paper Games",
+        "publisher": "Humble Bundle",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710024773",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_occupation_1.5.0_(64bit)_(32389)-1.bin",
+                    "size": "4293802494"
+                },
+                {
+                    "name": "setup_the_occupation_1.5.0_(64bit)_(32389)-2.bin",
+                    "size": "2966088269"
+                },
+                {
+                    "name": "setup_the_occupation_1.5.0_(64bit)_(32389).exe",
+                    "size": "1171744"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/19157F0FE7",
+                            "link": "https://filecrypt.cc/Container/19157F0FE7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5B57829648",
+                            "link": "https://filecrypt.cc/Container/5B57829648"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BFF185D545",
+                            "link": "https://filecrypt.cc/Container/BFF185D545"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,76 @@
+{
+    "href": "/game/helping_the_hotties",
+    "MSG": {
+        "id": "1237982317",
+        "title": "Helping the Hotties",
+        "slug": "helping_the_hotties",
+        "thumb_id": "0292391a16a63fb1d5dc41bd18671d6d0c455306bfaa053990209c053584d046",
+        "bg_id": "4fbfacff3adb6fb8a2e2faf60537f637507021e6d9ced655af51c9e032924022",
+        "url": "https://www.gog.com/en/game/helping_the_hotties",
+        "developer": "xRedGames",
+        "publisher": "xRedGames",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709966086",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_helping_the_hotties_1.0.4.06_(71650)-1.bin",
+                    "size": "4293921790"
+                },
+                {
+                    "name": "setup_helping_the_hotties_1.0.4.06_(71650)-2.bin",
+                    "size": "1143452492"
+                },
+                {
+                    "name": "setup_helping_the_hotties_1.0.4.06_(71650).exe",
+                    "size": "1052392"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C48B0FB050",
+                            "link": "https://filecrypt.cc/Container/C48B0FB050"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B30C6522F0",
+                            "link": "https://filecrypt.cc/Container/B30C6522F0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/737EFA9FBA",
+                            "link": "https://filecrypt.cc/Container/737EFA9FBA"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

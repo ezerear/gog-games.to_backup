@@ -1,0 +1,80 @@
+{
+    "href": "/game/lempo",
+    "MSG": {
+        "id": "1702724905",
+        "title": "Lempo",
+        "slug": "lempo",
+        "thumb_id": "5002250793823f64d669ea78fdb60030cf0ca2934128a2798efdc5e338d158b5",
+        "bg_id": "43aa02d8856ec73f56b1db5c2a0dc2fe053c56aa89a1c326e9932615d5a2cb2d",
+        "url": "https://www.gog.com/en/game/lempo",
+        "developer": "One Trick Entertainment",
+        "publisher": "PID Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709700612",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_lempo_0.114_(64bit)_(68456)-1.bin",
+                    "size": "4294077438"
+                },
+                {
+                    "name": "setup_lempo_0.114_(64bit)_(68456)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_lempo_0.114_(64bit)_(68456)-3.bin",
+                    "size": "727715964"
+                },
+                {
+                    "name": "setup_lempo_0.114_(64bit)_(68456).exe",
+                    "size": "899888"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3C900B28BD",
+                            "link": "https://filecrypt.cc/Container/3C900B28BD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FF1AE64C82",
+                            "link": "https://filecrypt.cc/Container/FF1AE64C82"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/107F0C7CE5",
+                            "link": "https://filecrypt.cc/Container/107F0C7CE5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

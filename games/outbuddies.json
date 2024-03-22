@@ -1,0 +1,68 @@
+{
+    "href": "/game/outbuddies",
+    "MSG": {
+        "id": "1485699348",
+        "title": "OUTBUDDIES DX",
+        "slug": "outbuddies",
+        "thumb_id": "c53df8cd3f8b5a8395eeb334a225b7248c96dd7a6a9b3c3a081a14a52421c127",
+        "bg_id": "6af09c65d30025d639ff870198479123a441b18cab10382d379068e599f5773d",
+        "url": "https://www.gog.com/game/outbuddies",
+        "developer": "Julian Laufer",
+        "publisher": "Headup Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710849916",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_outbuddies_dx_1.60_(1.0.5)_(40256).exe",
+                    "size": "328507256"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D8E67B7B07",
+                            "link": "https://filecrypt.cc/Container/D8E67B7B07"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/79E517E06A",
+                            "link": "https://filecrypt.cc/Container/79E517E06A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0F5AD565D1",
+                            "link": "https://filecrypt.cc/Container/0F5AD565D1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

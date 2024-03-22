@@ -1,0 +1,94 @@
+{
+    "href": "/game/saint_emiliana",
+    "MSG": {
+        "id": "1754407723",
+        "title": "Saint Emiliana",
+        "slug": "saint_emiliana",
+        "thumb_id": "bf056837ce236055659004fdf4ab7f6a25efd9fc7adb65daa716dbc5660d85c0",
+        "bg_id": "f51f26cb95470aa49e90baf9b33f724d98558fbb2d239e82d8426556d533130a",
+        "url": "https://www.gog.com/en/game/saint_emiliana",
+        "developer": "WhiteMoor",
+        "publisher": "Kagura Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1706833818",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_saint_emiliana_unrated_v1_(59580).exe",
+                    "size": "139458888"
+                },
+                {
+                    "name": "setup_saint_emiliana_v1_(59580).exe",
+                    "size": "185800152"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9165AE51CE",
+                            "link": "https://filecrypt.cc/Container/9165AE51CE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D39B997EE2",
+                            "link": "https://filecrypt.cc/Container/D39B997EE2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BEBA3FCA57",
+                            "link": "https://filecrypt.cc/Container/BEBA3FCA57"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CBDB24E737",
+                            "link": "https://filecrypt.cc/Container/CBDB24E737"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6EA5B501D5",
+                            "link": "https://filecrypt.cc/Container/6EA5B501D5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

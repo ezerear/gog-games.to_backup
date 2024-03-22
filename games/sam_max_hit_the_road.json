@@ -1,0 +1,123 @@
+{
+    "href": "/game/sam_max_hit_the_road",
+    "MSG": {
+        "id": "1207666303",
+        "title": "Sam & Max Hit the Road",
+        "slug": "sam_max_hit_the_road",
+        "thumb_id": "b1a7c721ba24609926c4d8456cbfed158bc3318696a549c989f32bdac3ab4e85",
+        "bg_id": "0f9dc5fedc50bb7e0ef06a7308ffc51a8fe8ccbeb05c726e5ab7e261b096c29f",
+        "url": "https://www.gog.com/game/sam_max_hit_the_road",
+        "developer": "Lucasfilm",
+        "publisher": "Disney",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709172100",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sam_and_max_hit_the_road_1.0_(20289).exe",
+                    "size": "159385256"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "sam_max_htr_guide.zip",
+                    "size": "18950335"
+                },
+                {
+                    "name": "sam_max_htr_manual.zip",
+                    "size": "656161"
+                },
+                {
+                    "name": "sam_max_htr_manual_french.zip",
+                    "size": "5195390"
+                },
+                {
+                    "name": "sam_max_htr_manual_german.zip",
+                    "size": "4753216"
+                },
+                {
+                    "name": "sam_max_htr_manual_spanish.zip",
+                    "size": "3153182"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F2DE982AF9",
+                            "link": "https://filecrypt.cc/Container/F2DE982AF9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7DA2B39306",
+                            "link": "https://filecrypt.cc/Container/7DA2B39306"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9B85B776D1",
+                            "link": "https://filecrypt.cc/Container/9B85B776D1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E59A4C6AB6",
+                            "link": "https://filecrypt.cc/Container/E59A4C6AB6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7F7E3B9889",
+                            "link": "https://filecrypt.cc/Container/7F7E3B9889"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CEA3B89E18",
+                            "link": "https://filecrypt.cc/Container/CEA3B89E18"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

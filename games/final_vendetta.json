@@ -1,0 +1,68 @@
+{
+    "href": "/game/final_vendetta",
+    "MSG": {
+        "id": "1357323278",
+        "title": "Final Vendetta",
+        "slug": "final_vendetta",
+        "thumb_id": "303f9ddd5086cab5eb61a91427fe0e6f90474c1bbaf6978e835158a277fe2c19",
+        "bg_id": "8cddc3b534f997ee6c0ad7d3e763b6ac0413d8b7cf35ff099358b8c767e39a4c",
+        "url": "https://www.gog.com/en/game/final_vendetta",
+        "developer": "Bitmap Bureau",
+        "publisher": "Numskull Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708456129",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_final_vendetta_1.0.0_(64bit)_(57302).exe",
+                    "size": "370896208"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/94219AC5E6",
+                            "link": "https://filecrypt.cc/Container/94219AC5E6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D9522BD50D",
+                            "link": "https://filecrypt.cc/Container/D9522BD50D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AA0E7D315D",
+                            "link": "https://filecrypt.cc/Container/AA0E7D315D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

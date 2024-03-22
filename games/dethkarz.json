@@ -1,0 +1,107 @@
+{
+    "href": "/game/dethkarz",
+    "MSG": {
+        "id": "1401174839",
+        "title": "DethKarz",
+        "slug": "dethkarz",
+        "thumb_id": "c75305c777c11448f6123f939eda503f33a3f551c77a795695f3072b0b24f812",
+        "bg_id": "07adbeeb93965c5b40cda49af47b83e47855171f3f80d7279ad21052bf8f251c",
+        "url": "https://www.gog.com/game/dethkarz",
+        "developer": "Beam Software",
+        "publisher": "Piko Interactive",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709979018",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dethkarz_1.0_(22427).exe",
+                    "size": "276631032"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "dethkarz_manual.zip",
+                    "size": "86270988"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B765103A45",
+                            "link": "https://filecrypt.cc/Container/B765103A45"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F8F22502CB",
+                            "link": "https://filecrypt.cc/Container/F8F22502CB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/97011316A3",
+                            "link": "https://filecrypt.cc/Container/97011316A3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/61403F2034",
+                            "link": "https://filecrypt.cc/Container/61403F2034"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6356D6B9A7",
+                            "link": "https://filecrypt.cc/Container/6356D6B9A7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5F275394C9",
+                            "link": "https://filecrypt.cc/Container/5F275394C9"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

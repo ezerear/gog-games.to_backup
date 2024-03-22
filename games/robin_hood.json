@@ -1,0 +1,127 @@
+{
+    "href": "/game/robin_hood",
+    "MSG": {
+        "id": "1207659008",
+        "title": "Robin Hood: The Legend of Sherwood",
+        "slug": "robin_hood",
+        "thumb_id": "e560ba4796e8ef8528e0aec533765c84e37d0574dd22557be4694d7213791f34",
+        "bg_id": "568f9e231616cc8e3cc6de4359c38c8fddc7e1188120aa754a8e5f0b58a08ce1",
+        "url": "https://www.gog.com/game/robin_hood",
+        "developer": "Spellbound Entertainment AG",
+        "publisher": "Anuman Interactive",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710001347",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_robin_hood_-_the_legend_of_sherwood_1.1_hotfix_(24778)-1.bin",
+                    "size": "667018235"
+                },
+                {
+                    "name": "setup_robin_hood_-_the_legend_of_sherwood_1.1_hotfix_(24778).exe",
+                    "size": "1155656"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "robin_hood_los_artworks.zip",
+                    "size": "13840604"
+                },
+                {
+                    "name": "robin_hood_los_avatars.zip",
+                    "size": "82877"
+                },
+                {
+                    "name": "robin_hood_los_manual.zip",
+                    "size": "6708540"
+                },
+                {
+                    "name": "robin_hood_los_soundtrack.zip",
+                    "size": "27030776"
+                },
+                {
+                    "name": "robin_hood_los_wallpapers.zip",
+                    "size": "19310708"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F185338899",
+                            "link": "https://filecrypt.cc/Container/F185338899"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/23365FFF04",
+                            "link": "https://filecrypt.cc/Container/23365FFF04"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/146DA8DA85",
+                            "link": "https://filecrypt.cc/Container/146DA8DA85"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9B49150EA9",
+                            "link": "https://filecrypt.cc/Container/9B49150EA9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C26290DD31",
+                            "link": "https://filecrypt.cc/Container/C26290DD31"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2A2756C19B",
+                            "link": "https://filecrypt.cc/Container/2A2756C19B"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

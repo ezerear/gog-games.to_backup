@@ -1,0 +1,68 @@
+{
+    "href": "/game/littlewood",
+    "MSG": {
+        "id": "1391969058",
+        "title": "Littlewood",
+        "slug": "littlewood",
+        "thumb_id": "643f3d4debf322a5a9e787d5e38d53ee0df97d076ec8863feed992dbbcb4387c",
+        "bg_id": "51db3b56a2817f3e517198c0ac00b253bae83ff59ab71534f3fc7873f494b4f1",
+        "url": "https://www.gog.com/game/littlewood",
+        "developer": "Sean Young",
+        "publisher": "SmashGames",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710423487",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_littlewood_1.026_(40735).exe",
+                    "size": "170563320"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0D570E186A",
+                            "link": "https://filecrypt.cc/Container/0D570E186A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DB33326736",
+                            "link": "https://filecrypt.cc/Container/DB33326736"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/13AE7ACFCE",
+                            "link": "https://filecrypt.cc/Container/13AE7ACFCE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

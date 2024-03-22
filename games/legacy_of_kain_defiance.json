@@ -1,0 +1,127 @@
+{
+    "href": "/game/legacy_of_kain_defiance",
+    "MSG": {
+        "id": "1207659088",
+        "title": "Legacy of Kain: Defiance",
+        "slug": "legacy_of_kain_defiance",
+        "thumb_id": "6170378108ebc443e2d5befd470d000c70552b0941144df9c0107ac204acb4ac",
+        "bg_id": "5323465f0dd69c393b2e046f24124be4abe9236c73d7622cb3b93cf1954f50f7",
+        "url": "https://www.gog.com/game/legacy_of_kain_defiance",
+        "developer": "Crystal Dynamics",
+        "publisher": "Square Enix",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710601480",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_legacy_of_kain_defiance_1.1_hotfix_(21754)-1.bin",
+                    "size": "1487753949"
+                },
+                {
+                    "name": "setup_legacy_of_kain_defiance_1.1_hotfix_(21754).exe",
+                    "size": "761088"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "loc_defiance_artworks_.zip",
+                    "size": "10488886"
+                },
+                {
+                    "name": "loc_defiance_avatars.zip",
+                    "size": "508128"
+                },
+                {
+                    "name": "loc_defiance_manual.zip",
+                    "size": "1426308"
+                },
+                {
+                    "name": "loc_defiance_wallpapers.zip",
+                    "size": "33366527"
+                },
+                {
+                    "name": "lok_defiance_handbuch.zip",
+                    "size": "509546"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B31010CCA6",
+                            "link": "https://filecrypt.cc/Container/B31010CCA6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/897D0FF564",
+                            "link": "https://filecrypt.cc/Container/897D0FF564"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/89AEE76C7F",
+                            "link": "https://filecrypt.cc/Container/89AEE76C7F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A3FF9BAD31",
+                            "link": "https://filecrypt.cc/Container/A3FF9BAD31"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6FBAAFF694",
+                            "link": "https://filecrypt.cc/Container/6FBAAFF694"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2A3BA8CFA6",
+                            "link": "https://filecrypt.cc/Container/2A3BA8CFA6"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

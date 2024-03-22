@@ -1,0 +1,68 @@
+{
+    "href": "/game/knights_of_the_chalice",
+    "MSG": {
+        "id": "2109503808",
+        "title": "Knights of the Chalice",
+        "slug": "knights_of_the_chalice",
+        "thumb_id": "a4ff6a987b40916b7bd7f8d42fd99a1b8efcb073440339618ff0a2fcfda73cb9",
+        "bg_id": "363dd75d9f7791fc48b9427c72442c3ba10735d9fda57d939f4ba41089f86984",
+        "url": "https://www.gog.com/game/knights_of_the_chalice",
+        "developer": "Heroic Fantasy Games Dot Com",
+        "publisher": "Heroic Fantasy Games Dot Com",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709038601",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_knights_of_the_chalice_1.3604_(42639).exe",
+                    "size": "119887080"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A7EEA4A17F",
+                            "link": "https://filecrypt.cc/Container/A7EEA4A17F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4E001010E9",
+                            "link": "https://filecrypt.cc/Container/4E001010E9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5FF1209F49",
+                            "link": "https://filecrypt.cc/Container/5FF1209F49"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

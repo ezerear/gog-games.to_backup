@@ -1,0 +1,101 @@
+{
+    "href": "/game/space_hack",
+    "MSG": {
+        "id": "1552467423",
+        "title": "Space Hack",
+        "slug": "space_hack",
+        "thumb_id": "cf661a1046cff85ee700c367d1d701dda7510c9ef59b36f0a0e5a43d29a0cec5",
+        "bg_id": "eecda13a609f9940f893120b61ee96d306ab5c7bcb57cdb67c761b301db221c3",
+        "url": "https://www.gog.com/en/game/space_hack",
+        "developer": "Meridian4",
+        "publisher": "Meridian4",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1701840250",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_space_hack_1.0.0_(55857).exe",
+                    "size": "261383984"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7C9DB0C8FF",
+                            "link": "https://filecrypt.cc/Container/7C9DB0C8FF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CCCD9B0BCB",
+                            "link": "https://filecrypt.cc/Container/CCCD9B0BCB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3E0C06B442",
+                            "link": "https://filecrypt.cc/Container/3E0C06B442"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F72B5676DA",
+                            "link": "https://filecrypt.cc/Container/F72B5676DA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8D658FD824",
+                            "link": "https://filecrypt.cc/Container/8D658FD824"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/462E77B570",
+                            "link": "https://filecrypt.cc/Container/462E77B570"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

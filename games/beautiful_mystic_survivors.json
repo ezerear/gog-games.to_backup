@@ -1,0 +1,72 @@
+{
+    "href": "/game/beautiful_mystic_survivors",
+    "MSG": {
+        "id": "1678365723",
+        "title": "Beautiful Mystic Survivors",
+        "slug": "beautiful_mystic_survivors",
+        "thumb_id": "8948ba6a1e35f3dd3b0debe79dc93b0bca2b78c617beebb8d97363f5f71af49f",
+        "bg_id": "b120d2991a8ededeb33b67b03f027c172e784134581c02c961eeed91c495e405",
+        "url": "https://www.gog.com/en/game/beautiful_mystic_survivors",
+        "developer": "Archmage Games Studio",
+        "publisher": "Mango Council",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708456084",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_beautiful_mystic_survivors_early_access_1.0.7.2_(64821)-1.bin",
+                    "size": "2598332948"
+                },
+                {
+                    "name": "setup_beautiful_mystic_survivors_early_access_1.0.7.2_(64821).exe",
+                    "size": "846672"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E95DCCD949",
+                            "link": "https://filecrypt.cc/Container/E95DCCD949"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5155C06A9C",
+                            "link": "https://filecrypt.cc/Container/5155C06A9C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BC9BF2F0D6",
+                            "link": "https://filecrypt.cc/Container/BC9BF2F0D6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

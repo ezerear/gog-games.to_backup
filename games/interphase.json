@@ -1,0 +1,90 @@
+{
+    "href": "/game/interphase",
+    "MSG": {
+        "id": "1757215264",
+        "title": "Interphase",
+        "slug": "interphase",
+        "thumb_id": "083741457f682dbf2f208338c50467e09028b2cd9a66554e2a271916f987faa3",
+        "bg_id": "8bc1579a7c37bc0f7431e0976c7f4c7674794345a152271e3bcb1a6b364e6fca",
+        "url": "https://www.gog.com/en/game/interphase",
+        "developer": "The Assembly Line, Image Works",
+        "publisher": "Mirrorsoft",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1704432188",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_interphase_v1.0_(60287).exe",
+                    "size": "9619432"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/61DD28D7B3",
+                            "link": "https://filecrypt.cc/Container/61DD28D7B3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5EEF0F1ECC",
+                            "link": "https://filecrypt.cc/Container/5EEF0F1ECC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C6EA80A390",
+                            "link": "https://filecrypt.cc/Container/C6EA80A390"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B08F9A1DF1",
+                            "link": "https://filecrypt.cc/Container/B08F9A1DF1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/03B25200A9",
+                            "link": "https://filecrypt.cc/Container/03B25200A9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

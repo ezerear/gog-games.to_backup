@@ -1,0 +1,111 @@
+{
+    "href": "/game/timelie",
+    "MSG": {
+        "id": "1948127010",
+        "title": "Timelie",
+        "slug": "timelie",
+        "thumb_id": "cf3737c66243d5c286244a1b5ca34130b0060170da551323168d70ecea16cac8",
+        "bg_id": "c1b6dce128ec0d508c26b79cc0544b146e3935472ee7e3ffb963d03c8b68f819",
+        "url": "https://www.gog.com/game/timelie",
+        "developer": "Urnique Studio",
+        "publisher": "Urnique Studio",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708529096",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_timelie_-_hell_loop_1.2.7_(63992).exe",
+                    "size": "5716312"
+                },
+                {
+                    "name": "setup_timelie_1.2.7_(63992).exe",
+                    "size": "1492538456"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "timelie_soundtrack_mp3.zip",
+                    "size": "76440136"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/89E8965F5D",
+                            "link": "https://filecrypt.cc/Container/89E8965F5D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AD26AC924C",
+                            "link": "https://filecrypt.cc/Container/AD26AC924C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CB55CC57F4",
+                            "link": "https://filecrypt.cc/Container/CB55CC57F4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F12CCB3F47",
+                            "link": "https://filecrypt.cc/Container/F12CCB3F47"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2BC3D4FA3E",
+                            "link": "https://filecrypt.cc/Container/2BC3D4FA3E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F49039A400",
+                            "link": "https://filecrypt.cc/Container/F49039A400"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

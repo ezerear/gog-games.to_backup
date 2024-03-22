@@ -1,0 +1,79 @@
+{
+    "href": "/game/kao_the_kangaroo",
+    "MSG": {
+        "id": "1354443325",
+        "title": "Kao the Kangaroo",
+        "slug": "kao_the_kangaroo",
+        "thumb_id": "0c18a8e6293432df5c753e01092a97055ae3412983627168b671e911f16d0366",
+        "bg_id": "6bbcaeb91c885dd507abc39c942c031d62c8a7c87a9a3381f25a3e3d3c444a68",
+        "url": "https://www.gog.com/game/kao_the_kangaroo_trilogy",
+        "developer": "Tate Multimedia",
+        "publisher": "Tate Multimedia",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707925220",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_kao_the_kangaroo_1.7_(44672).exe",
+                    "size": "180974472"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D08526C47B",
+                            "link": "https://filecrypt.cc/Container/D08526C47B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1FDDFA0E23",
+                            "link": "https://filecrypt.cc/Container/1FDDFA0E23"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9EBAE61360",
+                            "link": "https://filecrypt.cc/Container/9EBAE61360"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B5D4725E2F",
+                            "link": "https://filecrypt.cc/Container/B5D4725E2F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

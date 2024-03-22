@@ -1,0 +1,68 @@
+{
+    "href": "/game/last_call_bbs",
+    "MSG": {
+        "id": "1468616886",
+        "title": "Last Call BBS",
+        "slug": "last_call_bbs",
+        "thumb_id": "8b741dc4815f1bd32fbe10f03f5f3b381ff79b72a61b4dd3c6abc2d805f6b0d8",
+        "bg_id": "c40aeab06a61f50ede9f3fd17b9bddf34d9efb04f79a8a8222a1b3d43813eaef",
+        "url": "https://www.gog.com/en/game/last_call_bbs",
+        "developer": "Zachtronics",
+        "publisher": "Zachtronics",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710355647",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_last_call_bbs_1.1_(62793).exe",
+                    "size": "107333800"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C9B8C6658B",
+                            "link": "https://filecrypt.cc/Container/C9B8C6658B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0B52022C76",
+                            "link": "https://filecrypt.cc/Container/0B52022C76"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0C9E2EF0A3",
+                            "link": "https://filecrypt.cc/Container/0C9E2EF0A3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

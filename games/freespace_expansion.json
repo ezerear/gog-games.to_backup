@@ -1,0 +1,115 @@
+{
+    "href": "/game/freespace_expansion",
+    "MSG": {
+        "id": "4",
+        "title": "Descent: Freespace Battle Pack",
+        "slug": "freespace_expansion",
+        "thumb_id": "58e9a905ef59d7a9882ccad71bd4af68c3288679c64d829b6e30ae32d7a2e953",
+        "bg_id": "72acc4b3e6c4d69d511fcd77a19141b49092578201ac9e439ac9e560c7a5c9d0",
+        "url": "https://www.gog.com/game/freespace_expansion",
+        "developer": "Volition",
+        "publisher": "Interplay",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1709523949",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_freespace_2.0.0.7.exe",
+                    "size": "854646384"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "freespace_manual.zip",
+                    "size": "9609898"
+                },
+                {
+                    "name": "freespace_refcard.zip",
+                    "size": "56275"
+                },
+                {
+                    "name": "freespace_wallpaper.zip",
+                    "size": "6624146"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/87093BA3F8",
+                            "link": "https://filecrypt.cc/Container/87093BA3F8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0170A62DA1",
+                            "link": "https://filecrypt.cc/Container/0170A62DA1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1FF06BB9BC",
+                            "link": "https://filecrypt.cc/Container/1FF06BB9BC"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1D3DC28872",
+                            "link": "https://filecrypt.cc/Container/1D3DC28872"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B2CEA861FD",
+                            "link": "https://filecrypt.cc/Container/B2CEA861FD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8EF74EC86D",
+                            "link": "https://filecrypt.cc/Container/8EF74EC86D"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

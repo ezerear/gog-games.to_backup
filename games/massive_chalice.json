@@ -1,0 +1,111 @@
+{
+    "href": "/game/massive_chalice",
+    "MSG": {
+        "id": "1432894004",
+        "title": "Massive Chalice",
+        "slug": "massive_chalice",
+        "thumb_id": "5ca35df9e482589c2ae0e0a9653b4ab2e8acbc1127ee2b22562e068fe3545a24",
+        "bg_id": "e290282cb1d5fe7da9bf4e5967c75d32baea1afcccdc615ea9627751830e9739",
+        "url": "https://www.gog.com/game/massive_chalice",
+        "developer": "Double Fine Productions",
+        "publisher": "Double Fine Productions",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1709038578",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_massive_chalice_1.04_(17771).exe",
+                    "size": "974737488"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "massive_chalice_ost_flac.zip",
+                    "size": "295846892"
+                },
+                {
+                    "name": "massive_chalice_ost_mp3.zip",
+                    "size": "72721605"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/261DACA34F",
+                            "link": "https://filecrypt.cc/Container/261DACA34F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/89C4246D48",
+                            "link": "https://filecrypt.cc/Container/89C4246D48"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/57793DD7DD",
+                            "link": "https://filecrypt.cc/Container/57793DD7DD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/37AE080984",
+                            "link": "https://filecrypt.cc/Container/37AE080984"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/568A9B265C",
+                            "link": "https://filecrypt.cc/Container/568A9B265C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3D277074C6",
+                            "link": "https://filecrypt.cc/Container/3D277074C6"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

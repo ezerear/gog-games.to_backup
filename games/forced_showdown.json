@@ -1,0 +1,131 @@
+{
+    "href": "/game/forced_showdown",
+    "MSG": {
+        "id": "1453126104",
+        "title": "FORCED SHOWDOWN",
+        "slug": "forced_showdown",
+        "thumb_id": "8e0e301b041ff9cd52092b61d11ffede192a4c6851abc66e3be3d3cc84cb9613",
+        "bg_id": "a153727a9851c9a5772b750985d9e9ab410d838ef30cb73bd6539f750847bd75",
+        "url": "https://www.gog.com/game/forced_showdown",
+        "developer": "BetaDwarf",
+        "publisher": "BetaDwarf",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708674490",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_forced_showdown_64_46.642_(18731)-1.bin",
+                    "size": "1373573581"
+                },
+                {
+                    "name": "setup_forced_showdown_64_46.642_(18731).exe",
+                    "size": "759864"
+                },
+                {
+                    "name": "setup_forced_showdown_deluxe_content_46.642_(18731).exe",
+                    "size": "5368424"
+                },
+                {
+                    "name": "setup_forced_showdown_drone_invasion_46.642_(18731).exe",
+                    "size": "5961000"
+                },
+                {
+                    "name": "setup_forced_showdown_supreme_skin_pack_46.642_(18731).exe",
+                    "size": "5442400"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "forced_deluxe_dlc_high_res_card_art.zip",
+                    "size": "344360243"
+                },
+                {
+                    "name": "forced_deluxe_dlc_the_media_pack.zip",
+                    "size": "324368504"
+                },
+                {
+                    "name": "forced_showdown_avatars.zip",
+                    "size": "178707"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C5751B3EFA",
+                            "link": "https://filecrypt.cc/Container/C5751B3EFA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A4AABCE840",
+                            "link": "https://filecrypt.cc/Container/A4AABCE840"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/058F1AA514",
+                            "link": "https://filecrypt.cc/Container/058F1AA514"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1AB2A54722",
+                            "link": "https://filecrypt.cc/Container/1AB2A54722"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/108FBF2621",
+                            "link": "https://filecrypt.cc/Container/108FBF2621"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9BA636E817",
+                            "link": "https://filecrypt.cc/Container/9BA636E817"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

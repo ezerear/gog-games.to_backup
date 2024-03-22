@@ -1,0 +1,72 @@
+{
+    "href": "/game/hector_badge_of_carnage",
+    "MSG": {
+        "id": "1441711248",
+        "title": "Hector: Badge of Carnage",
+        "slug": "hector_badge_of_carnage",
+        "thumb_id": "ce91b89a426edbdf6b6bf00cf8359d10d08a5f44e2efcb9989a6654c34ca74d7",
+        "bg_id": "bea53473ba225e9ec994adaddc87001e038517637464ecfbbdbcbd83bb781347",
+        "url": "https://www.gog.com/game/hector_badge_of_carnage",
+        "developer": "Straandlooper",
+        "publisher": "Telltale Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710041369",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hector_badge_of_carnage_1.0_(21465)-1.bin",
+                    "size": "2059168367"
+                },
+                {
+                    "name": "setup_hector_badge_of_carnage_1.0_(21465).exe",
+                    "size": "781400"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4AD6A76136",
+                            "link": "https://filecrypt.cc/Container/4AD6A76136"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3192E6011A",
+                            "link": "https://filecrypt.cc/Container/3192E6011A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/637709DCD9",
+                            "link": "https://filecrypt.cc/Container/637709DCD9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

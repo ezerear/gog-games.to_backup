@@ -1,0 +1,68 @@
+{
+    "href": "/game/katana_zero",
+    "MSG": {
+        "id": "1557080015",
+        "title": "Katana ZERO",
+        "slug": "katana_zero",
+        "thumb_id": "22ef95ffcfe0bdcdd664fcacaffe15fd71475c64910e264614f4fb7de6f9d138",
+        "bg_id": "481c617fce99ac4c27fbb54ab823bef92bcae3718155da71efcd53222d08a4b0",
+        "url": "https://www.gog.com/game/katana_zero",
+        "developer": "Askiisoft",
+        "publisher": "Devolver Digital",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708995911",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_katana_zero_1.0.5_(30035).exe",
+                    "size": "184419256"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AAE09F0B76",
+                            "link": "https://filecrypt.cc/Container/AAE09F0B76"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BA63D62415",
+                            "link": "https://filecrypt.cc/Container/BA63D62415"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3DB809FF20",
+                            "link": "https://filecrypt.cc/Container/3DB809FF20"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

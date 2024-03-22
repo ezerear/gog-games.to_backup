@@ -1,0 +1,68 @@
+{
+    "href": "/game/hearthlands",
+    "MSG": {
+        "id": "1287972541",
+        "title": "Hearthlands",
+        "slug": "hearthlands",
+        "thumb_id": "8050179a043c4858d1a76e7840a510262f38cc95aee444a7257395a6728ed4a1",
+        "bg_id": "3f5c3e2a0c341d261118d9462eb9106c8590df79a4b3d852b33cbec9d7b0733b",
+        "url": "https://www.gog.com/game/hearthlands",
+        "developer": "Sergio & Simon",
+        "publisher": "Sergio & Simon",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1687465227",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hearthlands_1.3.0_(64bit)_(48042).exe",
+                    "size": "324813800"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5457CB15B9",
+                            "link": "https://filecrypt.cc/Container/5457CB15B9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5FD7BFAC6D",
+                            "link": "https://filecrypt.cc/Container/5FD7BFAC6D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AFF03C7FEE",
+                            "link": "https://filecrypt.cc/Container/AFF03C7FEE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

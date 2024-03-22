@@ -1,0 +1,94 @@
+{
+    "href": "/game/blackwood_crossing",
+    "MSG": {
+        "id": "1195142914",
+        "title": "Blackwood Crossing",
+        "slug": "blackwood_crossing",
+        "thumb_id": "8856c5ba02eb94138c62640399e55f15634af1a6535c31c62dbfdf5e0a04d8fa",
+        "bg_id": "0869b23ab4e1a8e8b2766fae11f35ab1df3f36594a849f748f19ac97286ca1ba",
+        "url": "https://www.gog.com/game/blackwood_crossing",
+        "developer": "PaperSeven LTD",
+        "publisher": "Vision Games Publishing LTD",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1697508582",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_blackwood_crossing_1.5_(11890)-1.bin",
+                    "size": "3229417673"
+                },
+                {
+                    "name": "setup_blackwood_crossing_1.5_(11890).exe",
+                    "size": "852000"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7BBD1451D0",
+                            "link": "https://filecrypt.cc/Container/7BBD1451D0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BF3C1C2F04",
+                            "link": "https://filecrypt.cc/Container/BF3C1C2F04"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D9E05E30F5",
+                            "link": "https://filecrypt.cc/Container/D9E05E30F5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CF59469536",
+                            "link": "https://filecrypt.cc/Container/CF59469536"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7F148C9855",
+                            "link": "https://filecrypt.cc/Container/7F148C9855"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

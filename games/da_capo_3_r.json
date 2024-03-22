@@ -1,0 +1,72 @@
+{
+    "href": "/game/da_capo_3_r",
+    "MSG": {
+        "id": "1492731608",
+        "title": "Da Capo 3 R",
+        "slug": "da_capo_3_r",
+        "thumb_id": "0c0800e56808c51623067745619c95fdc11baa4f805f72c3a3f8ef3682f23420",
+        "bg_id": "ce6489e71ece772a3e9b2d4376f72dcfe2a3f68830ecebe404b79580c3dd31d7",
+        "url": "https://www.gog.com/game/da_capo_3_r",
+        "developer": "Circus",
+        "publisher": "MangaGamer",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709375410",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_da_capo_3_r_1.0_(26725)-1.bin",
+                    "size": "4001039267"
+                },
+                {
+                    "name": "setup_da_capo_3_r_1.0_(26725).exe",
+                    "size": "834360"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F3EC5239CF",
+                            "link": "https://filecrypt.cc/Container/F3EC5239CF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F4628D83FF",
+                            "link": "https://filecrypt.cc/Container/F4628D83FF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B552B241CE",
+                            "link": "https://filecrypt.cc/Container/B552B241CE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/above_snakes",
+    "MSG": {
+        "id": "1139090450",
+        "title": "Above Snakes",
+        "slug": "above_snakes",
+        "thumb_id": "c8cbbb437df4376580f8ab3d5e84e7f07dc319635d332b5e9e4d9e041795cdf3",
+        "bg_id": "b51362f4669d3de305367b975b2b1b65de81cee3b8057be13e80befceec5c3ce",
+        "url": "https://www.gog.com/en/game/above_snakes",
+        "developer": "Square Glade Games",
+        "publisher": "Crytivo",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1708603910",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_above_snakes_1.4.5_(70476).exe",
+                    "size": "959124912"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9E89574D78",
+                            "link": "https://filecrypt.cc/Container/9E89574D78"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/658D19D1F0",
+                            "link": "https://filecrypt.cc/Container/658D19D1F0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/57556D4DC8",
+                            "link": "https://filecrypt.cc/Container/57556D4DC8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

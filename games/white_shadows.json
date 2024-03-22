@@ -1,0 +1,72 @@
+{
+    "href": "/game/white_shadows",
+    "MSG": {
+        "id": "1922431071",
+        "title": "White Shadows",
+        "slug": "white_shadows",
+        "thumb_id": "b15fcd85a172f13f137ab3c46290ca2e9fe86de17c64124b82e2db3e2c344805",
+        "bg_id": "4dc437b360ddeb9621b64fdfc06c33b0fa1d9d7d93f6d56b1bc8ff52c38679c8",
+        "url": "https://www.gog.com/game/white_shadows",
+        "developer": "Monokel",
+        "publisher": "Thunderful Publishing",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708651370",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_white_shadows_1.4.1_(56886)-1.bin",
+                    "size": "2476369564"
+                },
+                {
+                    "name": "setup_white_shadows_1.4.1_(56886).exe",
+                    "size": "884576"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7C4CF989FA",
+                            "link": "https://filecrypt.cc/Container/7C4CF989FA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C93C28BC66",
+                            "link": "https://filecrypt.cc/Container/C93C28BC66"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FB3029F666",
+                            "link": "https://filecrypt.cc/Container/FB3029F666"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

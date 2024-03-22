@@ -1,0 +1,68 @@
+{
+    "href": "/game/forager",
+    "MSG": {
+        "id": "2106942030",
+        "title": "Forager",
+        "slug": "forager",
+        "thumb_id": "2a9ee911d237044ca4c5d3c5058553437827e1c4986a4394828f992f18449239",
+        "bg_id": "790cb76a691f686a3a53f94f52471c6faa15ace339c4cb0e45b512c7604dae95",
+        "url": "https://www.gog.com/game/forager",
+        "developer": "HopFrog",
+        "publisher": "Humble Bundle",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1708685779",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_forager_4.1.8_(43847).exe",
+                    "size": "140723944"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/98CE4651FC",
+                            "link": "https://filecrypt.cc/Container/98CE4651FC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1D2F0C1F89",
+                            "link": "https://filecrypt.cc/Container/1D2F0C1F89"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DA97CE3561",
+                            "link": "https://filecrypt.cc/Container/DA97CE3561"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

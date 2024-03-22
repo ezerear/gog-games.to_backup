@@ -1,0 +1,72 @@
+{
+    "href": "/game/flowers_le_volume_sur_automne",
+    "MSG": {
+        "id": "2044697588",
+        "title": "Flowers - Le Volume Sur Automne",
+        "slug": "flowers_le_volume_sur_automne",
+        "thumb_id": "835d9bb96a2ee7c18d6c8eebd077cdbbd872140b9dd6430db89ef7ee9212e1a5",
+        "bg_id": "3795373687b1d85aa00cc321cf8935b9415ec48288cbe97dd09e98340aa38944",
+        "url": "https://www.gog.com/en/game/flowers_le_volume_sur_automne",
+        "developer": "Innocent Grey",
+        "publisher": "JAST USA",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709281301",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_flowers_-_le_volume_sur_automne_1.0_(57226)-1.bin",
+                    "size": "3076704697"
+                },
+                {
+                    "name": "setup_flowers_-_le_volume_sur_automne_1.0_(57226).exe",
+                    "size": "831072"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CA80C52DA6",
+                            "link": "https://filecrypt.cc/Container/CA80C52DA6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F0B7C5128D",
+                            "link": "https://filecrypt.cc/Container/F0B7C5128D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/19D2ACDC84",
+                            "link": "https://filecrypt.cc/Container/19D2ACDC84"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

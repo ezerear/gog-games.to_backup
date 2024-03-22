@@ -1,0 +1,65 @@
+{
+    "href": "/game/call_of_juarez_gunslinger",
+    "MSG": {
+        "id": "2015389384",
+        "title": "Call of Juarez: Gunslinger",
+        "slug": "call_of_juarez_gunslinger",
+        "thumb_id": "1bfff5e4792522c75b95f00b09d8856b9ed04b17108932e1b1a4143c8928adce",
+        "bg_id": "3ac5f19a684b1e829e3500286863b97bce4c56182900f83e1949a8ffc4e092ec",
+        "url": "https://www.gog.com/game/call_of_juarez_gunslinger",
+        "developer": "Techland",
+        "publisher": "Techland Publishing",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710158186",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_call_of_juarez_gunslinger_1.0.5_(32361)-1.bin",
+                    "size": "4294072830"
+                },
+                {
+                    "name": "setup_call_of_juarez_gunslinger_1.0.5_(32361)-2.bin",
+                    "size": "375265404"
+                },
+                {
+                    "name": "setup_call_of_juarez_gunslinger_1.0.5_(32361).exe",
+                    "size": "901328"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/99E47F0392",
+                            "link": "https://filecrypt.cc/Container/99E47F0392"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FA8CABFF24",
+                            "link": "https://filecrypt.cc/Container/FA8CABFF24"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

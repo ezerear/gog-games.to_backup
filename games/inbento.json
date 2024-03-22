@@ -1,0 +1,90 @@
+{
+    "href": "/game/inbento",
+    "MSG": {
+        "id": "1781092177",
+        "title": "inbento",
+        "slug": "inbento",
+        "thumb_id": "631149635442fb7b54e4fc0babd440bd3f82ee0da855a127cd1de6bbd7e3f61f",
+        "bg_id": "9bf64fcfc9c0a60e9db40fcf1b5a419d11cd300399bf1c212bbc8077c2d82ac9",
+        "url": "https://www.gog.com/en/game/inbento",
+        "developer": "Afterburn",
+        "publisher": "Afterburn",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1703258083",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_inbento_1.1.1_(63470).exe",
+                    "size": "65877896"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D9ABF611C7",
+                            "link": "https://filecrypt.cc/Container/D9ABF611C7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BFB60D15B4",
+                            "link": "https://filecrypt.cc/Container/BFB60D15B4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C783E51C26",
+                            "link": "https://filecrypt.cc/Container/C783E51C26"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1AB59ED197",
+                            "link": "https://filecrypt.cc/Container/1AB59ED197"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7409031D94",
+                            "link": "https://filecrypt.cc/Container/7409031D94"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

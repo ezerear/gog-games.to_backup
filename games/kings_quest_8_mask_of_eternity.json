@@ -1,0 +1,108 @@
+{
+    "href": "/game/kings_quest_8_mask_of_eternity",
+    "MSG": {
+        "id": "1207661053",
+        "title": "King's Quest 8 - Mask of Eternity",
+        "slug": "kings_quest_8_mask_of_eternity",
+        "thumb_id": "362bf21fcb1a2c85599b9298024ac73d6d12aef02350f9c2822aa7810fea5146",
+        "bg_id": "d10b756c566d093efe843037249dd26323556e889b0d6b08c941a74a289c0b23",
+        "url": "https://www.gog.com/game/kings_quest_7_8",
+        "developer": "Sierra",
+        "publisher": "Activision",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709040646",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_kings_quest8_2.1.0.26.exe",
+                    "size": "500639264"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "kq_78_avatars.zip",
+                    "size": "253968"
+                },
+                {
+                    "name": "kq_78_manuals.ZIP",
+                    "size": "11586000"
+                },
+                {
+                    "name": "kq_78_wallpapers.zip",
+                    "size": "27501553"
+                },
+                {
+                    "name": "kq_8_Reference_Card.zip",
+                    "size": "26688380"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0510874C81",
+                            "link": "https://filecrypt.cc/Container/0510874C81"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8DDF474668",
+                            "link": "https://filecrypt.cc/Container/8DDF474668"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/43C5B1CD5F",
+                            "link": "https://filecrypt.cc/Container/43C5B1CD5F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A062AA9D8B",
+                            "link": "https://filecrypt.cc/Container/A062AA9D8B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9A8BA31F46",
+                            "link": "https://filecrypt.cc/Container/9A8BA31F46"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

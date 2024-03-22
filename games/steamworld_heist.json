@@ -1,0 +1,102 @@
+{
+    "href": "/game/steamworld_heist",
+    "MSG": {
+        "id": "1668986402",
+        "title": "SteamWorld Heist",
+        "slug": "steamworld_heist",
+        "thumb_id": "47e9483bf0fa6c44395c55ac29a44a6e28db8332c27ac665890c6c08a5b1305d",
+        "bg_id": "3572a4c44662c699a53b753103226340e3bccf3d54355e7eaa0a00fffcdd5311",
+        "url": "https://www.gog.com/game/steamworld_heist",
+        "developer": "Image and Form",
+        "publisher": "Image and Form",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1706617820",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_steamworld_heist_-_hatbox_hatful_eight__2_2.1_(26964).exe",
+                    "size": "7399048"
+                },
+                {
+                    "name": "setup_steamworld_heist_-_hatbox_three_4_free_2.1_(26964).exe",
+                    "size": "6688720"
+                },
+                {
+                    "name": "setup_steamworld_heist_2.1_(26964).exe",
+                    "size": "374501352"
+                },
+                {
+                    "name": "setup_steamworld_heist_the_outsider_2.1_(26964).exe",
+                    "size": "8249496"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6E1D4C1D19",
+                            "link": "https://filecrypt.cc/Container/6E1D4C1D19"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8EE1C561C4",
+                            "link": "https://filecrypt.cc/Container/8EE1C561C4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/086DF64069",
+                            "link": "https://filecrypt.cc/Container/086DF64069"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D13944EB15",
+                            "link": "https://filecrypt.cc/Container/D13944EB15"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/96286D3F44",
+                            "link": "https://filecrypt.cc/Container/96286D3F44"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

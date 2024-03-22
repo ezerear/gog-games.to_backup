@@ -1,0 +1,83 @@
+{
+    "href": "/game/decay_of_logos",
+    "MSG": {
+        "id": "2098396836",
+        "title": "Decay of Logos",
+        "slug": "decay_of_logos",
+        "thumb_id": "edbabacf16494fa8c4884286be339fd92c992003e122029b3d8adf1dd5925d09",
+        "bg_id": "ff4054f14c4e84c73c6b2dba8700150411eabd103c4337d71f26c2a28a90f909",
+        "url": "https://www.gog.com/game/decay_of_logos",
+        "developer": "Amplify Creations",
+        "publisher": "Rising Star Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1684218723",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_decay_of_logos_1.05_(64bit)_(36907)-1.bin",
+                    "size": "2389377982"
+                },
+                {
+                    "name": "setup_decay_of_logos_1.05_(64bit)_(36907).exe",
+                    "size": "866288"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C0110CEDF7",
+                            "link": "https://filecrypt.cc/Container/C0110CEDF7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/42C08A8871",
+                            "link": "https://filecrypt.cc/Container/42C08A8871"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0F0A77649B",
+                            "link": "https://filecrypt.cc/Container/0F0A77649B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0EDF321762",
+                            "link": "https://filecrypt.cc/Container/0EDF321762"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

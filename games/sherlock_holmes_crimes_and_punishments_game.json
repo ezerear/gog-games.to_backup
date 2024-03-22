@@ -1,0 +1,76 @@
+{
+    "href": "/game/sherlock_holmes_crimes_and_punishments_game",
+    "MSG": {
+        "id": "1659430030",
+        "title": "Sherlock Holmes: Crimes and Punishments",
+        "slug": "sherlock_holmes_crimes_and_punishments_game",
+        "thumb_id": "5f8a401bd014b9c1ef5f66d1572b66fc610429b71084ad50d5b0e874bb0ce4ad",
+        "bg_id": "1dbbf0416f8fddbad765b5d9f98dba976ad75d7407602ea2eb69aee6cd41fb24",
+        "url": "https://www.gog.com/game/sherlock_holmes_crimes_and_punishments",
+        "developer": "Frogwares",
+        "publisher": "Frogwares",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710469127",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sherlock_holmes_crimes_and_punishments_76411_(32864)-1.bin",
+                    "size": "4293152766"
+                },
+                {
+                    "name": "setup_sherlock_holmes_crimes_and_punishments_76411_(32864)-2.bin",
+                    "size": "3867795307"
+                },
+                {
+                    "name": "setup_sherlock_holmes_crimes_and_punishments_76411_(32864).exe",
+                    "size": "1821760"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/362C050B40",
+                            "link": "https://filecrypt.cc/Container/362C050B40"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/12D60B62B6",
+                            "link": "https://filecrypt.cc/Container/12D60B62B6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8310EA5D94",
+                            "link": "https://filecrypt.cc/Container/8310EA5D94"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/sokobond",
+    "MSG": {
+        "id": "1422630762",
+        "title": "Sokobond",
+        "slug": "sokobond",
+        "thumb_id": "4be6903739e526bb945028baa64cbe356a4771089d96252eedfc9702938822b3",
+        "bg_id": "fc8d3611b1c36a8f4de091e798b8cc36b88b9ec728e5e674547b861e50fbc540",
+        "url": "https://web.archive.org/web/20171025230404/http://www.gog.com/game/sokobond",
+        "developer": "Alan Hazelden, Harry Lee and Ryan Roth",
+        "publisher": "Draknek",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1708647072",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sokobond_2.0.0.1.exe",
+                    "size": "45230328"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ED41F1E3AC",
+                            "link": "https://filecrypt.cc/Container/ED41F1E3AC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F7B4851BBA",
+                            "link": "https://filecrypt.cc/Container/F7B4851BBA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/80157EEA67",
+                            "link": "https://filecrypt.cc/Container/80157EEA67"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

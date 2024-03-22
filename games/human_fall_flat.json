@@ -1,0 +1,68 @@
+{
+    "href": "/game/human_fall_flat",
+    "MSG": {
+        "id": "1203767418",
+        "title": "Human Fall Flat",
+        "slug": "human_fall_flat",
+        "thumb_id": "b3e8319d53a255cd1bb21ab17e6d79ea7d5a786a4a21eb1d6824e85c5b240952",
+        "bg_id": "1092c0e575dd74b5c4ff7634043ba2bcebce60074f4bc5ac29166b4bacbc4936",
+        "url": "https://web.archive.org/web/20180605225009/https://www.gog.com/game/human_fall_flat",
+        "developer": "Curve Digital",
+        "publisher": "Curve Digital",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710615432",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_human_fall_flat_1.2g_(12421).exe",
+                    "size": "606848976"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B06D6959F1",
+                            "link": "https://filecrypt.cc/Container/B06D6959F1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EEC7AE4557",
+                            "link": "https://filecrypt.cc/Container/EEC7AE4557"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D988810CAB",
+                            "link": "https://filecrypt.cc/Container/D988810CAB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

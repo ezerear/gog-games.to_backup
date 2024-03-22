@@ -1,0 +1,72 @@
+{
+    "href": "/game/evoland_legendary_edition",
+    "MSG": {
+        "id": "1466932507",
+        "title": "Evoland Legendary Edition",
+        "slug": "evoland_legendary_edition",
+        "thumb_id": "41163047059e16d90327d7aa899d1b15a0e47868be267fee809dbfa5a438f0c9",
+        "bg_id": "caaa65ad60f664082927cbc2f013992d6089815b37bca3e9d65fc569bcb7d066",
+        "url": "https://www.gog.com/en/game/evoland_legendary_edition",
+        "developer": "Shiro Games",
+        "publisher": "Shiro Unlimited",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708747377",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_evoland_legendary_edition_1.0_(57388)-1.bin",
+                    "size": "673228130"
+                },
+                {
+                    "name": "setup_evoland_legendary_edition_1.0_(57388).exe",
+                    "size": "811464"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FB765D37CE",
+                            "link": "https://filecrypt.cc/Container/FB765D37CE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/525BD17274",
+                            "link": "https://filecrypt.cc/Container/525BD17274"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BB98D00977",
+                            "link": "https://filecrypt.cc/Container/BB98D00977"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

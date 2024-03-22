@@ -1,0 +1,84 @@
+{
+    "href": "/game/gravewood_high",
+    "MSG": {
+        "id": "1526229423",
+        "title": "Gravewood High",
+        "slug": "gravewood_high",
+        "thumb_id": "2cf8eccabdb9394ef5651675f043f9efa0d8786b5858fda1bf2ff5e8d42c7d7c",
+        "bg_id": "366df66177888638be11ea0b8b3f74338d505e85aa0c50a9be9cae9927d0078f",
+        "url": "https://www.gog.com/en/game/gravewood_high",
+        "developer": "HeroCraft",
+        "publisher": "HeroCraft",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707605835",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_gravewood_high_-_complete_1.0_(64bit)_(64312)-1.bin",
+                    "size": "4294057982"
+                },
+                {
+                    "name": "setup_gravewood_high_-_complete_1.0_(64bit)_(64312)-2.bin",
+                    "size": "1738080927"
+                },
+                {
+                    "name": "setup_gravewood_high_-_complete_1.0_(64bit)_(64312).exe",
+                    "size": "919512"
+                },
+                {
+                    "name": "setup_gravewood_high_1.0_(64bit)_(64312)-1.bin",
+                    "size": "3149817923"
+                },
+                {
+                    "name": "setup_gravewood_high_1.0_(64bit)_(64312).exe",
+                    "size": "867024"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EF18D6CD64",
+                            "link": "https://filecrypt.cc/Container/EF18D6CD64"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/84B400741A",
+                            "link": "https://filecrypt.cc/Container/84B400741A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/86C37256C6",
+                            "link": "https://filecrypt.cc/Container/86C37256C6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

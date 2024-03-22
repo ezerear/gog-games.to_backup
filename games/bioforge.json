@@ -1,0 +1,123 @@
+{
+    "href": "/game/bioforge",
+    "MSG": {
+        "id": "1207659125",
+        "title": "Bioforge",
+        "slug": "bioforge",
+        "thumb_id": "05e898e55053432a2e776eefdf9f676f6bf577dd7df32381215631a3ad7f5445",
+        "bg_id": "a5a1bcc6f60bbd46ec0dad3205cbc34572b701ec2fe5d9936f3460ff390bc60a",
+        "url": "https://www.gog.com/game/bioforge",
+        "developer": "Origin Systems",
+        "publisher": "Electronic Arts",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709320092",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_bioforge_2.1.0.14.exe",
+                    "size": "107736520"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "bioforge_avatar.zip",
+                    "size": "17458"
+                },
+                {
+                    "name": "bioforge_field_personnel_file.zip",
+                    "size": "3299119"
+                },
+                {
+                    "name": "bioforge_manual.zip",
+                    "size": "813126"
+                },
+                {
+                    "name": "bioforge_reference_card.zip",
+                    "size": "674169"
+                },
+                {
+                    "name": "bioforge_strategy_guide.zip",
+                    "size": "39340348"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/249FAB336D",
+                            "link": "https://filecrypt.cc/Container/249FAB336D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0CE4C80EE7",
+                            "link": "https://filecrypt.cc/Container/0CE4C80EE7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/351FC18DFD",
+                            "link": "https://filecrypt.cc/Container/351FC18DFD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E7A8D6677C",
+                            "link": "https://filecrypt.cc/Container/E7A8D6677C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/254D680EDF",
+                            "link": "https://filecrypt.cc/Container/254D680EDF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4A5015E889",
+                            "link": "https://filecrypt.cc/Container/4A5015E889"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

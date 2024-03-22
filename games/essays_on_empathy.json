@@ -1,0 +1,83 @@
+{
+    "href": "/game/essays_on_empathy",
+    "MSG": {
+        "id": "1580002481",
+        "title": "Essays on Empathy",
+        "slug": "essays_on_empathy",
+        "thumb_id": "89453d688b92899a72eac703edc89dd4b4c4c97a2ac81665226078d2db4cae65",
+        "bg_id": "655298c84b77264786df57d91dc3b26cc8806b4d968c465a941115d376d7099f",
+        "url": "https://www.gog.com/game/essays_on_empathy",
+        "developer": "Deconstructeam",
+        "publisher": "Devolver Digital",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1707648647",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_essays_on_empathy_1.0_(47146)-1.bin",
+                    "size": "3651890212"
+                },
+                {
+                    "name": "setup_essays_on_empathy_1.0_(47146).exe",
+                    "size": "904000"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/86DB40F073",
+                            "link": "https://filecrypt.cc/Container/86DB40F073"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CBD6BFE710",
+                            "link": "https://filecrypt.cc/Container/CBD6BFE710"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/72C10C7511",
+                            "link": "https://filecrypt.cc/Container/72C10C7511"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/53B1AA9D81",
+                            "link": "https://filecrypt.cc/Container/53B1AA9D81"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,123 @@
+{
+    "href": "/game/beneath_a_steel_sky",
+    "MSG": {
+        "id": "1207658695",
+        "title": "Beneath a Steel Sky",
+        "slug": "beneath_a_steel_sky",
+        "thumb_id": "8c9562087850f4f0bc5cbb073e2207e75cb016d7b1632800db3e36c8e85d79d2",
+        "bg_id": "072e4bd714ee4bebe88f112fab88b4f35df066e7138a6dd76b52a9275543a775",
+        "url": "https://www.gog.com/game/beneath_a_steel_sky",
+        "developer": "Revolution Software",
+        "publisher": "Revolution Software",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709156907",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_beneath_a_steel_sky_1.0_(20270).exe",
+                    "size": "91327544"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "bass_avatars.zip",
+                    "size": "264808"
+                },
+                {
+                    "name": "bass_comic_book.zip",
+                    "size": "12407867"
+                },
+                {
+                    "name": "bass_manual.zip",
+                    "size": "125311"
+                },
+                {
+                    "name": "bass_security_manual.zip",
+                    "size": "6256215"
+                },
+                {
+                    "name": "bass_wallpapers.zip",
+                    "size": "5331651"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A0C0485B88",
+                            "link": "https://filecrypt.cc/Container/A0C0485B88"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/77CB946D0F",
+                            "link": "https://filecrypt.cc/Container/77CB946D0F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C1EB287ECB",
+                            "link": "https://filecrypt.cc/Container/C1EB287ECB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0C2A51B978",
+                            "link": "https://filecrypt.cc/Container/0C2A51B978"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4E67397517",
+                            "link": "https://filecrypt.cc/Container/4E67397517"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6DF06BF406",
+                            "link": "https://filecrypt.cc/Container/6DF06BF406"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

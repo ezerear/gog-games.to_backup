@@ -1,0 +1,105 @@
+{
+    "href": "/game/hyperparasite",
+    "MSG": {
+        "id": "1599156643",
+        "title": "HyperParasite",
+        "slug": "hyperparasite",
+        "thumb_id": "f522901246d4b3fc1937070189dc4d524231f228e06c97b09f50a2efd38f1daa",
+        "bg_id": "104b9d22947eeb6fb7cf375a22e4741a8234345069016df078ffb2d0769bf78a",
+        "url": "https://www.gog.com/en/game/hyperparasite",
+        "developer": "Troglobytes Games",
+        "publisher": "Nicalis, Inc.",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1693874107",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hyperparasite_1.0.0.0_(52706)-1.bin",
+                    "size": "1786489695"
+                },
+                {
+                    "name": "setup_hyperparasite_1.0.0.0_(52706).exe",
+                    "size": "796224"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/627166F073",
+                            "link": "https://filecrypt.cc/Container/627166F073"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/43564AD8B1",
+                            "link": "https://filecrypt.cc/Container/43564AD8B1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/33689F794D",
+                            "link": "https://filecrypt.cc/Container/33689F794D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/45DCB03704",
+                            "link": "https://filecrypt.cc/Container/45DCB03704"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9041A2978E",
+                            "link": "https://filecrypt.cc/Container/9041A2978E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/150F39883E",
+                            "link": "https://filecrypt.cc/Container/150F39883E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

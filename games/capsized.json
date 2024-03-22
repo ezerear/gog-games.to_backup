@@ -1,0 +1,111 @@
+{
+    "href": "/game/capsized",
+    "MSG": {
+        "id": "1207659151",
+        "title": "Capsized",
+        "slug": "capsized",
+        "thumb_id": "4523fc2e51e62cce7c22efec62a2d27f29a96bfdea371d70c907b4649e358a46",
+        "bg_id": "995dfc911f959a76619a49c20f36d26a9462ccc4d8a7846818bb3a27b045e289",
+        "url": "https://www.gog.com/game/capsized",
+        "developer": "Alientrap Games",
+        "publisher": "Alientrap Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709266868",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_capsized_1.0_(19138).exe",
+                    "size": "911981328"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "capsized_artworks.zip",
+                    "size": "1086576"
+                },
+                {
+                    "name": "capsized_wallpapers.zip",
+                    "size": "7441351"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/24BB4AE9E5",
+                            "link": "https://filecrypt.cc/Container/24BB4AE9E5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4EAB56CE9F",
+                            "link": "https://filecrypt.cc/Container/4EAB56CE9F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A2E421BD17",
+                            "link": "https://filecrypt.cc/Container/A2E421BD17"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/15A5DD2D9B",
+                            "link": "https://filecrypt.cc/Container/15A5DD2D9B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/94402C72D9",
+                            "link": "https://filecrypt.cc/Container/94402C72D9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/583088733A",
+                            "link": "https://filecrypt.cc/Container/583088733A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

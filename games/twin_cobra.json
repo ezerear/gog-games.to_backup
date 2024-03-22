@@ -1,0 +1,79 @@
+{
+    "href": "/game/twin_cobra",
+    "MSG": {
+        "id": "1182651552",
+        "title": "Twin Cobra",
+        "slug": "twin_cobra",
+        "thumb_id": "253362ae75b4269087f9f622d70e4bef2871c8a6247d25fe7eefcf94ad5a9147",
+        "bg_id": "9f423b6728d8971e4df0daa5e60220590560d85388670dacb587d4a99440491c",
+        "url": "https://www.gog.com/en/game/twin_cobra",
+        "developer": "Bitwave Games",
+        "publisher": "Bitwave Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708039557",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_twin_cobra_36_(64bit)_(71196).exe",
+                    "size": "12995576"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2D6176159A",
+                            "link": "https://filecrypt.cc/Container/2D6176159A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CBE5C968D7",
+                            "link": "https://filecrypt.cc/Container/CBE5C968D7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F8E37E684A",
+                            "link": "https://filecrypt.cc/Container/F8E37E684A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FCC66C6F1F",
+                            "link": "https://filecrypt.cc/Container/FCC66C6F1F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

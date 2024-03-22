@@ -1,0 +1,79 @@
+{
+    "href": "/game/pixelot",
+    "MSG": {
+        "id": "1492200487",
+        "title": "Pixelot",
+        "slug": "pixelot",
+        "thumb_id": "843d9700fa6bce55314ad11e79d7d0db141f0bacec7bba420ee1af8c8e0ed6da",
+        "bg_id": "b768c9928b09d5d194ad0d4cfc35ba6e9b7e44377afcae322b8ba6450f8997b0",
+        "url": "https://www.gog.com/en/game/pixelot",
+        "developer": "Kyle Berger",
+        "publisher": "Kyle Berger",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707255013",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_pixelot_1_(70820).exe",
+                    "size": "220382840"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/800C627D3F",
+                            "link": "https://filecrypt.cc/Container/800C627D3F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CEE2D278F9",
+                            "link": "https://filecrypt.cc/Container/CEE2D278F9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/171B059322",
+                            "link": "https://filecrypt.cc/Container/171B059322"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6489716B48",
+                            "link": "https://filecrypt.cc/Container/6489716B48"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

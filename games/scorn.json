@@ -1,0 +1,135 @@
+{
+    "href": "/game/scorn",
+    "MSG": {
+        "id": "1620735257",
+        "title": "Scorn",
+        "slug": "scorn",
+        "thumb_id": "6949ee85e9757ed036da280fa9cd60558a9d73c022f6405b1917c9370fe02de6",
+        "bg_id": "8a86c45a98b365ae93be66f08c97f3fc93ea484bfe32e0a62e43da64de4c2df8",
+        "url": "https://www.gog.com/en/game/scorn",
+        "developer": "Ebb Software",
+        "publisher": "Kepler Interactive",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708656713",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_scorn_1.2.2.0_(63131)-1.bin",
+                    "size": "4293830654"
+                },
+                {
+                    "name": "setup_scorn_1.2.2.0_(63131)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_scorn_1.2.2.0_(63131)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_scorn_1.2.2.0_(63131)-4.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_scorn_1.2.2.0_(63131)-5.bin",
+                    "size": "1444662521"
+                },
+                {
+                    "name": "setup_scorn_1.2.2.0_(63131).exe",
+                    "size": "1146920"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "scorn_ost_flac.zip",
+                    "size": "960763164"
+                },
+                {
+                    "name": "scorn_soundtrack_mp3.zip",
+                    "size": "274771662"
+                },
+                {
+                    "name": "scorn_the_art_of_the_game.zip",
+                    "size": "270556080"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/317AEEC43C",
+                            "link": "https://filecrypt.cc/Container/317AEEC43C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D238D8ED2B",
+                            "link": "https://filecrypt.cc/Container/D238D8ED2B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9011FE1197",
+                            "link": "https://filecrypt.cc/Container/9011FE1197"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DF042A7466",
+                            "link": "https://filecrypt.cc/Container/DF042A7466"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/66C6E05B21",
+                            "link": "https://filecrypt.cc/Container/66C6E05B21"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/15CA46D5FC",
+                            "link": "https://filecrypt.cc/Container/15CA46D5FC"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

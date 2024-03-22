@@ -1,0 +1,72 @@
+{
+    "href": "/game/adios",
+    "MSG": {
+        "id": "1686135098",
+        "title": "Adios",
+        "slug": "adios",
+        "thumb_id": "844cef73a1b37bdb8c3216de7638dc480cbb934876d08922bf6b5ca32ee183ad",
+        "bg_id": "192c58dd817df4c914fa27ff91ddb14eeac8655846362db4709b6906b5eb4e1d",
+        "url": "https://www.gog.com/game/adios",
+        "developer": "Mischief",
+        "publisher": "Mischief",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1688210683",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_adios_1.0.0.6_(64bit)_(47929)-1.bin",
+                    "size": "2393416027"
+                },
+                {
+                    "name": "setup_adios_1.0.0.6_(64bit)_(47929).exe",
+                    "size": "800200"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/35B5055C5C",
+                            "link": "https://filecrypt.cc/Container/35B5055C5C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EB7EC9EB92",
+                            "link": "https://filecrypt.cc/Container/EB7EC9EB92"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1E864B3665",
+                            "link": "https://filecrypt.cc/Container/1E864B3665"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

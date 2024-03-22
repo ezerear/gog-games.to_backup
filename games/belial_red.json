@@ -1,0 +1,94 @@
+{
+    "href": "/game/belial_red",
+    "MSG": {
+        "id": "1408143916",
+        "title": "Belial Red",
+        "slug": "belial_red",
+        "thumb_id": "c5262c75bb62f416c0685206e587f66abd19b3897577f4885ba8a9951bccc790",
+        "bg_id": "ebb1393168a5de630f2c848dae87c2abde06ebfba5ea916fed1d1612ddc312ec",
+        "url": "https://www.gog.com/en/game/belial_red",
+        "developer": "TEKUNOS A",
+        "publisher": "Kagura Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1704963325",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_belial_red_unrated_v2_(en_1.01_cn_1.01)_(63496).exe",
+                    "size": "185903136"
+                },
+                {
+                    "name": "setup_belial_red_v2_(en_1.01_cn_1.01)_(63496).exe",
+                    "size": "584182240"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/02B0A10989",
+                            "link": "https://filecrypt.cc/Container/02B0A10989"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/13B02B27C8",
+                            "link": "https://filecrypt.cc/Container/13B02B27C8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/762AE0C7AF",
+                            "link": "https://filecrypt.cc/Container/762AE0C7AF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AE0066B53A",
+                            "link": "https://filecrypt.cc/Container/AE0066B53A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/92EFBFB1D4",
+                            "link": "https://filecrypt.cc/Container/92EFBFB1D4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

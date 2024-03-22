@@ -1,0 +1,88 @@
+{
+    "href": "/game/amnesia_rebirth",
+    "MSG": {
+        "id": "1714817458",
+        "title": "Amnesia: Rebirth",
+        "slug": "amnesia_rebirth",
+        "thumb_id": "ee8e23c895c2a15f2ae69ac10017340fccffe21d4f2a4264ac9a161e54c1453c",
+        "bg_id": "140b8508e766c97429ae8ebc863d436e69d0530ae35a375fb06de149e2fb8e8b",
+        "url": "https://www.gog.com/game/amnesia_rebirth",
+        "developer": "Frictional Games",
+        "publisher": "Frictional Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707969866",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_amnesia_rebirth_1.4_(64bit)_(50150)-1.bin",
+                    "size": "4288905214"
+                },
+                {
+                    "name": "setup_amnesia_rebirth_1.4_(64bit)_(50150)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_amnesia_rebirth_1.4_(64bit)_(50150)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_amnesia_rebirth_1.4_(64bit)_(50150)-4.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_amnesia_rebirth_1.4_(64bit)_(50150)-5.bin",
+                    "size": "2094494986"
+                },
+                {
+                    "name": "setup_amnesia_rebirth_1.4_(64bit)_(50150).exe",
+                    "size": "6068600"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4BFA0BCD04",
+                            "link": "https://filecrypt.cc/Container/4BFA0BCD04"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F9C1D0BFFE",
+                            "link": "https://filecrypt.cc/Container/F9C1D0BFFE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E1ED4581F3",
+                            "link": "https://filecrypt.cc/Container/E1ED4581F3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

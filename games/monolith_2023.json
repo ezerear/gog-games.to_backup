@@ -1,0 +1,83 @@
+{
+    "href": "/game/monolith_2023",
+    "MSG": {
+        "id": "1896531306",
+        "title": "Monolith",
+        "slug": "monolith_2023",
+        "thumb_id": "b52f3f269f2578516da04159dd49285b63fe8284539a94b1de6ca1b5564c5879",
+        "bg_id": "5aaa0f82ab34c082c80bd5a9ec6218690e3bc9362d860705f7a5181d9b075da2",
+        "url": "https://www.gog.com/en/game/monolith_2023",
+        "developer": "Animation Arts",
+        "publisher": "Animation Arts",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708165903",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_monolith_1.1.2_(69950)-1.bin",
+                    "size": "3601905028"
+                },
+                {
+                    "name": "setup_monolith_1.1.2_(69950).exe",
+                    "size": "908256"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/75168471B8",
+                            "link": "https://filecrypt.cc/Container/75168471B8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/51D59FFB98",
+                            "link": "https://filecrypt.cc/Container/51D59FFB98"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EEE0AC561A",
+                            "link": "https://filecrypt.cc/Container/EEE0AC561A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E7CB1ECF19",
+                            "link": "https://filecrypt.cc/Container/E7CB1ECF19"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

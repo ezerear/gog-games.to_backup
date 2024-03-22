@@ -1,0 +1,123 @@
+{
+    "href": "/game/time_commando",
+    "MSG": {
+        "id": "1207658987",
+        "title": "Time Commando",
+        "slug": "time_commando",
+        "thumb_id": "89e51af1528c1c41cb6f4d005e13c32a5c0943a07ea4eb0db0095ff7e122cc1d",
+        "bg_id": "ad041183b0c9d022b86bf74d7bd3af8a712494b28cc542529ea430dc37ed15e6",
+        "url": "https://www.gog.com/game/time_commando",
+        "developer": "Adeline Software International",
+        "publisher": "Didier Chanfray SARL",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709153513",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_time_commando_1.0_(28045).exe",
+                    "size": "551502360"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "time_commando_artworks.zip",
+                    "size": "19842333"
+                },
+                {
+                    "name": "time_commando_avatar.zip",
+                    "size": "40870"
+                },
+                {
+                    "name": "time_commando_manual.zip",
+                    "size": "3492503"
+                },
+                {
+                    "name": "time_commando_referene_card.zip",
+                    "size": "3155215"
+                },
+                {
+                    "name": "time_commando_wallpaper.zip",
+                    "size": "4771392"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E472952105",
+                            "link": "https://filecrypt.cc/Container/E472952105"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/97D466F3F9",
+                            "link": "https://filecrypt.cc/Container/97D466F3F9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C2BFE95065",
+                            "link": "https://filecrypt.cc/Container/C2BFE95065"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7F7F9B6426",
+                            "link": "https://filecrypt.cc/Container/7F7F9B6426"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6CBB35CC02",
+                            "link": "https://filecrypt.cc/Container/6CBB35CC02"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7CD88E1AC0",
+                            "link": "https://filecrypt.cc/Container/7CD88E1AC0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/banished",
+    "MSG": {
+        "id": "1207660783",
+        "title": "Banished",
+        "slug": "banished",
+        "thumb_id": "8e305b37ccbec02dd0301e89c6ff63fd8e0e16d634ac38d2c08a695952675bf4",
+        "bg_id": "48fabd1668628a441826c0aa85a0a73fb983cc0513c1489c11c922f30f290567",
+        "url": "https://www.gog.com/game/banished",
+        "developer": "Shining Rock Software",
+        "publisher": "Shining Rock Software",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710358423",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_banished_64_1.0.7_(14938).exe",
+                    "size": "128477224"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/783DC3F1A4",
+                            "link": "https://filecrypt.cc/Container/783DC3F1A4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/53B674D8BB",
+                            "link": "https://filecrypt.cc/Container/53B674D8BB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F29CABF39D",
+                            "link": "https://filecrypt.cc/Container/F29CABF39D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

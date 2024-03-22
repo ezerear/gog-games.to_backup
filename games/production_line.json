@@ -1,0 +1,76 @@
+{
+    "href": "/game/production_line",
+    "MSG": {
+        "id": "1240786865",
+        "title": "Production Line",
+        "slug": "production_line",
+        "thumb_id": "d4d962b4a7b45e571937ed91ca44b3ba9df50f6179d0d467dc7287b0286d9ba5",
+        "bg_id": "ffa77e32bc593fa9f0e54576e015c2bb074ea75f796c9eed8d42c1fd06ee5f14",
+        "url": "https://www.gog.com/game/production_line",
+        "developer": "Positech Games",
+        "publisher": "Positech Games",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1709414722",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_design_variety_pack_1.81e_(64bit)_(43767).exe",
+                    "size": "13407976"
+                },
+                {
+                    "name": "setup_doors_that_go_like_this_1.81e_(64bit)_(43767).exe",
+                    "size": "7380048"
+                },
+                {
+                    "name": "setup_production_line_1.81e_(64bit)_(43767).exe",
+                    "size": "386468152"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CB8D393AFA",
+                            "link": "https://filecrypt.cc/Container/CB8D393AFA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2BAECF5D03",
+                            "link": "https://filecrypt.cc/Container/2BAECF5D03"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E18266FD6B",
+                            "link": "https://filecrypt.cc/Container/E18266FD6B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

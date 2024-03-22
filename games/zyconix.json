@@ -1,0 +1,85 @@
+{
+    "href": "/game/zyconix",
+    "MSG": {
+        "id": "1281197999",
+        "title": "Zyconix",
+        "slug": "zyconix",
+        "thumb_id": "2feea8fdfa39935e322d8769e201da1f0d809e8033efb0f534b84e1deac6734e",
+        "bg_id": "3a4cf7e728c9e1d3c14d2b8587031b8ae93edcf9092547d369a609e7fbb61fb0",
+        "url": "https://www.gog.com/game/zyconix",
+        "developer": "Accolade, Inc.",
+        "publisher": "Ziggurat Interactive",
+        "category": "Arcade",
+        "uploading": "0",
+        "last_upload": "1710160114",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_zyconix_1.0_(48123).exe",
+                    "size": "123700288"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "zyconix_quickstart_guide.zip",
+                    "size": "712566"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B450FE8047",
+                            "link": "https://filecrypt.cc/Container/B450FE8047"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/63E548AD15",
+                            "link": "https://filecrypt.cc/Container/63E548AD15"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CF8605F2EE",
+                            "link": "https://filecrypt.cc/Container/CF8605F2EE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D749DE7309",
+                            "link": "https://filecrypt.cc/Container/D749DE7309"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

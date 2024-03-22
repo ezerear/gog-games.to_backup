@@ -1,0 +1,111 @@
+{
+    "href": "/game/coffee_talk",
+    "MSG": {
+        "id": "1371683428",
+        "title": "Coffee Talk",
+        "slug": "coffee_talk",
+        "thumb_id": "e3481472e3df8d326dc044d7813cab607e32e828c7532e9b7dc7ae443c9fe316",
+        "bg_id": "bc647f5e974c2e5fe10cce9eb0fd2ad743d0635680c3cf16ebd9579f61dfda7a",
+        "url": "https://www.gog.com/game/coffee_talk",
+        "developer": "Toge Productions",
+        "publisher": "Toge Productions",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708784971",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_coffee_talk_1.48_(56192).exe",
+                    "size": "468592264"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "artbook_coffee_talk.zip",
+                    "size": "55566798"
+                },
+                {
+                    "name": "coffee_talk_ost_mp3.zip",
+                    "size": "197733991"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4BBFF9DC4B",
+                            "link": "https://filecrypt.cc/Container/4BBFF9DC4B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/54374E5091",
+                            "link": "https://filecrypt.cc/Container/54374E5091"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7CAAEF53D0",
+                            "link": "https://filecrypt.cc/Container/7CAAEF53D0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0D088D3040",
+                            "link": "https://filecrypt.cc/Container/0D088D3040"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0A2455EBC4",
+                            "link": "https://filecrypt.cc/Container/0A2455EBC4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/771101A91E",
+                            "link": "https://filecrypt.cc/Container/771101A91E"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

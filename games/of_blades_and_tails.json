@@ -1,0 +1,68 @@
+{
+    "href": "/game/of_blades_and_tails",
+    "MSG": {
+        "id": "1186608065",
+        "title": "Of Blades & Tails",
+        "slug": "of_blades_and_tails",
+        "thumb_id": "f37c71fcc3ce0bad64d8abab4664950780d447eab56f33636718456b57db4b20",
+        "bg_id": "d5b8f4131d529878666485bd77c26f6d9472f3a50df77cd02177ff369dd8d538",
+        "url": "https://www.gog.com/en/game/of_blades_and_tails",
+        "developer": "Felix Laukel",
+        "publisher": "Pineapple Works",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710373654",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_of_blades__tails_v1.0.12_(64bit)_(71673).exe",
+                    "size": "162060440"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/79B515E760",
+                            "link": "https://filecrypt.cc/Container/79B515E760"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D7F8338434",
+                            "link": "https://filecrypt.cc/Container/D7F8338434"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C5D53E2A7B",
+                            "link": "https://filecrypt.cc/Container/C5D53E2A7B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

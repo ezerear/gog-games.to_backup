@@ -1,0 +1,111 @@
+{
+    "href": "/game/140_game",
+    "MSG": {
+        "id": "1096313866",
+        "title": "140",
+        "slug": "140_game",
+        "thumb_id": "e2bcfd5f2a8052460af43020b5db0ab3c92c95c2ddcdfe8d62dbe4ed270503d4",
+        "bg_id": "fa24ab919f018e70eca4248c74e3c93e1e8cded0c97ef72a6f1c4bde3a0716d6",
+        "url": "https://www.gog.com/game/140_game",
+        "developer": "Carlsen Games",
+        "publisher": "Carlsen Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708894916",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_140_10.10.2019_(33252).exe",
+                    "size": "63371240"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "140_ost_flac.zip",
+                    "size": "452612872"
+                },
+                {
+                    "name": "140_ost_mp3.zip",
+                    "size": "100173539"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F2F476CE0A",
+                            "link": "https://filecrypt.cc/Container/F2F476CE0A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EED5FEE832",
+                            "link": "https://filecrypt.cc/Container/EED5FEE832"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C0817BE160",
+                            "link": "https://filecrypt.cc/Container/C0817BE160"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7F22C8ABE4",
+                            "link": "https://filecrypt.cc/Container/7F22C8ABE4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2E1431E146",
+                            "link": "https://filecrypt.cc/Container/2E1431E146"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/603D641A92",
+                            "link": "https://filecrypt.cc/Container/603D641A92"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

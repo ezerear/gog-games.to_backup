@@ -1,0 +1,80 @@
+{
+    "href": "/game/styx_shards_of_darkness",
+    "MSG": {
+        "id": "2090261953",
+        "title": "Styx: Shards of Darkness",
+        "slug": "styx_shards_of_darkness",
+        "thumb_id": "11b4528bbb6454703c0a0ac95e711acce476f0b98cccd71d1fa744d9a4c671f3",
+        "bg_id": "c73d05ac940042cdcb1c3c47ad9f3c5be8d5753d648b854e16f08f732d856ebe",
+        "url": "https://www.gog.com/game/styx_shards_of_darkness",
+        "developer": "Cyanide Studio",
+        "publisher": "Focus Home Interactive",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710953379",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_styx_shards_of_darkness_1.05_(64bit)_(35386)-1.bin",
+                    "size": "4293698046"
+                },
+                {
+                    "name": "setup_styx_shards_of_darkness_1.05_(64bit)_(35386)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_styx_shards_of_darkness_1.05_(64bit)_(35386)-3.bin",
+                    "size": "2664505095"
+                },
+                {
+                    "name": "setup_styx_shards_of_darkness_1.05_(64bit)_(35386).exe",
+                    "size": "1276504"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C29A847529",
+                            "link": "https://filecrypt.cc/Container/C29A847529"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E793F5201E",
+                            "link": "https://filecrypt.cc/Container/E793F5201E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1A8DDAAC33",
+                            "link": "https://filecrypt.cc/Container/1A8DDAAC33"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

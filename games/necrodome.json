@@ -1,0 +1,68 @@
+{
+    "href": "/game/necrodome",
+    "MSG": {
+        "id": "1204965015",
+        "title": "Necrodome",
+        "slug": "necrodome",
+        "thumb_id": "b22b56f0e39a00922a03dd89962a3f53c704cc9146aa7bde3e4c561eb3400986",
+        "bg_id": "392fd3df4581a144c497e3c7fe5fea21323c278600bced36e290f2b16157a1d0",
+        "url": "https://www.gog.com/en/game/necrodome",
+        "developer": "Raven Software",
+        "publisher": "SNEG",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710718550",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_necrodome_1.2_(65863).exe",
+                    "size": "176922984"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DEA2F7384E",
+                            "link": "https://filecrypt.cc/Container/DEA2F7384E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AB8030A731",
+                            "link": "https://filecrypt.cc/Container/AB8030A731"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CD458850F1",
+                            "link": "https://filecrypt.cc/Container/CD458850F1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

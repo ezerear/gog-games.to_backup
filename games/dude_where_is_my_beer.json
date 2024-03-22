@@ -1,0 +1,97 @@
+{
+    "href": "/game/dude_where_is_my_beer",
+    "MSG": {
+        "id": "1111609338",
+        "title": "Dude, Where Is My Beer?",
+        "slug": "dude_where_is_my_beer",
+        "thumb_id": "865dee89ad83f57c7df1e3f79a909d8ad96e8e48d0cef3b7bd22e20a8fdc54d2",
+        "bg_id": "1d923e603823be1bb9c1ffbafbd416f5f9e2ae193a18297ed5e05cab43dc46a3",
+        "url": "https://www.gog.com/en/game/dude_where_is_my_beer",
+        "developer": "Arik Games, Edo Brenes",
+        "publisher": "Arik Games, WhisperGames",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710150422",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dude_where_is_my_beer_11_(67604).exe",
+                    "size": "453842120"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "dude_where_is_my_beer_illustrated_walkthrough.zip",
+                    "size": "15980166"
+                },
+                {
+                    "name": "dude_where_is_my_beer_soundtrack_mp3.zip",
+                    "size": "43923003"
+                },
+                {
+                    "name": "dude_where_is_my_beer_soundtrack_wav.zip",
+                    "size": "350922861"
+                },
+                {
+                    "name": "dude_where_is_my_beer_wallpapers.zip",
+                    "size": "7546394"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/103B4211FB",
+                            "link": "https://filecrypt.cc/Container/103B4211FB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CCE07EE7B2",
+                            "link": "https://filecrypt.cc/Container/CCE07EE7B2"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B2455A287F",
+                            "link": "https://filecrypt.cc/Container/B2455A287F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/72D836A53A",
+                            "link": "https://filecrypt.cc/Container/72D836A53A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,125 @@
+{
+    "href": "/game/ys_origin",
+    "MSG": {
+        "id": "1422357892",
+        "title": "Ys Origin",
+        "slug": "ys_origin",
+        "thumb_id": "ece9c04b10be499f431cf50e1348f45c710ec009f0d686b95fa63351b17c953c",
+        "bg_id": "08d56c8b91d17e34f68d63a6c19664d28ef33d54e835880a2524bf6a928321f0",
+        "url": "https://www.gog.com/game/ys_origin",
+        "developer": "Nihon Falcom Corporation",
+        "publisher": "XSEED Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709471523",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_ys_origin_2024-01-08_(70321)-1.bin",
+                    "size": "3240748309"
+                },
+                {
+                    "name": "setup_ys_origin_2024-01-08_(70321)-1.bin",
+                    "size": "3240748309"
+                },
+                {
+                    "name": "setup_ys_origin_2024-01-08_(70321).exe",
+                    "size": "827904"
+                },
+                {
+                    "name": "setup_ys_origin_2024-01-08_(70321).exe",
+                    "size": "827904"
+                }
+            ],
+            "PATCHES": [
+                {
+                    "name": "patch_ys_origin_2023-12-08_(69564)_to_2024-01-08_(70321).exe",
+                    "size": "4174920"
+                }
+            ],
+            "GOODIES": [
+                {
+                    "name": "ys_origin_avatars.zip",
+                    "size": "3080816"
+                },
+                {
+                    "name": "ys_origin_avatars.zip",
+                    "size": "3080816"
+                },
+                {
+                    "name": "ys_origin_wallpapers.zip",
+                    "size": "8145521"
+                },
+                {
+                    "name": "ys_origin_wallpapers.zip",
+                    "size": "8145521"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DEA3E321A9",
+                            "link": "https://filecrypt.cc/Container/DEA3E321A9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D0020C1332",
+                            "link": "https://filecrypt.cc/Container/D0020C1332"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/507EDFDFF4",
+                            "link": "https://filecrypt.cc/Container/507EDFDFF4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E6463EDEDD",
+                            "link": "https://filecrypt.cc/Container/E6463EDEDD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A5D887C647",
+                            "link": "https://filecrypt.cc/Container/A5D887C647"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

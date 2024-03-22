@@ -1,0 +1,76 @@
+{
+    "href": "/game/rain_world",
+    "MSG": {
+        "id": "1541665964",
+        "title": "Rain World",
+        "slug": "rain_world",
+        "thumb_id": "6910d41fb07e3ffabc89c9080294ff3496644d02f711862dc9a93aac725aebc9",
+        "bg_id": "c8f88ed590b5eebddc577ea51a85dfd2e0932efa4f7eb72a5d9d31fe711de9fe",
+        "url": "https://www.gog.com/game/rain_world",
+        "developer": "Videocult",
+        "publisher": "Adult Swim",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710855971",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_rain_world_03-21-2023-1.9.07b-v3_(63290)-1.bin",
+                    "size": "2549955752"
+                },
+                {
+                    "name": "setup_rain_world_03-21-2023-1.9.07b-v3_(63290).exe",
+                    "size": "1641896"
+                },
+                {
+                    "name": "setup_rain_world_downpour_03-21-2023-1.9.07b-v3_(63290).exe",
+                    "size": "1577594096"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/944B3FB408",
+                            "link": "https://filecrypt.cc/Container/944B3FB408"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C98A2B9253",
+                            "link": "https://filecrypt.cc/Container/C98A2B9253"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1FE66F4116",
+                            "link": "https://filecrypt.cc/Container/1FE66F4116"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

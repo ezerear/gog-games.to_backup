@@ -1,0 +1,115 @@
+{
+    "href": "/game/day_of_the_tentacle_remastered",
+    "MSG": {
+        "id": "1456922969",
+        "title": "Day of the Tentacle Remastered",
+        "slug": "day_of_the_tentacle_remastered",
+        "thumb_id": "43a2a0623cd34a36b85b6c17ade499bfdd69481324c41dda0444ef8e46652b49",
+        "bg_id": "5f6bbebc1c2891a3aab165322bd015bdc3539434f862b9268ce04de6ca19955c",
+        "url": "https://www.gog.com/game/day_of_the_tentacle_remastered",
+        "developer": "Double Fine Productions",
+        "publisher": "Double Fine Productions",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709147848",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_day_of_the_tentacle_remastered_1.3.11_(b)_(46979)-1.bin",
+                    "size": "2387110740"
+                },
+                {
+                    "name": "setup_day_of_the_tentacle_remastered_1.3.11_(b)_(46979).exe",
+                    "size": "802584"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "dott_mobile_wallpapers.zip",
+                    "size": "2690530"
+                },
+                {
+                    "name": "dott_wallpapers.zip",
+                    "size": "3856168"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8D091F2175",
+                            "link": "https://filecrypt.cc/Container/8D091F2175"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D6910D359D",
+                            "link": "https://filecrypt.cc/Container/D6910D359D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/79F893F0AF",
+                            "link": "https://filecrypt.cc/Container/79F893F0AF"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E9C5D9660F",
+                            "link": "https://filecrypt.cc/Container/E9C5D9660F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/42AE652E17",
+                            "link": "https://filecrypt.cc/Container/42AE652E17"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/62852B282B",
+                            "link": "https://filecrypt.cc/Container/62852B282B"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

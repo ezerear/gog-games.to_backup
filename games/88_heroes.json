@@ -1,0 +1,68 @@
+{
+    "href": "/game/88_heroes",
+    "MSG": {
+        "id": "2115164708",
+        "title": "88 Heroes",
+        "slug": "88_heroes",
+        "thumb_id": "31f103a918be21284e807a83212759f2c8da5c1cdf1add29fc561b8c8cdad624",
+        "bg_id": "560d8e6a8b5ab3d20b1b528b0751e0f46ec451f489dbb0fe0ec3796694691da9",
+        "url": "https://www.gog.com/game/88_heroes",
+        "developer": "Bitmap Bureau",
+        "publisher": "Rising Star Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709466662",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_88_heroes_64_gog-1_(10716).exe",
+                    "size": "307270856"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DA70BE9F32",
+                            "link": "https://filecrypt.cc/Container/DA70BE9F32"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E2C1FCAC6F",
+                            "link": "https://filecrypt.cc/Container/E2C1FCAC6F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8B62972939",
+                            "link": "https://filecrypt.cc/Container/8B62972939"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

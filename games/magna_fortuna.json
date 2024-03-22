@@ -1,0 +1,98 @@
+{
+    "href": "/game/magna_fortuna",
+    "MSG": {
+        "id": "1646415448",
+        "title": "Magna Fortuna",
+        "slug": "magna_fortuna",
+        "thumb_id": "96c4c1345343f4769cd653b705fdefcd5f606cf8733bc9168e1e529027017f52",
+        "bg_id": "c9ca80ca7f4fab0e69a2aef6d237fc11aea4b47e1eeaab0ff845d64a1ee86987",
+        "url": "https://www.gog.com/en/game/magna_fortuna",
+        "developer": "DOPPELGESICHT",
+        "publisher": "Kagura Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1693880916",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_magna_fortuna_unrated_v1_(en_1.04_cn_1.02)_(54862)-1.bin",
+                    "size": "1117902898"
+                },
+                {
+                    "name": "setup_magna_fortuna_unrated_v1_(en_1.04_cn_1.02)_(54862).exe",
+                    "size": "2154304"
+                },
+                {
+                    "name": "setup_magna_fortuna_v1_(en_1.04_cn_1.02)_(54862).exe",
+                    "size": "508527696"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7AEAAEDF3A",
+                            "link": "https://filecrypt.cc/Container/7AEAAEDF3A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C9FB2E9AC5",
+                            "link": "https://filecrypt.cc/Container/C9FB2E9AC5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8583B731F4",
+                            "link": "https://filecrypt.cc/Container/8583B731F4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EE015A8E10",
+                            "link": "https://filecrypt.cc/Container/EE015A8E10"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4D80EA6320",
+                            "link": "https://filecrypt.cc/Container/4D80EA6320"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

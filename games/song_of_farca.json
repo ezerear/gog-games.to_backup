@@ -1,0 +1,79 @@
+{
+    "href": "/game/song_of_farca",
+    "MSG": {
+        "id": "1574931896",
+        "title": "Song of Farca",
+        "slug": "song_of_farca",
+        "thumb_id": "5b87c35333997e84b1cd54dcedc09928f6e17d9310c1ffdcabd99e1b8e012d22",
+        "bg_id": "ac2f52d98be5f961995e3d579ff027f4d8eb09ea34b914889fc8427b624f9af9",
+        "url": "https://www.gog.com/game/song_of_farca",
+        "developer": "Wooden Monkeys",
+        "publisher": "Alawar Premium",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708252250",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_song_of_farca_1.0.2.25_(64bit)_(65361).exe",
+                    "size": "1508742512"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/159000039D",
+                            "link": "https://filecrypt.cc/Container/159000039D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D317CADE4F",
+                            "link": "https://filecrypt.cc/Container/D317CADE4F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8615C3BF3E",
+                            "link": "https://filecrypt.cc/Container/8615C3BF3E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C70C211B59",
+                            "link": "https://filecrypt.cc/Container/C70C211B59"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

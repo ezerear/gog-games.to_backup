@@ -1,0 +1,83 @@
+{
+    "href": "/game/colossal_cave_vr",
+    "MSG": {
+        "id": "1985428841",
+        "title": "Colossal Cave VR",
+        "slug": "colossal_cave_vr",
+        "thumb_id": "fe8613d520df112c7492e77af452dfbbc39d7292548fd9ed102403f64136902e",
+        "bg_id": "4b25ec1120aa85945ad61156b02ee98c1f1401a62a73c48d0edf8f2b2ed93c01",
+        "url": "https://www.gog.com/en/game/colossal_cave_vr",
+        "developer": "Cygnus Entertainment",
+        "publisher": "Cygnus Entertainment",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1705880454",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_colossal_cave_vr_2.0.23982_(64bit)_(69602)-1.bin",
+                    "size": "4091741519"
+                },
+                {
+                    "name": "setup_colossal_cave_vr_2.0.23982_(64bit)_(69602).exe",
+                    "size": "916480"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6B88FBB64B",
+                            "link": "https://filecrypt.cc/Container/6B88FBB64B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/64FA4EC5BB",
+                            "link": "https://filecrypt.cc/Container/64FA4EC5BB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F497ED2818",
+                            "link": "https://filecrypt.cc/Container/F497ED2818"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F342E2C3B0",
+                            "link": "https://filecrypt.cc/Container/F342E2C3B0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

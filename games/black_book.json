@@ -1,0 +1,98 @@
+{
+    "href": "/game/black_book",
+    "MSG": {
+        "id": "2098791460",
+        "title": "Black Book",
+        "slug": "black_book",
+        "thumb_id": "ee98ec1be84b3fa0c3e4a98c3fd7abe4727469023ac2ed4864d1c588b17a363e",
+        "bg_id": "e9db8b5bb86f9b514ac2534e926d49689366d7331fcf5157d26340d8b4db4c51",
+        "url": "https://www.gog.com/game/black_book",
+        "developer": "Morteshka",
+        "publisher": "HypeTrain Digital",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1706765030",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_black_book_-_endless_battles_1.0.36_(64bit)_(53852).exe",
+                    "size": "5345872"
+                },
+                {
+                    "name": "setup_black_book_1.0.36_(64bit)_(53852)-1.bin",
+                    "size": "1945297623"
+                },
+                {
+                    "name": "setup_black_book_1.0.36_(64bit)_(53852).exe",
+                    "size": "1446104"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/28062AD39B",
+                            "link": "https://filecrypt.cc/Container/28062AD39B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/88661A5FD7",
+                            "link": "https://filecrypt.cc/Container/88661A5FD7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/187CE77251",
+                            "link": "https://filecrypt.cc/Container/187CE77251"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7EDAA9A338",
+                            "link": "https://filecrypt.cc/Container/7EDAA9A338"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/025E8663B1",
+                            "link": "https://filecrypt.cc/Container/025E8663B1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

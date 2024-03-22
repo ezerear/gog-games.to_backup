@@ -1,0 +1,94 @@
+{
+    "href": "/game/parquet",
+    "MSG": {
+        "id": "2042701637",
+        "title": "Parquet",
+        "slug": "parquet",
+        "thumb_id": "0aec8f9ec20861ab43a515fd5d4fe79d6ca7aaf0f7473dea066cac2b3673baea",
+        "bg_id": "8ac1ec8746dc7acfb2cb0c9ee0e4c30d6cb31458d3b5746f64869560e643f911",
+        "url": "https://www.gog.com/en/game/parquet",
+        "developer": "Yuzusoft",
+        "publisher": "NekoNyan Ltd., HIKARI FIELD",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1703845066",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_parquet_gog_1.1_(56077)-1.bin",
+                    "size": "2687300432"
+                },
+                {
+                    "name": "setup_parquet_gog_1.1_(56077).exe",
+                    "size": "819272"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6F40587F12",
+                            "link": "https://filecrypt.cc/Container/6F40587F12"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/95BD826161",
+                            "link": "https://filecrypt.cc/Container/95BD826161"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/918149365A",
+                            "link": "https://filecrypt.cc/Container/918149365A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/96E9E61432",
+                            "link": "https://filecrypt.cc/Container/96E9E61432"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E9830AA232",
+                            "link": "https://filecrypt.cc/Container/E9830AA232"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,76 @@
+{
+    "href": "/game/alekhines_gun",
+    "MSG": {
+        "id": "1242327312",
+        "title": "Alekhine's Gun",
+        "slug": "alekhines_gun",
+        "thumb_id": "f897a8e205d89e59ff55c6eeb9d4bf32584872eb61656949452bac1ca7349bae",
+        "bg_id": "f2aef2e5871cb406a6c887c772dc156b501de08f2a593b3dba05510be6c83944",
+        "url": "https://www.gog.com/game/alekhines_gun",
+        "developer": "Haggard Games",
+        "publisher": "1C Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709188100",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_alekhines_gun_1.02_(51226)-1.bin",
+                    "size": "4291869182"
+                },
+                {
+                    "name": "setup_alekhines_gun_1.02_(51226)-2.bin",
+                    "size": "220428468"
+                },
+                {
+                    "name": "setup_alekhines_gun_1.02_(51226).exe",
+                    "size": "3104712"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/644198B768",
+                            "link": "https://filecrypt.cc/Container/644198B768"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D5B67B32E6",
+                            "link": "https://filecrypt.cc/Container/D5B67B32E6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9F969EA915",
+                            "link": "https://filecrypt.cc/Container/9F969EA915"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

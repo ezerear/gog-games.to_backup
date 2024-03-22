@@ -1,0 +1,80 @@
+{
+    "href": "/game/sir_whoopass_immortal_death",
+    "MSG": {
+        "id": "1542885660",
+        "title": "Sir Whoopass™: Immortal Death",
+        "slug": "sir_whoopass_immortal_death",
+        "thumb_id": "f522518d537bdec3d0a4ada02b17c9e09aefaff6e5d76e15e152d02cad12acf4",
+        "bg_id": "60262ee575f28f3f81fc73385f6b0b054a79610366df8a3aee751d126a322ecd",
+        "url": "https://www.gog.com/en/game/sir_whoopass_immortal_death",
+        "developer": "Atomic Elbow",
+        "publisher": "Atomic Elbow",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710377705",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sir_whoopasstm_immortal_death_1172_(64bit)_(71608)-1.bin",
+                    "size": "4293865470"
+                },
+                {
+                    "name": "setup_sir_whoopasstm_immortal_death_1172_(64bit)_(71608)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_sir_whoopasstm_immortal_death_1172_(64bit)_(71608)-3.bin",
+                    "size": "3651339520"
+                },
+                {
+                    "name": "setup_sir_whoopasstm_immortal_death_1172_(64bit)_(71608).exe",
+                    "size": "1109056"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7D24E38299",
+                            "link": "https://filecrypt.cc/Container/7D24E38299"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B53D09541C",
+                            "link": "https://filecrypt.cc/Container/B53D09541C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0E8260A0F6",
+                            "link": "https://filecrypt.cc/Container/0E8260A0F6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

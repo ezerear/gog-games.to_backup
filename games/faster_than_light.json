@@ -1,0 +1,108 @@
+{
+    "href": "/game/faster_than_light",
+    "MSG": {
+        "id": "1207659102",
+        "title": "FTL: Advanced Edition",
+        "slug": "faster_than_light",
+        "thumb_id": "fe90dedf8152977f2bfd50a3484502fe656dea81c8a9d6b95771c1bb8da91f88",
+        "bg_id": "0d26a7620af0420c9ddf181039c7b2735f4e4ba356cf040009e907672aa9bb13",
+        "url": "https://www.gog.com/game/faster_than_light",
+        "developer": "Subset Games",
+        "publisher": "Subset Games",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1709385731",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_ftl_advanced_edition_1.6.13b_(36400).exe",
+                    "size": "237135208"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "ftl_artworks.zip",
+                    "size": "1521726"
+                },
+                {
+                    "name": "ftl_avatars.zip",
+                    "size": "98004"
+                },
+                {
+                    "name": "ftl_soundtrack_sample.zip",
+                    "size": "26905172"
+                },
+                {
+                    "name": "ftl_wallpaper.zip",
+                    "size": "1488782"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B5CF15AE0E",
+                            "link": "https://filecrypt.cc/Container/B5CF15AE0E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7E9A1EFD65",
+                            "link": "https://filecrypt.cc/Container/7E9A1EFD65"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5494B1279E",
+                            "link": "https://filecrypt.cc/Container/5494B1279E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D5A5BB63C4",
+                            "link": "https://filecrypt.cc/Container/D5A5BB63C4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2AC2E266FD",
+                            "link": "https://filecrypt.cc/Container/2AC2E266FD"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

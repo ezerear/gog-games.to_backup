@@ -1,0 +1,68 @@
+{
+    "href": "/game/the_silent_age",
+    "MSG": {
+        "id": "1228006877",
+        "title": "The Silent Age",
+        "slug": "the_silent_age",
+        "thumb_id": "e0a75f4a0daf36714846c3cbfb8c2c9af8942aeda958c1993e227566f14fefe9",
+        "bg_id": "60993cfd9adf24890a8cdb4aab4e1b1584d689e1e45ddcb7c497a82c24e3fe08",
+        "url": "https://www.gog.com/game/the_silent_age",
+        "developer": "House On Fire",
+        "publisher": "Meridian4",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710055973",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_silent_age_1.0_(53000).exe",
+                    "size": "348553360"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/26AABF147D",
+                            "link": "https://filecrypt.cc/Container/26AABF147D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/98115DBD1F",
+                            "link": "https://filecrypt.cc/Container/98115DBD1F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E31A901CE4",
+                            "link": "https://filecrypt.cc/Container/E31A901CE4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,123 @@
+{
+    "href": "/game/goliath",
+    "MSG": {
+        "id": "1514020096",
+        "title": "Goliath",
+        "slug": "goliath",
+        "thumb_id": "bc806071cd8ec0809b77dcca6e249f77ea82138657c4ff1594610a2c892f3222",
+        "bg_id": "f83007c185802a1c2cf94e35bb6816812f04a64e25908e902f0a110741e406cb",
+        "url": "https://www.gog.com/game/goliath",
+        "developer": "Whalebox",
+        "publisher": "Octopus Tree",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709067799",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_goliath_-_summertime_gnarkness_dlc_german_localisation_patch_(16930).exe",
+                    "size": "5622240"
+                },
+                {
+                    "name": "setup_goliath_german_localisation_patch_(16930).exe",
+                    "size": "763638504"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "GOG-GoliathArtbook_high.zip",
+                    "size": "214471677"
+                },
+                {
+                    "name": "GOG-GoliathArtbook_low.zip",
+                    "size": "3768998"
+                },
+                {
+                    "name": "goliath_avatars_jpeg.zip",
+                    "size": "142353"
+                },
+                {
+                    "name": "goliath_wallpapers_jpeg.zip",
+                    "size": "8971939"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E3A167982D",
+                            "link": "https://filecrypt.cc/Container/E3A167982D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6D09D30D7E",
+                            "link": "https://filecrypt.cc/Container/6D09D30D7E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FDCDE7EEC1",
+                            "link": "https://filecrypt.cc/Container/FDCDE7EEC1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7A1E682871",
+                            "link": "https://filecrypt.cc/Container/7A1E682871"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/849A008026",
+                            "link": "https://filecrypt.cc/Container/849A008026"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BF409AD77E",
+                            "link": "https://filecrypt.cc/Container/BF409AD77E"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

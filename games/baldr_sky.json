@@ -1,0 +1,65 @@
+{
+    "href": "/game/baldr_sky",
+    "MSG": {
+        "id": "1155019454",
+        "title": "Baldr Sky",
+        "slug": "baldr_sky",
+        "thumb_id": "42f797ad1bc44e0e773102cc88e3a049a6b14643114e8f64112f3d26435b9eaf",
+        "bg_id": "4fa64a0f15601f37ab0a100c96eb8ec5c6f3287eab877f2d47e4ebc27e33d3d0",
+        "url": "https://www.gog.com/game/baldr_sky",
+        "developer": "GIGA",
+        "publisher": "Sekai Project",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709008447",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_baldr_sky_1.01_(44180)-1.bin",
+                    "size": "4294079998"
+                },
+                {
+                    "name": "setup_baldr_sky_1.01_(44180)-2.bin",
+                    "size": "3685357212"
+                },
+                {
+                    "name": "setup_baldr_sky_1.01_(44180).exe",
+                    "size": "893872"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/71FD2E3E6E",
+                            "link": "https://filecrypt.cc/Container/71FD2E3E6E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/05015117C7",
+                            "link": "https://filecrypt.cc/Container/05015117C7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

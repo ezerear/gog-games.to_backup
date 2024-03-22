@@ -1,0 +1,143 @@
+{
+    "href": "/game/arcania",
+    "MSG": {
+        "id": "1244052225",
+        "title": "ArcaniA",
+        "slug": "arcania",
+        "thumb_id": "604fdd9371b7cb54a1ed66cd8674bf31ccfb7463637a9f20c696a96e3210101c",
+        "bg_id": "557b135677d3a39b3173c4da5a4c9435b5e9773facadb297e8e453a3dd3d6a2e",
+        "url": "https://www.gog.com/game/arcania",
+        "developer": "Spellbound Studios",
+        "publisher": "THQ Nordic GmbH",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708271760",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_arcania_2.0.0.2-1.bin",
+                    "size": "4194304000"
+                },
+                {
+                    "name": "setup_arcania_2.0.0.2-2.bin",
+                    "size": "2245467996"
+                },
+                {
+                    "name": "setup_arcania_2.0.0.2.exe",
+                    "size": "32804088"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "arcania_manual.zip",
+                    "size": "893327"
+                },
+                {
+                    "name": "arcania_manual_cz_sk.zip",
+                    "size": "24231240"
+                },
+                {
+                    "name": "arcania_manual_de.zip",
+                    "size": "897149"
+                },
+                {
+                    "name": "arcania_manual_es.zip",
+                    "size": "895834"
+                },
+                {
+                    "name": "arcania_manual_fr.zip",
+                    "size": "905421"
+                },
+                {
+                    "name": "arcania_manual_hu.zip",
+                    "size": "5184607"
+                },
+                {
+                    "name": "arcania_manual_it.zip",
+                    "size": "895020"
+                },
+                {
+                    "name": "arcania_manual_pl.zip",
+                    "size": "19228918"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/43D4FF0046",
+                            "link": "https://filecrypt.cc/Container/43D4FF0046"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5A84F0486D",
+                            "link": "https://filecrypt.cc/Container/5A84F0486D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5C07099E26",
+                            "link": "https://filecrypt.cc/Container/5C07099E26"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DF35F84FA4",
+                            "link": "https://filecrypt.cc/Container/DF35F84FA4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8CB72FF185",
+                            "link": "https://filecrypt.cc/Container/8CB72FF185"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D85E03854B",
+                            "link": "https://filecrypt.cc/Container/D85E03854B"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

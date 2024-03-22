@@ -1,0 +1,111 @@
+{
+    "href": "/game/pikuniku",
+    "MSG": {
+        "id": "1246381210",
+        "title": "Pikuniku",
+        "slug": "pikuniku",
+        "thumb_id": "8a00026186a92125265f56006bab13eddf3ce4eab0dee74f4a81c429cda1fcbf",
+        "bg_id": "adafa47e9b87da5f7a4c6b8151d5fa9378d90c67601e418d653359ca0f1994f0",
+        "url": "https://www.gog.com/game/pikuniku",
+        "developer": "Arnaud De Bock, Rémi Forcadell, Alan Zucconi, Calum Bowen",
+        "publisher": "Devolver Digital",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710462054",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_pikuniku_1.0.5-gog1_(64bit)_(27230).exe",
+                    "size": "148780824"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "pikuniku_comic_book.zip",
+                    "size": "21051523"
+                },
+                {
+                    "name": "pikuniku_soundtrack_mp3.zip",
+                    "size": "75009709"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/28E3EA8318",
+                            "link": "https://filecrypt.cc/Container/28E3EA8318"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/51A54E9C14",
+                            "link": "https://filecrypt.cc/Container/51A54E9C14"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7F53021C7A",
+                            "link": "https://filecrypt.cc/Container/7F53021C7A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0C8DB897BB",
+                            "link": "https://filecrypt.cc/Container/0C8DB897BB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D5DCED19E1",
+                            "link": "https://filecrypt.cc/Container/D5DCED19E1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AD04BD2220",
+                            "link": "https://filecrypt.cc/Container/AD04BD2220"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

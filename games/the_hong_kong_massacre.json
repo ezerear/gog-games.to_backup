@@ -1,0 +1,72 @@
+{
+    "href": "/game/the_hong_kong_massacre",
+    "MSG": {
+        "id": "1264181354",
+        "title": "The Hong Kong Massacre",
+        "slug": "the_hong_kong_massacre",
+        "thumb_id": "6ed4b8988b11fdbb98d6e560ff8b78e87f537a1e0dfe03e3a98a731eabf95add",
+        "bg_id": "463c4d7251bd2d23281dc8640df56881746077629e002412544fb083c9770314",
+        "url": "https://www.gog.com/en/game/the_hong_kong_massacre",
+        "developer": "VRESKI",
+        "publisher": "Untold Tales",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1708471926",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_hong_kong_massacre_1.03_(60756)-1.bin",
+                    "size": "2818639446"
+                },
+                {
+                    "name": "setup_the_hong_kong_massacre_1.03_(60756).exe",
+                    "size": "1030584"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A8840AF771",
+                            "link": "https://filecrypt.cc/Container/A8840AF771"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DD5CC31780",
+                            "link": "https://filecrypt.cc/Container/DD5CC31780"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0CA28279CD",
+                            "link": "https://filecrypt.cc/Container/0CA28279CD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

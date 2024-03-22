@@ -1,0 +1,90 @@
+{
+    "href": "/game/motor_mash",
+    "MSG": {
+        "id": "1158255698",
+        "title": "Motor Mash",
+        "slug": "motor_mash",
+        "thumb_id": "8121de930b07d6309f40d40e47bcd859a48ef6be502d2e0e6919852db4fb0cd0",
+        "bg_id": "c7ce59dc32dc556d8749c78f0becd72c5b66e8869f4d8139882a490732e89361",
+        "url": "https://www.gog.com/en/game/motor_mash",
+        "developer": "Ocean Software",
+        "publisher": "Piko Interactive",
+        "category": "Racing",
+        "uploading": "0",
+        "last_upload": "1707021989",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_motor_mash_1.0_(60662).exe",
+                    "size": "258651648"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D1F2907A94",
+                            "link": "https://filecrypt.cc/Container/D1F2907A94"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CF5823A292",
+                            "link": "https://filecrypt.cc/Container/CF5823A292"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/32CB89C336",
+                            "link": "https://filecrypt.cc/Container/32CB89C336"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E18E805921",
+                            "link": "https://filecrypt.cc/Container/E18E805921"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9C27362B06",
+                            "link": "https://filecrypt.cc/Container/9C27362B06"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/ziggurat",
+    "MSG": {
+        "id": "1437564865",
+        "title": "Ziggurat",
+        "slug": "ziggurat",
+        "thumb_id": "5e9c09af5337016b2b11adbbd29c14d4224605c551c113ab672e470f45e01d20",
+        "bg_id": "48c553f6bffd30feccae7280546a9d5b66cb0e192091c2f3cf5991953e9cb792",
+        "url": "https://www.gog.com/game/ziggurat",
+        "developer": "Milkstone Studios",
+        "publisher": "Milkstone Studios",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1708752057",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_ziggurat_2018-05-08_(20608).exe",
+                    "size": "696115448"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4B06BC928B",
+                            "link": "https://filecrypt.cc/Container/4B06BC928B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C6AC2BAB30",
+                            "link": "https://filecrypt.cc/Container/C6AC2BAB30"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EEB3DA2715",
+                            "link": "https://filecrypt.cc/Container/EEB3DA2715"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

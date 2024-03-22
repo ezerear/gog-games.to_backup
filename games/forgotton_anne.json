@@ -1,0 +1,157 @@
+{
+    "href": "/game/forgotton_anne",
+    "MSG": {
+        "id": "2133872469",
+        "title": "Forgotton Anne",
+        "slug": "forgotton_anne",
+        "thumb_id": "46d5e10a1af798bc003636eb1373da31f9de1629aca1ef44040e2dbe0d5c1b92",
+        "bg_id": "037f89db51cd9fca744f1b17b92d3f4634cf8ea29063816877232a3fcd99cfc4",
+        "url": "https://www.gog.com/game/forgotton_anne",
+        "developer": "ThroughLine Games",
+        "publisher": "ThroughLine Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1703503969",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_forgotton_anne_5.5.3_(29552)-1.bin",
+                    "size": "4293950462"
+                },
+                {
+                    "name": "setup_forgotton_anne_5.5.3_(29552)-2.bin",
+                    "size": "72461579"
+                },
+                {
+                    "name": "setup_forgotton_anne_5.5.3_(29552).exe",
+                    "size": "1023760"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "fa_animation_frames.zip",
+                    "size": "40770280"
+                },
+                {
+                    "name": "fa_artbook.zip",
+                    "size": "152189160"
+                },
+                {
+                    "name": "fa_early_prototype.zip",
+                    "size": "413142960"
+                },
+                {
+                    "name": "fa_music_sheet_to_Anne.zip",
+                    "size": "11019748"
+                },
+                {
+                    "name": "fa_ost_orchestral_edition_flac.zip",
+                    "size": "183968538"
+                },
+                {
+                    "name": "fa_ost_orchestral_edition_mp3.zip",
+                    "size": "105968190"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DB614FEADB",
+                            "link": "https://filecrypt.cc/Container/DB614FEADB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F0EBD8F077",
+                            "link": "https://filecrypt.cc/Container/F0EBD8F077"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8F2CE6FFAF",
+                            "link": "https://filecrypt.cc/Container/8F2CE6FFAF"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F07FB0529F",
+                            "link": "https://filecrypt.cc/Container/F07FB0529F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B4AB8D18D3",
+                            "link": "https://filecrypt.cc/Container/B4AB8D18D3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/213521997B",
+                            "link": "https://filecrypt.cc/Container/213521997B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/969FA450B0",
+                            "link": "https://filecrypt.cc/Container/969FA450B0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/17D010822C",
+                            "link": "https://filecrypt.cc/Container/17D010822C"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

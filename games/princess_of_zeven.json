@@ -1,0 +1,83 @@
+{
+    "href": "/game/princess_of_zeven",
+    "MSG": {
+        "id": "1477885508",
+        "title": "Princess of Zeven",
+        "slug": "princess_of_zeven",
+        "thumb_id": "9666293de38cd20d5b97e799733ce9950f1c65c5d7237688bca908aa119fcca8",
+        "bg_id": "6881612b5ee8200e0b8392776807f7fa30a7347ac4961cab01b02a18837bfdd6",
+        "url": "https://www.gog.com/en/game/princess_of_zeven",
+        "developer": "Lovely Pretty Ultra Loving You",
+        "publisher": "Kagura Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1706456112",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_princess_of_zeven_unrated_v1_(68878).exe",
+                    "size": "431209120"
+                },
+                {
+                    "name": "setup_princess_of_zeven_v1_(68878).exe",
+                    "size": "392530112"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B5559A757F",
+                            "link": "https://filecrypt.cc/Container/B5559A757F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8F9C8E1177",
+                            "link": "https://filecrypt.cc/Container/8F9C8E1177"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/74B80384D2",
+                            "link": "https://filecrypt.cc/Container/74B80384D2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/10CAF52D65",
+                            "link": "https://filecrypt.cc/Container/10CAF52D65"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

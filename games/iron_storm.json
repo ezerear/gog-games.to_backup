@@ -1,0 +1,123 @@
+{
+    "href": "/game/iron_storm",
+    "MSG": {
+        "id": "1207658763",
+        "title": "Iron Storm",
+        "slug": "iron_storm",
+        "thumb_id": "20eb983dc1d3ee003f4e1afd6e8f94bceaa0da52bd16651d305a33a8adbdcdd5",
+        "bg_id": "f5fefbef08180e05667d52ed3596b0046c3e1e40133228795ea99737b3d8ffbb",
+        "url": "https://www.gog.com/game/iron_storm",
+        "developer": "4X Studio",
+        "publisher": "Anuman Interactive",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710503307",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_iron_storm_1.041_(21997).exe",
+                    "size": "833596464"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "iron_storm_artworks.zip",
+                    "size": "18034238"
+                },
+                {
+                    "name": "iron_storm_avatars.zip",
+                    "size": "130642"
+                },
+                {
+                    "name": "iron_storm_manual.zip",
+                    "size": "1960240"
+                },
+                {
+                    "name": "iron_storm_newspaper.zip",
+                    "size": "1319158"
+                },
+                {
+                    "name": "iron_storm_wallpapers.zip",
+                    "size": "11302284"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D2FA10795F",
+                            "link": "https://filecrypt.cc/Container/D2FA10795F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/636CE65B5A",
+                            "link": "https://filecrypt.cc/Container/636CE65B5A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/89F8DD9FFB",
+                            "link": "https://filecrypt.cc/Container/89F8DD9FFB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4BCAA46E37",
+                            "link": "https://filecrypt.cc/Container/4BCAA46E37"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/67F8741D6C",
+                            "link": "https://filecrypt.cc/Container/67F8741D6C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/75A622F431",
+                            "link": "https://filecrypt.cc/Container/75A622F431"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

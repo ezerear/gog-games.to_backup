@@ -1,0 +1,79 @@
+{
+    "href": "/game/bleeding_moons",
+    "MSG": {
+        "id": "1983584310",
+        "title": "Bleeding Moons",
+        "slug": "bleeding_moons",
+        "thumb_id": "e7fe2fb30e632aff9c413da44512479530a4295a2aa8a07a528d49ed08f70f9a",
+        "bg_id": "bf23783bf22ac6b57441f178dc681d3907ae6490d8db01d0f5ed6f54367a4ca4",
+        "url": "https://www.gog.com/game/bleeding_moons",
+        "developer": "IAN Games",
+        "publisher": "Phoenix Online Studios",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1705929098",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_bleeding_moons_1.1_(40956).exe",
+                    "size": "277975040"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C8C9A3CC97",
+                            "link": "https://filecrypt.cc/Container/C8C9A3CC97"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F5999A23F6",
+                            "link": "https://filecrypt.cc/Container/F5999A23F6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/875F887383",
+                            "link": "https://filecrypt.cc/Container/875F887383"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/781315DD2C",
+                            "link": "https://filecrypt.cc/Container/781315DD2C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

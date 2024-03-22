@@ -1,0 +1,68 @@
+{
+    "href": "/game/godstrike",
+    "MSG": {
+        "id": "1928862443",
+        "title": "Godstrike",
+        "slug": "godstrike",
+        "thumb_id": "679053d1fc661982d517ecc7a63e1ef8cd81856be4609e89f33dfd5bea7b48ed",
+        "bg_id": "672720c3b46ed98bc0af16d9ae1caca15c070f2cf31a2406241d4640419f0ba6",
+        "url": "https://www.gog.com/en/game/godstrike",
+        "developer": "OverPowered Team",
+        "publisher": "Freedom Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710332541",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_godstrike_2023.02.13_(62433).exe",
+                    "size": "471991904"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4777AB08CD",
+                            "link": "https://filecrypt.cc/Container/4777AB08CD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/28FE8BCFF9",
+                            "link": "https://filecrypt.cc/Container/28FE8BCFF9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F17CB768B4",
+                            "link": "https://filecrypt.cc/Container/F17CB768B4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

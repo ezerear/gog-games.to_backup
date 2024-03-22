@@ -1,0 +1,83 @@
+{
+    "href": "/game/insomnis",
+    "MSG": {
+        "id": "1150159287",
+        "title": "Insomnis",
+        "slug": "insomnis",
+        "thumb_id": "21e303171b500919e590565e8c989221ef263f3807b80183fffc5fb8cad58b09",
+        "bg_id": "a540206a72c5ae5ec9af91d01aaf245568f03ea28109c5f02ca0757285b90291",
+        "url": "https://www.gog.com/en/game/insomnis",
+        "developer": "Path Games",
+        "publisher": "Gammera Nest",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1682558844",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_insomnis_1.00_(64bit)_(61624)-1.bin",
+                    "size": "4034838304"
+                },
+                {
+                    "name": "setup_insomnis_1.00_(64bit)_(61624).exe",
+                    "size": "832624"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "uploadbuzz",
+                    "name": "UploadBuzz",
+                    "icon": "<img src=\"/static/img/hoster_logos/uploadbuzz.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/KYrKcNu",
+                            "link": "https://safelinking.net/KYrKcNu"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/30D3652050",
+                            "link": "https://filecrypt.cc/Container/30D3652050"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/hsJzQQ7",
+                            "link": "https://safelinking.net/hsJzQQ7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4361703BC3",
+                            "link": "https://filecrypt.cc/Container/4361703BC3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

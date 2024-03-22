@@ -1,0 +1,68 @@
+{
+    "href": "/game/peaks_of_yore",
+    "MSG": {
+        "id": "2122440351",
+        "title": "Peaks of Yore",
+        "slug": "peaks_of_yore",
+        "thumb_id": "67024ee870aed11a2a8d1480967aeacadca71f469ab83a248916cdd9f20c6bc1",
+        "bg_id": "846eb0cac909ff5b34f4335aeb4a2a6c5c0cf4d28a93f4daa05e6afa23876a8d",
+        "url": "https://www.gog.com/en/game/peaks_of_yore",
+        "developer": "Anders Grube Jensen",
+        "publisher": "TraipseWare",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710895803",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_peaks_of_yore_1.5.4_(71914).exe",
+                    "size": "1092786232"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/24E5FCD581",
+                            "link": "https://filecrypt.cc/Container/24E5FCD581"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5778DDAFD6",
+                            "link": "https://filecrypt.cc/Container/5778DDAFD6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E0A923B0B4",
+                            "link": "https://filecrypt.cc/Container/E0A923B0B4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

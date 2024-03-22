@@ -1,0 +1,76 @@
+{
+    "href": "/game/descent_underground",
+    "MSG": {
+        "id": "1788120505",
+        "title": "Descent: Underground",
+        "slug": "descent_underground",
+        "thumb_id": "7d6651cd6dcde85a305235ea573b84c5e6d43f0d1737782e35ab88f2f4f9a24c",
+        "bg_id": "1599d6dd824bb3fcedf207c6aae18980e9c26f04eda126359eccd25f87e40ea2",
+        "url": "https://web.archive.org/web/20180104002210/https://www.gog.com/game/descent_underground",
+        "developer": "Descendent Studios",
+        "publisher": "Descendent Studios",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1706724610",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_descent_-_underground_3370-l575_(13701)-1.bin",
+                    "size": "4294176766"
+                },
+                {
+                    "name": "setup_descent_-_underground_3370-l575_(13701)-2.bin",
+                    "size": "1212513353"
+                },
+                {
+                    "name": "setup_descent_-_underground_3370-l575_(13701).exe",
+                    "size": "797600"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0D960BA28B",
+                            "link": "https://filecrypt.cc/Container/0D960BA28B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BD6C43142D",
+                            "link": "https://filecrypt.cc/Container/BD6C43142D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/410522AFEE",
+                            "link": "https://filecrypt.cc/Container/410522AFEE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

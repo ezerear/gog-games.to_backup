@@ -1,0 +1,131 @@
+{
+    "href": "/game/foundation",
+    "MSG": {
+        "id": "1446930743",
+        "title": "Foundation",
+        "slug": "foundation",
+        "thumb_id": "103d69b55b19c43a9592f2a6d895f003426b5e7889fe87ce1cb7d691e8355bec",
+        "bg_id": "9dd60a970b7c0e6786dc497779aacfb0028b119cef73c27666f20e12e6857d99",
+        "url": "https://www.gog.com/game/foundation",
+        "developer": "Polymorph Games",
+        "publisher": "Polymorph Games",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710865784",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_foundation_alpha_1.9.7.8.0206_(64bit)_(71006)-1.bin",
+                    "size": "2852173511"
+                },
+                {
+                    "name": "setup_foundation_alpha_1.9.7.8.0206_(64bit)_(71006).exe",
+                    "size": "897256"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "foundation_ost_new_flac.zip",
+                    "size": "370306966"
+                },
+                {
+                    "name": "foundation_ost_new_mp3.zip",
+                    "size": "163372676"
+                },
+                {
+                    "name": "foundation_ost_new_wav.zip",
+                    "size": "720808428"
+                },
+                {
+                    "name": "foundation_ost_updated_flac.zip",
+                    "size": "188940267"
+                },
+                {
+                    "name": "foundation_ost_updated_mp3.zip",
+                    "size": "116301504"
+                },
+                {
+                    "name": "foundation_ost_updated_wav.zip",
+                    "size": "437762807"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5FF8A4A64D",
+                            "link": "https://filecrypt.cc/Container/5FF8A4A64D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/830A2B87A7",
+                            "link": "https://filecrypt.cc/Container/830A2B87A7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A701CF1AA4",
+                            "link": "https://filecrypt.cc/Container/A701CF1AA4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/18ECB43082",
+                            "link": "https://filecrypt.cc/Container/18ECB43082"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/29D459EE2E",
+                            "link": "https://filecrypt.cc/Container/29D459EE2E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/68262A7E93",
+                            "link": "https://filecrypt.cc/Container/68262A7E93"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

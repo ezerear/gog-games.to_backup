@@ -1,0 +1,76 @@
+{
+    "href": "/game/the_bookwalker_thief_of_tales",
+    "MSG": {
+        "id": "1915718900",
+        "title": "The Bookwalker: Thief of Tales",
+        "slug": "the_bookwalker_thief_of_tales",
+        "thumb_id": "df9b0d26b8b1bfcb3bc2f85704e08ce3c61b0568af2a10b4f98cc8446b3ebb39",
+        "bg_id": "3a308b30a66b8cc38aefc26169c72031f3973c4c67b3cfe42ed90943a39b6cbc",
+        "url": "https://www.gog.com/en/game/the_bookwalker_thief_of_tales",
+        "developer": "DO MY BEST",
+        "publisher": "tinyBuild",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709756154",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_bookwalker_thief_of_tales_23.6.10_(64bit)_(65490)-1.bin",
+                    "size": "4293989374"
+                },
+                {
+                    "name": "setup_the_bookwalker_thief_of_tales_23.6.10_(64bit)_(65490)-2.bin",
+                    "size": "2514227378"
+                },
+                {
+                    "name": "setup_the_bookwalker_thief_of_tales_23.6.10_(64bit)_(65490).exe",
+                    "size": "987808"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A2D41272BD",
+                            "link": "https://filecrypt.cc/Container/A2D41272BD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/598CA8B5C8",
+                            "link": "https://filecrypt.cc/Container/598CA8B5C8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/09846F34FD",
+                            "link": "https://filecrypt.cc/Container/09846F34FD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

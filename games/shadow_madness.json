@@ -1,0 +1,79 @@
+{
+    "href": "/game/shadow_madness",
+    "MSG": {
+        "id": "1234503523",
+        "title": "Shadow Madness",
+        "slug": "shadow_madness",
+        "thumb_id": "425c6c4111239293da4a916f3a8048cd324e0ce989792f656b2088a39f13e04f",
+        "bg_id": "e4ca7923ae95a0c6c27b5c284fa39741c5b6d4a788fcb49c71f9964417f5f274",
+        "url": "https://www.gog.com/en/game/shadow_madness",
+        "developer": "Crave",
+        "publisher": "Piko Interactive",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1681957085",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_shadow_madness_1.0_(53867).exe",
+                    "size": "632405120"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CFC9428277",
+                            "link": "https://filecrypt.cc/Container/CFC9428277"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/x1U4sHw",
+                            "link": "https://safelinking.net/x1U4sHw"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E515EC0993",
+                            "link": "https://filecrypt.cc/Container/E515EC0993"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/aalew6a",
+                            "link": "https://safelinking.net/aalew6a"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,90 @@
+{
+    "href": "/game/calico",
+    "MSG": {
+        "id": "1167578660",
+        "title": "Calico",
+        "slug": "calico",
+        "thumb_id": "b9c4ffd4a38aeb18fb615ba9009f355c9e36e66394fd6c4f213fed59eec93727",
+        "bg_id": "e86b42daa755305f937eaa3a95de2ba9f076b3625f1334afe02923cffb6610ec",
+        "url": "https://www.gog.com/game/calico",
+        "developer": "Peachy Keen Games",
+        "publisher": "Whitethorn Digital, Maple Whispering Limited",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1706607554",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_calico_1.0.12_(48136).exe",
+                    "size": "456385288"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/71139658BD",
+                            "link": "https://filecrypt.cc/Container/71139658BD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C554AC94A3",
+                            "link": "https://filecrypt.cc/Container/C554AC94A3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3F2C0BB048",
+                            "link": "https://filecrypt.cc/Container/3F2C0BB048"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/48C0461966",
+                            "link": "https://filecrypt.cc/Container/48C0461966"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/74CD3C573E",
+                            "link": "https://filecrypt.cc/Container/74CD3C573E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

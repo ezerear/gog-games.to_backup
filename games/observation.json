@@ -1,0 +1,76 @@
+{
+    "href": "/game/observation",
+    "MSG": {
+        "id": "1905134496",
+        "title": "Observation",
+        "slug": "observation",
+        "thumb_id": "eb5c251ee56faa1638d77eed3765b3d0b177c9728ed3bb0a17608802390c2e18",
+        "bg_id": "d2efa21996de430326f0d1c36e16581a9a01b7c580b5da4e969e167b78049013",
+        "url": "https://www.gog.com/game/observation",
+        "developer": "No Code",
+        "publisher": "Devolver Digital",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707510038",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_observation_1.17_(64bit)_(39974)-1.bin",
+                    "size": "4294077438"
+                },
+                {
+                    "name": "setup_observation_1.17_(64bit)_(39974)-2.bin",
+                    "size": "1501396147"
+                },
+                {
+                    "name": "setup_observation_1.17_(64bit)_(39974).exe",
+                    "size": "897088"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/08413061F7",
+                            "link": "https://filecrypt.cc/Container/08413061F7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9F1ACD3014",
+                            "link": "https://filecrypt.cc/Container/9F1ACD3014"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6F62960389",
+                            "link": "https://filecrypt.cc/Container/6F62960389"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

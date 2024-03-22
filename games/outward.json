@@ -1,0 +1,151 @@
+{
+    "href": "/game/outward",
+    "MSG": {
+        "id": "2147483078",
+        "title": "Outward",
+        "slug": "outward",
+        "thumb_id": "26798725afc3445e01f5d9201abccec27a68920b6acb3c68f037842f943a0293",
+        "bg_id": "aef1685167800a61fa5c0964a91f64721548ec51297429c5a1f2f418d2de413d",
+        "url": "https://www.gog.com/game/outward",
+        "developer": "Nine Dots Studio",
+        "publisher": "Deep Silver",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710898635",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_outward_1.3.7c_(50246)-1.bin",
+                    "size": "4287113214"
+                },
+                {
+                    "name": "setup_outward_1.3.7c_(50246)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_outward_1.3.7c_(50246)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_outward_1.3.7c_(50246)-4.bin",
+                    "size": "2034470724"
+                },
+                {
+                    "name": "setup_outward_1.3.7c_(50246).exe",
+                    "size": "7860496"
+                },
+                {
+                    "name": "setup_outward_the_soroboreans_1.3.7c_(50246).exe",
+                    "size": "246353864"
+                },
+                {
+                    "name": "setup_outward_the_three_brothers_1.3.7c_(50246).exe",
+                    "size": "394667208"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "OW_OST_DLC1_mp3.zip",
+                    "size": "45953060"
+                },
+                {
+                    "name": "OW_OST_DLC1_wav.zip",
+                    "size": "647798776"
+                },
+                {
+                    "name": "OW_OST_DLC2_mp3.zip",
+                    "size": "58612120"
+                },
+                {
+                    "name": "OW_OST_DLC2_wav.zip",
+                    "size": "825401712"
+                },
+                {
+                    "name": "OW_OST_MP3.zip",
+                    "size": "106025262"
+                },
+                {
+                    "name": "OW_OST_WAV.zip",
+                    "size": "1468786024"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/90869C44E1",
+                            "link": "https://filecrypt.cc/Container/90869C44E1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/50EF1E8300",
+                            "link": "https://filecrypt.cc/Container/50EF1E8300"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3E9CF6B946",
+                            "link": "https://filecrypt.cc/Container/3E9CF6B946"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A40E35D0BB",
+                            "link": "https://filecrypt.cc/Container/A40E35D0BB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1CD56FB21C",
+                            "link": "https://filecrypt.cc/Container/1CD56FB21C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6980BB1C1A",
+                            "link": "https://filecrypt.cc/Container/6980BB1C1A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

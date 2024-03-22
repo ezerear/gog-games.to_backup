@@ -1,0 +1,84 @@
+{
+    "href": "/game/relicta",
+    "MSG": {
+        "id": "1784456497",
+        "title": "Relicta",
+        "slug": "relicta",
+        "thumb_id": "bb19869f367d9e7839986291b876e534c267944d32d3a5f0d607105dcef12037",
+        "bg_id": "a9af46e86dac89c99acd999eba2f439fa09eb598c2534e0c534e605ee155d3c9",
+        "url": "https://www.gog.com/game/relicta",
+        "developer": "Mighty Polygon",
+        "publisher": "Ravenscourt",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1700866109",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_relicta_1.10_(64bit)_(46307)-1.bin",
+                    "size": "4293774334"
+                },
+                {
+                    "name": "setup_relicta_1.10_(64bit)_(46307)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_relicta_1.10_(64bit)_(46307)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_relicta_1.10_(64bit)_(46307)-4.bin",
+                    "size": "1442320089"
+                },
+                {
+                    "name": "setup_relicta_1.10_(64bit)_(46307).exe",
+                    "size": "1199288"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/57A747E35F",
+                            "link": "https://filecrypt.cc/Container/57A747E35F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/11C71771E1",
+                            "link": "https://filecrypt.cc/Container/11C71771E1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2967011AC0",
+                            "link": "https://filecrypt.cc/Container/2967011AC0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

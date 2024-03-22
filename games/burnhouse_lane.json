@@ -1,0 +1,68 @@
+{
+    "href": "/game/burnhouse_lane",
+    "MSG": {
+        "id": "1278833730",
+        "title": "Burnhouse Lane",
+        "slug": "burnhouse_lane",
+        "thumb_id": "eec19ac029386521f51693015f6f18533fb93acd9178576522e6735e24bf2237",
+        "bg_id": "236e3f28a5eeb639a1ccd7385040d5bf42577c0602cc5833f0a1dfdcdef3a651",
+        "url": "https://www.gog.com/en/game/burnhouse_lane",
+        "developer": "Harvester Games",
+        "publisher": "Harvester Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708878310",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_burnhouse_lane_gog_1.0_(65531).exe",
+                    "size": "987050568"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/54A68054B5",
+                            "link": "https://filecrypt.cc/Container/54A68054B5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A2AC187508",
+                            "link": "https://filecrypt.cc/Container/A2AC187508"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2BFA207FCC",
+                            "link": "https://filecrypt.cc/Container/2BFA207FCC"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,135 @@
+{
+    "href": "/game/firmament",
+    "MSG": {
+        "id": "1417618902",
+        "title": "Firmament",
+        "slug": "firmament",
+        "thumb_id": "a2eea963bf1cdae2df24fc6851c9610669a1b2daf5f1472b1fd87c57c03a8195",
+        "bg_id": "5b7659324307085d766e462c31a956ff3f56adb1cd493be6289dca7f73994b78",
+        "url": "https://www.gog.com/en/game/firmament",
+        "developer": "Cyan Worlds",
+        "publisher": "Cyan Worlds",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1706771983",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_firmament_1.2.0-patch6_(64bit)_(65997)-1.bin",
+                    "size": "4293999614"
+                },
+                {
+                    "name": "setup_firmament_1.2.0-patch6_(64bit)_(65997)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_firmament_1.2.0-patch6_(64bit)_(65997)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_firmament_1.2.0-patch6_(64bit)_(65997)-4.bin",
+                    "size": "211171379"
+                },
+                {
+                    "name": "setup_firmament_1.2.0-patch6_(64bit)_(65997).exe",
+                    "size": "977840"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "firmament_digital_art_book.zip",
+                    "size": "208930726"
+                },
+                {
+                    "name": "firmament_digital_strategy_guide.zip",
+                    "size": "4946687"
+                },
+                {
+                    "name": "firmament_original_soundtrack_flac_v2.zip",
+                    "size": "498949375"
+                },
+                {
+                    "name": "firmament_original_soundtrack_mp3_v2.zip",
+                    "size": "93679058"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FA97C2A8E2",
+                            "link": "https://filecrypt.cc/Container/FA97C2A8E2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4B783C27E2",
+                            "link": "https://filecrypt.cc/Container/4B783C27E2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/91F1285750",
+                            "link": "https://filecrypt.cc/Container/91F1285750"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3E542A38A7",
+                            "link": "https://filecrypt.cc/Container/3E542A38A7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/495B2BD6EF",
+                            "link": "https://filecrypt.cc/Container/495B2BD6EF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AAD1760E2C",
+                            "link": "https://filecrypt.cc/Container/AAD1760E2C"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

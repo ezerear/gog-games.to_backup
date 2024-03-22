@@ -1,0 +1,76 @@
+{
+    "href": "/game/realms_of_arkania_star_trail_remake",
+    "MSG": {
+        "id": "1563060356",
+        "title": "Realms of Arkania: Star Trail (Remake)",
+        "slug": "realms_of_arkania_star_trail_remake",
+        "thumb_id": "03434d3b717981557c8d3faed2401768d47484618cc7ca08b121c4eea65b163c",
+        "bg_id": "a062b86c191e555274b4fe1b8a93468e046f49c96ab1e661cd1fba24e10ab5a9",
+        "url": "https://www.gog.com/en/game/realms_of_arkania_star_trail_remake",
+        "developer": "United Independent Entertainment GmbH, Crafty Studios",
+        "publisher": "United Independent Entertainment GmbH",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710420071",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_realms_of_arkania_star_trail_(remake)_1.10_(69135)-1.bin",
+                    "size": "4293507070"
+                },
+                {
+                    "name": "setup_realms_of_arkania_star_trail_(remake)_1.10_(69135)-2.bin",
+                    "size": "3080340021"
+                },
+                {
+                    "name": "setup_realms_of_arkania_star_trail_(remake)_1.10_(69135).exe",
+                    "size": "1470376"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/09716DF3E1",
+                            "link": "https://filecrypt.cc/Container/09716DF3E1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CBC2AEBD43",
+                            "link": "https://filecrypt.cc/Container/CBC2AEBD43"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1F9AEECB69",
+                            "link": "https://filecrypt.cc/Container/1F9AEECB69"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

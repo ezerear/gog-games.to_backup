@@ -1,0 +1,76 @@
+{
+    "href": "/game/de_blob_2",
+    "MSG": {
+        "id": "2070890632",
+        "title": "de Blob 2",
+        "slug": "de_blob_2",
+        "thumb_id": "059defe47b9fb42a22a516812c76ddd13692e1fbdcdcda790ad3c358d8b9a566",
+        "bg_id": "d663cea3b5f410a63512047f00cb127d5619302fd1b953712c9d2e5c0dd31299",
+        "url": "https://www.gog.com/game/de_blob_2",
+        "developer": "Blue Tongue Entertainment, Blitworks",
+        "publisher": "THQ Nordic GmbH",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1702530510",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_de_blob_2_0.19_(14892)-1.bin",
+                    "size": "4293936638"
+                },
+                {
+                    "name": "setup_de_blob_2_0.19_(14892)-2.bin",
+                    "size": "3115281061"
+                },
+                {
+                    "name": "setup_de_blob_2_0.19_(14892).exe",
+                    "size": "1037808"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D2B5B4E854",
+                            "link": "https://filecrypt.cc/Container/D2B5B4E854"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0B991E4C2C",
+                            "link": "https://filecrypt.cc/Container/0B991E4C2C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A19553D672",
+                            "link": "https://filecrypt.cc/Container/A19553D672"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

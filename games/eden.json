@@ -1,0 +1,72 @@
+{
+    "href": "/game/eden",
+    "MSG": {
+        "id": "1196354077",
+        "title": "eden*",
+        "slug": "eden",
+        "thumb_id": "a39d1c3cd172053cedc476ea7ff45c7f0eba9a8562e8df9b35783b19d5a1b568",
+        "bg_id": "6a861f68ac9789701947b2ebd22c8d1fdf373447d55850d22aad36942e352136",
+        "url": "https://www.gog.com/game/eden",
+        "developer": "minori",
+        "publisher": "MangaGamer",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709458824",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_eden_gog-1_(20817)-1.bin",
+                    "size": "2737167873"
+                },
+                {
+                    "name": "setup_eden_gog-1_(20817).exe",
+                    "size": "759952"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9D76EC9D42",
+                            "link": "https://filecrypt.cc/Container/9D76EC9D42"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/725207935E",
+                            "link": "https://filecrypt.cc/Container/725207935E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6A92220BB6",
+                            "link": "https://filecrypt.cc/Container/6A92220BB6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

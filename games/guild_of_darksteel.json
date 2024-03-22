@@ -1,0 +1,90 @@
+{
+    "href": "/game/guild_of_darksteel",
+    "MSG": {
+        "id": "2144686838",
+        "title": "Guild of Darksteel",
+        "slug": "guild_of_darksteel",
+        "thumb_id": "77a30f2986fb0bb4a7bdaa6cb99bca706496cacc81a6789b11e811c96aafc732",
+        "bg_id": "60f9e6b78ef2f7940a908678ca5f7e91461fcf778ebae39bbaa98c14a6b36b88",
+        "url": "https://www.gog.com/game/guild_of_darksteel",
+        "developer": " Igor Sandman",
+        "publisher": "Digerati",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1706615788",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_guild_of_darksteel_1.0_(64bit)_(47511).exe",
+                    "size": "67454824"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C815BBEDC4",
+                            "link": "https://filecrypt.cc/Container/C815BBEDC4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A03B2F1B6B",
+                            "link": "https://filecrypt.cc/Container/A03B2F1B6B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7BAF6981E9",
+                            "link": "https://filecrypt.cc/Container/7BAF6981E9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0A130E6A3F",
+                            "link": "https://filecrypt.cc/Container/0A130E6A3F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AC625E19D6",
+                            "link": "https://filecrypt.cc/Container/AC625E19D6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

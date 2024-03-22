@@ -1,0 +1,68 @@
+{
+    "href": "/game/mortal_kombat_3",
+    "MSG": {
+        "id": "1207667063",
+        "title": "Mortal Kombat 3",
+        "slug": "mortal_kombat_3",
+        "thumb_id": "14d3a8f7c84d4eb446caf83071d5c98c99edf01452788086d382cf802c859fbd",
+        "bg_id": "33c3f9489bcc297ecffd08c2b53db57226363a262959e36ba3d6258ff8082365",
+        "url": "https://www.gog.com/game/mortal_kombat_123",
+        "developer": "Midway Games",
+        "publisher": "Warner Bros. Interactive Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708374594",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_mortal_kombat3_2.0.0.2.exe",
+                    "size": "73802992"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/b2ikc9d",
+                            "link": "https://safelinking.net/b2ikc9d"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/3IBg8By",
+                            "link": "https://safelinking.net/3IBg8By"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/23ZWYFu",
+                            "link": "https://safelinking.net/23ZWYFu"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

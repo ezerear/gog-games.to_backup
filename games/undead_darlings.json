@@ -1,0 +1,72 @@
+{
+    "href": "/game/undead_darlings",
+    "MSG": {
+        "id": "1506893300",
+        "title": "Undead Darlings ~no cure for love~",
+        "slug": "undead_darlings",
+        "thumb_id": "7ceff2a961efd49ebbf39def9150a87df86c8e610d69cd487c6c3ec41b4c450e",
+        "bg_id": "a1b10b4429bd8ab494d7b22a031fab64c46297a1ac53d27e42731f43a3302d0d",
+        "url": "https://www.gog.com/game/undead_darlings",
+        "developer": "Mr. Tired Media",
+        "publisher": "Sekai Project",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710900803",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_undead_darlings_1.1.0_(64bit)_(49135)-1.bin",
+                    "size": "2011822817"
+                },
+                {
+                    "name": "setup_undead_darlings_1.1.0_(64bit)_(49135).exe",
+                    "size": "2075544"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F9BDE2C513",
+                            "link": "https://filecrypt.cc/Container/F9BDE2C513"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8C7B92315A",
+                            "link": "https://filecrypt.cc/Container/8C7B92315A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6347928ECE",
+                            "link": "https://filecrypt.cc/Container/6347928ECE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

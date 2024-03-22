@@ -1,0 +1,80 @@
+{
+    "href": "/game/dead_in_vinland",
+    "MSG": {
+        "id": "1990781940",
+        "title": "Dead In Vinland",
+        "slug": "dead_in_vinland",
+        "thumb_id": "38b59bed6594aad09d09cd135c44fda6c9a008dba6531a88889e096c6a8cc36d",
+        "bg_id": "df5d6bf3f664c0d98d16b725ea402b5ccf2fc716495fe49b386dd529245b57e0",
+        "url": "https://www.gog.com/game/dead_in_vinland",
+        "developer": "CCCP",
+        "publisher": "Plug In Digital",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708352064",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dead_in_vinland_-_dlc_1.4_(29004).exe",
+                    "size": "6417544"
+                },
+                {
+                    "name": "setup_dead_in_vinland_-_endless_mode_battle_of_the_heodenings_1.4_(29004).exe",
+                    "size": "6187864"
+                },
+                {
+                    "name": "setup_dead_in_vinland_-_norse_side_stories_1.4_(29004).exe",
+                    "size": "6236256"
+                },
+                {
+                    "name": "setup_dead_in_vinland_1.4_(29004).exe",
+                    "size": "701430696"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/gwrkWPS",
+                            "link": "https://safelinking.net/gwrkWPS"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/T5fPL3J",
+                            "link": "https://safelinking.net/T5fPL3J"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/qiBwTDp",
+                            "link": "https://safelinking.net/qiBwTDp"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

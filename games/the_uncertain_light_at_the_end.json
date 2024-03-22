@@ -1,0 +1,76 @@
+{
+    "href": "/game/the_uncertain_light_at_the_end",
+    "MSG": {
+        "id": "2060132780",
+        "title": "The Uncertain: Light At The End",
+        "slug": "the_uncertain_light_at_the_end",
+        "thumb_id": "213bdb9d5a98a97a89144d86f385acf03a64bf84a79b70c87368279eacfbd648",
+        "bg_id": "5f53f8db8ed8e25fd045a660f6c290b3d132ddf42c8fd85cda1bf0e44f89afb0",
+        "url": "https://www.gog.com/game/uncertain_light_at_the_end",
+        "developer": "ComonGames",
+        "publisher": "META Publishing",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709620122",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_uncertain_light_at_the_end_1.6_(46812)-1.bin",
+                    "size": "4294024190"
+                },
+                {
+                    "name": "setup_the_uncertain_light_at_the_end_1.6_(46812)-2.bin",
+                    "size": "3020001283"
+                },
+                {
+                    "name": "setup_the_uncertain_light_at_the_end_1.6_(46812).exe",
+                    "size": "949408"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/705F2230A7",
+                            "link": "https://filecrypt.cc/Container/705F2230A7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0A09001740",
+                            "link": "https://filecrypt.cc/Container/0A09001740"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/289F82B6E5",
+                            "link": "https://filecrypt.cc/Container/289F82B6E5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

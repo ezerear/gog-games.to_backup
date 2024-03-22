@@ -1,0 +1,68 @@
+{
+    "href": "/game/super_catboy",
+    "MSG": {
+        "id": "1789205383",
+        "title": "Super Catboy",
+        "slug": "super_catboy",
+        "thumb_id": "5dae679ff675bd7faab77f4329fc23f8621bdcbcc5b15d1652e88c339ec5a23e",
+        "bg_id": "82a64dc16c2744b16662647b0fa00c10a5c45787010ce5a638479c95959bc4c8",
+        "url": "https://www.gog.com/game/super_catboy",
+        "developer": "Pixelpogo",
+        "publisher": "Assemble Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708630555",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_super_catboy_win_1.0.4a_(67652).exe",
+                    "size": "250864520"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/39F02B27D5",
+                            "link": "https://filecrypt.cc/Container/39F02B27D5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F7724A660A",
+                            "link": "https://filecrypt.cc/Container/F7724A660A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A37EC7EC97",
+                            "link": "https://filecrypt.cc/Container/A37EC7EC97"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

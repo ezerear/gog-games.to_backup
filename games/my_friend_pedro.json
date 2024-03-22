@@ -1,0 +1,115 @@
+{
+    "href": "/game/my_friend_pedro",
+    "MSG": {
+        "id": "1102856701",
+        "title": "My Friend Pedro",
+        "slug": "my_friend_pedro",
+        "thumb_id": "762861befc69b31b7ae1dc7fadf5454c319c37c37647d9c0d21d624d45868636",
+        "bg_id": "ccba0f2c46dae8dd7df2c3df0dba55fc619aa55c4e465ee8431cccad3b06acb0",
+        "url": "https://www.gog.com/game/my_friend_pedro",
+        "developer": "DeadToast Entertainment",
+        "publisher": "Devolver Digital",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708471544",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_my_friend_pedro_1.03_(64bit)_(33083)-1.bin",
+                    "size": "1882148923"
+                },
+                {
+                    "name": "setup_my_friend_pedro_1.03_(64bit)_(33083).exe",
+                    "size": "846344"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "mfp_ost_mp3.zip",
+                    "size": "301277857"
+                },
+                {
+                    "name": "mfp_soundtrack_flac.zip",
+                    "size": "819781395"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3E7BB167DA",
+                            "link": "https://filecrypt.cc/Container/3E7BB167DA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4BE7CAC727",
+                            "link": "https://filecrypt.cc/Container/4BE7CAC727"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/223E27F1B0",
+                            "link": "https://filecrypt.cc/Container/223E27F1B0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C6D140AB1F",
+                            "link": "https://filecrypt.cc/Container/C6D140AB1F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AFAA5B1C33",
+                            "link": "https://filecrypt.cc/Container/AFAA5B1C33"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/75948279BB",
+                            "link": "https://filecrypt.cc/Container/75948279BB"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

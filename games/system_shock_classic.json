@@ -1,0 +1,68 @@
+{
+    "href": "/game/system_shock_classic",
+    "MSG": {
+        "id": "1442473063",
+        "title": "System Shock: Classic Edition",
+        "slug": "system_shock_classic",
+        "thumb_id": "e9605054a689acefef7ccd75c3c9387e540d68dbf0030efeec354706c6168be5",
+        "bg_id": "fe250da409b80c03bd2d706c6cb1816228e1063ffe61f177bfe14dc88fe2d11c",
+        "url": "https://www.gog.com/game/system_shock_enhanced_edition",
+        "developer": "Looking Glass Studios",
+        "publisher": "Night Dive Studios",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710353445",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_system_shock_classic_2.0.0.3.exe",
+                    "size": "381629472"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BEF4502BCA",
+                            "link": "https://filecrypt.cc/Container/BEF4502BCA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/240CE2F24B",
+                            "link": "https://filecrypt.cc/Container/240CE2F24B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B0339743BB",
+                            "link": "https://filecrypt.cc/Container/B0339743BB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

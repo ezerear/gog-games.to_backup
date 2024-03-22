@@ -1,0 +1,68 @@
+{
+    "href": "/game/bad_dream_coma",
+    "MSG": {
+        "id": "1844011652",
+        "title": "Bad Dream: Coma",
+        "slug": "bad_dream_coma",
+        "thumb_id": "e7af018fa26b029cec0a3bb8324672c651bfdee9022e5f7c7f9bbd9d207fb327",
+        "bg_id": "32872b694be588b5279a1ae13076013393afa182125a3eeafffc788f08922291",
+        "url": "https://www.gog.com/game/bad_dream_coma",
+        "developer": "Desert Fox",
+        "publisher": "PlayWay S.A., Ultimate Games S.A.",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709231375",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_bad_dream_coma_1.0_(26985).exe",
+                    "size": "268054208"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4C54B22961",
+                            "link": "https://filecrypt.cc/Container/4C54B22961"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/448CFDB58D",
+                            "link": "https://filecrypt.cc/Container/448CFDB58D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2D3A661AF2",
+                            "link": "https://filecrypt.cc/Container/2D3A661AF2"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

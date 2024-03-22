@@ -1,0 +1,68 @@
+{
+    "href": "/game/bucket_knight",
+    "MSG": {
+        "id": "1460611578",
+        "title": "Bucket Knight",
+        "slug": "bucket_knight",
+        "thumb_id": "2e5f2eb14615c35c8cf227bfa88ac7989405b2fe2c20bfaed07d4aa5aa1979d9",
+        "bg_id": "b115c4198aebe8f3a6a289cca6888027a4828e3bb7b0e6005cdf2b6a2ddbb425",
+        "url": "https://www.gog.com/en/game/bucket_knight",
+        "developer": "PigeonDev",
+        "publisher": "Meridian4",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1688577319",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_bucket_knight_1.1_(64642).exe",
+                    "size": "85113096"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A0ABE3DFB5",
+                            "link": "https://filecrypt.cc/Container/A0ABE3DFB5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/134729E1FB",
+                            "link": "https://filecrypt.cc/Container/134729E1FB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/946E92D08C",
+                            "link": "https://filecrypt.cc/Container/946E92D08C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

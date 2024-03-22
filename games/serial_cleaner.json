@@ -1,0 +1,83 @@
+{
+    "href": "/game/serial_cleaner",
+    "MSG": {
+        "id": "1264767742",
+        "title": "Serial Cleaner",
+        "slug": "serial_cleaner",
+        "thumb_id": "07071f3ac788fcc14de8961316fa5d3e110375637cd5c0e0898f6b9b6c722c57",
+        "bg_id": "64092e7413e3c823d046a00fa9a2dfe4655b4423f0b61a70358b9589add10fbd",
+        "url": "https://www.gog.com/game/serial_cleaner",
+        "developer": "iFun4All S.A.",
+        "publisher": "Curve Digital",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1703472438",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_serial_cleaner_1.0.1.0_(13446)-1.bin",
+                    "size": "439494293"
+                },
+                {
+                    "name": "setup_serial_cleaner_1.0.1.0_(13446).exe",
+                    "size": "734856"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1F1879AC69",
+                            "link": "https://filecrypt.cc/Container/1F1879AC69"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1BEB4F3229",
+                            "link": "https://filecrypt.cc/Container/1BEB4F3229"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AD52D7881B",
+                            "link": "https://filecrypt.cc/Container/AD52D7881B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E4E45EAE1A",
+                            "link": "https://filecrypt.cc/Container/E4E45EAE1A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

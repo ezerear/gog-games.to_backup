@@ -1,0 +1,106 @@
+{
+    "href": "/game/brigand_oaxacaen",
+    "MSG": {
+        "id": "1816592636",
+        "title": "Brigand: Gold",
+        "slug": "brigand_oaxacaen",
+        "thumb_id": "22a96e47af61e4a60788ef542d93a7953e8059dd838c2b079afa320c9aecf838",
+        "bg_id": "5e9a226c4fb52f887aed16e13b83ab705725963241d12ae6b6e5af58f6dfc449",
+        "url": "https://www.gog.com/en/game/brigand_gold",
+        "developer": "Brian Lancaster, Laughing Coyote Software",
+        "publisher": "",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1705337918",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_brigand_battles_12.6_(68128).exe",
+                    "size": "15114032"
+                },
+                {
+                    "name": "setup_brigand_extras_12.6_(68128).exe",
+                    "size": "1064266664"
+                },
+                {
+                    "name": "setup_brigand_nightmare_12.6_(68128).exe",
+                    "size": "49624488"
+                },
+                {
+                    "name": "setup_brigand_oaxaca_12.6_(68128).exe",
+                    "size": "802525960"
+                },
+                {
+                    "name": "setup_brigand_panama_12.6_(68128).exe",
+                    "size": "15161896"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/53039B216B",
+                            "link": "https://filecrypt.cc/Container/53039B216B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0E9C3A6E25",
+                            "link": "https://filecrypt.cc/Container/0E9C3A6E25"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5668F6A4EA",
+                            "link": "https://filecrypt.cc/Container/5668F6A4EA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/02258EAEE2",
+                            "link": "https://filecrypt.cc/Container/02258EAEE2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/72FAC986D5",
+                            "link": "https://filecrypt.cc/Container/72FAC986D5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

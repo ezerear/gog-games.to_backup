@@ -1,0 +1,90 @@
+{
+    "href": "/game/howl",
+    "MSG": {
+        "id": "2066411559",
+        "title": "Howl",
+        "slug": "howl",
+        "thumb_id": "6915d7681907ed734b4379d9d300f29fc5adacc180f9d812cb571ad21c0089bd",
+        "bg_id": "a64bd20b129a12bac1962979cac9e43f034951771f9eaa23acb1a2382071cc1e",
+        "url": "https://www.gog.com/en/game/howl",
+        "developer": "Mi'pu'mi Games GmbH",
+        "publisher": "astragon Entertainment",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1706221605",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_howl_1.01_(70479).exe",
+                    "size": "609050392"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6B2A75C23F",
+                            "link": "https://filecrypt.cc/Container/6B2A75C23F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/747293C109",
+                            "link": "https://filecrypt.cc/Container/747293C109"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/16ED4295AA",
+                            "link": "https://filecrypt.cc/Container/16ED4295AA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/59DF29D85E",
+                            "link": "https://filecrypt.cc/Container/59DF29D85E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4816DF55D7",
+                            "link": "https://filecrypt.cc/Container/4816DF55D7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

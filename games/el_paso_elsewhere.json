@@ -1,0 +1,115 @@
+{
+    "href": "/game/el_paso_elsewhere",
+    "MSG": {
+        "id": "1586317448",
+        "title": "El Paso, Elsewhere",
+        "slug": "el_paso_elsewhere",
+        "thumb_id": "d3bf4b8cecb44a4aeaf7bad4efc7f059d373de792c0ad1bd857e2f05354edc18",
+        "bg_id": "93723a845ccc5aa5688867123c5a8cea9c13926b34409a1955d903ccc981b424",
+        "url": "https://www.gog.com/en/game/el_paso_elsewhere",
+        "developer": "Strange Scaffold",
+        "publisher": "Strange Scaffold",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1708626771",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_el_paso_elsewhere_15_(64bit)_(69402)-1.bin",
+                    "size": "2375029019"
+                },
+                {
+                    "name": "setup_el_paso_elsewhere_15_(64bit)_(69402).exe",
+                    "size": "814552"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "el_paso_elsewhere_the_rap_album_FLAC.zip",
+                    "size": "428266584"
+                },
+                {
+                    "name": "el_paso_elsewhere_the_rap_album_mp3.zip",
+                    "size": "94464978"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1102A2694D",
+                            "link": "https://filecrypt.cc/Container/1102A2694D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9B27462A77",
+                            "link": "https://filecrypt.cc/Container/9B27462A77"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EF04105A75",
+                            "link": "https://filecrypt.cc/Container/EF04105A75"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/27215DA754",
+                            "link": "https://filecrypt.cc/Container/27215DA754"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3150E49E6C",
+                            "link": "https://filecrypt.cc/Container/3150E49E6C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C2376A5973",
+                            "link": "https://filecrypt.cc/Container/C2376A5973"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

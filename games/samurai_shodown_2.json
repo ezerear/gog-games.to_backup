@@ -1,0 +1,79 @@
+{
+    "href": "/game/samurai_shodown_2",
+    "MSG": {
+        "id": "1263414276",
+        "title": "SAMURAI SHODOWN II",
+        "slug": "samurai_shodown_2",
+        "thumb_id": "1964a15c347892dea6af3d9465046b8aa240124563dc041283e2f6458eea6d5d",
+        "bg_id": "8ba05b0296927d2f48cbc9b0f28e139f9de66e258a2d4504e252a3ecfd8d604a",
+        "url": "https://www.gog.com/game/samurai_shodown_2",
+        "developer": "SNK CORPORATION",
+        "publisher": "SNK CORPORATION",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707978049",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_samurai_shodown_2_gog-3_(12081).exe",
+                    "size": "55484304"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C59A63DB6B",
+                            "link": "https://filecrypt.cc/Container/C59A63DB6B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/20EDFE0E3C",
+                            "link": "https://filecrypt.cc/Container/20EDFE0E3C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EEAA7E8315",
+                            "link": "https://filecrypt.cc/Container/EEAA7E8315"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9D3EF2AAD3",
+                            "link": "https://filecrypt.cc/Container/9D3EF2AAD3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

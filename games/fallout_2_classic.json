@@ -1,0 +1,139 @@
+{
+    "href": "/game/fallout_2_classic",
+    "MSG": {
+        "id": "2",
+        "title": "Fallout 2 Classic",
+        "slug": "fallout_2_classic",
+        "thumb_id": "e53d34bde0d96488b581a2e79fe3f9b25eabc9e51c990361443aa7b9c7660dd2",
+        "bg_id": "2405d078c16fc6b25414d2f08725596b955f5ca899ae30f317de7269dfefa22b",
+        "url": "https://www.gog.com/game/fallout_2",
+        "developer": "Black Isle Studios",
+        "publisher": "Bethesda Softworks LLC",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709958541",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_fallout2_2.1.0.17.exe",
+                    "size": "739066648"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "fallout_2_artworks.zip",
+                    "size": "584408"
+                },
+                {
+                    "name": "fallout_2_avatars.zip",
+                    "size": "320003"
+                },
+                {
+                    "name": "fallout_2_manual.zip",
+                    "size": "2042145"
+                },
+                {
+                    "name": "fallout_2_refcard.zip",
+                    "size": "47146"
+                },
+                {
+                    "name": "fallout_2_soundtrack.zip",
+                    "size": "86790324"
+                },
+                {
+                    "name": "fallout_2_wallpaper.zip",
+                    "size": "6014753"
+                },
+                {
+                    "name": "Fallout_Bible_gog.zip",
+                    "size": "56527019"
+                },
+                {
+                    "name": "fallout_pipboys_avatars.zip",
+                    "size": "128584"
+                },
+                {
+                    "name": "fallout_series_wallpaper.zip",
+                    "size": "5057543"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8BF004B130",
+                            "link": "https://filecrypt.cc/Container/8BF004B130"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/76B6E09965",
+                            "link": "https://filecrypt.cc/Container/76B6E09965"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F00D35681C",
+                            "link": "https://filecrypt.cc/Container/F00D35681C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C23C3B24E9",
+                            "link": "https://filecrypt.cc/Container/C23C3B24E9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0FB5267B33",
+                            "link": "https://filecrypt.cc/Container/0FB5267B33"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F865A0FB60",
+                            "link": "https://filecrypt.cc/Container/F865A0FB60"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

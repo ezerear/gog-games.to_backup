@@ -1,0 +1,93 @@
+{
+    "href": "/game/naheulbeuks_dungeon_master",
+    "MSG": {
+        "id": "1848392657",
+        "title": "Naheulbeuk's Dungeon Master",
+        "slug": "naheulbeuks_dungeon_master",
+        "thumb_id": "297a332ec2d00387fd39fb425dbe4c930338b9ae461a43ff83742888598f22be",
+        "bg_id": "b42bee3ed322b747a30dfc28cfd99d1218c78dafc51699dd571ad1f34e08bb1f",
+        "url": "https://www.gog.com/en/game/naheulbeuks_dungeon_master",
+        "developer": "Artefacts Studio",
+        "publisher": "Dear Villagers",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710121484",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_naheulbeuks_dungeon_master_8244_27255_(64bit)_(71558)-1.bin",
+                    "size": "4106516946"
+                },
+                {
+                    "name": "setup_naheulbeuks_dungeon_master_8244_27255_(64bit)_(71558).exe",
+                    "size": "1294944"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "naheulbeuks_dungeon_master_official_soundtrack_mp3.zip",
+                    "size": "104641797"
+                },
+                {
+                    "name": "naheulbeuks_dungeon_master_official_soundtrack_wav.zip",
+                    "size": "545514395"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E761E298A0",
+                            "link": "https://filecrypt.cc/Container/E761E298A0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/746D035571",
+                            "link": "https://filecrypt.cc/Container/746D035571"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B183D82E2F",
+                            "link": "https://filecrypt.cc/Container/B183D82E2F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CF1C616A20",
+                            "link": "https://filecrypt.cc/Container/CF1C616A20"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

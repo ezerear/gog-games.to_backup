@@ -1,0 +1,76 @@
+{
+    "href": "/game/shadwen",
+    "MSG": {
+        "id": "1457610504",
+        "title": "Shadwen",
+        "slug": "shadwen",
+        "thumb_id": "ad1ebe50fb0bdf5b0402fca26dd9048aa8c7e14c0e65d1b87773f1c652897691",
+        "bg_id": "cb1d4fc74fffcb9c24180481ad9b9658a413ebc858ad76f270699a3a87ac592d",
+        "url": "https://www.gog.com/game/shadwen",
+        "developer": "Frozenbyte",
+        "publisher": "Frozenbyte",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710702448",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_shadwen_1356_(16906)-1.bin",
+                    "size": "4294233086"
+                },
+                {
+                    "name": "setup_shadwen_1356_(16906)-2.bin",
+                    "size": "592733177"
+                },
+                {
+                    "name": "setup_shadwen_1356_(16906).exe",
+                    "size": "741456"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/46223FB2EF",
+                            "link": "https://filecrypt.cc/Container/46223FB2EF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0F18FB4A11",
+                            "link": "https://filecrypt.cc/Container/0F18FB4A11"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7D2B3B861F",
+                            "link": "https://filecrypt.cc/Container/7D2B3B861F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

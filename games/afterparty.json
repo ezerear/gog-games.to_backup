@@ -1,0 +1,72 @@
+{
+    "href": "/game/afterparty",
+    "MSG": {
+        "id": "1942260021",
+        "title": "Afterparty",
+        "slug": "afterparty",
+        "thumb_id": "ddf9dc6180df5ebbc5bafa5bf4457fb1b22799b9ec8302b660e51dd2d5f3047e",
+        "bg_id": "8ee257b7f5a6f4ba6f549862666ae018c3d3a06ce5d40850819f7765ba119257",
+        "url": "https://www.gog.com/game/afterparty",
+        "developer": "Night School Studios",
+        "publisher": "Night School Studios",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710859026",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_afterparty_1.4.26f2_(64bit)_(53350)-1.bin",
+                    "size": "2040669362"
+                },
+                {
+                    "name": "setup_afterparty_1.4.26f2_(64bit)_(53350).exe",
+                    "size": "2163896"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D2A531D438",
+                            "link": "https://filecrypt.cc/Container/D2A531D438"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/602664298A",
+                            "link": "https://filecrypt.cc/Container/602664298A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F0BA10B121",
+                            "link": "https://filecrypt.cc/Container/F0BA10B121"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

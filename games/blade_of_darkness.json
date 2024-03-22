@@ -1,0 +1,72 @@
+{
+    "href": "/game/blade_of_darkness",
+    "MSG": {
+        "id": "1176525525",
+        "title": "Blade of Darkness",
+        "slug": "blade_of_darkness",
+        "thumb_id": "be131050ec6ad7ba49c6873957e4543a481d7b0c8a0453c3a50b4ed8c2aa3486",
+        "bg_id": "327938f00fee4e8625773de51ebc8ab728e95d22075b0779beadee61307dfa90",
+        "url": "https://www.gog.com/game/blade_of_darkness",
+        "developer": "Rebel Act Studios, Fire Falcom, General Arcade",
+        "publisher": "SNEG",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1708862263",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_blade_of_darkness_vsub29b_(64bit)_(63161)-1.bin",
+                    "size": "1418034718"
+                },
+                {
+                    "name": "setup_blade_of_darkness_vsub29b_(64bit)_(63161).exe",
+                    "size": "2842448"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1AF0EFBE1C",
+                            "link": "https://filecrypt.cc/Container/1AF0EFBE1C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5C0B8C299C",
+                            "link": "https://filecrypt.cc/Container/5C0B8C299C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/72DCDDD350",
+                            "link": "https://filecrypt.cc/Container/72DCDDD350"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

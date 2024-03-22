@@ -1,0 +1,94 @@
+{
+    "href": "/game/doomblade",
+    "MSG": {
+        "id": "1862608434",
+        "title": "DOOMBLADE",
+        "slug": "doomblade",
+        "thumb_id": "830321dc13dc7acce245654a46782900c5e91e25afacc6caed3743924eb86383",
+        "bg_id": "f8c7dae3c9408a34c27ebec824bbd99f72f981bf1dae8995c7aa5a3ce447235e",
+        "url": "https://www.gog.com/en/game/doomblade",
+        "developer": "Muro Studios",
+        "publisher": "Iceberg Interactive",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707168566",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_doomblade_1.2_(67494)-1.bin",
+                    "size": "2794840049"
+                },
+                {
+                    "name": "setup_doomblade_1.2_(67494).exe",
+                    "size": "990880"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ECAD76470E",
+                            "link": "https://filecrypt.cc/Container/ECAD76470E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E096157FE7",
+                            "link": "https://filecrypt.cc/Container/E096157FE7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4AE5F4314B",
+                            "link": "https://filecrypt.cc/Container/4AE5F4314B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/705519B58A",
+                            "link": "https://filecrypt.cc/Container/705519B58A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/69FA7BFFD9",
+                            "link": "https://filecrypt.cc/Container/69FA7BFFD9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

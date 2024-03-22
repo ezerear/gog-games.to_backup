@@ -1,0 +1,111 @@
+{
+    "href": "/game/hypnospace_outlaw",
+    "MSG": {
+        "id": "1939715083",
+        "title": "Hypnospace Outlaw",
+        "slug": "hypnospace_outlaw",
+        "thumb_id": "4a2faf2abe0a25b392041c4b775d3445821fe2fc66b2662be41711bd84bda543",
+        "bg_id": "1571a93c6ef906f586b417293e6e6428074cf0c1380e265dfbdadc540bf3c51b",
+        "url": "https://www.gog.com/game/hypnospace_outlaw",
+        "developer": "Tendershoot, Michael Lasch, ThatWhichIs Media",
+        "publisher": "No More Robots",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710292791",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hypnospace_outlaw_v2.34a_(64bit)_(45808).exe",
+                    "size": "738782832"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "HypnoSpace_OST_flac.zip",
+                    "size": "1747539950"
+                },
+                {
+                    "name": "HypnoSpace_OST_mp3.zip",
+                    "size": "668603826"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B32C49921A",
+                            "link": "https://filecrypt.cc/Container/B32C49921A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8EE5F3C04B",
+                            "link": "https://filecrypt.cc/Container/8EE5F3C04B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FC61615B4D",
+                            "link": "https://filecrypt.cc/Container/FC61615B4D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/73CBF1E276",
+                            "link": "https://filecrypt.cc/Container/73CBF1E276"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BEA0A7C5AE",
+                            "link": "https://filecrypt.cc/Container/BEA0A7C5AE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/12F4052BEF",
+                            "link": "https://filecrypt.cc/Container/12F4052BEF"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

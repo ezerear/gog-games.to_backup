@@ -1,0 +1,68 @@
+{
+    "href": "/game/dome_keeper",
+    "MSG": {
+        "id": "1635627436",
+        "title": "Dome Keeper",
+        "slug": "dome_keeper",
+        "thumb_id": "319a7698ed8003c0d1bf6fba09f2c70028c36b8ec58d964a17996010deae5a0b",
+        "bg_id": "c495d2e6ecc325017a3c062f4489d080145f5a7285107fedb1985131a3839dad",
+        "url": "https://www.gog.com/en/game/dome_keeper",
+        "developer": "Bippinbits",
+        "publisher": "Raw Fury",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710520485",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dome_keeper_1.9.5_(64bit)_(71033).exe",
+                    "size": "812500152"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6C1F7027A5",
+                            "link": "https://filecrypt.cc/Container/6C1F7027A5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4C0F967618",
+                            "link": "https://filecrypt.cc/Container/4C0F967618"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F37EB2A5B5",
+                            "link": "https://filecrypt.cc/Container/F37EB2A5B5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

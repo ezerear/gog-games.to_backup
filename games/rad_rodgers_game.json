@@ -1,0 +1,76 @@
+{
+    "href": "/game/rad_rodgers_game",
+    "MSG": {
+        "id": "2059569346",
+        "title": "Rad Rodgers - Legacy version",
+        "slug": "rad_rodgers_game",
+        "thumb_id": "c9eae383e8da048b29b05b5abbc89e3e0687d4bf7aa67795558e1176f3712562",
+        "bg_id": "c1d9bdbcff0ef11b9ac20f954148740c068ee323bcba1a551e4519b44cf245c0",
+        "url": "https://web.archive.org/web/20170105053801/https://www.gog.com/game/rad_rodgers_world_one",
+        "developer": "Slipgate Studios",
+        "publisher": "THQ Nordic GmbH",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707266362",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_rad_rodgers_world_one_1.1.4480_(18638)-1.bin",
+                    "size": "4294104574"
+                },
+                {
+                    "name": "setup_rad_rodgers_world_one_1.1.4480_(18638)-2.bin",
+                    "size": "1221055810"
+                },
+                {
+                    "name": "setup_rad_rodgers_world_one_1.1.4480_(18638).exe",
+                    "size": "869848"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E8B35FF4DA",
+                            "link": "https://filecrypt.cc/Container/E8B35FF4DA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4BA3E3ADC1",
+                            "link": "https://filecrypt.cc/Container/4BA3E3ADC1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CD16AC206C",
+                            "link": "https://filecrypt.cc/Container/CD16AC206C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

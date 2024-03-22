@@ -1,0 +1,68 @@
+{
+    "href": "/game/mainframe_defenders",
+    "MSG": {
+        "id": "1805307632",
+        "title": "Mainframe Defenders",
+        "slug": "mainframe_defenders",
+        "thumb_id": "665f51c3347bb12ee2afff6ce07d711934aa0cf7b7cbb272d84ea52cfaf6dc58",
+        "bg_id": "703af11c014461472df4ae588ddb6c414d5f8ab74d3505134b394499daafb26b",
+        "url": "https://www.gog.com/en/game/mainframe_defenders",
+        "developer": "Synthetic Domain",
+        "publisher": "Synthetic Domain",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710534029",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_mainframe_defenders_1.3094a_(64bit)_(61145).exe",
+                    "size": "133467400"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/27A7F3CC7B",
+                            "link": "https://filecrypt.cc/Container/27A7F3CC7B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/19B5CE0646",
+                            "link": "https://filecrypt.cc/Container/19B5CE0646"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/004A9D36ED",
+                            "link": "https://filecrypt.cc/Container/004A9D36ED"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

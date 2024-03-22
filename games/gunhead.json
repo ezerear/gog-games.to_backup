@@ -1,0 +1,101 @@
+{
+    "href": "/game/gunhead",
+    "MSG": {
+        "id": "2094268531",
+        "title": "GUNHEAD",
+        "slug": "gunhead",
+        "thumb_id": "d00d8d3f5598793475c15462dc3b01a02780173be2009dd8f5fb3fc359855cfe",
+        "bg_id": "f990c689220b102af365c29e339a95410f1be61303b8bfb42bac40a0d5410ec5",
+        "url": "https://www.gog.com/en/game/gunhead",
+        "developer": "Alientrap Games",
+        "publisher": "Alientrap Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1700921696",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_gunhead_1.43_(64bit)_(69094).exe",
+                    "size": "786827144"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3CCF6583E8",
+                            "link": "https://filecrypt.cc/Container/3CCF6583E8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FBB2CEEE25",
+                            "link": "https://filecrypt.cc/Container/FBB2CEEE25"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F4A4D1BAE3",
+                            "link": "https://filecrypt.cc/Container/F4A4D1BAE3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0A490FA796",
+                            "link": "https://filecrypt.cc/Container/0A490FA796"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2C134CA545",
+                            "link": "https://filecrypt.cc/Container/2C134CA545"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4276769CA3",
+                            "link": "https://filecrypt.cc/Container/4276769CA3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

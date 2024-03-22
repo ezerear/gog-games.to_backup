@@ -1,0 +1,123 @@
+{
+    "href": "/game/strayed_lights",
+    "MSG": {
+        "id": "1242414797",
+        "title": "Strayed Lights",
+        "slug": "strayed_lights",
+        "thumb_id": "7ec3659f795e056c943372f832a5a54e0c89c78a00519f6ca4f7676af7ba3ab3",
+        "bg_id": "1618bec9c8a222737b4744c59f10279426055fa91b2a5994c35065332611e500",
+        "url": "https://www.gog.com/en/game/strayed_lights",
+        "developer": "Embers",
+        "publisher": "Embers",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709723491",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_strayed_lights_1.3.4_(64bit)_(66127)-1.bin",
+                    "size": "4294080510"
+                },
+                {
+                    "name": "setup_strayed_lights_1.3.4_(64bit)_(66127)-2.bin",
+                    "size": "3410049681"
+                },
+                {
+                    "name": "setup_strayed_lights_1.3.4_(64bit)_(66127).exe",
+                    "size": "897016"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "strayed_lights_digital_art_book.zip",
+                    "size": "93593160"
+                },
+                {
+                    "name": "strayed_lights_soundtrack_flac.zip",
+                    "size": "788255307"
+                },
+                {
+                    "name": "strayed_lights_soundtrack_mp3.zip",
+                    "size": "146317079"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D48F8551DF",
+                            "link": "https://filecrypt.cc/Container/D48F8551DF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6E2E7363E3",
+                            "link": "https://filecrypt.cc/Container/6E2E7363E3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4863543DF0",
+                            "link": "https://filecrypt.cc/Container/4863543DF0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/934E93C523",
+                            "link": "https://filecrypt.cc/Container/934E93C523"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BF27656E04",
+                            "link": "https://filecrypt.cc/Container/BF27656E04"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1ED9E1C132",
+                            "link": "https://filecrypt.cc/Container/1ED9E1C132"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

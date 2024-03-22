@@ -1,0 +1,131 @@
+{
+    "href": "/game/the_longest_journey",
+    "MSG": {
+        "id": "1207658794",
+        "title": "The Longest Journey",
+        "slug": "the_longest_journey",
+        "thumb_id": "b509eebef606ff5cebde31c74e31b01352e9c347e60afaefacff8924b1111b42",
+        "bg_id": "b853fb5fd540784d92a808c0b081110894b69e548a1216219ddc6c4d5a3895b2",
+        "url": "https://www.gog.com/game/the_longest_journey",
+        "developer": "Funcom",
+        "publisher": "Funcom",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710345347",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_longest_journey_142_lang_update_(24607)-1.bin",
+                    "size": "1731065137"
+                },
+                {
+                    "name": "setup_the_longest_journey_142_lang_update_(24607).exe",
+                    "size": "2126208"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "tlj_artworks.zip",
+                    "size": "27068128"
+                },
+                {
+                    "name": "tlj_avatars.zip",
+                    "size": "100384"
+                },
+                {
+                    "name": "TLJ_guide.zip",
+                    "size": "5636483"
+                },
+                {
+                    "name": "tlj_manual.zip",
+                    "size": "3018123"
+                },
+                {
+                    "name": "tlj_soundtrack.zip",
+                    "size": "106961644"
+                },
+                {
+                    "name": "tlj_wallpapers.zip",
+                    "size": "10865509"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E936D02AD5",
+                            "link": "https://filecrypt.cc/Container/E936D02AD5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/19AA17FC0F",
+                            "link": "https://filecrypt.cc/Container/19AA17FC0F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C38122ED07",
+                            "link": "https://filecrypt.cc/Container/C38122ED07"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BF1273B32F",
+                            "link": "https://filecrypt.cc/Container/BF1273B32F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FDE318276B",
+                            "link": "https://filecrypt.cc/Container/FDE318276B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B9448CBA16",
+                            "link": "https://filecrypt.cc/Container/B9448CBA16"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

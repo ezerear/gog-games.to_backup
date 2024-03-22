@@ -1,0 +1,68 @@
+{
+    "href": "/game/songbringer",
+    "MSG": {
+        "id": "1166252453",
+        "title": "Songbringer",
+        "slug": "songbringer",
+        "thumb_id": "a0647176b1e5e60c2960b391b51b4406f101423f9b72e84456d0b8013278a251",
+        "bg_id": "c8e49393797548d2ea06a37a751f128b10f79a53e9504b8239db1170f54ce933",
+        "url": "https://www.gog.com/game/songbringer",
+        "developer": "Wizard Fu Inc.",
+        "publisher": "Double Eleven Ltd.",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708880573",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_songbringer_1.2.1_(55516).exe",
+                    "size": "1335730408"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/60AF26D461",
+                            "link": "https://filecrypt.cc/Container/60AF26D461"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A9C7C1770C",
+                            "link": "https://filecrypt.cc/Container/A9C7C1770C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/828D30C209",
+                            "link": "https://filecrypt.cc/Container/828D30C209"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

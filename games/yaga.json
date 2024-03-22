@@ -1,0 +1,119 @@
+{
+    "href": "/game/yaga",
+    "MSG": {
+        "id": "1109405267",
+        "title": "Yaga",
+        "slug": "yaga",
+        "thumb_id": "c7bc9779ca16122c8db81995eced485e109d681736bdcfba4c4dded2783e7d7c",
+        "bg_id": "b832f82d69ef968bcd568ba9fcca6cdce83dc90a61a760987989ea6626614aef",
+        "url": "https://www.gog.com/game/yaga",
+        "developer": "Breadcrumbs Interactive",
+        "publisher": "Versus Evil",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710322399",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_yaga_-_roots_of_evil_1.3.23_(64bit)_(51393).exe",
+                    "size": "6426520"
+                },
+                {
+                    "name": "setup_yaga_1.3.23_(64bit)_(51393)-1.bin",
+                    "size": "1812565053"
+                },
+                {
+                    "name": "setup_yaga_1.3.23_(64bit)_(51393).exe",
+                    "size": "832992"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "yaga_soundtrack_flac.zip",
+                    "size": "1219321771"
+                },
+                {
+                    "name": "yaga_soundtrack_mp3.zip",
+                    "size": "467634435"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/98291055BC",
+                            "link": "https://filecrypt.cc/Container/98291055BC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B439A0B32B",
+                            "link": "https://filecrypt.cc/Container/B439A0B32B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9A3C54C08D",
+                            "link": "https://filecrypt.cc/Container/9A3C54C08D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8F864F4BC1",
+                            "link": "https://filecrypt.cc/Container/8F864F4BC1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3FE1CFCCB3",
+                            "link": "https://filecrypt.cc/Container/3FE1CFCCB3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8842D13669",
+                            "link": "https://filecrypt.cc/Container/8842D13669"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

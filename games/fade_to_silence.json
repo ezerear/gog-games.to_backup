@@ -1,0 +1,80 @@
+{
+    "href": "/game/fade_to_silence",
+    "MSG": {
+        "id": "1986871555",
+        "title": "Fade to Silence",
+        "slug": "fade_to_silence",
+        "thumb_id": "52382aa9e25565a10dc0ae297909ec5d8ce3a2a509d4f0484810c36651101dfc",
+        "bg_id": "5fc041117756c269fe635b9221afa1a3b3e7fdecdc4356b67efce94d504476fc",
+        "url": "https://www.gog.com/game/fade_to_silence",
+        "developer": "Black Forest Games",
+        "publisher": "THQ Nordic GmbH",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707104122",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_fade_to_silence_2025_b_(29406)-1.bin",
+                    "size": "4293734398"
+                },
+                {
+                    "name": "setup_fade_to_silence_2025_b_(29406)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_fade_to_silence_2025_b_(29406)-3.bin",
+                    "size": "2580338063"
+                },
+                {
+                    "name": "setup_fade_to_silence_2025_b_(29406).exe",
+                    "size": "1240240"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0A3171ABB8",
+                            "link": "https://filecrypt.cc/Container/0A3171ABB8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/93A5377BE8",
+                            "link": "https://filecrypt.cc/Container/93A5377BE8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0C7F17AAFE",
+                            "link": "https://filecrypt.cc/Container/0C7F17AAFE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

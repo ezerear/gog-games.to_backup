@@ -1,0 +1,88 @@
+{
+    "href": "/game/destroy_all_humans",
+    "MSG": {
+        "id": "1098383189",
+        "title": "Destroy All Humans!",
+        "slug": "destroy_all_humans",
+        "thumb_id": "fbebfc8cf4599e0b22d2c24f4d3762fc57d0c00318e5ad0dd44ffe463362d957",
+        "bg_id": "895f51596053b80a2534d8e9a5e306a3063024069e83f7cab5e90d625dd27cd7",
+        "url": "https://www.gog.com/game/destroy_all_humans",
+        "developer": "Black Forest Games, Pandemic Studios",
+        "publisher": "THQ Nordic GmbH",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710107250",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_destroy_all_humans_-_skin_pack_1.4_(45350).exe",
+                    "size": "6696376"
+                },
+                {
+                    "name": "setup_destroy_all_humans_1.4_(45350)-1.bin",
+                    "size": "4293966334"
+                },
+                {
+                    "name": "setup_destroy_all_humans_1.4_(45350)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_destroy_all_humans_1.4_(45350)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_destroy_all_humans_1.4_(45350)-4.bin",
+                    "size": "3666198597"
+                },
+                {
+                    "name": "setup_destroy_all_humans_1.4_(45350).exe",
+                    "size": "1007232"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/48929CA8C6",
+                            "link": "https://filecrypt.cc/Container/48929CA8C6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FBF5B7804B",
+                            "link": "https://filecrypt.cc/Container/FBF5B7804B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5B6D6877A7",
+                            "link": "https://filecrypt.cc/Container/5B6D6877A7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

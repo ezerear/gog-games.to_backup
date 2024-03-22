@@ -1,0 +1,72 @@
+{
+    "href": "/game/my_lovely_daughter",
+    "MSG": {
+        "id": "1732906161",
+        "title": "My Lovely Daughter",
+        "slug": "my_lovely_daughter",
+        "thumb_id": "50bebda6c7e8221b30e80334be8b5991fcb1eceb387806b278931729bcabeca9",
+        "bg_id": "a3e42352b7e6f53d1a145d35db8aebd2b4b820535a0432f9f029a8cc244f5abe",
+        "url": "https://www.gog.com/en/game/my_lovely_daughter",
+        "developer": "GameChanger Studio, Toge Productions",
+        "publisher": "Neon Doctrine",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708723235",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_my_lovely_daughter_1.27f6_gog_linkfix_(70980).exe",
+                    "size": "170812456"
+                },
+                {
+                    "name": "setup_the_inquisitor_1.27f6_gog_linkfix_(70980).exe",
+                    "size": "6295536"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C42BC5900A",
+                            "link": "https://filecrypt.cc/Container/C42BC5900A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BABC7F2620",
+                            "link": "https://filecrypt.cc/Container/BABC7F2620"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/182A5CFF75",
+                            "link": "https://filecrypt.cc/Container/182A5CFF75"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,123 @@
+{
+    "href": "/game/headlander",
+    "MSG": {
+        "id": "1566652906",
+        "title": "Headlander",
+        "slug": "headlander",
+        "thumb_id": "a020d1327a70f6e61c9be5e4e83b1518f7f1e1579780cb7fd988628b66f9a9b1",
+        "bg_id": "335852f6bf5ed2c363e2d0d5904d4a49fc76f08e63e7486d31dea5ea4c45555d",
+        "url": "https://www.gog.com/game/headlander",
+        "developer": "Double Fine Productions",
+        "publisher": "Adult Swim",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710320370",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_headlander_20161205_(12563)-1.bin",
+                    "size": "3834019911"
+                },
+                {
+                    "name": "setup_headlander_20161205_(12563).exe",
+                    "size": "725344"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "headlander_avatars.zip",
+                    "size": "1005713"
+                },
+                {
+                    "name": "headlander_ost_mp3.zip",
+                    "size": "208025362"
+                },
+                {
+                    "name": "headlander_posters.zip",
+                    "size": "13149337"
+                },
+                {
+                    "name": "headlander_wallpapers.zip",
+                    "size": "9044272"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A6F58CB117",
+                            "link": "https://filecrypt.cc/Container/A6F58CB117"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/26FEC64EC8",
+                            "link": "https://filecrypt.cc/Container/26FEC64EC8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CE6387C6FA",
+                            "link": "https://filecrypt.cc/Container/CE6387C6FA"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/135E9A8C9F",
+                            "link": "https://filecrypt.cc/Container/135E9A8C9F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/49C4A88DA9",
+                            "link": "https://filecrypt.cc/Container/49C4A88DA9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/944C851AD5",
+                            "link": "https://filecrypt.cc/Container/944C851AD5"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

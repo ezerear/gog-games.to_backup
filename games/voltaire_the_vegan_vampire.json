@@ -1,0 +1,72 @@
+{
+    "href": "/game/voltaire_the_vegan_vampire",
+    "MSG": {
+        "id": "1753721056",
+        "title": "Voltaire: The Vegan Vampire",
+        "slug": "voltaire_the_vegan_vampire",
+        "thumb_id": "090f062dc9ae0c5d6631f84c662f6c6f384e7d4e862e03dfe62453fd9b7cad12",
+        "bg_id": "b1e9828a952d6e23e884f5dff31ae7c1da5e226da00e7bdcdfd37f140f16f9db",
+        "url": "https://www.gog.com/en/game/voltaire_the_vegan_vampire",
+        "developer": "Digitality Games",
+        "publisher": "Freedom Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708666326",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_voltaire_the_vegan_vampire_1.01_(68660)-1.bin",
+                    "size": "2304262618"
+                },
+                {
+                    "name": "setup_voltaire_the_vegan_vampire_1.01_(68660).exe",
+                    "size": "829384"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/912A21C073",
+                            "link": "https://filecrypt.cc/Container/912A21C073"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/58A610285D",
+                            "link": "https://filecrypt.cc/Container/58A610285D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/20D0EBCF2A",
+                            "link": "https://filecrypt.cc/Container/20D0EBCF2A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

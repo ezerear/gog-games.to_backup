@@ -1,0 +1,111 @@
+{
+    "href": "/game/in_cold_blood",
+    "MSG": {
+        "id": "1207658714",
+        "title": "In Cold Blood",
+        "slug": "in_cold_blood",
+        "thumb_id": "886e9aeafb586f593ef1bcb05a010e6b1981730ae9071cc81917f95a190c1c46",
+        "bg_id": "bd1a6cf1ab9f0270ae80c276d34bd05a09ab8c9d252ee5ece7719ff58007d497",
+        "url": "https://www.gog.com/game/in_cold_blood",
+        "developer": "Revolution Software",
+        "publisher": "Revolution Software",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710954148",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_in_cold_blood_gog-1_(18468).exe",
+                    "size": "1329574304"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "in_cold_blood_artworks_bigger_pack.zip",
+                    "size": "10888688"
+                },
+                {
+                    "name": "in_cold_blood_manual.zip",
+                    "size": "1027879"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4AC16808CE",
+                            "link": "https://filecrypt.cc/Container/4AC16808CE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/585160B42B",
+                            "link": "https://filecrypt.cc/Container/585160B42B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/09E1527DF1",
+                            "link": "https://filecrypt.cc/Container/09E1527DF1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/60111F363E",
+                            "link": "https://filecrypt.cc/Container/60111F363E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6EC42767CF",
+                            "link": "https://filecrypt.cc/Container/6EC42767CF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2AC9BA3ABF",
+                            "link": "https://filecrypt.cc/Container/2AC9BA3ABF"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

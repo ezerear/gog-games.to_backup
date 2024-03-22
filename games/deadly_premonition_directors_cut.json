@@ -1,0 +1,76 @@
+{
+    "href": "/game/deadly_premonition_directors_cut",
+    "MSG": {
+        "id": "1207660043",
+        "title": "Deadly Premonition: Director's Cut",
+        "slug": "deadly_premonition_directors_cut",
+        "thumb_id": "88596fa3a3f1456f25d85496c4e7f2e9998dcc9278f4e1a1ed1cba096a31dd32",
+        "bg_id": "e9f2017b55cdb7923e66e63c65cc701824fb15d5b6a55217f3f6c9d7ba8eac9e",
+        "url": "https://www.gog.com/game/deadly_premonition_directors_cut",
+        "developer": "Access Games",
+        "publisher": "Rising Star Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708299352",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_deadly_premonition_directors_cut_2.1.0.6-1.bin",
+                    "size": "4194304000"
+                },
+                {
+                    "name": "setup_deadly_premonition_directors_cut_2.1.0.6-2.bin",
+                    "size": "1867333744"
+                },
+                {
+                    "name": "setup_deadly_premonition_directors_cut_2.1.0.6.exe",
+                    "size": "34945176"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/7rm1wbe",
+                            "link": "https://safelinking.net/7rm1wbe"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/naJzuTW",
+                            "link": "https://safelinking.net/naJzuTW"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/gXjIr2D",
+                            "link": "https://safelinking.net/gXjIr2D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

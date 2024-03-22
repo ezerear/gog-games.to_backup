@@ -1,0 +1,123 @@
+{
+    "href": "/game/gray_matter",
+    "MSG": {
+        "id": "1207664743",
+        "title": "Gray Matter",
+        "slug": "gray_matter",
+        "thumb_id": "075e30080646db3361a64f4ed86848509e43fc796faca4e13a968f0c5517f5a4",
+        "bg_id": "533bdb0a4f900b7c39638faf72019a2fae0ec0292cef27d3ee2353e003cae1bb",
+        "url": "https://web.archive.org/web/20180603122043/https://www.gog.com/game/gray_matter",
+        "developer": "WizarBox Production",
+        "publisher": "Viva Media",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710451383",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_gray_matter_2.2.0.8-1.bin",
+                    "size": "4194304000"
+                },
+                {
+                    "name": "setup_gray_matter_2.2.0.8-2.bin",
+                    "size": "2740606232"
+                },
+                {
+                    "name": "setup_gray_matter_2.2.0.8.exe",
+                    "size": "31576696"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "gray_matter_avatars.zip",
+                    "size": "714175"
+                },
+                {
+                    "name": "gray_matter_concept_art.zip",
+                    "size": "2389819"
+                },
+                {
+                    "name": "gray_matter_wallpapers.zip",
+                    "size": "1911244"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/493FE2BF4B",
+                            "link": "https://filecrypt.cc/Container/493FE2BF4B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DA1ED943C7",
+                            "link": "https://filecrypt.cc/Container/DA1ED943C7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5FA9F9E953",
+                            "link": "https://filecrypt.cc/Container/5FA9F9E953"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B0C38B00A5",
+                            "link": "https://filecrypt.cc/Container/B0C38B00A5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6DF836EFE1",
+                            "link": "https://filecrypt.cc/Container/6DF836EFE1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/88130E93CB",
+                            "link": "https://filecrypt.cc/Container/88130E93CB"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

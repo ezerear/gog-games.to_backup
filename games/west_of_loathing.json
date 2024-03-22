@@ -1,0 +1,115 @@
+{
+    "href": "/game/west_of_loathing",
+    "MSG": {
+        "id": "1154606028",
+        "title": "West of Loathing",
+        "slug": "west_of_loathing",
+        "thumb_id": "b96fc80eae76421fd9b805d05ee1f8e9cdaa672cc0a7bb4b530755d096cc0b83",
+        "bg_id": "684d5a9d5e57768f1ae27caf4a2b72de76f558b49fb4a12c4758a54039716f4c",
+        "url": "https://www.gog.com/game/west_of_loathing",
+        "developer": "Asymmetric",
+        "publisher": "Asymmetric",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710492318",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_west_of_loathing_1.11.11.11.11_(64bit)_(41180).exe",
+                    "size": "214208880"
+                },
+                {
+                    "name": "setup_west_of_loathing_reckonin_at_gun_manor_1.11.11.11.11_(64bit)_(41180).exe",
+                    "size": "62178968"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "west_of_loathing_avatar.zip",
+                    "size": "76969"
+                },
+                {
+                    "name": "west_of_loathing_wallpaper.zip",
+                    "size": "779424"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/379ECD8D09",
+                            "link": "https://filecrypt.cc/Container/379ECD8D09"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/371D0F87AF",
+                            "link": "https://filecrypt.cc/Container/371D0F87AF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/80D01B871F",
+                            "link": "https://filecrypt.cc/Container/80D01B871F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5F4043714B",
+                            "link": "https://filecrypt.cc/Container/5F4043714B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/809BE702D0",
+                            "link": "https://filecrypt.cc/Container/809BE702D0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6CF5A78E99",
+                            "link": "https://filecrypt.cc/Container/6CF5A78E99"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

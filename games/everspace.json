@@ -1,0 +1,131 @@
+{
+    "href": "/game/everspace",
+    "MSG": {
+        "id": "1513949567",
+        "title": "EVERSPACE™",
+        "slug": "everspace",
+        "thumb_id": "e5aa16043bc1434164e51299695d6802909228943005f7c331bbe746db1845ac",
+        "bg_id": "cc07cb61dcd1e515b71aa0e92c14688b14dd9835f029cc57b4502733f81cd757",
+        "url": "https://www.gog.com/game/everspace",
+        "developer": "ROCKFISH Games GmbH",
+        "publisher": "ROCKFISH Games GmbH",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708630397",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_everspace_-_encounters_1.3.5.36556_(32841).exe",
+                    "size": "206095264"
+                },
+                {
+                    "name": "setup_everspace_1.3.5.36556_(64bit)_(32841)-1.bin",
+                    "size": "4294041598"
+                },
+                {
+                    "name": "setup_everspace_1.3.5.36556_(64bit)_(32841)-2.bin",
+                    "size": "939466540"
+                },
+                {
+                    "name": "setup_everspace_1.3.5.36556_(64bit)_(32841).exe",
+                    "size": "932560"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "everspace_artbook.zip",
+                    "size": "22467865"
+                },
+                {
+                    "name": "everspace_soundtrack_flac.zip",
+                    "size": "1081948722"
+                },
+                {
+                    "name": "everspace_soundtrack_mp3.zip",
+                    "size": "276960831"
+                },
+                {
+                    "name": "everspace_wallpapers.zip",
+                    "size": "143349093"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8B46806324",
+                            "link": "https://filecrypt.cc/Container/8B46806324"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7952066D42",
+                            "link": "https://filecrypt.cc/Container/7952066D42"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D5DE25D1F5",
+                            "link": "https://filecrypt.cc/Container/D5DE25D1F5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E14C99BB69",
+                            "link": "https://filecrypt.cc/Container/E14C99BB69"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B1B1A4031E",
+                            "link": "https://filecrypt.cc/Container/B1B1A4031E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/900FF89461",
+                            "link": "https://filecrypt.cc/Container/900FF89461"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

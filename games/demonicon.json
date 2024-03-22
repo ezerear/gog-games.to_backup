@@ -1,0 +1,123 @@
+{
+    "href": "/game/demonicon",
+    "MSG": {
+        "id": "1862122311",
+        "title": "Demonicon",
+        "slug": "demonicon",
+        "thumb_id": "017a12f077956218ca04dff089a7059d6a5bd66209f55d10f94e05b8433fb6f7",
+        "bg_id": "220d8a97a69c09932cbf9ac4a1f9d28d9fe8540fce168a5093a31d1ef4d1c028",
+        "url": "https://www.gog.com/game/demonicon",
+        "developer": "Noumena Studios",
+        "publisher": "Kalypso Media Digital",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1708003893",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_demonicon_1.1_(45947)-1.bin",
+                    "size": "4294053374"
+                },
+                {
+                    "name": "setup_demonicon_1.1_(45947)-2.bin",
+                    "size": "3326851177"
+                },
+                {
+                    "name": "setup_demonicon_1.1_(45947).exe",
+                    "size": "920432"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "demonicon_manual_de.zip",
+                    "size": "13449537"
+                },
+                {
+                    "name": "demonicon_manual_en.zip",
+                    "size": "29611606"
+                },
+                {
+                    "name": "demonicon_manual_fr.zip",
+                    "size": "15481754"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DABF6A38BF",
+                            "link": "https://filecrypt.cc/Container/DABF6A38BF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C025FDF29C",
+                            "link": "https://filecrypt.cc/Container/C025FDF29C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4321C8211B",
+                            "link": "https://filecrypt.cc/Container/4321C8211B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3FDC8A20FD",
+                            "link": "https://filecrypt.cc/Container/3FDC8A20FD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/520DA18579",
+                            "link": "https://filecrypt.cc/Container/520DA18579"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/84BF8478EC",
+                            "link": "https://filecrypt.cc/Container/84BF8478EC"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,111 @@
+{
+    "href": "/game/timeshift",
+    "MSG": {
+        "id": "1460032883",
+        "title": "TimeShift™",
+        "slug": "timeshift",
+        "thumb_id": "36f7b00d6a011529b535a28e48df3dcc8380bd8bc83a0b69f4493255a813de67",
+        "bg_id": "ebc28af16c6b2e0e8011d32c479ca0fe3bf269a31097816aa3c3cf0df3279bc2",
+        "url": "https://www.gog.com/game/timeshift",
+        "developer": "Saber Interactive",
+        "publisher": "Activision",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710351787",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_timeshift_2.0.0.3-1.bin",
+                    "size": "2999401473"
+                },
+                {
+                    "name": "setup_timeshift_2.0.0.3.exe",
+                    "size": "29396528"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "timeshift_manuals.zip",
+                    "size": "12914023"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8E6FB7F9B0",
+                            "link": "https://filecrypt.cc/Container/8E6FB7F9B0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/780A4BC3EF",
+                            "link": "https://filecrypt.cc/Container/780A4BC3EF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CBF05D3E21",
+                            "link": "https://filecrypt.cc/Container/CBF05D3E21"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A0E5A631BC",
+                            "link": "https://filecrypt.cc/Container/A0E5A631BC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C7D9F59721",
+                            "link": "https://filecrypt.cc/Container/C7D9F59721"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/140D9F25E8",
+                            "link": "https://filecrypt.cc/Container/140D9F25E8"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,80 @@
+{
+    "href": "/game/amnesia_the_bunker",
+    "MSG": {
+        "id": "1186009992",
+        "title": "Amnesia: The Bunker",
+        "slug": "amnesia_the_bunker",
+        "thumb_id": "ea3ddfee4360aa391562ad1fbb1d7ba83cdd47fe4dfd069b3f450deee568ddea",
+        "bg_id": "61216b0bdb68ff8497318a64c667830867d1874ebf154b798a74432ff6c875de",
+        "url": "https://www.gog.com/en/game/amnesia_the_bunker",
+        "developer": "Frictional Games",
+        "publisher": "Frictional Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710540700",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_amnesia_the_bunker_1.9_(64bit)_(71145)-1.bin",
+                    "size": "4290822654"
+                },
+                {
+                    "name": "setup_amnesia_the_bunker_1.9_(64bit)_(71145)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_amnesia_the_bunker_1.9_(64bit)_(71145)-3.bin",
+                    "size": "644499120"
+                },
+                {
+                    "name": "setup_amnesia_the_bunker_1.9_(64bit)_(71145).exe",
+                    "size": "4151984"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B911F370EA",
+                            "link": "https://filecrypt.cc/Container/B911F370EA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4CD993A904",
+                            "link": "https://filecrypt.cc/Container/4CD993A904"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CA7D813E0F",
+                            "link": "https://filecrypt.cc/Container/CA7D813E0F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/startup_company",
+    "MSG": {
+        "id": "1276452005",
+        "title": "Startup Company",
+        "slug": "startup_company",
+        "thumb_id": "3111adbba31c4e44d295ca971bbbebf7cd463463d2e93b7f66ef7ffaa7f9d207",
+        "bg_id": "a9dbb7de08f73fc2acc3b3a35a758d95777f4e6f1c8378d01db397a09d04745c",
+        "url": "https://web.archive.org/web/20180201023039/https://www.gog.com/game/startup_company",
+        "developer": "Hovgaard Games",
+        "publisher": "Hovgaard Games",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1708841930",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_startup_company_beta_14.1_(18568).exe",
+                    "size": "154998312"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B36CB91392",
+                            "link": "https://filecrypt.cc/Container/B36CB91392"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3431787FBC",
+                            "link": "https://filecrypt.cc/Container/3431787FBC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7C7B09C1CC",
+                            "link": "https://filecrypt.cc/Container/7C7B09C1CC"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

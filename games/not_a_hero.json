@@ -1,0 +1,127 @@
+{
+    "href": "/game/not_a_hero",
+    "MSG": {
+        "id": "1429698467",
+        "title": "Not a Hero",
+        "slug": "not_a_hero",
+        "thumb_id": "6e0a68fb0dc35fa7dc237e488f4194ca8a0abd15771582ca853b4df91c28dbbe",
+        "bg_id": "817e5f76120d16be502576ea69584f895250452fa475ec765364a132e05ba91e",
+        "url": "https://www.gog.com/game/not_a_hero",
+        "developer": "Roll 7",
+        "publisher": "Devolver Digital",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1708751131",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_not_a_hero_2.1.0.2.exe",
+                    "size": "553294936"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "nah_artbook.zip",
+                    "size": "3988649"
+                },
+                {
+                    "name": "nah_desktop_icons.zip",
+                    "size": "56193"
+                },
+                {
+                    "name": "nah_digital_comic.zip",
+                    "size": "11561347"
+                },
+                {
+                    "name": "nah_soundtrack_mp3.zip",
+                    "size": "252817550"
+                },
+                {
+                    "name": "nah_wallpapers.zip",
+                    "size": "11097150"
+                },
+                {
+                    "name": "nah_windows_sounds.zip",
+                    "size": "6843571"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9CEB155099",
+                            "link": "https://filecrypt.cc/Container/9CEB155099"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A4AE5097D6",
+                            "link": "https://filecrypt.cc/Container/A4AE5097D6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2FC2E5208C",
+                            "link": "https://filecrypt.cc/Container/2FC2E5208C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/773B0D8A8F",
+                            "link": "https://filecrypt.cc/Container/773B0D8A8F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9855FBA935",
+                            "link": "https://filecrypt.cc/Container/9855FBA935"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F0E7FBB765",
+                            "link": "https://filecrypt.cc/Container/F0E7FBB765"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,90 @@
+{
+    "href": "/game/sub_terra_draconis",
+    "MSG": {
+        "id": "1217335806",
+        "title": "Sub Terra Draconis",
+        "slug": "sub_terra_draconis",
+        "thumb_id": "12f8bfef617516b37897b6ea5063b6bcc7eabdef6c1cdfddf7a25b3116f5fdbe",
+        "bg_id": "3d436cf72a933e8f6db95105f0e206acf1df85ee134325baf22b82d8e2b5d669",
+        "url": "https://www.gog.com/en/game/sub_terra_draconis",
+        "developer": "Crystal Shard",
+        "publisher": "Crystal Shard",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1703378162",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sub_terra_draconis_1.5_(69045).exe",
+                    "size": "64432224"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A275824CAC",
+                            "link": "https://filecrypt.cc/Container/A275824CAC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2EDCF45D16",
+                            "link": "https://filecrypt.cc/Container/2EDCF45D16"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C97B149103",
+                            "link": "https://filecrypt.cc/Container/C97B149103"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DAF43944BF",
+                            "link": "https://filecrypt.cc/Container/DAF43944BF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DFB7D007D1",
+                            "link": "https://filecrypt.cc/Container/DFB7D007D1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

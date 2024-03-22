@@ -1,0 +1,79 @@
+{
+    "href": "/game/lunarlux",
+    "MSG": {
+        "id": "1785508203",
+        "title": "LunarLux",
+        "slug": "lunarlux",
+        "thumb_id": "faff3a2f39c57b285ea50edd2ac845f768a04799d886dfe83ea9204d1a0ada0e",
+        "bg_id": "1a4edeeb93d297ba01f85c128d96b95482407f1646af8118a2c194ffae716a7b",
+        "url": "https://www.gog.com/en/game/lunarlux",
+        "developer": "CosmicNobab Games",
+        "publisher": "Freedom Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708071126",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_lunarlux_1.1_(68157).exe",
+                    "size": "417503888"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9B4A97450E",
+                            "link": "https://filecrypt.cc/Container/9B4A97450E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/614FCC5EFB",
+                            "link": "https://filecrypt.cc/Container/614FCC5EFB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/062B16ED9D",
+                            "link": "https://filecrypt.cc/Container/062B16ED9D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/42033DAED6",
+                            "link": "https://filecrypt.cc/Container/42033DAED6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

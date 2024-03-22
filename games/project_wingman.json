@@ -1,0 +1,59 @@
+{
+    "href": "/game/project_wingman",
+    "MSG": {
+        "id": "1609812781",
+        "title": "Project Wingman",
+        "slug": "project_wingman",
+        "thumb_id": "f8477a958e28f20c55faa05060d8632400588ec9805e5cea816fe59c0741a2ad",
+        "bg_id": "378e2a38798b5113e850494e85abe69880730dea167f0c5b70122eb714a4d3c6",
+        "url": "https://www.gog.com/game/project_wingman",
+        "developer": "Sector D2",
+        "publisher": "Sector D2, Humble Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708902006",
+        "votes": "1",
+        "files": false,
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9FFFB776BA",
+                            "link": "https://filecrypt.cc/Container/9FFFB776BA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0A4A4A4BC0",
+                            "link": "https://filecrypt.cc/Container/0A4A4A4BC0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4E3411FFEE",
+                            "link": "https://filecrypt.cc/Container/4E3411FFEE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

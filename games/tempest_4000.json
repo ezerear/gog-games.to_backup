@@ -1,0 +1,68 @@
+{
+    "href": "/game/tempest_4000",
+    "MSG": {
+        "id": "1866824123",
+        "title": "Tempest 4000",
+        "slug": "tempest_4000",
+        "thumb_id": "714ebd322c8ddea7bd51b52fcb5b5730823dabe0f3f97626cd8afcf034a76aed",
+        "bg_id": "3d79e5bab7aa3dbb7d8808113ae0e3789b142c5bc9dde2d24c737537323a5a45",
+        "url": "https://www.gog.com/en/game/tempest_4000",
+        "developer": "Atari",
+        "publisher": "",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710369166",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tempest_4000_1.07_(60968).exe",
+                    "size": "593061800"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8B96E4558D",
+                            "link": "https://filecrypt.cc/Container/8B96E4558D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3A80A3BE4C",
+                            "link": "https://filecrypt.cc/Container/3A80A3BE4C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/78372EC5E1",
+                            "link": "https://filecrypt.cc/Container/78372EC5E1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

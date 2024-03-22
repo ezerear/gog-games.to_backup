@@ -1,0 +1,68 @@
+{
+    "href": "/game/teenagent",
+    "MSG": {
+        "id": "1207658753",
+        "title": "Teenagent",
+        "slug": "teenagent",
+        "thumb_id": "83440dfe39a478e559a6c71d70ba33b66a28796a822d6c4d7f8de28368339b62",
+        "bg_id": "0e7de44790cbea50b65cf41ce52b05ca5bcf27fd3c46a54543fc9434d292aeb5",
+        "url": "https://www.gog.com/game/teenagent",
+        "developer": "Metropolis Software",
+        "publisher": "Metropolis Software",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709100567",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_teenagent_1.0_(15595).exe",
+                    "size": "19323376"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5F4F7A4FA5",
+                            "link": "https://filecrypt.cc/Container/5F4F7A4FA5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/50F0B1CD51",
+                            "link": "https://filecrypt.cc/Container/50F0B1CD51"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BEAD3E0E3B",
+                            "link": "https://filecrypt.cc/Container/BEAD3E0E3B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

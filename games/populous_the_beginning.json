@@ -1,0 +1,111 @@
+{
+    "href": "/game/populous_the_beginning",
+    "MSG": {
+        "id": "1207659027",
+        "title": "Populous™: The Beginning",
+        "slug": "populous_the_beginning",
+        "thumb_id": "8067ff6435995c70702fb915067b537c9bed433d0df3520c892b8d704e2c8401",
+        "bg_id": "33da836de65e35d6f2769622e9f6e2475214c11b88704f109955dc8045f2beae",
+        "url": "https://www.gog.com/game/populous_the_beginning",
+        "developer": "Bullfrog Productions",
+        "publisher": "Electronic Arts",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1709554627",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_populous_the_beginning_1.02_depfix2_(48318).exe",
+                    "size": "413429232"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "populous_3_manual.zip",
+                    "size": "1365238"
+                },
+                {
+                    "name": "populous_3_reference_card.zip",
+                    "size": "1600789"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FB35006E18",
+                            "link": "https://filecrypt.cc/Container/FB35006E18"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FE7A96E7B3",
+                            "link": "https://filecrypt.cc/Container/FE7A96E7B3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2D7AF1C731",
+                            "link": "https://filecrypt.cc/Container/2D7AF1C731"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/19E13D0829",
+                            "link": "https://filecrypt.cc/Container/19E13D0829"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DC8B5E899D",
+                            "link": "https://filecrypt.cc/Container/DC8B5E899D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C7C949A236",
+                            "link": "https://filecrypt.cc/Container/C7C949A236"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

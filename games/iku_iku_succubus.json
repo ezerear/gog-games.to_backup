@@ -1,0 +1,72 @@
+{
+    "href": "/game/iku_iku_succubus",
+    "MSG": {
+        "id": "1271446745",
+        "title": "Iku Iku Succubus",
+        "slug": "iku_iku_succubus",
+        "thumb_id": "0d7f1e8d310c567ac91f6064dc1d95141ed8caa3ca84218f5fcb79b3e263c570",
+        "bg_id": "90ee64451fb3121103ba925f2297ce5bca29f052951429e1f5971b9836eb77c1",
+        "url": "https://www.gog.com/en/game/iku_iku_succubus",
+        "developer": "FAKKU",
+        "publisher": "FAKKU",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708508232",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_iku_iku_succubus_-_unrated_patch_1.02_(64261).exe",
+                    "size": "1542532328"
+                },
+                {
+                    "name": "setup_iku_iku_succubus_1.02_(64261).exe",
+                    "size": "313646848"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/83B506F496",
+                            "link": "https://filecrypt.cc/Container/83B506F496"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E81AE2A326",
+                            "link": "https://filecrypt.cc/Container/E81AE2A326"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0E346F695C",
+                            "link": "https://filecrypt.cc/Container/0E346F695C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

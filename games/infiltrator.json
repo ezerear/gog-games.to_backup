@@ -1,0 +1,107 @@
+{
+    "href": "/game/infiltrator",
+    "MSG": {
+        "id": "1099876267",
+        "title": "Infiltrator",
+        "slug": "infiltrator",
+        "thumb_id": "714191d6f58964160df16af31a47357b2107df8f1fd60b3065cbf3f1cf234f87",
+        "bg_id": "33f5068b9464b188e4ac43ce80f00014aceaa4bd78a9bec24209348de96e4e72",
+        "url": "https://www.gog.com/en/game/infiltrator",
+        "developer": "Gray Matter Inc.",
+        "publisher": "Throwback Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1682767933",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_infiltrator_v1.0_(61624).exe",
+                    "size": "12675984"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "infiltrator_manual.zip",
+                    "size": "3686169"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5C4BE31802",
+                            "link": "https://filecrypt.cc/Container/5C4BE31802"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/neWk2j8",
+                            "link": "https://safelinking.net/neWk2j8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5521501D14",
+                            "link": "https://filecrypt.cc/Container/5521501D14"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/100426776D",
+                            "link": "https://filecrypt.cc/Container/100426776D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/Nmyg2c2",
+                            "link": "https://safelinking.net/Nmyg2c2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/71A2975691",
+                            "link": "https://filecrypt.cc/Container/71A2975691"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

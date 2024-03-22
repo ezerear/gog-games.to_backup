@@ -1,0 +1,68 @@
+{
+    "href": "/game/cloud_meadow",
+    "MSG": {
+        "id": "1334902593",
+        "title": "Cloud Meadow",
+        "slug": "cloud_meadow",
+        "thumb_id": "f5a05b8726183007f56f5104692184ff36104afd8e7edf47780732c13c4fbf20",
+        "bg_id": "eb3de5ea097e8d3ecf0f5086f7f5c3f3199a0a6eb3b9b3959ec35c52523cd856",
+        "url": "https://www.gog.com/en/game/cloud_meadow",
+        "developer": "Team Nimbus",
+        "publisher": "TinyHat Studios",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1709692831",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_cloud_meadow_0.1.4.3b_(68574).exe",
+                    "size": "941660920"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5A381EA11B",
+                            "link": "https://filecrypt.cc/Container/5A381EA11B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C81500A93C",
+                            "link": "https://filecrypt.cc/Container/C81500A93C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C459B9DB48",
+                            "link": "https://filecrypt.cc/Container/C459B9DB48"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

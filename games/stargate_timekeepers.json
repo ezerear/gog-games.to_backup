@@ -1,0 +1,84 @@
+{
+    "href": "/game/stargate_timekeepers",
+    "MSG": {
+        "id": "1728174162",
+        "title": "Stargate: Timekeepers",
+        "slug": "stargate_timekeepers",
+        "thumb_id": "1318c29a5b3a685c0c1a6dafb106a56ff886862ca17fd735f9540949751dcf6d",
+        "bg_id": "805fb3a98130d18cae64d6ad4f5f27486bd9ee041ab7c45d453288d8f36ecf07",
+        "url": "https://www.gog.com/game/stargate_timekeepers",
+        "developer": "Creative Forge Games",
+        "publisher": "Slitherine Ltd.",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1708933513",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_stargate_timekeepers_1.00.25_(64bit)_(71225)-1.bin",
+                    "size": "4293866494"
+                },
+                {
+                    "name": "setup_stargate_timekeepers_1.00.25_(64bit)_(71225)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_stargate_timekeepers_1.00.25_(64bit)_(71225)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_stargate_timekeepers_1.00.25_(64bit)_(71225)-4.bin",
+                    "size": "263871069"
+                },
+                {
+                    "name": "setup_stargate_timekeepers_1.00.25_(64bit)_(71225).exe",
+                    "size": "1107784"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8F4AD36988",
+                            "link": "https://filecrypt.cc/Container/8F4AD36988"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/899BD0F466",
+                            "link": "https://filecrypt.cc/Container/899BD0F466"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B88B2AD736",
+                            "link": "https://filecrypt.cc/Container/B88B2AD736"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

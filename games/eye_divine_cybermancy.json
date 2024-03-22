@@ -1,0 +1,72 @@
+{
+    "href": "/game/eye_divine_cybermancy",
+    "MSG": {
+        "id": "1114411610",
+        "title": "E.Y.E: Divine Cybermancy - Single-Player Edition",
+        "slug": "eye_divine_cybermancy",
+        "thumb_id": "51b2a61d8500171266391d41d9d514916be94ca8f8ae1f738b639277ba1dc82f",
+        "bg_id": "872b1d34a195dae1c4e97c0ad4ef890bca0bef92feb84a0c6a47db0018c989f6",
+        "url": "https://www.gog.com/game/eye_divine_cybermancy",
+        "developer": "Streum On Studio",
+        "publisher": "Streum On Studio",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708448674",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_e.y.e_divine_cybermancy_e.y.edc_gog_1.01_(51327)-1.bin",
+                    "size": "3396697899"
+                },
+                {
+                    "name": "setup_e.y.e_divine_cybermancy_e.y.edc_gog_1.01_(51327).exe",
+                    "size": "3785688"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/jcT5ny9",
+                            "link": "https://safelinking.net/jcT5ny9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/ScwlwIC",
+                            "link": "https://safelinking.net/ScwlwIC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/Yfkdoji",
+                            "link": "https://safelinking.net/Yfkdoji"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,76 @@
+{
+    "href": "/game/bus_world",
+    "MSG": {
+        "id": "1303540115",
+        "title": "Bus World",
+        "slug": "bus_world",
+        "thumb_id": "57c57194ca92aee69cc1842bfbef4a0c754710026fe8a78f4f6bbcfb13408f21",
+        "bg_id": "3702a8f505b9319efbceeff2bbd4db6b705e4f6e4ed8135d1bc7bd6e6da2c902",
+        "url": "https://www.gog.com/en/game/bus_world",
+        "developer": "KishMish Games",
+        "publisher": "KishMish Games",
+        "category": "Racing",
+        "uploading": "0",
+        "last_upload": "1707847889",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_bus_world_2.3.2_(64bit)_(71027)-1.bin",
+                    "size": "4293944830"
+                },
+                {
+                    "name": "setup_bus_world_2.3.2_(64bit)_(71027)-2.bin",
+                    "size": "2637844841"
+                },
+                {
+                    "name": "setup_bus_world_2.3.2_(64bit)_(71027).exe",
+                    "size": "1029736"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/647FD32B39",
+                            "link": "https://filecrypt.cc/Container/647FD32B39"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C297F9688C",
+                            "link": "https://filecrypt.cc/Container/C297F9688C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D5964DE892",
+                            "link": "https://filecrypt.cc/Container/D5964DE892"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

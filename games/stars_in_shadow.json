@@ -1,0 +1,87 @@
+{
+    "href": "/game/stars_in_shadow",
+    "MSG": {
+        "id": "1445170412",
+        "title": "Stars in Shadow",
+        "slug": "stars_in_shadow",
+        "thumb_id": "ed601a3e3b164a1ad027f0dc15dc6cc442800bc65354352ae9e47a126cb2bc5c",
+        "bg_id": "3dc48e28051dd686d6bfd018bdc9bbe5bca11a893f5801e40f900f541edddab6",
+        "url": "https://www.gog.com/game/stars_in_shadow",
+        "developer": "Ashdar Games",
+        "publisher": "Iceberg Interactive",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1707707730",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_stars_in_shadow_38774_(080920)_(40420)-1.bin",
+                    "size": "3138581160"
+                },
+                {
+                    "name": "setup_stars_in_shadow_38774_(080920)_(40420).exe",
+                    "size": "8837640"
+                },
+                {
+                    "name": "setup_stars_in_shadow_legacies_38774_(080920)_(40420).exe",
+                    "size": "29228104"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/466B26F8C9",
+                            "link": "https://filecrypt.cc/Container/466B26F8C9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/38CCD82D05",
+                            "link": "https://filecrypt.cc/Container/38CCD82D05"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/53A8A5D6FB",
+                            "link": "https://filecrypt.cc/Container/53A8A5D6FB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BC7DF8DD65",
+                            "link": "https://filecrypt.cc/Container/BC7DF8DD65"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

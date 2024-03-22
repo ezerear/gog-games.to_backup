@@ -1,0 +1,72 @@
+{
+    "href": "/game/doom_i_enhanced",
+    "MSG": {
+        "id": "2015545325",
+        "title": "DOOM I Enhanced",
+        "slug": "doom_i_enhanced",
+        "thumb_id": "2cbe0fc4f6726cbbd35bc3578bcefc6d33fe7138ca5bfc35c795087d738dfbd0",
+        "bg_id": "1a3598e79e18ae3e15bd19f81781cb0dc676d9766aa3b2d724db19406f1a877e",
+        "url": "https://www.gog.com/en/game/doom_1993",
+        "developer": "id Software",
+        "publisher": "id Software",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710293319",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_doom_i_enhanced_january_23_update_(64bit)_(60827)-1.bin",
+                    "size": "331198958"
+                },
+                {
+                    "name": "setup_doom_i_enhanced_january_23_update_(64bit)_(60827).exe",
+                    "size": "789832"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C6EA1E7C4A",
+                            "link": "https://filecrypt.cc/Container/C6EA1E7C4A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0B623AF699",
+                            "link": "https://filecrypt.cc/Container/0B623AF699"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/72EC2E7158",
+                            "link": "https://filecrypt.cc/Container/72EC2E7158"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

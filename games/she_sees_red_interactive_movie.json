@@ -1,0 +1,94 @@
+{
+    "href": "/game/she_sees_red_interactive_movie",
+    "MSG": {
+        "id": "2009626177",
+        "title": "She Sees Red - Interactive Movie",
+        "slug": "she_sees_red_interactive_movie",
+        "thumb_id": "f3240832c7edfd8de5105b700d3e4aa6f82e2a595b79f24dff1f17d5ef874978",
+        "bg_id": "445eb5a03507d4d027e387f063c3cd458b890c0089148f74fd34d50a50310e66",
+        "url": "https://www.gog.com/game/she_sees_red_interactive_movie",
+        "developer": "Rhinotales",
+        "publisher": "Rhinotales",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1704462483",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_she_sees_red_-_interactive_movie_1.0_(46121)-1.bin",
+                    "size": "2645368040"
+                },
+                {
+                    "name": "setup_she_sees_red_-_interactive_movie_1.0_(46121).exe",
+                    "size": "1183752"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/432A4F4D87",
+                            "link": "https://filecrypt.cc/Container/432A4F4D87"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4E27B38B4D",
+                            "link": "https://filecrypt.cc/Container/4E27B38B4D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F4952C3417",
+                            "link": "https://filecrypt.cc/Container/F4952C3417"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/903712581E",
+                            "link": "https://filecrypt.cc/Container/903712581E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/74C03E74BE",
+                            "link": "https://filecrypt.cc/Container/74C03E74BE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

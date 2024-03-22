@@ -1,0 +1,101 @@
+{
+    "href": "/game/kosmokrats",
+    "MSG": {
+        "id": "1987695103",
+        "title": "Kosmokrats",
+        "slug": "kosmokrats",
+        "thumb_id": "d29685e051ebb5f37f1ebf365995504cdf6b730e1233ac0b9517d9d650692f78",
+        "bg_id": "79b614be8cef055124da978d40193a3ca71179d421e3b4c33be5c2ea5c660b83",
+        "url": "https://www.gog.com/game/kosmokrats",
+        "developer": "Pixel Delusion",
+        "publisher": "Modern Wolf",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1701989422",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_kosmokrats_1.2_(45211).exe",
+                    "size": "1657415560"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6654E4D559",
+                            "link": "https://filecrypt.cc/Container/6654E4D559"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4C95D1023A",
+                            "link": "https://filecrypt.cc/Container/4C95D1023A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4168FC6B57",
+                            "link": "https://filecrypt.cc/Container/4168FC6B57"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8A031EA74D",
+                            "link": "https://filecrypt.cc/Container/8A031EA74D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5D472B7CC8",
+                            "link": "https://filecrypt.cc/Container/5D472B7CC8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7E9B9383A2",
+                            "link": "https://filecrypt.cc/Container/7E9B9383A2"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

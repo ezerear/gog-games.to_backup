@@ -1,0 +1,68 @@
+{
+    "href": "/game/tiger_heli",
+    "MSG": {
+        "id": "1744365164",
+        "title": "Tiger Heli",
+        "slug": "tiger_heli",
+        "thumb_id": "afdf4709b1aceac0fbadef42ea372166af3a0a11d0e3109be53542b648951704",
+        "bg_id": "e188ebd5c78637a6eff63bb0a4d32429a3a1229d64dbafac0fe7c72af46150e1",
+        "url": "https://www.gog.com/en/game/tiger_heli",
+        "developer": "Bitwave Games, Toaplan",
+        "publisher": "Bitwave Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710381603",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tiger_heli_15_(64bit)_(71697).exe",
+                    "size": "12078616"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/502FE6EE13",
+                            "link": "https://filecrypt.cc/Container/502FE6EE13"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5C82660125",
+                            "link": "https://filecrypt.cc/Container/5C82660125"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5144B4E19F",
+                            "link": "https://filecrypt.cc/Container/5144B4E19F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

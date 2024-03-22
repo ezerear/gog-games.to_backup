@@ -1,0 +1,89 @@
+{
+    "href": "/game/to_hell_with_the_ugly",
+    "MSG": {
+        "id": "1114149912",
+        "title": "To Hell With The Ugly",
+        "slug": "to_hell_with_the_ugly",
+        "thumb_id": "68bc9a8e6829f559515f221e0e6736db7e6c76ea145b1c072657aeb5bad7549c",
+        "bg_id": "58d529cc5d44e5786b6b46c2291e81ec146bdfcd879fa6aca64f6f40e567d85d",
+        "url": "https://www.gog.com/en/game/to_hell_with_the_ugly",
+        "developer": "La Poule Noire, ARTE France",
+        "publisher": "ARTE France",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710117763",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_to_hell_with_the_ugly_1.2.0_(64bit)_(71555)-1.bin",
+                    "size": "1689621070"
+                },
+                {
+                    "name": "setup_to_hell_with_the_ugly_1.2.0_(64bit)_(71555).exe",
+                    "size": "823304"
+                }
+            ],
+            "PATCHES": [
+                {
+                    "name": "patch_to_hell_with_the_ugly_1.1.2_(68003)_to_1.2.0_(71555).exe",
+                    "size": "49402096"
+                }
+            ],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/29A8E3A915",
+                            "link": "https://filecrypt.cc/Container/29A8E3A915"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1A4334FE93",
+                            "link": "https://filecrypt.cc/Container/1A4334FE93"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A19D55D6C1",
+                            "link": "https://filecrypt.cc/Container/A19D55D6C1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/38A79F7B6D",
+                            "link": "https://filecrypt.cc/Container/38A79F7B6D"
+                        }
+                    ]
+                }
+            ],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

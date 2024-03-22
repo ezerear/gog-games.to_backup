@@ -1,0 +1,94 @@
+{
+    "href": "/game/pine",
+    "MSG": {
+        "id": "2065334330",
+        "title": "Pine",
+        "slug": "pine",
+        "thumb_id": "c3761695f83206585e8b20a79c27b7c41306d40761bee2a298d8b00fbceff99e",
+        "bg_id": "e0abfd20646a653c1f1ac07c1ee9a7e03495da97fea8233790aca4570d356bab",
+        "url": "https://www.gog.com/game/pine",
+        "developer": " Twirlbound",
+        "publisher": "Kongregate",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1706500285",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_pine_patch_13_(ef57f2e2)_(64bit)_(41599)-1.bin",
+                    "size": "2347917957"
+                },
+                {
+                    "name": "setup_pine_patch_13_(ef57f2e2)_(64bit)_(41599).exe",
+                    "size": "874640"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E42CA7DDB5",
+                            "link": "https://filecrypt.cc/Container/E42CA7DDB5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/412CBEA952",
+                            "link": "https://filecrypt.cc/Container/412CBEA952"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/91AF4A9354",
+                            "link": "https://filecrypt.cc/Container/91AF4A9354"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5C6C638408",
+                            "link": "https://filecrypt.cc/Container/5C6C638408"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4CFC75A7D9",
+                            "link": "https://filecrypt.cc/Container/4CFC75A7D9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,94 @@
+{
+    "href": "/game/the_cub",
+    "MSG": {
+        "id": "1224215607",
+        "title": "The Cub",
+        "slug": "the_cub",
+        "thumb_id": "1cdc0231ea0a9fb385e7d50082dd24ddd580af89811a74c0ccfe0a0981dd6ea7",
+        "bg_id": "4e0ee2ad87d88227a5d163c4816333fb3b91350adf6d8f7cdac25552515deeff",
+        "url": "https://www.gog.com/en/game/the_cub",
+        "developer": "Demagog Studio",
+        "publisher": "Untold Tales, Gamersky Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1705697047",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_cub_1.0.0_(70495)-1.bin",
+                    "size": "2005258474"
+                },
+                {
+                    "name": "setup_the_cub_1.0.0_(70495).exe",
+                    "size": "935464"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AE53F57F16",
+                            "link": "https://filecrypt.cc/Container/AE53F57F16"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C6587DFCB6",
+                            "link": "https://filecrypt.cc/Container/C6587DFCB6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5559EEF996",
+                            "link": "https://filecrypt.cc/Container/5559EEF996"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/084B51D4DE",
+                            "link": "https://filecrypt.cc/Container/084B51D4DE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/112C0AE201",
+                            "link": "https://filecrypt.cc/Container/112C0AE201"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

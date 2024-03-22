@@ -1,0 +1,72 @@
+{
+    "href": "/game/black_academy",
+    "MSG": {
+        "id": "1168491374",
+        "title": "Black Academy",
+        "slug": "black_academy",
+        "thumb_id": "8f09e1d603a926a9f41b34e6d9f8469c5494bf6eea58fd1b31118bea22f6d126",
+        "bg_id": "3d15ac23cbd0b7a008df85a79fd7271ea8488cd5621b64779e1374cd1f7ddd88",
+        "url": "https://www.gog.com/en/game/black_academy",
+        "developer": "Catdoors",
+        "publisher": "MediBang Inc.",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710564656",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_black_academy_(secret_plus)_1.0.169_v2_(66987).exe",
+                    "size": "6590200"
+                },
+                {
+                    "name": "setup_black_academy_1.0.169_v2_(66987).exe",
+                    "size": "782409928"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9F8DA45845",
+                            "link": "https://filecrypt.cc/Container/9F8DA45845"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/86FAAEA497",
+                            "link": "https://filecrypt.cc/Container/86FAAEA497"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D8A46F0B7E",
+                            "link": "https://filecrypt.cc/Container/D8A46F0B7E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

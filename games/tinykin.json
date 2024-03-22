@@ -1,0 +1,72 @@
+{
+    "href": "/game/tinykin",
+    "MSG": {
+        "id": "1129992472",
+        "title": "Tinykin",
+        "slug": "tinykin",
+        "thumb_id": "9cb7c453dcb8452e093ad6a44ac637327981d46f9d533ccc239510e504c0953c",
+        "bg_id": "e53e4414add21ed570a5b8364bb3f5e101c62538b78470450370fe87527e1e49",
+        "url": "https://www.gog.com/en/game/tinykin",
+        "developer": "Splashteam",
+        "publisher": "tinyBuild",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708652843",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tinykin_1.1.0_(61137)-1.bin",
+                    "size": "3793135464"
+                },
+                {
+                    "name": "setup_tinykin_1.1.0_(61137).exe",
+                    "size": "858224"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/38A736F394",
+                            "link": "https://filecrypt.cc/Container/38A736F394"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5B5003FC29",
+                            "link": "https://filecrypt.cc/Container/5B5003FC29"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E06855A5DB",
+                            "link": "https://filecrypt.cc/Container/E06855A5DB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

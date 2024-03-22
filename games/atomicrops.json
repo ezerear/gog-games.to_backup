@@ -1,0 +1,119 @@
+{
+    "href": "/game/atomicrops",
+    "MSG": {
+        "id": "1112775722",
+        "title": "Atomicrops",
+        "slug": "atomicrops",
+        "thumb_id": "511ba9006a5fc6ddae031e428a31d6a014b18f727dac29ff31223674c5b2965d",
+        "bg_id": "d916cf240d0017458d2a3fb78a89bee33af50d271c55d51674a4728541931bbf",
+        "url": "https://www.gog.com/game/atomicrops",
+        "developer": "Bird Bath Game",
+        "publisher": "Raw Fury",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709517631",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_atomicrops_1.7.0f3_(64332).exe",
+                    "size": "452183680"
+                },
+                {
+                    "name": "setup_atomicrops_deerly_beloved_1.7.0f3_(64332).exe",
+                    "size": "6103088"
+                },
+                {
+                    "name": "setup_atomicrops_reap_what_you_crow_1.7.0f3_(64332).exe",
+                    "size": "6525304"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "atomicrops_ost_mp3.zip",
+                    "size": "145911573"
+                },
+                {
+                    "name": "atomicrops_ost_wav.zip",
+                    "size": "731397162"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1A083455C1",
+                            "link": "https://filecrypt.cc/Container/1A083455C1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D393B586C5",
+                            "link": "https://filecrypt.cc/Container/D393B586C5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4D5AAD9A9F",
+                            "link": "https://filecrypt.cc/Container/4D5AAD9A9F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DEEF475D9A",
+                            "link": "https://filecrypt.cc/Container/DEEF475D9A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/35B9507416",
+                            "link": "https://filecrypt.cc/Container/35B9507416"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A637C44E1B",
+                            "link": "https://filecrypt.cc/Container/A637C44E1B"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

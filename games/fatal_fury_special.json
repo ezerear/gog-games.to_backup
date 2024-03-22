@@ -1,0 +1,79 @@
+{
+    "href": "/game/fatal_fury_special",
+    "MSG": {
+        "id": "1226880572",
+        "title": "FATAL FURY SPECIAL",
+        "slug": "fatal_fury_special",
+        "thumb_id": "75e0fa44d8e08befe24bc1bf6a9d7099092eea1fbe883c9a9cdf24739f3d84d6",
+        "bg_id": "1db44f7b19f061b54d7865091faf98f7581f9e242d5e02fb460ac654291b02c6",
+        "url": "https://www.gog.com/game/fatal_fury_special",
+        "developer": "SNK CORPORATION",
+        "publisher": "SNK CORPORATION",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1686531069",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_fatal_fury_special_gog-3_(12081).exe",
+                    "size": "50670592"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/96766C5CF7",
+                            "link": "https://filecrypt.cc/Container/96766C5CF7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5B60AF7B48",
+                            "link": "https://filecrypt.cc/Container/5B60AF7B48"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3BAF1383A4",
+                            "link": "https://filecrypt.cc/Container/3BAF1383A4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/59DA8F964B",
+                            "link": "https://filecrypt.cc/Container/59DA8F964B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

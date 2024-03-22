@@ -1,0 +1,79 @@
+{
+    "href": "/game/webbed",
+    "MSG": {
+        "id": "1468478181",
+        "title": "Webbed",
+        "slug": "webbed",
+        "thumb_id": "877c6e09059ff797306dc8a93146883f57a8a9a52f82422bdb677ae914c32603",
+        "bg_id": "2e65204fffbe3938ffe79bdc7289ecc48f21fceb37c852cb5939a58aba37c34a",
+        "url": "https://www.gog.com/game/webbed",
+        "developer": "Sbug Games",
+        "publisher": "Sbug Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708068122",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_webbed_v1.04b_(64bit)_(51339).exe",
+                    "size": "131714968"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F74D160FD8",
+                            "link": "https://filecrypt.cc/Container/F74D160FD8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/50D06067D6",
+                            "link": "https://filecrypt.cc/Container/50D06067D6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B275E4B084",
+                            "link": "https://filecrypt.cc/Container/B275E4B084"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D829545A9B",
+                            "link": "https://filecrypt.cc/Container/D829545A9B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/how_to_say_goodbye",
+    "MSG": {
+        "id": "1201082359",
+        "title": "How to Say Goodbye",
+        "slug": "how_to_say_goodbye",
+        "thumb_id": "6340a35e9451d99cd81342bb9fb43176b7466ebc021d305553018c182ca9d569",
+        "bg_id": "d5a7f7bd8d6a6f347bc047b6d7b89a59471994a6bf901a53060e3a7a8cc3abcf",
+        "url": "https://www.gog.com/en/game/how_to_say_goodbye",
+        "developer": "Florian Veltman, Baptiste Portefaix, ARTE France",
+        "publisher": "ARTE France",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708747492",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_how_to_say_goodbye_1.0.7_(63972).exe",
+                    "size": "346713664"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A71C7DF086",
+                            "link": "https://filecrypt.cc/Container/A71C7DF086"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CB5919B489",
+                            "link": "https://filecrypt.cc/Container/CB5919B489"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/29D47FB200",
+                            "link": "https://filecrypt.cc/Container/29D47FB200"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

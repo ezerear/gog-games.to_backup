@@ -1,0 +1,79 @@
+{
+    "href": "/game/axe_cop",
+    "MSG": {
+        "id": "1508621918",
+        "title": "Axe Cop",
+        "slug": "axe_cop",
+        "thumb_id": "3d6565afb4b30dd6e6ab3c149818265e0d447c6e647f595a03ed80ea6dda2f35",
+        "bg_id": "773169c9bc44505460be14e4f72a510d67018014ba23950640b435935dc65bbc",
+        "url": "https://www.gog.com/en/game/axe_cop",
+        "developer": "Red Triangle Games",
+        "publisher": "Red Triangle Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708077883",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_axe_cop_1.91_(65269).exe",
+                    "size": "65347880"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E6CF65050B",
+                            "link": "https://filecrypt.cc/Container/E6CF65050B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/374AB0388C",
+                            "link": "https://filecrypt.cc/Container/374AB0388C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9491D87FED",
+                            "link": "https://filecrypt.cc/Container/9491D87FED"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/620B9959FB",
+                            "link": "https://filecrypt.cc/Container/620B9959FB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

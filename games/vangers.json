@@ -1,0 +1,123 @@
+{
+    "href": "/game/vangers",
+    "MSG": {
+        "id": "1207665873",
+        "title": "Vangers",
+        "slug": "vangers",
+        "thumb_id": "caeb7d5428193d202eeaa5ac951d291dc7f187f05d5dee7704b39a3d25488bdf",
+        "bg_id": "3348bfb3db7e41d40e8e237e517a729fa59320551c85ae90a987192c434b086b",
+        "url": "https://www.gog.com/game/vangers",
+        "developer": "K-D Lab Game Development",
+        "publisher": "KranX Productions",
+        "category": "Racing",
+        "uploading": "0",
+        "last_upload": "1710946529",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_vangers_1.46_(64bit)_(44410).exe",
+                    "size": "281809200"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "vangers_manual_english.zip",
+                    "size": "6424895"
+                },
+                {
+                    "name": "vangers_manual_russian.zip",
+                    "size": "8167029"
+                },
+                {
+                    "name": "vangers_posters.zip",
+                    "size": "1389111"
+                },
+                {
+                    "name": "vangers_soundtrack_flac.zip",
+                    "size": "176556408"
+                },
+                {
+                    "name": "vangers_soundtrack_mp3.zip",
+                    "size": "56154105"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/75074ACB75",
+                            "link": "https://filecrypt.cc/Container/75074ACB75"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B247CD0B20",
+                            "link": "https://filecrypt.cc/Container/B247CD0B20"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7E062524AF",
+                            "link": "https://filecrypt.cc/Container/7E062524AF"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AF8D4D4109",
+                            "link": "https://filecrypt.cc/Container/AF8D4D4109"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C254C3662B",
+                            "link": "https://filecrypt.cc/Container/C254C3662B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6A174D7A8E",
+                            "link": "https://filecrypt.cc/Container/6A174D7A8E"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

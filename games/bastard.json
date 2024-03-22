@@ -1,0 +1,68 @@
+{
+    "href": "/game/bastard",
+    "MSG": {
+        "id": "1391063890",
+        "title": "Bastard",
+        "slug": "bastard",
+        "thumb_id": "ae88d7dda9b6372777bc97253c8411cbb0519fdc843af2cab294a85dc38c497e",
+        "bg_id": "24549b61499ec738a13844205de0ccc80f4d65556d020d3d270c18daa972b737",
+        "url": "https://www.gog.com/game/bastard",
+        "developer": "Aterdux Entertainment",
+        "publisher": "Aterdux Entertainment",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1708996335",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_bastard_1.01_(20913).exe",
+                    "size": "1410145888"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/271F89F1D4",
+                            "link": "https://filecrypt.cc/Container/271F89F1D4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6191E1E806",
+                            "link": "https://filecrypt.cc/Container/6191E1E806"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7DD113F5E2",
+                            "link": "https://filecrypt.cc/Container/7DD113F5E2"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

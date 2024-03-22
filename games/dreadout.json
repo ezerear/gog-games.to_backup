@@ -1,0 +1,135 @@
+{
+    "href": "/game/dreadout",
+    "MSG": {
+        "id": "1446471941",
+        "title": "DreadOut",
+        "slug": "dreadout",
+        "thumb_id": "4ad61727ff99098e2f10d7c66f3669148694597992b0e46f62550a4ad76d11d7",
+        "bg_id": "7d3725bc5deb27a76778679327e959c032b0c845e01236011e37da9ed1a00c8d",
+        "url": "https://www.gog.com/game/dreadout",
+        "developer": "Digital Happiness",
+        "publisher": "Digital Happiness",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709524994",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dreadout_2.2.18_(64bit)_(32943)-1.bin",
+                    "size": "4294057470"
+                },
+                {
+                    "name": "setup_dreadout_2.2.18_(64bit)_(32943)-2.bin",
+                    "size": "300441361"
+                },
+                {
+                    "name": "setup_dreadout_2.2.18_(64bit)_(32943).exe",
+                    "size": "917160"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "dreadout_manga_en.zip",
+                    "size": "30447833"
+                },
+                {
+                    "name": "dreadout_manga_jp.zip",
+                    "size": "101381497"
+                },
+                {
+                    "name": "dreadout_ost_bgm_mp3.zip",
+                    "size": "77286545"
+                },
+                {
+                    "name": "dreadout_ost_bgm_wave.zip",
+                    "size": "333626744"
+                },
+                {
+                    "name": "dreadout_ost_mp3.zip",
+                    "size": "119412330"
+                },
+                {
+                    "name": "dreadout_ost_wave.zip",
+                    "size": "477147623"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0ED414B042",
+                            "link": "https://filecrypt.cc/Container/0ED414B042"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EEBB1DE5AE",
+                            "link": "https://filecrypt.cc/Container/EEBB1DE5AE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AAA9A88D07",
+                            "link": "https://filecrypt.cc/Container/AAA9A88D07"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C1C2A33767",
+                            "link": "https://filecrypt.cc/Container/C1C2A33767"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/178171350A",
+                            "link": "https://filecrypt.cc/Container/178171350A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D566420E15",
+                            "link": "https://filecrypt.cc/Container/D566420E15"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

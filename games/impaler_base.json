@@ -1,0 +1,72 @@
+{
+    "href": "/game/impaler_base",
+    "MSG": {
+        "id": "1168925697",
+        "title": "Impaler",
+        "slug": "impaler_base",
+        "thumb_id": "b76b34d1d2a8131a1259524df334de126de19d1647e6bcbccf40f6fd70a0926a",
+        "bg_id": "a52e6497bc7d016ef350787a113e779088dabe0c17403358ee4b07c6800933fb",
+        "url": "https://www.gog.com/en/game/impaler",
+        "developer": "Apptivus",
+        "publisher": "Retrovibe",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1708529145",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_impaler_1.0.539_(64bit)_(68029)-1.bin",
+                    "size": "425271366"
+                },
+                {
+                    "name": "setup_impaler_1.0.539_(64bit)_(68029).exe",
+                    "size": "820224"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B31BBD6361",
+                            "link": "https://filecrypt.cc/Container/B31BBD6361"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E0C327A632",
+                            "link": "https://filecrypt.cc/Container/E0C327A632"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7FE0E70D55",
+                            "link": "https://filecrypt.cc/Container/7FE0E70D55"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

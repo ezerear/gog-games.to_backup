@@ -1,0 +1,72 @@
+{
+    "href": "/game/tomb_raider_anniversary",
+    "MSG": {
+        "id": "1202885143",
+        "title": "Tomb Raider: Anniversary",
+        "slug": "tomb_raider_anniversary",
+        "thumb_id": "70db6adcba1b0c8347da80beeae413d56ce27475dbd69d1435e0ee1d0bf52011",
+        "bg_id": "8c51ccd4623994684880b20ab443f6cd6bd677f5ee16db69c180642af5756473",
+        "url": "https://www.gog.com/game/tomb_raider_anniversary",
+        "developer": "Crystal Dynamics",
+        "publisher": "Square Enix",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710601323",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tomb_raider_anniversary_1.0_(48900)-1.bin",
+                    "size": "3047271801"
+                },
+                {
+                    "name": "setup_tomb_raider_anniversary_1.0_(48900).exe",
+                    "size": "855960"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DFBBDAEB7A",
+                            "link": "https://filecrypt.cc/Container/DFBBDAEB7A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9FAE22F68D",
+                            "link": "https://filecrypt.cc/Container/9FAE22F68D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3CCFE7A056",
+                            "link": "https://filecrypt.cc/Container/3CCFE7A056"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

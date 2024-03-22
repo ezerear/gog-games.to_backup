@@ -1,0 +1,119 @@
+{
+    "href": "/game/neon_chrome",
+    "MSG": {
+        "id": "1172303491",
+        "title": "Neon Chrome",
+        "slug": "neon_chrome",
+        "thumb_id": "409d0926244834d1a8839e8e77748f7a414ebb9407f24464be65a4b589fb7a50",
+        "bg_id": "4d4d9120526be9a7a46e720c2dff6a0a03103d486853d30bd79b6d5a26202920",
+        "url": "https://www.gog.com/game/neon_chrome",
+        "developer": "10tons",
+        "publisher": "10tons",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1709147967",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_neon_chrome_-_arena_1.1.12_(27130).exe",
+                    "size": "5788816"
+                },
+                {
+                    "name": "setup_neon_chrome_1.1.12_(27130).exe",
+                    "size": "191879720"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "neon_chrome_ost_flac.zip",
+                    "size": "241809354"
+                },
+                {
+                    "name": "neon_chrome_ost_ogg.zip",
+                    "size": "42847625"
+                },
+                {
+                    "name": "neoon_chrome_ost_mp3.zip",
+                    "size": "100280436"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/54FA466D41",
+                            "link": "https://filecrypt.cc/Container/54FA466D41"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A90C42E509",
+                            "link": "https://filecrypt.cc/Container/A90C42E509"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6BF06F5C2C",
+                            "link": "https://filecrypt.cc/Container/6BF06F5C2C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9BF50651AF",
+                            "link": "https://filecrypt.cc/Container/9BF50651AF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3A67D8CBF4",
+                            "link": "https://filecrypt.cc/Container/3A67D8CBF4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5E8717F64F",
+                            "link": "https://filecrypt.cc/Container/5E8717F64F"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

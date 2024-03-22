@@ -1,0 +1,68 @@
+{
+    "href": "/game/passpartout_the_starving_artist",
+    "MSG": {
+        "id": "1427891789",
+        "title": "Passpartout: The Starving Artist",
+        "slug": "passpartout_the_starving_artist",
+        "thumb_id": "7f45d6c1aa3a494a08aeceec1f1bf5fc3f836df1d667ada877d4e0d5b713e707",
+        "bg_id": "285f62d7af8cb8306c16e948ee36e4018e40f0c2c77f808efeb4919ee95aa63d",
+        "url": "https://www.gog.com/game/passpartout_the_starving_artist",
+        "developer": "Flamebait Games",
+        "publisher": "Flamebait Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708494397",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_passpartout_the_starving_artist_1.7.5_(64bit)_(45658).exe",
+                    "size": "493446448"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/76EB2B9FF3",
+                            "link": "https://filecrypt.cc/Container/76EB2B9FF3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/62C148918D",
+                            "link": "https://filecrypt.cc/Container/62C148918D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CA456EBBB6",
+                            "link": "https://filecrypt.cc/Container/CA456EBBB6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

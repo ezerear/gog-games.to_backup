@@ -1,0 +1,131 @@
+{
+    "href": "/game/shadows_heretic_kingdoms",
+    "MSG": {
+        "id": "1207666963",
+        "title": "Shadows: Heretic Kingdoms",
+        "slug": "shadows_heretic_kingdoms",
+        "thumb_id": "d000da7028b9f9e0f3b43123cad2235ba85b6680c043afe6cdd4067601c8f4ee",
+        "bg_id": "debb1184b61738e9c7f4c3a4a88f360f7485c84bcbb98088d4d9c807c890a94f",
+        "url": "https://www.gog.com/game/shadows_heretic_kingdoms",
+        "developer": "Games Farm",
+        "publisher": "Kalypso Media Digital",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709279460",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_shadows_heretic_kingdoms_1.0.0.8182_(21662)-1.bin",
+                    "size": "2903308968"
+                },
+                {
+                    "name": "setup_shadows_heretic_kingdoms_1.0.0.8182_(21662).exe",
+                    "size": "803944"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "shadows_hk_avatars.zip",
+                    "size": "335694"
+                },
+                {
+                    "name": "shadows_hk_main_theme_video.zip",
+                    "size": "123282842"
+                },
+                {
+                    "name": "shadows_hk_main_theme_wav.zip",
+                    "size": "32414876"
+                },
+                {
+                    "name": "shadows_hk_ost_flac.zip",
+                    "size": "562298075"
+                },
+                {
+                    "name": "shadows_hk_ost_mp3.zip",
+                    "size": "154367694"
+                },
+                {
+                    "name": "shadows_hk_wallpapers.zip",
+                    "size": "3252986"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/752A51DCD9",
+                            "link": "https://filecrypt.cc/Container/752A51DCD9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C8C5D5DEE4",
+                            "link": "https://filecrypt.cc/Container/C8C5D5DEE4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5655F44F95",
+                            "link": "https://filecrypt.cc/Container/5655F44F95"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7EF34BA7EF",
+                            "link": "https://filecrypt.cc/Container/7EF34BA7EF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0BAD723570",
+                            "link": "https://filecrypt.cc/Container/0BAD723570"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D302BA4548",
+                            "link": "https://filecrypt.cc/Container/D302BA4548"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

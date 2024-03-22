@@ -1,0 +1,68 @@
+{
+    "href": "/game/videoverse",
+    "MSG": {
+        "id": "1354545095",
+        "title": "VIDEOVERSE",
+        "slug": "videoverse",
+        "thumb_id": "ca525b8ff6bd89ffc5296098e23bc49ca280825d1aaa160fac5cf26317ed4413",
+        "bg_id": "ab564749b51e0d9cb98c99a22898bea782080dd6264b016c912df97c9f23ba51",
+        "url": "https://www.gog.com/en/game/videoverse",
+        "developer": "Kinmoku",
+        "publisher": "Kinmoku",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710737347",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_videoverse_1.1.2.9_(71752).exe",
+                    "size": "512269104"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2F197C7473",
+                            "link": "https://filecrypt.cc/Container/2F197C7473"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5FBA41E8A3",
+                            "link": "https://filecrypt.cc/Container/5FBA41E8A3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C4ED34DA50",
+                            "link": "https://filecrypt.cc/Container/C4ED34DA50"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

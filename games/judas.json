@@ -1,0 +1,68 @@
+{
+    "href": "/game/judas",
+    "MSG": {
+        "id": "1733717398",
+        "title": "Judas",
+        "slug": "judas",
+        "thumb_id": "31e30f6050e04171407913aab5d59a0b46c42bc165a96ff8f2a53a704e6067b9",
+        "bg_id": "2fa4a368d6413a066dcfad2c93823be51d1b2f2ccb7829587b265c2545e99bb6",
+        "url": "https://www.gog.com/en/game/judas",
+        "developer": "Studio48",
+        "publisher": "Meridian4",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1690107391",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_judas_1.0_(57271).exe",
+                    "size": "255874400"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/157507DC8C",
+                            "link": "https://filecrypt.cc/Container/157507DC8C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D862B61B6A",
+                            "link": "https://filecrypt.cc/Container/D862B61B6A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2D580EC0C5",
+                            "link": "https://filecrypt.cc/Container/2D580EC0C5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

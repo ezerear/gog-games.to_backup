@@ -1,0 +1,111 @@
+{
+    "href": "/game/tunic",
+    "MSG": {
+        "id": "1716751705",
+        "title": "TUNIC",
+        "slug": "tunic",
+        "thumb_id": "7894e9890a7240f85219dbd4d243a909ebc64ba14cedf13cd4a4eca80fa16709",
+        "bg_id": "e97d074016a9d04324a2ceebe5fc1fbddcc384cb578cfc5b77ae94cd6ca304c9",
+        "url": "https://www.gog.com/en/game/tunic",
+        "developer": "ISOMETRICORP Games Ltd.",
+        "publisher": "Finji",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708513065",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tunic_1.0-t1513-b45_(64bit)_(62831).exe",
+                    "size": "1515835704"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "tunic_original_game_soundtrack_flac.zip",
+                    "size": "1977086637"
+                },
+                {
+                    "name": "tunic_original_game_soundtrack_mp3.zip",
+                    "size": "447098443"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DEB522BCE7",
+                            "link": "https://filecrypt.cc/Container/DEB522BCE7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D9CA8A6817",
+                            "link": "https://filecrypt.cc/Container/D9CA8A6817"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/51209C8CC1",
+                            "link": "https://filecrypt.cc/Container/51209C8CC1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6D929C606C",
+                            "link": "https://filecrypt.cc/Container/6D929C606C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/44E0BFAD45",
+                            "link": "https://filecrypt.cc/Container/44E0BFAD45"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/47462BCAC4",
+                            "link": "https://filecrypt.cc/Container/47462BCAC4"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

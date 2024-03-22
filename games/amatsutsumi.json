@@ -1,0 +1,80 @@
+{
+    "href": "/game/amatsutsumi",
+    "MSG": {
+        "id": "1452324564",
+        "title": "Amatsutsumi",
+        "slug": "amatsutsumi",
+        "thumb_id": "6f1fadda89a35a3cedc492b597b3d1fcdc3d6110e33ee67de4787cd956c19058",
+        "bg_id": "898ee9c788877f6f80391dc8b801e534884350e44614da24dace3eb7e666b16a",
+        "url": "https://www.gog.com/en/game/amatsutsumi",
+        "developer": "Purple Software",
+        "publisher": "Sekai Project",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709781092",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_amatsutsumi_1.02_(64bit)_(57626)-1.bin",
+                    "size": "4293940734"
+                },
+                {
+                    "name": "setup_amatsutsumi_1.02_(64bit)_(57626)-2.bin",
+                    "size": "37302836"
+                },
+                {
+                    "name": "setup_amatsutsumi_1.02_(64bit)_(57626).exe",
+                    "size": "1036776"
+                },
+                {
+                    "name": "setup_amatsutsumi_unrated_patch_1.02_(57626).exe",
+                    "size": "105769392"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FBA79875F4",
+                            "link": "https://filecrypt.cc/Container/FBA79875F4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B85D11B705",
+                            "link": "https://filecrypt.cc/Container/B85D11B705"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FB2095B0A7",
+                            "link": "https://filecrypt.cc/Container/FB2095B0A7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

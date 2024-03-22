@@ -1,0 +1,59 @@
+{
+    "href": "/game/quake_ii_quad_damage_game",
+    "MSG": {
+        "id": "1441704824",
+        "title": "Quake II (Original)",
+        "slug": "quake_ii_quad_damage_game",
+        "thumb_id": "319eb7a1947f6623c2069251c83236df7b90805434910b0c27b3e9447062ba26",
+        "bg_id": "51ef609dfedd17c9588779860e14878499ddee80a3a82d64edd110f48e250ddd",
+        "url": "https://www.gog.com/game/quake_ii_quad_damage",
+        "developer": "id Software",
+        "publisher": "Bethesda Softworks LLC",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1709325955",
+        "votes": "1",
+        "files": false,
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/516DE58D8A",
+                            "link": "https://filecrypt.cc/Container/516DE58D8A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DF92F1B649",
+                            "link": "https://filecrypt.cc/Container/DF92F1B649"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B4AA7AB421",
+                            "link": "https://filecrypt.cc/Container/B4AA7AB421"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

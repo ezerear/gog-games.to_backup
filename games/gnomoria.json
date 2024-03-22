@@ -1,0 +1,90 @@
+{
+    "href": "/game/gnomoria",
+    "MSG": {
+        "id": "1460101597",
+        "title": "Gnomoria",
+        "slug": "gnomoria",
+        "thumb_id": "9c1c587d78515bdf1af183dc9e409e8d5722b26caab0efa4a52468d12f416951",
+        "bg_id": "c51e92a4bed08aa69d7a6b2337e73ca96e03c88195dff035b2ef0930ccb0e5dc",
+        "url": "https://www.gog.com/game/gnomoria",
+        "developer": "Robotronic Games",
+        "publisher": "Robotronic Games",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1704410462",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_gnomoria_2.0.0.2.exe",
+                    "size": "238100880"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BB01970522",
+                            "link": "https://filecrypt.cc/Container/BB01970522"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/41ACB1AB2F",
+                            "link": "https://filecrypt.cc/Container/41ACB1AB2F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F7F5C04578",
+                            "link": "https://filecrypt.cc/Container/F7F5C04578"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2F34848B74",
+                            "link": "https://filecrypt.cc/Container/2F34848B74"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5CD426262B",
+                            "link": "https://filecrypt.cc/Container/5CD426262B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

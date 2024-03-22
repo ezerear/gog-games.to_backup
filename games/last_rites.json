@@ -1,0 +1,68 @@
+{
+    "href": "/game/last_rites",
+    "MSG": {
+        "id": "1468999343",
+        "title": "Last Rites",
+        "slug": "last_rites",
+        "thumb_id": "44d9ef926c8652128eee7669e42238b84da0fa0267336cc368a05992c3f89b31",
+        "bg_id": "64e1188531c7a257a229ef9de6aca116b737d39a71e1915dea394764a8b5970c",
+        "url": "https://www.gog.com/game/last_rites",
+        "developer": "Ocean Software",
+        "publisher": "Ziggurat Interactive",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1682656975",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_last_rites_0.4_(41129).exe",
+                    "size": "301369304"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8734B612F4",
+                            "link": "https://filecrypt.cc/Container/8734B612F4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/L8sdu9K",
+                            "link": "https://safelinking.net/L8sdu9K"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4B5C92D6C0",
+                            "link": "https://filecrypt.cc/Container/4B5C92D6C0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

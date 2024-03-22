@@ -1,0 +1,127 @@
+{
+    "href": "/game/grime",
+    "MSG": {
+        "id": "1415154613",
+        "title": "GRIME",
+        "slug": "grime",
+        "thumb_id": "d910fa44df4829a4e10cf36d4172e3027127d59ad3f508946eb0fb37561e9ba9",
+        "bg_id": "1c9c4e95e464850d595af452f44fb268205b3c385611e004f8954b93697a01d3",
+        "url": "https://www.gog.com/game/grime",
+        "developer": "Clover Bite",
+        "publisher": "Akupara Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708228833",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_grime_1.3.5_(71223)-1.bin",
+                    "size": "4293892606"
+                },
+                {
+                    "name": "setup_grime_1.3.5_(71223)-2.bin",
+                    "size": "1948681799"
+                },
+                {
+                    "name": "setup_grime_1.3.5_(71223).exe",
+                    "size": "1081888"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "grime_score_mp3.zip",
+                    "size": "85990968"
+                },
+                {
+                    "name": "grime_score_wav.zip",
+                    "size": "911420595"
+                },
+                {
+                    "name": "grime_soundtrack_mp3_v2.zip",
+                    "size": "69081572"
+                },
+                {
+                    "name": "grime_soundtrack_wav_v2.zip",
+                    "size": "720817607"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6A2F0007C4",
+                            "link": "https://filecrypt.cc/Container/6A2F0007C4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/21573488F6",
+                            "link": "https://filecrypt.cc/Container/21573488F6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7D3AF35427",
+                            "link": "https://filecrypt.cc/Container/7D3AF35427"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/82B2377A63",
+                            "link": "https://filecrypt.cc/Container/82B2377A63"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E89E39D52F",
+                            "link": "https://filecrypt.cc/Container/E89E39D52F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B2B2E09C41",
+                            "link": "https://filecrypt.cc/Container/B2B2E09C41"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

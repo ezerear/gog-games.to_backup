@@ -1,0 +1,79 @@
+{
+    "href": "/game/help_will_come_tomorrow",
+    "MSG": {
+        "id": "1220641933",
+        "title": "Help Will Come Tomorrow",
+        "slug": "help_will_come_tomorrow",
+        "thumb_id": "93ddc5bbdda0b191c2e9e810a722b0f4e93025654c7951e86afe0938f94d21bc",
+        "bg_id": "d306d9bfd8a7d6c61b4e85a6a45fefa27f690a6a3277a0e8d2a28cfa2b38dbc1",
+        "url": "https://www.gog.com/game/help_will_come_tomorrow",
+        "developer": "Arclight Creations",
+        "publisher": "Klabater",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708286063",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_help_will_come_tomorrow_2.1_(45612).exe",
+                    "size": "386736440"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8EFF74C0A4",
+                            "link": "https://filecrypt.cc/Container/8EFF74C0A4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AD31FFB28A",
+                            "link": "https://filecrypt.cc/Container/AD31FFB28A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/901C9A75E9",
+                            "link": "https://filecrypt.cc/Container/901C9A75E9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/80F07C5B12",
+                            "link": "https://filecrypt.cc/Container/80F07C5B12"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,119 @@
+{
+    "href": "/game/hardspace_shipbreaker",
+    "MSG": {
+        "id": "2057574746",
+        "title": "Hardspace: Shipbreaker",
+        "slug": "hardspace_shipbreaker",
+        "thumb_id": "2fb5dae486800828c029182cdd5779164ff7dbb8b8fad7b526e2b34360e31161",
+        "bg_id": "78335c945aa07ccfc9dc3b0d0d34899aca1796b1ba43dab38f3b748d3c60425a",
+        "url": "https://www.gog.com/en/game/hardspace_shipbreaker",
+        "developer": "Blackbird Interactive",
+        "publisher": "Focus Entertainment",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1707096895",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hardspace_shipbreaker_1.3.0.330144_(64bit)_(68373)-1.bin",
+                    "size": "3158211728"
+                },
+                {
+                    "name": "setup_hardspace_shipbreaker_1.3.0.330144_(64bit)_(68373).exe",
+                    "size": "920792"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "hardspace_shipbreaker_digital_artbook.zip",
+                    "size": "257160920"
+                },
+                {
+                    "name": "hardspace_shipbreaker_original_soundtrack_flac.zip",
+                    "size": "727961027"
+                },
+                {
+                    "name": "hardspace_shipbreaker_original_soundtrack_mp3.zip",
+                    "size": "237486966"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EBF20D7C6B",
+                            "link": "https://filecrypt.cc/Container/EBF20D7C6B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FCAF35771E",
+                            "link": "https://filecrypt.cc/Container/FCAF35771E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D42538FC28",
+                            "link": "https://filecrypt.cc/Container/D42538FC28"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B706A9189B",
+                            "link": "https://filecrypt.cc/Container/B706A9189B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/03A470DFC0",
+                            "link": "https://filecrypt.cc/Container/03A470DFC0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DE3889AC1D",
+                            "link": "https://filecrypt.cc/Container/DE3889AC1D"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

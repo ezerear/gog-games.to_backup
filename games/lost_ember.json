@@ -1,0 +1,115 @@
+{
+    "href": "/game/lost_ember",
+    "MSG": {
+        "id": "1505930119",
+        "title": "LOST EMBER",
+        "slug": "lost_ember",
+        "thumb_id": "353a013ea16a587b464ead1e19c5c05eb2e448c17fc22610829d7a18421e2ffd",
+        "bg_id": "7bc3d64ff1aed77e3a2d9bc6bd17536a0ed427d185238a88fed856ec32a4c022",
+        "url": "https://www.gog.com/game/lost_ember",
+        "developer": "Mooneye Studios",
+        "publisher": "Mooneye Studios",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709221566",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_lost_ember_1.2.4_(64bit)_(59411)-1.bin",
+                    "size": "4292046334"
+                },
+                {
+                    "name": "setup_lost_ember_1.2.4_(64bit)_(59411)-2.bin",
+                    "size": "3356899580"
+                },
+                {
+                    "name": "setup_lost_ember_1.2.4_(64bit)_(59411).exe",
+                    "size": "2931168"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "lost_ember_soundtrack_mp3.zip",
+                    "size": "191235389"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8DFFAC13CF",
+                            "link": "https://filecrypt.cc/Container/8DFFAC13CF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/13779B0BDE",
+                            "link": "https://filecrypt.cc/Container/13779B0BDE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/38DBD87AAB",
+                            "link": "https://filecrypt.cc/Container/38DBD87AAB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B71E25AD99",
+                            "link": "https://filecrypt.cc/Container/B71E25AD99"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6A2D573CDA",
+                            "link": "https://filecrypt.cc/Container/6A2D573CDA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A7E5D430DD",
+                            "link": "https://filecrypt.cc/Container/A7E5D430DD"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

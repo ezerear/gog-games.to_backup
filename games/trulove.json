@@ -1,0 +1,68 @@
+{
+    "href": "/game/trulove",
+    "MSG": {
+        "id": "1911006614",
+        "title": "TruLove",
+        "slug": "trulove",
+        "thumb_id": "b48fae6ef0b6027c5663e6c8fa4f1ba0d10e94b6adfcca589ccf5a698f2818e7",
+        "bg_id": "d0d5b49c727998d8dd0283f7cfbc3e7f3def1ee856d9992efe968af42e41b577",
+        "url": "https://www.gog.com/en/game/trulove",
+        "developer": "Andrealphus Games",
+        "publisher": "",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1708971021",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_trulove_1.0.12_(64bit)_(71045).exe",
+                    "size": "809508304"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5B1DE9F70D",
+                            "link": "https://filecrypt.cc/Container/5B1DE9F70D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/896C8B0E8B",
+                            "link": "https://filecrypt.cc/Container/896C8B0E8B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/01671C8EEA",
+                            "link": "https://filecrypt.cc/Container/01671C8EEA"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

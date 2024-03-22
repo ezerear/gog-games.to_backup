@@ -1,0 +1,72 @@
+{
+    "href": "/game/unruly_heroes",
+    "MSG": {
+        "id": "1726743990",
+        "title": "Unruly Heroes",
+        "slug": "unruly_heroes",
+        "thumb_id": "7bf52fd46f3e05242a6105ca2aebaa87b80686a55e7b59eae8bdcafeba5ff573",
+        "bg_id": "35f8283d00eb35180fe09f9bfa8b04857bc5657f8d97d92ee07818e198b0e33c",
+        "url": "https://www.gog.com/game/unruly_heroes",
+        "developer": "Magic Design Studios",
+        "publisher": "Magic Design Studios",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710437579",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_unruly_heroes_1.3_(36781)-1.bin",
+                    "size": "2118976866"
+                },
+                {
+                    "name": "setup_unruly_heroes_1.3_(36781).exe",
+                    "size": "1069272"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3BFE3BFEF4",
+                            "link": "https://filecrypt.cc/Container/3BFE3BFEF4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D9FDE10478",
+                            "link": "https://filecrypt.cc/Container/D9FDE10478"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CFE87F791C",
+                            "link": "https://filecrypt.cc/Container/CFE87F791C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

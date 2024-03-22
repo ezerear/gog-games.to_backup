@@ -1,0 +1,90 @@
+{
+    "href": "/game/urtuk_the_desolation",
+    "MSG": {
+        "id": "2104869248",
+        "title": "Urtuk: The Desolation",
+        "slug": "urtuk_the_desolation",
+        "thumb_id": "fb7f4e6ad410e03b73bf985345efef374fa8c66c25640da29b3dd29c0b7dc6d2",
+        "bg_id": "10481596c2078adc76a885166ba23ae9757673edd7ceba4b4ed68e0a8eb264ef",
+        "url": "https://www.gog.com/game/urtuk_the_desolation",
+        "developer": "David Kaleta",
+        "publisher": "David Kaleta",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1705234901",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_urtuk_the_desolation_1.0.091b_(53002).exe",
+                    "size": "769318384"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FE1A4DB5E1",
+                            "link": "https://filecrypt.cc/Container/FE1A4DB5E1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B433A331F6",
+                            "link": "https://filecrypt.cc/Container/B433A331F6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/27991D828C",
+                            "link": "https://filecrypt.cc/Container/27991D828C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CBACA0FD04",
+                            "link": "https://filecrypt.cc/Container/CBACA0FD04"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DCADF62A40",
+                            "link": "https://filecrypt.cc/Container/DCADF62A40"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

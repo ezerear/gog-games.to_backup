@@ -1,0 +1,72 @@
+{
+    "href": "/game/before_your_eyes",
+    "MSG": {
+        "id": "1276542245",
+        "title": "Before Your Eyes",
+        "slug": "before_your_eyes",
+        "thumb_id": "a988d74882de602e301b7c3a2130d0b0db7e89b9224016302cb30cf3773b84f2",
+        "bg_id": "3dce9986f1e8a29056bf08544bd75901799d696b147e264a5beb47254cde681c",
+        "url": "https://www.gog.com/game/before_your_eyes",
+        "developer": "GoodbyeWorld Games",
+        "publisher": "Skybound Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709037039",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_before_your_eyes_1.2.6.9_(61649)-1.bin",
+                    "size": "2184739996"
+                },
+                {
+                    "name": "setup_before_your_eyes_1.2.6.9_(61649).exe",
+                    "size": "868544"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F28E334D4D",
+                            "link": "https://filecrypt.cc/Container/F28E334D4D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8773A7B301",
+                            "link": "https://filecrypt.cc/Container/8773A7B301"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BFD47B7056",
+                            "link": "https://filecrypt.cc/Container/BFD47B7056"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

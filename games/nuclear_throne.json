@@ -1,0 +1,68 @@
+{
+    "href": "/game/nuclear_throne",
+    "MSG": {
+        "id": "1448617555",
+        "title": "Nuclear Throne",
+        "slug": "nuclear_throne",
+        "thumb_id": "ce6e4d7e978674ba915e3dcfb1094187ad4a2af7fbd9b9b2af36b1e9dc48a3b0",
+        "bg_id": "d4a110200a65b3f9a7ff42fb3fe91d8984ef5f4c532ce81482cdb7d694b6dec8",
+        "url": "https://www.gog.com/game/nuclear_throne",
+        "developer": "Vlambeer",
+        "publisher": "Vlambeer",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1709672113",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_nuclear_throne_u99_(33756).exe",
+                    "size": "229354640"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FC66E182DC",
+                            "link": "https://filecrypt.cc/Container/FC66E182DC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/33E8F37151",
+                            "link": "https://filecrypt.cc/Container/33E8F37151"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/56F3140276",
+                            "link": "https://filecrypt.cc/Container/56F3140276"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

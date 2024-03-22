@@ -1,0 +1,72 @@
+{
+    "href": "/game/infinium_strike",
+    "MSG": {
+        "id": "1252846125",
+        "title": "Infinium Strike",
+        "slug": "infinium_strike",
+        "thumb_id": "5bbcf1bb196d8e4db188407be0e541425bd039d0d99e0608340dcb8676f2ef06",
+        "bg_id": "8c1e4a71b959bc8a6eaa47116715a7b8780b8152a88fea3ded9ec4fc321d491a",
+        "url": "https://web.archive.org/web/20180603183535/https://www.gog.com/game/infinium_strike",
+        "developer": "Codex Worlds",
+        "publisher": "1C Publishing",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709771898",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_infinium_strike_1.0.5_(4830)-1.bin",
+                    "size": "1159292083"
+                },
+                {
+                    "name": "setup_infinium_strike_1.0.5_(4830).exe",
+                    "size": "740608"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6C6E630689",
+                            "link": "https://filecrypt.cc/Container/6C6E630689"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EB9C21AD30",
+                            "link": "https://filecrypt.cc/Container/EB9C21AD30"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CC1229E69B",
+                            "link": "https://filecrypt.cc/Container/CC1229E69B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

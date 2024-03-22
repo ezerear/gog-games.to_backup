@@ -1,0 +1,68 @@
+{
+    "href": "/game/limbo",
+    "MSG": {
+        "id": "1724299977",
+        "title": "LIMBO",
+        "slug": "limbo",
+        "thumb_id": "7f8f3e94471dd27e1c83e0b95cffd5e4d63a025ea3fbd0731efb5652066a8914",
+        "bg_id": "32d14bdf3f5b719ef06d9ae2d895d7c2bdd2896fa08cb56d25529753f3d0c899",
+        "url": "https://www.gog.com/game/limbo",
+        "developer": "Playdead",
+        "publisher": "Playdead",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710238928",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_limbo_3.0.0.1a_(12082).exe",
+                    "size": "190017088"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6D03B653CA",
+                            "link": "https://filecrypt.cc/Container/6D03B653CA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BC91599C10",
+                            "link": "https://filecrypt.cc/Container/BC91599C10"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5F9399BD68",
+                            "link": "https://filecrypt.cc/Container/5F9399BD68"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

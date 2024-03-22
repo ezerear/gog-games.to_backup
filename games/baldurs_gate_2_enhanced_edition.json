@@ -1,0 +1,135 @@
+{
+    "href": "/game/baldurs_gate_2_enhanced_edition",
+    "MSG": {
+        "id": "1207666373",
+        "title": "Baldur's Gate II: Enhanced Edition",
+        "slug": "baldurs_gate_2_enhanced_edition",
+        "thumb_id": "865e412024677b4594a91ea7cc3da75077ce8114adc26d5b92cb82c7f9b4509f",
+        "bg_id": "06d6af4f1a8763c26337760e436d2e709546fa680f72f96f6cd7ada7b3927ecd",
+        "url": "https://www.gog.com/game/baldurs_gate_2_enhanced_edition",
+        "developer": "Beamdog",
+        "publisher": "Beamdog",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710068626",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_baldurs_gate_ii_enhanced_edition_2.6.6.0_(64bit)_(46870)-1.bin",
+                    "size": "3386290639"
+                },
+                {
+                    "name": "setup_baldurs_gate_ii_enhanced_edition_2.6.6.0_(64bit)_(46870).exe",
+                    "size": "1111744"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "baldurs_gate_2_avatars.zip",
+                    "size": "1347132"
+                },
+                {
+                    "name": "baldurs_gate_2_ee_amn_survival_guide.zip",
+                    "size": "1045227"
+                },
+                {
+                    "name": "baldurs_gate_2_ee_manual.zip",
+                    "size": "5077278"
+                },
+                {
+                    "name": "baldurs_gate_2_ee_mastering_melee_and_magic.zip",
+                    "size": "2145538"
+                },
+                {
+                    "name": "baldurs_gate_2_wallpapers.zip",
+                    "size": "7626426"
+                },
+                {
+                    "name": "bg_2_ee_soundtrack_flac.zip",
+                    "size": "585144700"
+                },
+                {
+                    "name": "bg_2_ee_soundtrack_mp3.zip",
+                    "size": "222240077"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3D19C868DA",
+                            "link": "https://filecrypt.cc/Container/3D19C868DA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/47DFA79C27",
+                            "link": "https://filecrypt.cc/Container/47DFA79C27"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/06FE8294F6",
+                            "link": "https://filecrypt.cc/Container/06FE8294F6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/493A8BA68E",
+                            "link": "https://filecrypt.cc/Container/493A8BA68E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DB7318023F",
+                            "link": "https://filecrypt.cc/Container/DB7318023F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FF71193DC4",
+                            "link": "https://filecrypt.cc/Container/FF71193DC4"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

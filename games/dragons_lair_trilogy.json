@@ -1,0 +1,76 @@
+{
+    "href": "/game/dragons_lair_trilogy",
+    "MSG": {
+        "id": "2083200433",
+        "title": "Dragon's Lair Trilogy",
+        "slug": "dragons_lair_trilogy",
+        "thumb_id": "5acb285a25b283a3f5336c446fe657b0643cba9c6855d63fb57bbd03ab8d8171",
+        "bg_id": "8c97c33f3980b7ce9c37e5f18a07b1d9dea7e110334966ebd23b95097e3b9969",
+        "url": "https://www.gog.com/game/dragons_lair_trilogy",
+        "developer": "Digital Leisure Inc.",
+        "publisher": "Digital Leisure Inc.",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709157506",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dragons_lair_1.09_(22122)-1.bin",
+                    "size": "4294167038"
+                },
+                {
+                    "name": "setup_dragons_lair_1.09_(22122)-2.bin",
+                    "size": "56599579"
+                },
+                {
+                    "name": "setup_dragons_lair_1.09_(22122).exe",
+                    "size": "807432"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B4C3191D2C",
+                            "link": "https://filecrypt.cc/Container/B4C3191D2C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/14389A1509",
+                            "link": "https://filecrypt.cc/Container/14389A1509"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8359381C50",
+                            "link": "https://filecrypt.cc/Container/8359381C50"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

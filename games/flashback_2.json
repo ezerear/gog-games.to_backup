@@ -1,0 +1,84 @@
+{
+    "href": "/game/flashback_2",
+    "MSG": {
+        "id": "2035081143",
+        "title": "Flashback 2",
+        "slug": "flashback_2",
+        "thumb_id": "2a4f9e25ab56c229ca2d972508a49f41c7432fbbc9e403f8097d227a4b085547",
+        "bg_id": "79eb764795d0a1c8a254cc130091e1f7698cefcde689e4a657169cf6d62c3dee",
+        "url": "https://www.gog.com/en/game/flashback_2",
+        "developer": "Microids Studio Lyon, Paul Cuisset",
+        "publisher": "Microids",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707053510",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_flashback_2_flashback2_gog_20240125_15167_(70720)-1.bin",
+                    "size": "4293946878"
+                },
+                {
+                    "name": "setup_flashback_2_flashback2_gog_20240125_15167_(70720)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_flashback_2_flashback2_gog_20240125_15167_(70720)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_flashback_2_flashback2_gog_20240125_15167_(70720)-4.bin",
+                    "size": "558914282"
+                },
+                {
+                    "name": "setup_flashback_2_flashback2_gog_20240125_15167_(70720).exe",
+                    "size": "1027392"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/61DC794887",
+                            "link": "https://filecrypt.cc/Container/61DC794887"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5938F234B9",
+                            "link": "https://filecrypt.cc/Container/5938F234B9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5F83B4F52E",
+                            "link": "https://filecrypt.cc/Container/5F83B4F52E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

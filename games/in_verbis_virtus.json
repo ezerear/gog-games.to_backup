@@ -1,0 +1,104 @@
+{
+    "href": "/game/in_verbis_virtus",
+    "MSG": {
+        "id": "1968374657",
+        "title": "In Verbis Virtus",
+        "slug": "in_verbis_virtus",
+        "thumb_id": "08e0979a584d86c3ef2112b6bd513fd64d96c055e9d50f46df3aafe26cb59b08",
+        "bg_id": "fc90a3365a8dd064d5c701b7b1ef794996a42a6de5e9015711828801446127a8",
+        "url": "https://www.gog.com/en/game/in_verbis_virtus",
+        "developer": "Indomitus Games",
+        "publisher": "Indomitus Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709497318",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_in_verbis_virtus_2423_2_(65701)-1.bin",
+                    "size": "3651679383"
+                },
+                {
+                    "name": "setup_in_verbis_virtus_2423_2_(65701).exe",
+                    "size": "936688"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "in_verbis_virtus_soundtrack_flac.zip",
+                    "size": "336341766"
+                },
+                {
+                    "name": "in_verbis_virtus_soundtrack_mp3.zip",
+                    "size": "161182030"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F6E3488702",
+                            "link": "https://filecrypt.cc/Container/F6E3488702"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E9BB13F3EF",
+                            "link": "https://filecrypt.cc/Container/E9BB13F3EF"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AC0150F3C5",
+                            "link": "https://filecrypt.cc/Container/AC0150F3C5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/15DB000662",
+                            "link": "https://filecrypt.cc/Container/15DB000662"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D063AC8051",
+                            "link": "https://filecrypt.cc/Container/D063AC8051"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

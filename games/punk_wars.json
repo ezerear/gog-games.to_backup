@@ -1,0 +1,131 @@
+{
+    "href": "/game/punk_wars",
+    "MSG": {
+        "id": "1086495866",
+        "title": "Punk Wars",
+        "slug": "punk_wars",
+        "thumb_id": "e8dda902ea1867782cd1a38205039b94ded0511366dfcfef010c53c2d0a78b4c",
+        "bg_id": "5a2f298086d2da289d4eb5ce0af58b5e0a90e0e4bd0452c9eb5837b2a350861b",
+        "url": "https://www.gog.com/game/punk_wars",
+        "developer": "Strategy Forge S.A.",
+        "publisher": "Jujubee S.A., Strategy Forge S.A.",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1706659640",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_punk_wars_1.2.11_(62648)-1.bin",
+                    "size": "4293855742"
+                },
+                {
+                    "name": "setup_punk_wars_1.2.11_(62648)-2.bin",
+                    "size": "3231080971"
+                },
+                {
+                    "name": "setup_punk_wars_1.2.11_(62648).exe",
+                    "size": "1121648"
+                },
+                {
+                    "name": "setup_punk_wars_hold_the_line_1.2.11_(62648).exe",
+                    "size": "7773760"
+                },
+                {
+                    "name": "setup_punk_wars_threat_from_within_1.2.11_(62648).exe",
+                    "size": "6874072"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "PW_SoundTrack_FLAC.zip",
+                    "size": "179788442"
+                },
+                {
+                    "name": "PW_SoundTrack_mp3.zip",
+                    "size": "49112932"
+                },
+                {
+                    "name": "PW_SoundTrack_WAV.zip",
+                    "size": "354423184"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A2168D5061",
+                            "link": "https://filecrypt.cc/Container/A2168D5061"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F9D136747D",
+                            "link": "https://filecrypt.cc/Container/F9D136747D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A856D4F368",
+                            "link": "https://filecrypt.cc/Container/A856D4F368"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/13A9BC645A",
+                            "link": "https://filecrypt.cc/Container/13A9BC645A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C94298AE02",
+                            "link": "https://filecrypt.cc/Container/C94298AE02"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E8457FC005",
+                            "link": "https://filecrypt.cc/Container/E8457FC005"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

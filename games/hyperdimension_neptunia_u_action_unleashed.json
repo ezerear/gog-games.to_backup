@@ -1,0 +1,91 @@
+{
+    "href": "/game/hyperdimension_neptunia_u_action_unleashed",
+    "MSG": {
+        "id": "1524416998",
+        "title": "Hyperdimension Neptunia U: Action Unleashed",
+        "slug": "hyperdimension_neptunia_u_action_unleashed",
+        "thumb_id": "deb22fefa3d851907643bcd608de8a361ecd405e212940b6e2726c090beaced7",
+        "bg_id": "abcd39fb0e93d16dda1904c43e18aaea9eb06f96f4be4986a51717f741028413",
+        "url": "https://www.gog.com/game/hyperdimension_neptunia_u_action_unleashed",
+        "developer": "Idea Factory / Compile Heart",
+        "publisher": "Idea Factory International",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1704608245",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hyperdimension_neptunia_u_-_bonus_quest_1.0_(49837).exe",
+                    "size": "6394312"
+                },
+                {
+                    "name": "setup_hyperdimension_neptunia_u_-_difficult_quest_1.0_(49837).exe",
+                    "size": "6491464"
+                },
+                {
+                    "name": "setup_hyperdimension_neptunia_u_action_unleashed_1.0_(49837)-1.bin",
+                    "size": "1957104540"
+                },
+                {
+                    "name": "setup_hyperdimension_neptunia_u_action_unleashed_1.0_(49837).exe",
+                    "size": "938632"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A41C263F26",
+                            "link": "https://filecrypt.cc/Container/A41C263F26"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/162B36C79C",
+                            "link": "https://filecrypt.cc/Container/162B36C79C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/00E63FD43F",
+                            "link": "https://filecrypt.cc/Container/00E63FD43F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A567ADC620",
+                            "link": "https://filecrypt.cc/Container/A567ADC620"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,111 @@
+{
+    "href": "/game/orwell",
+    "MSG": {
+        "id": "2076059543",
+        "title": "Orwell",
+        "slug": "orwell",
+        "thumb_id": "067616ce476ee3a479fc6298a33c1d1d9b4ba4a12ba4dc4ad7cf04476f6c09b1",
+        "bg_id": "90ca64512828698c29001efb213ef84c04ecedfa73e7cf933df0929c55001061",
+        "url": "https://www.gog.com/game/orwell",
+        "developer": "Osmotic Studios",
+        "publisher": "Fellow Traveller",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710794777",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_orwell_1.4.7424_(38655).exe",
+                    "size": "581667128"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "orwell_soundtrack_flac.zip",
+                    "size": "338823308"
+                },
+                {
+                    "name": "orwell_soundtrack_mp3.zip",
+                    "size": "64791244"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3DE23E99C1",
+                            "link": "https://filecrypt.cc/Container/3DE23E99C1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/35E143CA1C",
+                            "link": "https://filecrypt.cc/Container/35E143CA1C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A8978FF61B",
+                            "link": "https://filecrypt.cc/Container/A8978FF61B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2958B1AB92",
+                            "link": "https://filecrypt.cc/Container/2958B1AB92"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ABB20E9E28",
+                            "link": "https://filecrypt.cc/Container/ABB20E9E28"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A08DE2B168",
+                            "link": "https://filecrypt.cc/Container/A08DE2B168"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,72 @@
+{
+    "href": "/game/nebuchadnezzar",
+    "MSG": {
+        "id": "1272878400",
+        "title": "Nebuchadnezzar",
+        "slug": "nebuchadnezzar",
+        "thumb_id": "64dfc7b1a3ec7c2033a8ce6e2f0a3c058306105ed97cd6354448eb2be986d74a",
+        "bg_id": "58c922fdde73bb59bb8b43f551d81973947f9de78ce6b1e176c46876b4ceb3cc",
+        "url": "https://www.gog.com/game/nebuchadnezzar",
+        "developer": "Nepos Games",
+        "publisher": "Nepos Games",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1709737369",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_nebuchadnezzar_1.4.11_(64bit)_(63944).exe",
+                    "size": "1373403024"
+                },
+                {
+                    "name": "setup_nebuchadnezzar_the_adventures_of_sargon_1.4.11_(64bit)_(63944).exe",
+                    "size": "42280112"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CEFC874E9A",
+                            "link": "https://filecrypt.cc/Container/CEFC874E9A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5595D4F1DB",
+                            "link": "https://filecrypt.cc/Container/5595D4F1DB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A14ADC6123",
+                            "link": "https://filecrypt.cc/Container/A14ADC6123"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,72 @@
+{
+    "href": "/game/jenny_leclue_detectivu",
+    "MSG": {
+        "id": "1285204674",
+        "title": "Jenny LeClue - Detectivu",
+        "slug": "jenny_leclue_detectivu",
+        "thumb_id": "74f97f5d957fbf955bb99423771ff7382e88baa3f859e678281c52a2f7501d47",
+        "bg_id": "8f7d42fa7bdff4c789864ca125d26be54ad0b447c12d8eb453fda23c5fec3078",
+        "url": "https://www.gog.com/game/jenny_leclue_detectivu",
+        "developer": "Mografi",
+        "publisher": "Mografi",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707086500",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_jenny_leclue_-_detectivu_2.2.1_(64bit)_(47127)-1.bin",
+                    "size": "1083634746"
+                },
+                {
+                    "name": "setup_jenny_leclue_-_detectivu_2.2.1_(64bit)_(47127).exe",
+                    "size": "836648"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/598A165B1D",
+                            "link": "https://filecrypt.cc/Container/598A165B1D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4D3BBDFF79",
+                            "link": "https://filecrypt.cc/Container/4D3BBDFF79"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/581522FBDC",
+                            "link": "https://filecrypt.cc/Container/581522FBDC"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

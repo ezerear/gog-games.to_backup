@@ -1,0 +1,94 @@
+{
+    "href": "/game/recompile",
+    "MSG": {
+        "id": "1166435760",
+        "title": "Recompile",
+        "slug": "recompile",
+        "thumb_id": "8b6ba6d5e12b838688acacdd0c528311cde6061b3871342dea1827be4b309718",
+        "bg_id": "5d8df2c9321a6c2f03753480bd53ce67d1f14731f188014c13c280ebad2e56bd",
+        "url": "https://www.gog.com/game/recompile",
+        "developer": "Phigames",
+        "publisher": "Dear Villagers",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1705574208",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_recompile_1.02_(49525)-1.bin",
+                    "size": "1796533884"
+                },
+                {
+                    "name": "setup_recompile_1.02_(49525).exe",
+                    "size": "834368"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/25814B4CBD",
+                            "link": "https://filecrypt.cc/Container/25814B4CBD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6BBC612CA2",
+                            "link": "https://filecrypt.cc/Container/6BBC612CA2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C25918E71E",
+                            "link": "https://filecrypt.cc/Container/C25918E71E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/48C946036C",
+                            "link": "https://filecrypt.cc/Container/48C946036C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B227345B28",
+                            "link": "https://filecrypt.cc/Container/B227345B28"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

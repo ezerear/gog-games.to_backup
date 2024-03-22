@@ -1,0 +1,123 @@
+{
+    "href": "/game/reus",
+    "MSG": {
+        "id": "1207659223",
+        "title": "Reus",
+        "slug": "reus",
+        "thumb_id": "357a5b76b184a2a888b21723578ce11db29d9cf952598bce3d098929b1aab68d",
+        "bg_id": "44ba0525c9bc7282640b8a2616374ca53e582d454b924d76b1059c3d831db53a",
+        "url": "https://www.gog.com/game/reus",
+        "developer": "Abbey Games",
+        "publisher": "Abbey Games",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1709912463",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_reus_1.6.5_(20843).exe",
+                    "size": "424304392"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "reus_artworks.zip",
+                    "size": "1533033"
+                },
+                {
+                    "name": "reus_avatars.zip",
+                    "size": "61117"
+                },
+                {
+                    "name": "reus_ost_mp3.zip",
+                    "size": "232905258"
+                },
+                {
+                    "name": "reus_soundtrack_sample.zip",
+                    "size": "9922490"
+                },
+                {
+                    "name": "reus_wallpaper.zip",
+                    "size": "3246878"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9AB2DD8713",
+                            "link": "https://filecrypt.cc/Container/9AB2DD8713"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CD749A40CF",
+                            "link": "https://filecrypt.cc/Container/CD749A40CF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/80F18FA3A7",
+                            "link": "https://filecrypt.cc/Container/80F18FA3A7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7E77E1621B",
+                            "link": "https://filecrypt.cc/Container/7E77E1621B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C96070C45C",
+                            "link": "https://filecrypt.cc/Container/C96070C45C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F47C8562F4",
+                            "link": "https://filecrypt.cc/Container/F47C8562F4"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

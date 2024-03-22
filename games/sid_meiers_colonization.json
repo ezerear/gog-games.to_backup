@@ -1,0 +1,137 @@
+{
+    "href": "/game/sid_meiers_colonization",
+    "MSG": {
+        "id": "1207659051",
+        "title": "Colonization, Sid Meier's",
+        "slug": "sid_meiers_colonization",
+        "thumb_id": "1833a4832ae03cdc2e0fe9b0d0c5e6ee626a1402324fb00476fee4a1781b91c0",
+        "bg_id": "b7b997313a5644ecae32b12858e402854da74944c038a70280368d2a188befde",
+        "url": "https://www.gog.com/game/sid_meiers_colonization",
+        "developer": "MPS Labs",
+        "publisher": "Retroism",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1708098981",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_colonization_3.0_(28043).exe",
+                    "size": "53642160"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "colonization_manual.zip",
+                    "size": "1440794"
+                },
+                {
+                    "name": "colonization_quick_reference_card.zip",
+                    "size": "1821294"
+                },
+                {
+                    "name": "colonization_soundtrack.zip",
+                    "size": "49185361"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/536A1006C1",
+                            "link": "https://filecrypt.cc/Container/536A1006C1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0673E7ADDD",
+                            "link": "https://filecrypt.cc/Container/0673E7ADDD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AF6373CB74",
+                            "link": "https://filecrypt.cc/Container/AF6373CB74"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6C37973D5F",
+                            "link": "https://filecrypt.cc/Container/6C37973D5F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C91D42D046",
+                            "link": "https://filecrypt.cc/Container/C91D42D046"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5746477F63",
+                            "link": "https://filecrypt.cc/Container/5746477F63"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B62716D5A7",
+                            "link": "https://filecrypt.cc/Container/B62716D5A7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DA3B4424BA",
+                            "link": "https://filecrypt.cc/Container/DA3B4424BA"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

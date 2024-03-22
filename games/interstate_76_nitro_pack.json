@@ -1,0 +1,100 @@
+{
+    "href": "/game/interstate_76_nitro_pack",
+    "MSG": {
+        "id": "1207661023",
+        "title": "Interstate '76 Nitro Pack",
+        "slug": "interstate_76_nitro_pack",
+        "thumb_id": "e1ad4255dd131400efe422579599df4206ad387f485580e0029b467d3ac372ce",
+        "bg_id": "2964c347e383d4eeecf382b9695c943436a0765c5a20714f97c0977e15ee1d7f",
+        "url": "https://www.gog.com/game/interstate76",
+        "developer": "Activision",
+        "publisher": "Activision",
+        "category": "Racing",
+        "uploading": "0",
+        "last_upload": "1709019430",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_interstate76_nitro_pack_2.1.0.17.exe",
+                    "size": "238553048"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "Interstate_76_Manual.zip",
+                    "size": "991554"
+                },
+                {
+                    "name": "interstate_wallpaper.zip",
+                    "size": "11877440"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/751FD61A24",
+                            "link": "https://filecrypt.cc/Container/751FD61A24"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F7D755C545",
+                            "link": "https://filecrypt.cc/Container/F7D755C545"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B2734FE621",
+                            "link": "https://filecrypt.cc/Container/B2734FE621"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/05997D8614",
+                            "link": "https://filecrypt.cc/Container/05997D8614"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2BC12E58B3",
+                            "link": "https://filecrypt.cc/Container/2BC12E58B3"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

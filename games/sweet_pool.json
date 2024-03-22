@@ -1,0 +1,76 @@
+{
+    "href": "/game/sweet_pool",
+    "MSG": {
+        "id": "1191741397",
+        "title": "sweet pool",
+        "slug": "sweet_pool",
+        "thumb_id": "6805bc7af24c0c3baf2a47b86ad52b3704703d99991ac1ca25447cf265578ebf",
+        "bg_id": "fc814a02688c1187c01a0fac9d8be0397156986ab6cf9be8261dbd7ed9ebbf3b",
+        "url": "https://www.gog.com/en/game/sweet_pool",
+        "developer": "Nitroplus",
+        "publisher": "JAST USA",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1708784522",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sweet_pool_1.01s_(61068)-1.bin",
+                    "size": "2425164852"
+                },
+                {
+                    "name": "setup_sweet_pool_1.01s_(61068).exe",
+                    "size": "831664"
+                },
+                {
+                    "name": "setup_sweet_pool_unrated_patch_1.01s_(61068).exe",
+                    "size": "379882960"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F05771279B",
+                            "link": "https://filecrypt.cc/Container/F05771279B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/11F2EF6C95",
+                            "link": "https://filecrypt.cc/Container/11F2EF6C95"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1046DB4D19",
+                            "link": "https://filecrypt.cc/Container/1046DB4D19"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,76 @@
+{
+    "href": "/game/monster_boy_and_the_cursed_kingdom",
+    "MSG": {
+        "id": "1953564736",
+        "title": "Monster Boy and the Cursed Kingdom",
+        "slug": "monster_boy_and_the_cursed_kingdom",
+        "thumb_id": "2db3784638f9efea9d88654c5b0eec6be7d072b3186c1830324b2982f7f22038",
+        "bg_id": "3ef765463a059a50da03c7819c6346e0a7d592da4f7791d859afce14c38b233f",
+        "url": "https://www.gog.com/game/monster_boy_and_the_cursed_kingdom",
+        "developer": "Game Atelier",
+        "publisher": "FDG Entertainment GmbH & Co KG",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709616528",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_monster_boy_and_the_cursed_kingdom_1.0.1rc6_(64bit)_(31599)-1.bin",
+                    "size": "4294055422"
+                },
+                {
+                    "name": "setup_monster_boy_and_the_cursed_kingdom_1.0.1rc6_(64bit)_(31599)-2.bin",
+                    "size": "500006433"
+                },
+                {
+                    "name": "setup_monster_boy_and_the_cursed_kingdom_1.0.1rc6_(64bit)_(31599).exe",
+                    "size": "919008"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/616FB5B0D2",
+                            "link": "https://filecrypt.cc/Container/616FB5B0D2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4DB1913541",
+                            "link": "https://filecrypt.cc/Container/4DB1913541"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/41CD1F90CD",
+                            "link": "https://filecrypt.cc/Container/41CD1F90CD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

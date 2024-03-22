@@ -1,0 +1,72 @@
+{
+    "href": "/game/acting_lessons",
+    "MSG": {
+        "id": "1470920629",
+        "title": "Acting Lessons",
+        "slug": "acting_lessons",
+        "thumb_id": "dd688ead66b58f96af94ba6c6c5dbe9eeff11fa116c77a9881db479718b3a28d",
+        "bg_id": "2f2d350ac13ca61010367c5ff4364b707e3cd08065bc247e182498b16dfb62ac",
+        "url": "https://www.gog.com/game/acting_lessons",
+        "developer": "Dr PinkCake",
+        "publisher": "Dr PinkCake",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709753194",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_acting_lessons_1.0.2.1_(51788)-1.bin",
+                    "size": "3767781566"
+                },
+                {
+                    "name": "setup_acting_lessons_1.0.2.1_(51788).exe",
+                    "size": "991008"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/341CF18964",
+                            "link": "https://filecrypt.cc/Container/341CF18964"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/767A35E3FD",
+                            "link": "https://filecrypt.cc/Container/767A35E3FD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BE2463200E",
+                            "link": "https://filecrypt.cc/Container/BE2463200E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

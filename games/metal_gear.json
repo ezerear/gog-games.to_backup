@@ -1,0 +1,68 @@
+{
+    "href": "/game/metal_gear",
+    "MSG": {
+        "id": "2022393863",
+        "title": "METAL GEAR",
+        "slug": "metal_gear",
+        "thumb_id": "f9c1c57bc232b09dc8a0b3c6806eef1260231523bbd51cd4042c2c9d8529b52d",
+        "bg_id": "8244ad341fd78394362510409f29d7f8a7bbe9a507b268586ed11e63edfe2802",
+        "url": "https://www.gog.com/game/metal_gear",
+        "developer": "Konami Industry Co. Ltd.",
+        "publisher": "Konami Digital Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710492872",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_metal_gear_1.0_amd_rdna_fix_(52933).exe",
+                    "size": "141559968"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8BD43AA520",
+                            "link": "https://filecrypt.cc/Container/8BD43AA520"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CA33DE858A",
+                            "link": "https://filecrypt.cc/Container/CA33DE858A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9A641DC8EB",
+                            "link": "https://filecrypt.cc/Container/9A641DC8EB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

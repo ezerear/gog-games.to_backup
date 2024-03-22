@@ -1,0 +1,90 @@
+{
+    "href": "/game/ginsha",
+    "MSG": {
+        "id": "1720452233",
+        "title": "GINSHA",
+        "slug": "ginsha",
+        "thumb_id": "d840b320dd8e4d4d8e0f8b526105f13c391be94a01d576f44a0ae138f0e1d2b7",
+        "bg_id": "fd8099e1a8aef3d8b147d1bad01c8408a22f5056edc795a66da086d0329a453b",
+        "url": "https://www.gog.com/en/game/ginsha",
+        "developer": "PolarityFlow, Adrian Zingg",
+        "publisher": "PolarityFlow, Adrian Zingg",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1706194642",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_ginsha_1.1.0b_(64bit)_(70100).exe",
+                    "size": "150717448"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A9AAD11678",
+                            "link": "https://filecrypt.cc/Container/A9AAD11678"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/382FA55ADF",
+                            "link": "https://filecrypt.cc/Container/382FA55ADF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6A768C3E9B",
+                            "link": "https://filecrypt.cc/Container/6A768C3E9B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4638E213FE",
+                            "link": "https://filecrypt.cc/Container/4638E213FE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/16088BE31A",
+                            "link": "https://filecrypt.cc/Container/16088BE31A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

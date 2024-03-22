@@ -1,0 +1,76 @@
+{
+    "href": "/game/arise_a_simple_story",
+    "MSG": {
+        "id": "1140432531",
+        "title": "Arise: A Simple Story",
+        "slug": "arise_a_simple_story",
+        "thumb_id": "fed38db520f7207979e0a660e85b9b1202b14c2582b1db333bf1d85f1b6023f5",
+        "bg_id": "98d36570a8335b175136494b6f64f28c15072e71785c7c0ea39d3d73164c650b",
+        "url": "https://www.gog.com/en/game/arise_a_simple_story",
+        "developer": "Piccolo Studio",
+        "publisher": "Untold Tales",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710693021",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_arise_a_simple_story_1.20.3_(64bit)_(53242)-1.bin",
+                    "size": "4294124542"
+                },
+                {
+                    "name": "setup_arise_a_simple_story_1.20.3_(64bit)_(53242)-2.bin",
+                    "size": "1312422324"
+                },
+                {
+                    "name": "setup_arise_a_simple_story_1.20.3_(64bit)_(53242).exe",
+                    "size": "849320"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1F004CF03D",
+                            "link": "https://filecrypt.cc/Container/1F004CF03D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2E419E5C10",
+                            "link": "https://filecrypt.cc/Container/2E419E5C10"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4CB8B16881",
+                            "link": "https://filecrypt.cc/Container/4CB8B16881"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

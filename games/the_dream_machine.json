@@ -1,0 +1,68 @@
+{
+    "href": "/game/the_dream_machine",
+    "MSG": {
+        "id": "1281766827",
+        "title": "The Dream Machine",
+        "slug": "the_dream_machine",
+        "thumb_id": "166727aca1cc9f8b76afc4962b529c6116bc4c3c448212a118282e2f70539851",
+        "bg_id": "db364338105404bc7968f054f16359f8d4d34bb517c8547bbc512e1835f2d91f",
+        "url": "https://www.gog.com/game/the_dream_machine",
+        "developer": "Cockroach Inc.",
+        "publisher": "The Sleeping Machine",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708658878",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_dream_machine_1.0.6_(52258).exe",
+                    "size": "727749008"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7D31C77EE9",
+                            "link": "https://filecrypt.cc/Container/7D31C77EE9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9E376B3228",
+                            "link": "https://filecrypt.cc/Container/9E376B3228"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0E81E0C2D2",
+                            "link": "https://filecrypt.cc/Container/0E81E0C2D2"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

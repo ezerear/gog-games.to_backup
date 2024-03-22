@@ -1,0 +1,76 @@
+{
+    "href": "/game/dros",
+    "MSG": {
+        "id": "2059927598",
+        "title": "DROS",
+        "slug": "dros",
+        "thumb_id": "ece19ecb4f51499d132d52d5ec7e8149b4523881a3868e91010390d2a81c43aa",
+        "bg_id": "77a3e683a8a05a236d98556c2e9ceb385985a35b57f344a3ae971d6bc2004406",
+        "url": "https://www.gog.com/en/game/dros",
+        "developer": "emergeWorlds",
+        "publisher": "emergeWorlds",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709222396",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dros_10_(69098)-1.bin",
+                    "size": "4294013438"
+                },
+                {
+                    "name": "setup_dros_10_(69098)-2.bin",
+                    "size": "2027356854"
+                },
+                {
+                    "name": "setup_dros_10_(69098).exe",
+                    "size": "964128"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0C9C41A3C5",
+                            "link": "https://filecrypt.cc/Container/0C9C41A3C5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3E7445141E",
+                            "link": "https://filecrypt.cc/Container/3E7445141E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FCB7A9ED83",
+                            "link": "https://filecrypt.cc/Container/FCB7A9ED83"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

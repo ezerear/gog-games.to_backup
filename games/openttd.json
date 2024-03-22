@@ -1,0 +1,101 @@
+{
+    "href": "/game/openttd",
+    "MSG": {
+        "id": "1293297882",
+        "title": "OpenTTD",
+        "slug": "openttd",
+        "thumb_id": "664b8ec67726af0163c7a3f8c40e935bfaa572abfcd66ef4db4eb6bbb265c39b",
+        "bg_id": "d2d2ef6e4befc5d5745153c120dbc7615c17062fdfe31cdfe909fbd9b9fe56f1",
+        "url": "https://www.gog.com/game/openttd",
+        "developer": "OpenTTD",
+        "publisher": "OpenTTD",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1701952900",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_openttd_13.4_(64bit)_(66414).exe",
+                    "size": "31583712"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E382284F3C",
+                            "link": "https://filecrypt.cc/Container/E382284F3C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/49CB703F1D",
+                            "link": "https://filecrypt.cc/Container/49CB703F1D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/203BCCB366",
+                            "link": "https://filecrypt.cc/Container/203BCCB366"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/989AFB94F2",
+                            "link": "https://filecrypt.cc/Container/989AFB94F2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/576EA9DAE8",
+                            "link": "https://filecrypt.cc/Container/576EA9DAE8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7F9201BFC4",
+                            "link": "https://filecrypt.cc/Container/7F9201BFC4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

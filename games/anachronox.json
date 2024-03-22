@@ -1,0 +1,111 @@
+{
+    "href": "/game/anachronox",
+    "MSG": {
+        "id": "1207659012",
+        "title": "Anachronox",
+        "slug": "anachronox",
+        "thumb_id": "cdb979a144ddf74f47eae8955d821b6be6c279bac822f595962e9a91f462ea6f",
+        "bg_id": "9e2ce2b73bfd804db1e1b0bea060c591613be315c0b2877555c05459f8e1421f",
+        "url": "https://www.gog.com/game/anachronox",
+        "developer": "Ion Storm Inc.",
+        "publisher": "Square Enix",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710009328",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_anachronox_1.02_(22258).exe",
+                    "size": "1069242312"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "anachronox_avatars.zip",
+                    "size": "42663"
+                },
+                {
+                    "name": "anachronox_manual.zip",
+                    "size": "3500618"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8A18CE78A3",
+                            "link": "https://filecrypt.cc/Container/8A18CE78A3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EE30915FB2",
+                            "link": "https://filecrypt.cc/Container/EE30915FB2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/49271D2533",
+                            "link": "https://filecrypt.cc/Container/49271D2533"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/41462E4AF2",
+                            "link": "https://filecrypt.cc/Container/41462E4AF2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/80EF7AEAD2",
+                            "link": "https://filecrypt.cc/Container/80EF7AEAD2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/909411CAA2",
+                            "link": "https://filecrypt.cc/Container/909411CAA2"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

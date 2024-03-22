@@ -1,0 +1,83 @@
+{
+    "href": "/game/raiden_v_directors_cut",
+    "MSG": {
+        "id": "1462576795",
+        "title": "Raiden V: Director’s Cut",
+        "slug": "raiden_v_directors_cut",
+        "thumb_id": "a6a5840426b104f7518dda86122e52cd2d975c11cf7273bb6008dc1e67305d06",
+        "bg_id": "b1770e1c9b503e6ab5e09dde6ded7944cbfac3b09d3c3470037259ce038bf0c1",
+        "url": "https://www.gog.com/game/raiden_v_directors_cut",
+        "developer": "Moss Co., Ltd. ",
+        "publisher": "UFO Interactive Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707972410",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_raiden_v_-_directors_cut_1.01_(16282)-1.bin",
+                    "size": "1961910089"
+                },
+                {
+                    "name": "setup_raiden_v_-_directors_cut_1.01_(16282).exe",
+                    "size": "958304"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DD657D6567",
+                            "link": "https://filecrypt.cc/Container/DD657D6567"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B58706F354",
+                            "link": "https://filecrypt.cc/Container/B58706F354"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/58071B818C",
+                            "link": "https://filecrypt.cc/Container/58071B818C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/59F8DE4982",
+                            "link": "https://filecrypt.cc/Container/59F8DE4982"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,72 @@
+{
+    "href": "/game/next_space_rebels",
+    "MSG": {
+        "id": "1816638122",
+        "title": "Next Space Rebels",
+        "slug": "next_space_rebels",
+        "thumb_id": "c464416da57fda8008d0c6668eb6cb949ed943abc59dc399d4339974edb9981e",
+        "bg_id": "6b5ebb268fba744fc5f3aab2e551290ca7b255bcfb3d75a371d0f2a009709ccf",
+        "url": "https://www.gog.com/game/next_space_rebels",
+        "developer": "Studio Floris Kaayk",
+        "publisher": "Humble Games",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1708857173",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_next_space_rebels_1.12_(64bit)_(53679)-1.bin",
+                    "size": "1930007239"
+                },
+                {
+                    "name": "setup_next_space_rebels_1.12_(64bit)_(53679).exe",
+                    "size": "834432"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A7E009C168",
+                            "link": "https://filecrypt.cc/Container/A7E009C168"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8859E196F0",
+                            "link": "https://filecrypt.cc/Container/8859E196F0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/743E192189",
+                            "link": "https://filecrypt.cc/Container/743E192189"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

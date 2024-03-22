@@ -1,0 +1,72 @@
+{
+    "href": "/game/parkan_2",
+    "MSG": {
+        "id": "1526007082",
+        "title": "Parkan 2",
+        "slug": "parkan_2",
+        "thumb_id": "eb4d16440138b6f0f03b3f8341f9feb9e2149b21eb264348096b36142ddc2b35",
+        "bg_id": "d6ab08708abefd01c5275511ce1761fe5dd4230c07bf4781f4825806dc1104d7",
+        "url": "https://www.gog.com/game/parkan_2",
+        "developer": "Nikita",
+        "publisher": "1C Entertainment",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1709158135",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_parkan_2_1.3.0b_all_languages_(51371)-1.bin",
+                    "size": "1237030007"
+                },
+                {
+                    "name": "setup_parkan_2_1.3.0b_all_languages_(51371).exe",
+                    "size": "2915744"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7B4BA502DB",
+                            "link": "https://filecrypt.cc/Container/7B4BA502DB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/291A8F7A4C",
+                            "link": "https://filecrypt.cc/Container/291A8F7A4C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/03422F6939",
+                            "link": "https://filecrypt.cc/Container/03422F6939"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

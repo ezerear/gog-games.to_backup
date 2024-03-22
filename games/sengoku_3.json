@@ -1,0 +1,68 @@
+{
+    "href": "/game/sengoku_3",
+    "MSG": {
+        "id": "1191552510",
+        "title": "SENGOKU 3",
+        "slug": "sengoku_3",
+        "thumb_id": "cfd6f0b9dba5d3aeac4651d0457b587f3270e1868d4ba609d8cd1a85fae49698",
+        "bg_id": "f724bef90cc1cf0db237903d6f608ac5dbb51d5131241f6758ffe507b78b1632",
+        "url": "https://www.gog.com/game/sengoku_3",
+        "developer": "SNK CORPORATION",
+        "publisher": "SNK CORPORATION",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710481165",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sengoku_3_gog-1_(14748).exe",
+                    "size": "84507040"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F78BDD5005",
+                            "link": "https://filecrypt.cc/Container/F78BDD5005"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/76C07F083E",
+                            "link": "https://filecrypt.cc/Container/76C07F083E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/49E4610BD9",
+                            "link": "https://filecrypt.cc/Container/49E4610BD9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

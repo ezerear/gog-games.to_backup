@@ -1,0 +1,84 @@
+{
+    "href": "/game/scarf",
+    "MSG": {
+        "id": "1379525161",
+        "title": "SCARF",
+        "slug": "scarf",
+        "thumb_id": "a6999977eda6846cbbe31e07eb5489be7881909a7e27db69945e4aa96bb7189a",
+        "bg_id": "c25d6b7eca6ec09cc4beeeb780b1cad0a47dcdbff3bffd5344ab9463071ec8f5",
+        "url": "https://www.gog.com/game/scarf",
+        "developer": "Uprising Studios",
+        "publisher": "HandyGames",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708545900",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_scarf_1.1_(64bit)_(53216)-1.bin",
+                    "size": "4294033406"
+                },
+                {
+                    "name": "setup_scarf_1.1_(64bit)_(53216)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_scarf_1.1_(64bit)_(53216)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_scarf_1.1_(64bit)_(53216)-4.bin",
+                    "size": "306604893"
+                },
+                {
+                    "name": "setup_scarf_1.1_(64bit)_(53216).exe",
+                    "size": "940272"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/54560D5F1A",
+                            "link": "https://filecrypt.cc/Container/54560D5F1A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D75BA02122",
+                            "link": "https://filecrypt.cc/Container/D75BA02122"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E0D03DAF4A",
+                            "link": "https://filecrypt.cc/Container/E0D03DAF4A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

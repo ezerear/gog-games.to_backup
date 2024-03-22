@@ -1,0 +1,115 @@
+{
+    "href": "/game/x2_the_threat",
+    "MSG": {
+        "id": "1441032629",
+        "title": "X2: The Threat",
+        "slug": "x2_the_threat",
+        "thumb_id": "e428f14d832e56abe704feb3806b42e9302308353eafe97c426c21bd8d5bf5d2",
+        "bg_id": "5424a5cbd6f265b756c980f4e784fddb5812a54e4057bc6957ff85c74c79f50a",
+        "url": "https://www.gog.com/game/x2_the_threat",
+        "developer": "Egosoft",
+        "publisher": "Egosoft",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710605338",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_x2_the_threat_2.0.0.2.exe",
+                    "size": "616521576"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "x2_the_threat_gunnery_crews.zip",
+                    "size": "133656"
+                },
+                {
+                    "name": "x2_the_threat_manual.zip",
+                    "size": "712799"
+                },
+                {
+                    "name": "x2_the_threat_reference_card.zip",
+                    "size": "83678"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5AE827429D",
+                            "link": "https://filecrypt.cc/Container/5AE827429D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/48E74CAAED",
+                            "link": "https://filecrypt.cc/Container/48E74CAAED"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C84C0FB536",
+                            "link": "https://filecrypt.cc/Container/C84C0FB536"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/396130CF58",
+                            "link": "https://filecrypt.cc/Container/396130CF58"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/18015ACC9D",
+                            "link": "https://filecrypt.cc/Container/18015ACC9D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0A953803DF",
+                            "link": "https://filecrypt.cc/Container/0A953803DF"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

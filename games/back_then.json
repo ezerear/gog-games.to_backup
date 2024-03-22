@@ -1,0 +1,76 @@
+{
+    "href": "/game/back_then",
+    "MSG": {
+        "id": "1618971842",
+        "title": "Back Then",
+        "slug": "back_then",
+        "thumb_id": "9f3081beb01d66db44bdaad4173e927378bd7a71d83b73a46a7aed8ec0699710",
+        "bg_id": "9e71dbf352603930e248b1232cf94368280d75067a0e3893504fb7b481abd7c6",
+        "url": "https://www.gog.com/en/game/back_then",
+        "developer": "Octopus Embrace",
+        "publisher": "Octopus Embrace",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709706915",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_back_then_1.071_(69556)-1.bin",
+                    "size": "4293991934"
+                },
+                {
+                    "name": "setup_back_then_1.071_(69556)-2.bin",
+                    "size": "2273574622"
+                },
+                {
+                    "name": "setup_back_then_1.071_(69556).exe",
+                    "size": "985584"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/71A7322450",
+                            "link": "https://filecrypt.cc/Container/71A7322450"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2E154A9438",
+                            "link": "https://filecrypt.cc/Container/2E154A9438"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4DDC6EB5C1",
+                            "link": "https://filecrypt.cc/Container/4DDC6EB5C1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

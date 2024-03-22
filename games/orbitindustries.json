@@ -1,0 +1,72 @@
+{
+    "href": "/game/orbitindustries",
+    "MSG": {
+        "id": "1160683515",
+        "title": "orbit.industries",
+        "slug": "orbitindustries",
+        "thumb_id": "0da85b23b4f24ec001d5b23ec48a0049c183cbc3c88b8a1fa76a2a3ab0e9cace",
+        "bg_id": "8c96e2ff6c87052b38c082a5998acb2877185c51b19a1c8947278bc9b3332935",
+        "url": "https://www.gog.com/en/game/orbitindustries",
+        "developer": "LAB132",
+        "publisher": "Klabater",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710810768",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_orbit.industries_1.1.9717.0_(64bit)_(55378)-1.bin",
+                    "size": "2560677432"
+                },
+                {
+                    "name": "setup_orbit.industries_1.1.9717.0_(64bit)_(55378).exe",
+                    "size": "808992"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AD5FF5BFE1",
+                            "link": "https://filecrypt.cc/Container/AD5FF5BFE1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/30D4A9D50E",
+                            "link": "https://filecrypt.cc/Container/30D4A9D50E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D77CD3CD6B",
+                            "link": "https://filecrypt.cc/Container/D77CD3CD6B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

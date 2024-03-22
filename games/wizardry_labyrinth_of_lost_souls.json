@@ -1,0 +1,72 @@
+{
+    "href": "/game/wizardry_labyrinth_of_lost_souls",
+    "MSG": {
+        "id": "1350378876",
+        "title": "Wizardry: Labyrinth of Lost Souls",
+        "slug": "wizardry_labyrinth_of_lost_souls",
+        "thumb_id": "8cea12fb0e9d292c9433b82c0b72bbea797a43d3a79fdb692062fa71e00253d6",
+        "bg_id": "7062acdebe2373cbeba5d1988b0e3141e0deb5b5b6ee4a8c2b1f03ef95751a48",
+        "url": "https://www.gog.com/game/wizardry_labyrinth_of_lost_souls",
+        "developer": "ACQUIRE Corp.",
+        "publisher": "XSEED Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709375030",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_growth_fruit_1.0.14_(35878).exe",
+                    "size": "5305712"
+                },
+                {
+                    "name": "setup_wizardry_labyrinth_of_lost_souls_1.0.14_(35878).exe",
+                    "size": "850320536"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/27E8334432",
+                            "link": "https://filecrypt.cc/Container/27E8334432"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5583A31285",
+                            "link": "https://filecrypt.cc/Container/5583A31285"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F8E9AE2917",
+                            "link": "https://filecrypt.cc/Container/F8E9AE2917"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,115 @@
+{
+    "href": "/game/singularity",
+    "MSG": {
+        "id": "1207659239",
+        "title": "Singularity™",
+        "slug": "singularity",
+        "thumb_id": "d8af01c57060aead6a5e661c28dcf9ee85e2a84bee223f9d97f201a09b4e8cd0",
+        "bg_id": "208feec679a60358973f8668494bac5cce61bc13242d2f861d58616c304db98c",
+        "url": "https://www.gog.com/game/singularity",
+        "developer": "Raven Software",
+        "publisher": "Activision",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710387171",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_singularity_2.0.0.5-1.bin",
+                    "size": "4194304000"
+                },
+                {
+                    "name": "setup_singularity_2.0.0.5-2.bin",
+                    "size": "2735851497"
+                },
+                {
+                    "name": "setup_singularity_2.0.0.5.exe",
+                    "size": "29550968"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "singularity_manuals.zip",
+                    "size": "31757669"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8BD6D0B47E",
+                            "link": "https://filecrypt.cc/Container/8BD6D0B47E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FC0FFEECE1",
+                            "link": "https://filecrypt.cc/Container/FC0FFEECE1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BFAFC90392",
+                            "link": "https://filecrypt.cc/Container/BFAFC90392"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A0D46189A6",
+                            "link": "https://filecrypt.cc/Container/A0D46189A6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B336E3853E",
+                            "link": "https://filecrypt.cc/Container/B336E3853E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9ACB89B7FE",
+                            "link": "https://filecrypt.cc/Container/9ACB89B7FE"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

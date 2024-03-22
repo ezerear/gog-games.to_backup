@@ -1,0 +1,90 @@
+{
+    "href": "/game/cloud_gardens",
+    "MSG": {
+        "id": "1107152216",
+        "title": "Cloud Gardens",
+        "slug": "cloud_gardens",
+        "thumb_id": "dbd0465bb6544fe2b2e542b1082bb71b3c5faa732c43d9f4992eef06910575da",
+        "bg_id": "f4a550f7e0da8ce6fd0d5df88a90187c2f75a8d06516d93dfda7bb0d0ce18484",
+        "url": "https://www.gog.com/en/game/cloud_gardens",
+        "developer": "Noio",
+        "publisher": "Noio",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1704252973",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_cloud_gardens_1.2.3_(64bit)_(68600).exe",
+                    "size": "155444208"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B0C4080F8C",
+                            "link": "https://filecrypt.cc/Container/B0C4080F8C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3298160D95",
+                            "link": "https://filecrypt.cc/Container/3298160D95"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CC3838E03E",
+                            "link": "https://filecrypt.cc/Container/CC3838E03E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ABF8FAAC15",
+                            "link": "https://filecrypt.cc/Container/ABF8FAAC15"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/838561EABE",
+                            "link": "https://filecrypt.cc/Container/838561EABE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

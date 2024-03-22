@@ -1,0 +1,90 @@
+{
+    "href": "/game/lumencraft",
+    "MSG": {
+        "id": "1485689357",
+        "title": "Lumencraft",
+        "slug": "lumencraft",
+        "thumb_id": "7bbe22fe411bb4c1741a1d066ca500975724bc74d87512b4bf7c446032d2f1a3",
+        "bg_id": "a6ba733602cb93269523897f78f3e92612b9bd98a79a3980ad09486c203b6997",
+        "url": "https://www.gog.com/game/lumencraft",
+        "developer": "2Dynamic Games",
+        "publisher": "Star Drifters",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1704799808",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_lumencraft_9257_(64bit)_(69042).exe",
+                    "size": "1439640200"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6B90BC41BB",
+                            "link": "https://filecrypt.cc/Container/6B90BC41BB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CD2B02D04C",
+                            "link": "https://filecrypt.cc/Container/CD2B02D04C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/356F24D667",
+                            "link": "https://filecrypt.cc/Container/356F24D667"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4DAE0B0C63",
+                            "link": "https://filecrypt.cc/Container/4DAE0B0C63"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F9CF16ACB9",
+                            "link": "https://filecrypt.cc/Container/F9CF16ACB9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

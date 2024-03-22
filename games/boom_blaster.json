@@ -1,0 +1,79 @@
+{
+    "href": "/game/boom_blaster",
+    "MSG": {
+        "id": "1447320940",
+        "title": "Boom Blaster",
+        "slug": "boom_blaster",
+        "thumb_id": "aa288888bfb8c4e44ab8841ea4c4ee8da9715f590bfc2172b5ae0d9d1328e2de",
+        "bg_id": "6c0d83b77778db4fcc213c3d1b4426970b3e2144db88c93da9f935e09fa4b208",
+        "url": "https://www.gog.com/en/game/boom_blaster",
+        "developer": "BigBread",
+        "publisher": "Meridian4",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1684948282",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_boom_blaster_1.01_(62685).exe",
+                    "size": "569707592"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/74F99845BE",
+                            "link": "https://filecrypt.cc/Container/74F99845BE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/93553187FC",
+                            "link": "https://filecrypt.cc/Container/93553187FC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/64FDA4609A",
+                            "link": "https://filecrypt.cc/Container/64FDA4609A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A77AEAA45F",
+                            "link": "https://filecrypt.cc/Container/A77AEAA45F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,94 @@
+{
+    "href": "/game/industry_giant_ii",
+    "MSG": {
+        "id": "1637871883",
+        "title": "Industry Giant 2",
+        "slug": "industry_giant_ii",
+        "thumb_id": "85af99980a3d58e4a32e96974fd10d20d3e94b61f99f9fa6708cc761e605ff28",
+        "bg_id": "3a768df0020de83088bb586e352822acaca3417fd87510f652954036b96081bb",
+        "url": "https://www.gog.com/en/game/industry_giant_ii",
+        "developer": "Fancy Bytes, Reactor",
+        "publisher": "Toplitz Productions",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1707797574",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_industry_giant_2_1.0.0.0_(53677)-1.bin",
+                    "size": "925760108"
+                },
+                {
+                    "name": "setup_industry_giant_2_1.0.0.0_(53677).exe",
+                    "size": "2423664"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C6543B912E",
+                            "link": "https://filecrypt.cc/Container/C6543B912E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D724688204",
+                            "link": "https://filecrypt.cc/Container/D724688204"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/01C93BE278",
+                            "link": "https://filecrypt.cc/Container/01C93BE278"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/60C9E40307",
+                            "link": "https://filecrypt.cc/Container/60C9E40307"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6080ADCF4C",
+                            "link": "https://filecrypt.cc/Container/6080ADCF4C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

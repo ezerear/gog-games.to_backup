@@ -1,0 +1,72 @@
+{
+    "href": "/game/disney_classic_games_collection",
+    "MSG": {
+        "id": "1361333080",
+        "title": "Disney Classic Games Collection",
+        "slug": "disney_classic_games_collection",
+        "thumb_id": "8173fff2d50a6afa9c64f3662d043d6d0571f37d988c5d0dd520c50f6cd71bc7",
+        "bg_id": "c93ba88754e9d3b446e7fcc6e2f11edb109d3fc77026321a3e37ff5d9e061f7f",
+        "url": "https://www.gog.com/game/disney_classic_games_collection",
+        "developer": "Digital Eclipse",
+        "publisher": "Disney, Nighthawk Interactive",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710869351",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_disney_classic_games_collection_1.0_(121321)_(52356)-1.bin",
+                    "size": "2632117214"
+                },
+                {
+                    "name": "setup_disney_classic_games_collection_1.0_(121321)_(52356).exe",
+                    "size": "818240"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3F570C2B68",
+                            "link": "https://filecrypt.cc/Container/3F570C2B68"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CFC789B60F",
+                            "link": "https://filecrypt.cc/Container/CFC789B60F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/94DFC2E854",
+                            "link": "https://filecrypt.cc/Container/94DFC2E854"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

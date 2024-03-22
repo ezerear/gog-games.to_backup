@@ -1,0 +1,68 @@
+{
+    "href": "/game/the_world_next_door",
+    "MSG": {
+        "id": "1586828906",
+        "title": "The World Next Door",
+        "slug": "the_world_next_door",
+        "thumb_id": "57bb0671ec6523e948433683bd2dcb61b72ff9760469cba92e28299c369c461d",
+        "bg_id": "59f9429f38f9aadf3c8e8a4f8c2afec684645db2972181d24a23b7d316cfd6ad",
+        "url": "https://www.gog.com/game/the_world_next_door",
+        "developer": "Rose City Games",
+        "publisher": "VIZ Media",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710626639",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_world_next_door_1.2.0_(29529).exe",
+                    "size": "551331352"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7B616EE5F0",
+                            "link": "https://filecrypt.cc/Container/7B616EE5F0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A24FC0B34A",
+                            "link": "https://filecrypt.cc/Container/A24FC0B34A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ECFB6E4A1A",
+                            "link": "https://filecrypt.cc/Container/ECFB6E4A1A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

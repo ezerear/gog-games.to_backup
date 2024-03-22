@@ -1,0 +1,68 @@
+{
+    "href": "/game/rance_01",
+    "MSG": {
+        "id": "1272604591",
+        "title": "Rance 01",
+        "slug": "rance_01",
+        "thumb_id": "a98d00143ded74a2bef2fb9d678a816e10b03bbde2377eafd31d4ab25f7ed42f",
+        "bg_id": "afce5697a378c9664a3558a45ff3a74e7ef7302b1948b524f09fec9fb1934b6f",
+        "url": "https://www.gog.com/en/game/rance_01_02",
+        "developer": "Alicesoft",
+        "publisher": "MangaGamer",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710579462",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_rance_01_v1.0_gog_(60468).exe",
+                    "size": "611510464"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/180B5315C6",
+                            "link": "https://filecrypt.cc/Container/180B5315C6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/219222723A",
+                            "link": "https://filecrypt.cc/Container/219222723A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A0BC3CAA24",
+                            "link": "https://filecrypt.cc/Container/A0BC3CAA24"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

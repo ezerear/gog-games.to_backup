@@ -1,0 +1,115 @@
+{
+    "href": "/game/rebel_galaxy",
+    "MSG": {
+        "id": "1435582019",
+        "title": "Rebel Galaxy",
+        "slug": "rebel_galaxy",
+        "thumb_id": "e2184c0e8b86417e319c9a2154fab725abc46d04febcb5b6135916bb2eb37fd4",
+        "bg_id": "764f816a1fe014534ef9a76b33546e635b1bb33f2f2a0eb8a6a43326e57486d3",
+        "url": "https://www.gog.com/game/rebel_galaxy",
+        "developer": "Double Damage Games",
+        "publisher": "Double Damage Games.",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709884909",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_rebel_galaxy_1.08(hotifx2)_(23097)-1.bin",
+                    "size": "2468156765"
+                },
+                {
+                    "name": "setup_rebel_galaxy_1.08(hotifx2)_(23097).exe",
+                    "size": "788208"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "rebel_galaxy_datasheets_jpg.zip",
+                    "size": "6730737"
+                },
+                {
+                    "name": "rebel_galaxy_wallpapers_jpg.zip",
+                    "size": "1541617"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6CA51934CF",
+                            "link": "https://filecrypt.cc/Container/6CA51934CF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1D658CFDF7",
+                            "link": "https://filecrypt.cc/Container/1D658CFDF7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7107A18C6A",
+                            "link": "https://filecrypt.cc/Container/7107A18C6A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AE9A3E593D",
+                            "link": "https://filecrypt.cc/Container/AE9A3E593D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3F10BA858A",
+                            "link": "https://filecrypt.cc/Container/3F10BA858A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/60BB319C49",
+                            "link": "https://filecrypt.cc/Container/60BB319C49"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

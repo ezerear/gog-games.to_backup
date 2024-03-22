@@ -1,0 +1,72 @@
+{
+    "href": "/game/black_skylands",
+    "MSG": {
+        "id": "1238406305",
+        "title": "Black Skylands",
+        "slug": "black_skylands",
+        "thumb_id": "3d254ba0ae115bf3fa9cb5e46da93689ca4413b00b04552c38f73064f54619e3",
+        "bg_id": "ed323ac9052eb5acb6560bf42255098b276eedc7be167b6c5e952c5735131db8",
+        "url": "https://www.gog.com/game/black_skylands",
+        "developer": "Hungry Couch Games",
+        "publisher": "tinyBuild",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709737732",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_black_skylands_-_founders_bonus_v1.0.0._(8a0a50dc94)_(66830).exe",
+                    "size": "6063128"
+                },
+                {
+                    "name": "setup_black_skylands_v1.0.0._(8a0a50dc94)_(66830).exe",
+                    "size": "749296664"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BB45D08D73",
+                            "link": "https://filecrypt.cc/Container/BB45D08D73"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/46BEC9DBCD",
+                            "link": "https://filecrypt.cc/Container/46BEC9DBCD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CD45C39345",
+                            "link": "https://filecrypt.cc/Container/CD45C39345"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

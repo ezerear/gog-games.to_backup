@@ -1,0 +1,91 @@
+{
+    "href": "/game/chevalier_historie",
+    "MSG": {
+        "id": "1128377881",
+        "title": "Chevalier Historie",
+        "slug": "chevalier_historie",
+        "thumb_id": "68a9fc8c7dea8bc09768f91465f13a080cc4a0f23987672e9db1c0f0ece5673c",
+        "bg_id": "8efa85967029a2a3dd8d9b6af5c6e918e6a8ef4c3b8a7bbf7ba71264df33238f",
+        "url": "https://www.gog.com/en/game/chevalier_historie",
+        "developer": "PICOPICOSOFT",
+        "publisher": "Kagura Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1706537192",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_chevalier_historie_unrated_v2_(en_1.03_cn_1.02)_(54188)-1.bin",
+                    "size": "3652329415"
+                },
+                {
+                    "name": "setup_chevalier_historie_unrated_v2_(en_1.03_cn_1.02)_(54188).exe",
+                    "size": "822232"
+                },
+                {
+                    "name": "setup_chevalier_historie_v2_(en_1.03_cn_1.02)_(54188)-1.bin",
+                    "size": "716927756"
+                },
+                {
+                    "name": "setup_chevalier_historie_v2_(en_1.03_cn_1.02)_(54188).exe",
+                    "size": "779712"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F061F2709C",
+                            "link": "https://filecrypt.cc/Container/F061F2709C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/716C701F18",
+                            "link": "https://filecrypt.cc/Container/716C701F18"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B7252768D0",
+                            "link": "https://filecrypt.cc/Container/B7252768D0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/63689B2A0C",
+                            "link": "https://filecrypt.cc/Container/63689B2A0C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

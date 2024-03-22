@@ -1,0 +1,151 @@
+{
+    "href": "/game/stalker_call_of_pripyat",
+    "MSG": {
+        "id": "1207660583",
+        "title": "S.T.A.L.K.E.R.: Call of Pripyat",
+        "slug": "stalker_call_of_pripyat",
+        "thumb_id": "34fb4652664cd6633a74fa2037d1d61d3833b45fd6ac34dfa6296dd62ae0053d",
+        "bg_id": "31dff32ca198130bb6f90f537d29cf23df92430556f6c46298d17b3d191b119d",
+        "url": "https://www.gog.com/game/stalker_call_of_pripyat",
+        "developer": "GSC Game World",
+        "publisher": "GSC Game World",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710335579",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_stalker_cop_2.1.0.17-1.bin",
+                    "size": "4194304000"
+                },
+                {
+                    "name": "setup_stalker_cop_2.1.0.17-2.bin",
+                    "size": "382409478"
+                },
+                {
+                    "name": "setup_stalker_cop_2.1.0.17.exe",
+                    "size": "29561208"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "stalker_cop_artworks.zip",
+                    "size": "910180"
+                },
+                {
+                    "name": "stalker_cop_avatars.zip",
+                    "size": "1007684"
+                },
+                {
+                    "name": "stalker_cop_concept_art.zip",
+                    "size": "5881151"
+                },
+                {
+                    "name": "stalker_cop_manual.zip",
+                    "size": "2362590"
+                },
+                {
+                    "name": "stalker_cop_ost_flac.zip",
+                    "size": "274596007"
+                },
+                {
+                    "name": "stalker_cop_ost_mp3.zip",
+                    "size": "76347881"
+                },
+                {
+                    "name": "stalker_cop_poster.zip",
+                    "size": "88068354"
+                },
+                {
+                    "name": "stalker_cop_renders.zip",
+                    "size": "3825939"
+                },
+                {
+                    "name": "stalker_cop_ukrainian_localization.zip",
+                    "size": "306867293"
+                },
+                {
+                    "name": "stalker_cop_wallpapers.zip",
+                    "size": "4438849"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A94E875741",
+                            "link": "https://filecrypt.cc/Container/A94E875741"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4E6D56B391",
+                            "link": "https://filecrypt.cc/Container/4E6D56B391"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/888F6ED6FD",
+                            "link": "https://filecrypt.cc/Container/888F6ED6FD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7BB0C6B9EF",
+                            "link": "https://filecrypt.cc/Container/7BB0C6B9EF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/054B4A1A29",
+                            "link": "https://filecrypt.cc/Container/054B4A1A29"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AD6D09C015",
+                            "link": "https://filecrypt.cc/Container/AD6D09C015"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

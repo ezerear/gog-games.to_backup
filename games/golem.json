@@ -1,0 +1,79 @@
+{
+    "href": "/game/golem",
+    "MSG": {
+        "id": "1767763090",
+        "title": "Golem",
+        "slug": "golem",
+        "thumb_id": "68eb036a9597168b76828994ebdd4fd755a6f31d96c85c81930479c2bd4fb65e",
+        "bg_id": "0c1b6c5c24cad10d9e637377046eff7038904b081243bb4ad464ccb163729a9e",
+        "url": "https://www.gog.com/game/golem",
+        "developer": "Longbow Games",
+        "publisher": "Longbow Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1705232462",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_golem_1.1.0_(64bit)_(24118).exe",
+                    "size": "1251011552"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EE8BF8A39C",
+                            "link": "https://filecrypt.cc/Container/EE8BF8A39C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/89F8A46FBE",
+                            "link": "https://filecrypt.cc/Container/89F8A46FBE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/13D63901D8",
+                            "link": "https://filecrypt.cc/Container/13D63901D8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2D64C78704",
+                            "link": "https://filecrypt.cc/Container/2D64C78704"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

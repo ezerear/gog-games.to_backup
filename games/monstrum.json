@@ -1,0 +1,119 @@
+{
+    "href": "/game/monstrum",
+    "MSG": {
+        "id": "1950261263",
+        "title": "Monstrum",
+        "slug": "monstrum",
+        "thumb_id": "2d10981ff7ca74e9f628fd2a61203783eb943123f432854ae65ede7397636f23",
+        "bg_id": "80f93f09822f9fb30a8af3a12a0dceec644f04403f3bd31c8fa8eca409339d2d",
+        "url": "https://www.gog.com/game/monstrum",
+        "developer": "Team Junkfish",
+        "publisher": "Team Junkfish",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710561472",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_monstrum_1.5.0_(64bit)_(24874)-1.bin",
+                    "size": "1744442489"
+                },
+                {
+                    "name": "setup_monstrum_1.5.0_(64bit)_(24874).exe",
+                    "size": "813688"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "monstrum_ost_flac.zip",
+                    "size": "269068172"
+                },
+                {
+                    "name": "monstrum_ost_mp3.zip",
+                    "size": "122907951"
+                },
+                {
+                    "name": "monstrum_ost_wav.zip",
+                    "size": "477818365"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0D9C7397E5",
+                            "link": "https://filecrypt.cc/Container/0D9C7397E5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/72CEBB04E5",
+                            "link": "https://filecrypt.cc/Container/72CEBB04E5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D757AF5C2A",
+                            "link": "https://filecrypt.cc/Container/D757AF5C2A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FCE15A362E",
+                            "link": "https://filecrypt.cc/Container/FCE15A362E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B4CBA52A73",
+                            "link": "https://filecrypt.cc/Container/B4CBA52A73"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CECC01151E",
+                            "link": "https://filecrypt.cc/Container/CECC01151E"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

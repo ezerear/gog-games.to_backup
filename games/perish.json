@@ -1,0 +1,76 @@
+{
+    "href": "/game/perish",
+    "MSG": {
+        "id": "2007261570",
+        "title": "PERISH",
+        "slug": "perish",
+        "thumb_id": "c3deda64e4f3b9791bbe850f246d20033324672ac13e5922952c87fca76ced46",
+        "bg_id": "21f62c74656da08b571b6ad5f0f1fdd8b3d966b5e2c5b3434875191be2aa9cc9",
+        "url": "https://www.gog.com/en/game/perish",
+        "developer": "ITEM42",
+        "publisher": "HandyGames",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710088207",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_perish_6870_shipping_(64bit)_(65675)-1.bin",
+                    "size": "4293966334"
+                },
+                {
+                    "name": "setup_perish_6870_shipping_(64bit)_(65675)-2.bin",
+                    "size": "4115991226"
+                },
+                {
+                    "name": "setup_perish_6870_shipping_(64bit)_(65675).exe",
+                    "size": "1010904"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E2C70A711B",
+                            "link": "https://filecrypt.cc/Container/E2C70A711B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E3E9082FD6",
+                            "link": "https://filecrypt.cc/Container/E3E9082FD6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/49CF8B94D8",
+                            "link": "https://filecrypt.cc/Container/49CF8B94D8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

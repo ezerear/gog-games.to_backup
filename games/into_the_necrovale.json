@@ -1,0 +1,68 @@
+{
+    "href": "/game/into_the_necrovale",
+    "MSG": {
+        "id": "1756098576",
+        "title": "Into the Necrovale",
+        "slug": "into_the_necrovale",
+        "thumb_id": "b776ff2285cc74bc25c7bf1430d76782914563087a596809391f9f70c6fe90b5",
+        "bg_id": "a7bafb0afea2c21b672036b4715c382548357ed259a44f0c861632f245b6401d",
+        "url": "https://www.gog.com/en/game/into_the_necrovale",
+        "developer": "Casey Clyde",
+        "publisher": "Tribal-Storm",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710381690",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_into_the_necrovale_0.4.27_(64bit)_(71759).exe",
+                    "size": "115395208"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/605023530F",
+                            "link": "https://filecrypt.cc/Container/605023530F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1D2C81021E",
+                            "link": "https://filecrypt.cc/Container/1D2C81021E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D69FEAA4A0",
+                            "link": "https://filecrypt.cc/Container/D69FEAA4A0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

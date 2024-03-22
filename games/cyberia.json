@@ -1,0 +1,68 @@
+{
+    "href": "/game/cyberia",
+    "MSG": {
+        "id": "1420634392",
+        "title": "Cyberia",
+        "slug": "cyberia",
+        "thumb_id": "f6226a4668e352907cdb87d0cfd41bdf6f21e06443dfc3cc0ff3175d88254ebc",
+        "bg_id": "28fddac463376e62be4c9f753508a38d8ad0e4b8a09299ae206466cea0309b22",
+        "url": "https://www.gog.com/game/cyberia",
+        "developer": "Xatrix Entertainment",
+        "publisher": "Interplay",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710500852",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_cyberia_1.0_(28043).exe",
+                    "size": "290629464"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CF162C1703",
+                            "link": "https://filecrypt.cc/Container/CF162C1703"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1753A0DA49",
+                            "link": "https://filecrypt.cc/Container/1753A0DA49"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/56CDE8BD31",
+                            "link": "https://filecrypt.cc/Container/56CDE8BD31"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

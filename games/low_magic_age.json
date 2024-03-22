@@ -1,0 +1,68 @@
+{
+    "href": "/game/low_magic_age",
+    "MSG": {
+        "id": "2047524778",
+        "title": "Low Magic Age",
+        "slug": "low_magic_age",
+        "thumb_id": "e6812fda52af3736cf6b1cecd4f015a77e025f1701017939449b21d243ab16f4",
+        "bg_id": "a64142ef59c7cce425794e71d00e13dbb38d6f72312abd6897ca0b2d4f97e759",
+        "url": "https://www.gog.com/game/low_magic_age",
+        "developer": "Low Magic Studios",
+        "publisher": "Low Magic Studios",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1708935564",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_low_magic_age_0.91.68_(70621).exe",
+                    "size": "286458944"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DE21C3D30E",
+                            "link": "https://filecrypt.cc/Container/DE21C3D30E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F34DB3FE4A",
+                            "link": "https://filecrypt.cc/Container/F34DB3FE4A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A05ECDB78F",
+                            "link": "https://filecrypt.cc/Container/A05ECDB78F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,76 @@
+{
+    "href": "/game/brewpub_simulator",
+    "MSG": {
+        "id": "1181317918",
+        "title": "Brewpub Simulator",
+        "slug": "brewpub_simulator",
+        "thumb_id": "7931ab943d5c7ae57a4f03ab3172b11398fe45a2118ed19f289be795bf873e89",
+        "bg_id": "e97718674295c54d8c20cc66c0f77dbe4ca01d7cd9b0c4eca3afa14326832302",
+        "url": "https://www.gog.com/en/game/brewpub_simulator",
+        "developer": "Star Drifters",
+        "publisher": "",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1708855052",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_brewpub_simulator_1.18_(64bit)_(68827)-1.bin",
+                    "size": "4294029822"
+                },
+                {
+                    "name": "setup_brewpub_simulator_1.18_(64bit)_(68827)-2.bin",
+                    "size": "1828089761"
+                },
+                {
+                    "name": "setup_brewpub_simulator_1.18_(64bit)_(68827).exe",
+                    "size": "947640"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ED3F788C85",
+                            "link": "https://filecrypt.cc/Container/ED3F788C85"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/127A6F2A63",
+                            "link": "https://filecrypt.cc/Container/127A6F2A63"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E89A375785",
+                            "link": "https://filecrypt.cc/Container/E89A375785"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

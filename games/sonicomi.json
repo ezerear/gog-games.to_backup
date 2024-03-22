@@ -1,0 +1,155 @@
+{
+    "href": "/game/sonicomi",
+    "MSG": {
+        "id": "2116517153",
+        "title": "SoniComi",
+        "slug": "sonicomi",
+        "thumb_id": "e3db967b459cbed2d6ef305558de9b0c0f94b43a95b3179b16564985b1743ddb",
+        "bg_id": "faa0e4f62fe9813fb4f21d06cc48c25cf8f928859bfb3548740c29cd304c7b0b",
+        "url": "https://www.gog.com/game/sonicomi",
+        "developer": "Nitroplus",
+        "publisher": "JAST USA",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1700102465",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sonicomi_1.0.2_(52713)-1.bin",
+                    "size": "3793094594"
+                },
+                {
+                    "name": "setup_sonicomi_1.0.2_(52713).exe",
+                    "size": "837976"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "sonicomi_manual.zip",
+                    "size": "4055927"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5EBA5CD726",
+                            "link": "https://filecrypt.cc/Container/5EBA5CD726"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D32D69BFA7",
+                            "link": "https://filecrypt.cc/Container/D32D69BFA7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/49AFD999AE",
+                            "link": "https://filecrypt.cc/Container/49AFD999AE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4B67AB8D85",
+                            "link": "https://filecrypt.cc/Container/4B67AB8D85"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/60A0B02937",
+                            "link": "https://filecrypt.cc/Container/60A0B02937"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4025015A47",
+                            "link": "https://filecrypt.cc/Container/4025015A47"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9D407C69FF",
+                            "link": "https://filecrypt.cc/Container/9D407C69FF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2E9FB24B5A",
+                            "link": "https://filecrypt.cc/Container/2E9FB24B5A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7F370B54CC",
+                            "link": "https://filecrypt.cc/Container/7F370B54CC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F4AA773F1A",
+                            "link": "https://filecrypt.cc/Container/F4AA773F1A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

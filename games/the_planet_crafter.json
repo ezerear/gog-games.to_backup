@@ -1,0 +1,72 @@
+{
+    "href": "/game/the_planet_crafter",
+    "MSG": {
+        "id": "1882985557",
+        "title": "The Planet Crafter",
+        "slug": "the_planet_crafter",
+        "thumb_id": "c450a915b50dca69100008d3a2526c6a744e49feda825f6c46ef1193e89d1b4d",
+        "bg_id": "d0cd62822e3c7f462b5744fb1e05f514c4e99477c9c8cfb9a169b51b16b090d3",
+        "url": "https://www.gog.com/en/game/the_planet_crafter",
+        "developer": "Miju Games",
+        "publisher": "Miju Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710821656",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_planet_crafter_v0.9.010_(68550)-1.bin",
+                    "size": "3420693132"
+                },
+                {
+                    "name": "setup_the_planet_crafter_v0.9.010_(68550).exe",
+                    "size": "897512"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1410683C90",
+                            "link": "https://filecrypt.cc/Container/1410683C90"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B0C6A395CB",
+                            "link": "https://filecrypt.cc/Container/B0C6A395CB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CC754F1278",
+                            "link": "https://filecrypt.cc/Container/CC754F1278"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/charterstone_digital_edition",
+    "MSG": {
+        "id": "1877382924",
+        "title": "Charterstone: Digital Edition",
+        "slug": "charterstone_digital_edition",
+        "thumb_id": "013586dfe64b2d27dd58c23a7259d8e87cf7ac0cc9cfa7158d067583935c1a43",
+        "bg_id": "171f3882d35193e7ac7e12b4b0e536bcf2850766f9842658960efb1b7b28d369",
+        "url": "https://www.gog.com/game/charterstone_digital_edition",
+        "developer": "Acram Digital",
+        "publisher": "Acram Digital",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710495351",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_charterstone_digital_edition_1.2.9_(60089).exe",
+                    "size": "172856928"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CAA27BDE80",
+                            "link": "https://filecrypt.cc/Container/CAA27BDE80"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7804CD2D4D",
+                            "link": "https://filecrypt.cc/Container/7804CD2D4D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/753E673942",
+                            "link": "https://filecrypt.cc/Container/753E673942"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,80 @@
+{
+    "href": "/game/zombie_shooting_star_arcade",
+    "MSG": {
+        "id": "1803522722",
+        "title": "Zombie Shooting Star: ARCADE",
+        "slug": "zombie_shooting_star_arcade",
+        "thumb_id": "06dfbf421c916647c0658c9dbd0b6ef265f8c21c6fd9a6d6e8ef48651f6d4599",
+        "bg_id": "c5006771acd848e408d8a2f095a09c8901107692dc1a5e8d61c2023841e56932",
+        "url": "https://www.gog.com/en/game/zombie_shooting_star_arcade",
+        "developer": "Twins Halo",
+        "publisher": "MediBang Inc.",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1708819571",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_zombie_shooting_star_arcade_1.1_(64bit)_(66314)-1.bin",
+                    "size": "4294038526"
+                },
+                {
+                    "name": "setup_zombie_shooting_star_arcade_1.1_(64bit)_(66314)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_zombie_shooting_star_arcade_1.1_(64bit)_(66314)-3.bin",
+                    "size": "2265196603"
+                },
+                {
+                    "name": "setup_zombie_shooting_star_arcade_1.1_(64bit)_(66314).exe",
+                    "size": "938824"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/63C72BC620",
+                            "link": "https://filecrypt.cc/Container/63C72BC620"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A932465FD2",
+                            "link": "https://filecrypt.cc/Container/A932465FD2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A25B232AB1",
+                            "link": "https://filecrypt.cc/Container/A25B232AB1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

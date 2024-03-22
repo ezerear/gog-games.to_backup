@@ -1,0 +1,131 @@
+{
+    "href": "/game/a_new_beginning",
+    "MSG": {
+        "id": "1207659150",
+        "title": "A New Beginning: Final Cut",
+        "slug": "a_new_beginning",
+        "thumb_id": "89b5917e554aa64633003fe9da2f8f9425a2cfdc9cb4972a61b4ee57ed09a8ed",
+        "bg_id": "4f3a4895ee4506f7635b06d2fececf5012cf3692c6c6f7d75299249e0c3fbfbb",
+        "url": "https://www.gog.com/game/a_new_beginning",
+        "developer": "Daedalic Entertainment",
+        "publisher": "Daedalic Entertainment",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710502035",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_a_new_beginning_final_cut_2.0.4.0395_(27805)-1.bin",
+                    "size": "4093576335"
+                },
+                {
+                    "name": "setup_a_new_beginning_final_cut_2.0.4.0395_(27805).exe",
+                    "size": "856160"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "a_new_beginning_artworks.zip",
+                    "size": "8098452"
+                },
+                {
+                    "name": "a_new_beginning_avatars.zip",
+                    "size": "617190"
+                },
+                {
+                    "name": "a_new_beginning_concept_art.zip",
+                    "size": "6622156"
+                },
+                {
+                    "name": "a_new_beginning_manual.zip",
+                    "size": "2913044"
+                },
+                {
+                    "name": "a_new_beginning_soundtrack.zip",
+                    "size": "77963093"
+                },
+                {
+                    "name": "a_new_beginning_wallpapers.zip",
+                    "size": "8770736"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/41CD336DEC",
+                            "link": "https://filecrypt.cc/Container/41CD336DEC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DFCE47C2EF",
+                            "link": "https://filecrypt.cc/Container/DFCE47C2EF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EC86EABE7A",
+                            "link": "https://filecrypt.cc/Container/EC86EABE7A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BF030A15C0",
+                            "link": "https://filecrypt.cc/Container/BF030A15C0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C14FC7F9C3",
+                            "link": "https://filecrypt.cc/Container/C14FC7F9C3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9E754E8BB3",
+                            "link": "https://filecrypt.cc/Container/9E754E8BB3"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

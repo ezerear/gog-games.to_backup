@@ -1,0 +1,101 @@
+{
+    "href": "/game/skeletal_avenger",
+    "MSG": {
+        "id": "1482232434",
+        "title": "Skeletal Avenger",
+        "slug": "skeletal_avenger",
+        "thumb_id": "ce88bf5e99782f12f1d85b7ada833c30bb2224037408ad727991c751dc74bd8f",
+        "bg_id": "11afe176224944f7f535cb74d3b192df31a14e2c95a9d44f29d5e75eb4d22006",
+        "url": "https://www.gog.com/game/skeletal_avenger",
+        "developer": "10tons",
+        "publisher": "10tons",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1702126966",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_skeletal_avenger_1.0.7.2_(58976).exe",
+                    "size": "255965984"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0F3755EE83",
+                            "link": "https://filecrypt.cc/Container/0F3755EE83"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/627D3BDF53",
+                            "link": "https://filecrypt.cc/Container/627D3BDF53"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/713C4275E3",
+                            "link": "https://filecrypt.cc/Container/713C4275E3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4662051A73",
+                            "link": "https://filecrypt.cc/Container/4662051A73"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0FF8035DF7",
+                            "link": "https://filecrypt.cc/Container/0FF8035DF7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E1F02BEE74",
+                            "link": "https://filecrypt.cc/Container/E1F02BEE74"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

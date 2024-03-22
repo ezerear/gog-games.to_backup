@@ -1,0 +1,90 @@
+{
+    "href": "/game/disc_room",
+    "MSG": {
+        "id": "1887982662",
+        "title": "Disc Room",
+        "slug": "disc_room",
+        "thumb_id": "fc6f2c506b33f73fb97abaa75e6ac77145934a7d8b678fc1370f025c113b6250",
+        "bg_id": "8e2190aa3759a521f4d771e0170e5f61717a97fda67adc8574ce227021ea0730",
+        "url": "https://www.gog.com/game/disc_room",
+        "developer": "Terri, Dose, Kitty, and JW",
+        "publisher": "Devolver Digital",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1706707122",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_disc_room_1.03_(42468).exe",
+                    "size": "178224328"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/572C7B8000",
+                            "link": "https://filecrypt.cc/Container/572C7B8000"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1491F87D4C",
+                            "link": "https://filecrypt.cc/Container/1491F87D4C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/93ADAA0756",
+                            "link": "https://filecrypt.cc/Container/93ADAA0756"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8D09D36149",
+                            "link": "https://filecrypt.cc/Container/8D09D36149"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BFE415BA6F",
+                            "link": "https://filecrypt.cc/Container/BFE415BA6F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

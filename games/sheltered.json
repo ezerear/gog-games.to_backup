@@ -1,0 +1,68 @@
+{
+    "href": "/game/sheltered",
+    "MSG": {
+        "id": "1454930864",
+        "title": "Sheltered",
+        "slug": "sheltered",
+        "thumb_id": "60cda7024433da2da6cee09843b883da49151ae23513a103c2ba61bc5f17b926",
+        "bg_id": "4a4d05775f8d60078b9b8dd7a461e9d4fe45e4a3643ccb3e450a7a8021b214d6",
+        "url": "https://www.gog.com/game/sheltered",
+        "developer": "Unicube",
+        "publisher": "Team17 Digital LTD.",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1708210344",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sheltered_1.9_(30851).exe",
+                    "size": "372413328"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EA2D75388B",
+                            "link": "https://filecrypt.cc/Container/EA2D75388B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0EDF423826",
+                            "link": "https://filecrypt.cc/Container/0EDF423826"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/758B067AEA",
+                            "link": "https://filecrypt.cc/Container/758B067AEA"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,57 @@
+{
+    "href": "/game/daemonsgate",
+    "MSG": {
+        "id": "1227017019",
+        "title": "Daemonsgate",
+        "slug": "daemonsgate",
+        "thumb_id": "7ea0ddeb45f77b6f81a64e6b4fe2a66b097e6b3bd6f8dfd855099f5d1d9491c2",
+        "bg_id": "09d12ed0255cada0e9b86cf482afda416b41c194725b7d2d6a1806751172e47a",
+        "url": "https://www.gog.com/game/daemonsgate",
+        "developer": "Imagitec Design",
+        "publisher": "Piko Interactive",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709127012",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_daemonsgate.exe",
+                    "size": "97254200"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F9606C8CBC",
+                            "link": "https://filecrypt.cc/Container/F9606C8CBC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E39A704091",
+                            "link": "https://filecrypt.cc/Container/E39A704091"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

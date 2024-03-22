@@ -1,0 +1,79 @@
+{
+    "href": "/game/mighty_switch_force_collection",
+    "MSG": {
+        "id": "1948030341",
+        "title": "Mighty Switch Force! Collection",
+        "slug": "mighty_switch_force_collection",
+        "thumb_id": "c1a75d8efddc935d2cf11858cb7bcbffccffd88f86593f3f8c0dbb93dc97ed24",
+        "bg_id": "41d41c2ca40ae3de5269b134635d648b6dd3ad7cf22f12a73c606b2760996cf3",
+        "url": "https://www.gog.com/game/mighty_switch_force_collection",
+        "developer": " WayForward",
+        "publisher": " WayForward",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1706115481",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_mighty_switch_force_collection_1.00_(43172).exe",
+                    "size": "1768440672"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C9555D4677",
+                            "link": "https://filecrypt.cc/Container/C9555D4677"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/66E5F268BD",
+                            "link": "https://filecrypt.cc/Container/66E5F268BD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6ACDC973AE",
+                            "link": "https://filecrypt.cc/Container/6ACDC973AE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CCC516827A",
+                            "link": "https://filecrypt.cc/Container/CCC516827A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

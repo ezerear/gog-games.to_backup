@@ -1,0 +1,59 @@
+{
+    "href": "/game/deadly_dozen",
+    "MSG": {
+        "id": "1956859522",
+        "title": "Deadly Dozen",
+        "slug": "deadly_dozen",
+        "thumb_id": "009183a2b8642acedab6d3402fbf0b957dd198cb393c96bf1ddd8e3defb8901b",
+        "bg_id": "638ad96c221c28f2f3b1070782786a508ce5e610c89b8b875513afa5a980f818",
+        "url": "https://www.gog.com/game/deadly_dozen",
+        "developer": "N-Fusion Interactive",
+        "publisher": "Ziggurat",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1708854495",
+        "votes": "1",
+        "files": false,
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3B4CD8C437",
+                            "link": "https://filecrypt.cc/Container/3B4CD8C437"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C5894981BD",
+                            "link": "https://filecrypt.cc/Container/C5894981BD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3E1F553479",
+                            "link": "https://filecrypt.cc/Container/3E1F553479"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

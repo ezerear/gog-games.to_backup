@@ -1,0 +1,80 @@
+{
+    "href": "/game/serial_cleaners",
+    "MSG": {
+        "id": "1676910822",
+        "title": "Serial Cleaners",
+        "slug": "serial_cleaners",
+        "thumb_id": "ea43193c7e9827f10213fd31a5b112ef5d4b1f3bf9d14d453151f4f0d06aef53",
+        "bg_id": "b59daab2af52d1fe05a3f0365e51059a258b8f0501624a192a947173e359ce94",
+        "url": "https://www.gog.com/game/serial_cleaners",
+        "developer": "Draw Distance",
+        "publisher": "Draw Distance",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708654694",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_serial_cleaners_-_dino_park_1.2.3404_(64bit)_(64162).exe",
+                    "size": "5718888"
+                },
+                {
+                    "name": "setup_serial_cleaners_1.2.3404_(64bit)_(64162)-1.bin",
+                    "size": "4294086142"
+                },
+                {
+                    "name": "setup_serial_cleaners_1.2.3404_(64bit)_(64162)-2.bin",
+                    "size": "2973414724"
+                },
+                {
+                    "name": "setup_serial_cleaners_1.2.3404_(64bit)_(64162).exe",
+                    "size": "891040"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6B123261F1",
+                            "link": "https://filecrypt.cc/Container/6B123261F1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FD4032042D",
+                            "link": "https://filecrypt.cc/Container/FD4032042D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/130F9CBB00",
+                            "link": "https://filecrypt.cc/Container/130F9CBB00"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

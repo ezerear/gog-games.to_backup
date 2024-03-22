@@ -1,0 +1,90 @@
+{
+    "href": "/game/necrobouncer",
+    "MSG": {
+        "id": "1988653875",
+        "title": "NecroBouncer",
+        "slug": "necrobouncer",
+        "thumb_id": "bbb4e2640fae2048112c5348aa90fae1e8d261519da0d53e5cf2367a252221b9",
+        "bg_id": "e616febac8b43464577a45afeacbb790306d6cb02f7a67a19738e8ac72b6f7e3",
+        "url": "https://www.gog.com/en/game/necrobouncer",
+        "developer": "Alchemy Sheep",
+        "publisher": "Ravenage Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1698112824",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_necrobouncer_1.1.6_(63057).exe",
+                    "size": "109172808"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/31B2DCEEC3",
+                            "link": "https://filecrypt.cc/Container/31B2DCEEC3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0CCF5782DC",
+                            "link": "https://filecrypt.cc/Container/0CCF5782DC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BD8F1E7FE2",
+                            "link": "https://filecrypt.cc/Container/BD8F1E7FE2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EBE60C1E14",
+                            "link": "https://filecrypt.cc/Container/EBE60C1E14"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/04AEB9EE33",
+                            "link": "https://filecrypt.cc/Container/04AEB9EE33"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

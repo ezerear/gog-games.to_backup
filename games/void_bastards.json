@@ -1,0 +1,115 @@
+{
+    "href": "/game/void_bastards",
+    "MSG": {
+        "id": "2120667520",
+        "title": "Void Bastards",
+        "slug": "void_bastards",
+        "thumb_id": "546d85df1b1ebed4e63e20e2d27d87bb1a639ac2270f0645f76b52e2eb50683a",
+        "bg_id": "3817f9928d41f779800a543b642539bc0826d87e17e15032aeeab5c71d298a1e",
+        "url": "https://www.gog.com/game/void_bastards",
+        "developer": "Blue Manchu",
+        "publisher": "Humble Bundle",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710012802",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_void_bastards_2.0.24_(64bit)_(33167).exe",
+                    "size": "1471015744"
+                },
+                {
+                    "name": "setup_void_bastards_bang_tydy_2.0.24_(64bit)_(33167).exe",
+                    "size": "6401416"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "void_bastards_ost_flac.zip",
+                    "size": "253134879"
+                },
+                {
+                    "name": "void_bastards_ost_mp3.zip",
+                    "size": "141989905"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B353CBBB34",
+                            "link": "https://filecrypt.cc/Container/B353CBBB34"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/47DF9607DE",
+                            "link": "https://filecrypt.cc/Container/47DF9607DE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4111706E93",
+                            "link": "https://filecrypt.cc/Container/4111706E93"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/899D42D359",
+                            "link": "https://filecrypt.cc/Container/899D42D359"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CE18D16C83",
+                            "link": "https://filecrypt.cc/Container/CE18D16C83"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/74C726CB7C",
+                            "link": "https://filecrypt.cc/Container/74C726CB7C"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

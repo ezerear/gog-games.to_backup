@@ -1,0 +1,68 @@
+{
+    "href": "/game/yars_recharged",
+    "MSG": {
+        "id": "2098611621",
+        "title": "Yars Recharged",
+        "slug": "yars_recharged",
+        "thumb_id": "daf07751c762167c23481a2f2a8397f6ca22919cf5ce1f86e28ac35ba909be86",
+        "bg_id": "e8076ba8ea261acac8aab5946b65a5a9f61cbfe69f3a460c858031302b7423b2",
+        "url": "https://www.gog.com/en/game/yars_recharged",
+        "developer": "Adamvision Studios",
+        "publisher": "Atari",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710408786",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_yars_recharged_1.0_(61258).exe",
+                    "size": "203525288"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/171FDDB0DD",
+                            "link": "https://filecrypt.cc/Container/171FDDB0DD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/38E8DE5F73",
+                            "link": "https://filecrypt.cc/Container/38E8DE5F73"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E797D79B90",
+                            "link": "https://filecrypt.cc/Container/E797D79B90"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

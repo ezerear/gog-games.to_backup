@@ -1,0 +1,110 @@
+{
+    "href": "/game/project_highrise",
+    "MSG": {
+        "id": "2018730457",
+        "title": "Project Highrise",
+        "slug": "project_highrise",
+        "thumb_id": "ba84079ec7d19f4ad059786042f465b905c6998a1e306fbd32f899bf5156af96",
+        "bg_id": "0e3ba290ce0c16560704e8a5f1efbca56be360be8370a3da0c3fef413c7011c6",
+        "url": "https://www.gog.com/game/project_highrise",
+        "developer": "SomaSim",
+        "publisher": "Kasedo Games",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1707824555",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_project_highrise_1.6.3_(26636).exe",
+                    "size": "137921968"
+                },
+                {
+                    "name": "setup_project_highrise_brilliant_berlin_1.6.3_(26636).exe",
+                    "size": "5886872"
+                },
+                {
+                    "name": "setup_project_highrise_las_vegas_1.6.3_(26636).exe",
+                    "size": "6692488"
+                },
+                {
+                    "name": "setup_project_highrise_london_life_1.6.3_(26636).exe",
+                    "size": "5859456"
+                },
+                {
+                    "name": "setup_project_highrise_miami_malls_1.6.3_(26636).exe",
+                    "size": "5622000"
+                },
+                {
+                    "name": "setup_project_highrise_tokyo_towers_1.6.3_(26636).exe",
+                    "size": "5341976"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FE9EF17D5F",
+                            "link": "https://filecrypt.cc/Container/FE9EF17D5F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A0EBE36B57",
+                            "link": "https://filecrypt.cc/Container/A0EBE36B57"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3DE2DE3EFC",
+                            "link": "https://filecrypt.cc/Container/3DE2DE3EFC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/639BB56DA6",
+                            "link": "https://filecrypt.cc/Container/639BB56DA6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/948E25C068",
+                            "link": "https://filecrypt.cc/Container/948E25C068"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

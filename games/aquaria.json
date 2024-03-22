@@ -1,0 +1,90 @@
+{
+    "href": "/game/aquaria",
+    "MSG": {
+        "id": "1430398832",
+        "title": "Aquaria",
+        "slug": "aquaria",
+        "thumb_id": "f4dfa68c53024ce3524d6b85ba107e9311f97bdd6a3f204fb4d1a80273ce6594",
+        "bg_id": "d5fd90c0ba928d5f063f4bb181c19c5a4839066b53fce7fcf3a8f5fa92a05e08",
+        "url": "https://www.gog.com/game/aquaria",
+        "developer": "Bit Blot, LLC",
+        "publisher": "Bit Blot, LLC",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707138166",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_aquaria_1.1.1_(20646).exe",
+                    "size": "213504904"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B6DBE8C074",
+                            "link": "https://filecrypt.cc/Container/B6DBE8C074"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/36765F7430",
+                            "link": "https://filecrypt.cc/Container/36765F7430"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AA9358EB1E",
+                            "link": "https://filecrypt.cc/Container/AA9358EB1E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F68285C1C3",
+                            "link": "https://filecrypt.cc/Container/F68285C1C3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0DED99D0FA",
+                            "link": "https://filecrypt.cc/Container/0DED99D0FA"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

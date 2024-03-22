@@ -1,0 +1,68 @@
+{
+    "href": "/game/timespinner",
+    "MSG": {
+        "id": "1422911599",
+        "title": "Timespinner",
+        "slug": "timespinner",
+        "thumb_id": "3f67395625d4ac35cec5c54be578e251baf590d928c911fce9c0a287e016ab8f",
+        "bg_id": "bcb8e13d97fe109067aba3f6b491569b35ca9019c653a9f47d005efedd3b6968",
+        "url": "https://www.gog.com/game/timespinner",
+        "developer": "Lunar Ray Games",
+        "publisher": "Chucklefish",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709814109",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_timespinner_1.033_(49703).exe",
+                    "size": "357480272"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/048CD17435",
+                            "link": "https://filecrypt.cc/Container/048CD17435"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4B1C288CB5",
+                            "link": "https://filecrypt.cc/Container/4B1C288CB5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C0E71DBB9F",
+                            "link": "https://filecrypt.cc/Container/C0E71DBB9F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

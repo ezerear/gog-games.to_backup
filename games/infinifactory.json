@@ -1,0 +1,68 @@
+{
+    "href": "/game/infinifactory",
+    "MSG": {
+        "id": "1436435983",
+        "title": "Infinifactory",
+        "slug": "infinifactory",
+        "thumb_id": "5d120bb01d7149ed3448cf095e9ce06fd16f6dbd58aa20e7eccad050de043a7f",
+        "bg_id": "0e874a97c4b78ba9a1284e24948e381e49e33bc47ff4166d28a5eb6d035ff81d",
+        "url": "https://www.gog.com/game/infinifactory",
+        "developer": "Zachtronics",
+        "publisher": "Zachtronics",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710353997",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_infinifactory_1.0_(a)_(43189).exe",
+                    "size": "760591600"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/901F236627",
+                            "link": "https://filecrypt.cc/Container/901F236627"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3EC529305E",
+                            "link": "https://filecrypt.cc/Container/3EC529305E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C2C0168490",
+                            "link": "https://filecrypt.cc/Container/C2C0168490"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

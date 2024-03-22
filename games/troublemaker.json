@@ -1,0 +1,80 @@
+{
+    "href": "/game/troublemaker",
+    "MSG": {
+        "id": "1560920637",
+        "title": "Troublemaker",
+        "slug": "troublemaker",
+        "thumb_id": "b081dba0f6d74e33be891b24d38ccf4aab652abd09d76eb656825dde164eab27",
+        "bg_id": "0763f4f84ed9d5b2809784f350ed5fad630baee43cbfd108a8bd23b08a4f4438",
+        "url": "https://www.gog.com/en/game/troublemaker",
+        "developer": "Gamecom Team",
+        "publisher": "Freedom Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709658451",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_troublemaker_1.2b_(66377)-1.bin",
+                    "size": "4294082558"
+                },
+                {
+                    "name": "setup_troublemaker_1.2b_(66377)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_troublemaker_1.2b_(66377)-3.bin",
+                    "size": "70545950"
+                },
+                {
+                    "name": "setup_troublemaker_1.2b_(66377).exe",
+                    "size": "894992"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D85D0F8279",
+                            "link": "https://filecrypt.cc/Container/D85D0F8279"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AAF72437E4",
+                            "link": "https://filecrypt.cc/Container/AAF72437E4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2D6A1ADA6C",
+                            "link": "https://filecrypt.cc/Container/2D6A1ADA6C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

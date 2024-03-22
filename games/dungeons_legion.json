@@ -1,0 +1,76 @@
+{
+    "href": "/game/dungeons_legion",
+    "MSG": {
+        "id": "1572302743",
+        "title": "Dungeon's Legion",
+        "slug": "dungeons_legion",
+        "thumb_id": "c29ebbc0d55ba9fe0877314368d338f4f3426ac4b23057ef55fa56a648863293",
+        "bg_id": "7ef074c720743ab68ad98049f2931b35171d399660988cd99b348abf01365cfa",
+        "url": "https://www.gog.com/en/game/dungeons_legion",
+        "developer": "Lunasoft",
+        "publisher": "Kagura Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709383807",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dungeons_legion_unrated_v1_(en_v1_cn_v1)_(68199)-1.bin",
+                    "size": "1434545237"
+                },
+                {
+                    "name": "setup_dungeons_legion_unrated_v1_(en_v1_cn_v1)_(68199).exe",
+                    "size": "825720"
+                },
+                {
+                    "name": "setup_dungeons_legion_v1_(en_v1_cn_v1)_(68199).exe",
+                    "size": "147124840"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F5CCC55D9A",
+                            "link": "https://filecrypt.cc/Container/F5CCC55D9A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/11BBB2D41A",
+                            "link": "https://filecrypt.cc/Container/11BBB2D41A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/43A32B7443",
+                            "link": "https://filecrypt.cc/Container/43A32B7443"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

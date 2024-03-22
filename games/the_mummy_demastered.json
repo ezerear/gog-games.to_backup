@@ -1,0 +1,68 @@
+{
+    "href": "/game/the_mummy_demastered",
+    "MSG": {
+        "id": "1839071992",
+        "title": "The Mummy Demastered",
+        "slug": "the_mummy_demastered",
+        "thumb_id": "734defab15a69aa46419155d59fce834254af3da0cfbd86db0f787791700e88a",
+        "bg_id": "ba0450c1278372b908d3674b25295d745183ff669e1f182e4a34bd812c97b174",
+        "url": "https://www.gog.com/game/the_mummy_demastered",
+        "developer": "Wayforward Technologies",
+        "publisher": "Wayforward Technologies",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709072544",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_mummy_demastered_1.02_(42691).exe",
+                    "size": "278993384"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DA306B80A9",
+                            "link": "https://filecrypt.cc/Container/DA306B80A9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6F5EBFEF94",
+                            "link": "https://filecrypt.cc/Container/6F5EBFEF94"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9FDEB9BF77",
+                            "link": "https://filecrypt.cc/Container/9FDEB9BF77"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

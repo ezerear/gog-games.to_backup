@@ -1,0 +1,68 @@
+{
+    "href": "/game/decision_red_daze",
+    "MSG": {
+        "id": "1819876589",
+        "title": "Decision: Red Daze",
+        "slug": "decision_red_daze",
+        "thumb_id": "6522831a2948c623f8cc71d4c6968ca42137e3d5baf3b143ad3713d737acf656",
+        "bg_id": "a83c4e1b3552988527c202d3eb2f4cb13dd702b95228f68756c1c36077d37529",
+        "url": "https://www.gog.com/game/decision_red_daze",
+        "developer": "FlyAnvil",
+        "publisher": "Nordcurrent",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708842684",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_decision_red_daze_1.3.2(0)_(67661).exe",
+                    "size": "1518116336"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/584D8708C6",
+                            "link": "https://filecrypt.cc/Container/584D8708C6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/729F01B1E9",
+                            "link": "https://filecrypt.cc/Container/729F01B1E9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/28607C9600",
+                            "link": "https://filecrypt.cc/Container/28607C9600"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

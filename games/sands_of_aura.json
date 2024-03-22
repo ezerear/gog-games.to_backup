@@ -1,0 +1,88 @@
+{
+    "href": "/game/sands_of_aura",
+    "MSG": {
+        "id": "2091206730",
+        "title": "Sands of Aura",
+        "slug": "sands_of_aura",
+        "thumb_id": "c4a77bd9dbf55cc994a0563108bf41ade8a31d5a0c781d2c09f8c258a4c25dd0",
+        "bg_id": "3b1cbf50c27daf84aa445a4f61d650726d988eeca32a8355851aa3468be041e6",
+        "url": "https://www.gog.com/en/game/sands_of_aura",
+        "developer": "Chashu Entertainment",
+        "publisher": "Freedom Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710895693",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sands_of_aura_1.01.25_(64bit)_(71879)-1.bin",
+                    "size": "4293937150"
+                },
+                {
+                    "name": "setup_sands_of_aura_1.01.25_(64bit)_(71879)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_sands_of_aura_1.01.25_(64bit)_(71879)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_sands_of_aura_1.01.25_(64bit)_(71879)-4.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_sands_of_aura_1.01.25_(64bit)_(71879)-5.bin",
+                    "size": "3518428668"
+                },
+                {
+                    "name": "setup_sands_of_aura_1.01.25_(64bit)_(71879).exe",
+                    "size": "1037552"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8DD1ADAE85",
+                            "link": "https://filecrypt.cc/Container/8DD1ADAE85"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4A0D10E43B",
+                            "link": "https://filecrypt.cc/Container/4A0D10E43B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AB82515532",
+                            "link": "https://filecrypt.cc/Container/AB82515532"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

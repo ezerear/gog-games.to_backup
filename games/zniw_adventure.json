@@ -1,0 +1,89 @@
+{
+    "href": "/game/zniw_adventure",
+    "MSG": {
+        "id": "1664228813",
+        "title": "Zniw Adventure",
+        "slug": "zniw_adventure",
+        "thumb_id": "875ea7afd1eb95022607a6cfbaa2a016da558a5d35c350a36210e1fc77aa8e92",
+        "bg_id": "14d8057cc0fc7736afefe0c88e1e1eebc9392746bb86c8df7f5ae0af2f2608f6",
+        "url": "https://www.gog.com/en/game/zniw_adventure",
+        "developer": "Azure Mountain",
+        "publisher": "Azure Mountain, Kurki.games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710171882",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_zniw_adventure_1.3.4.1w-gog_(64bit)_(60118).exe",
+                    "size": "1491341272"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "zniw_adventure_ost_flac.zip",
+                    "size": "491501818"
+                },
+                {
+                    "name": "zniw_adventure_ost_mp3.zip",
+                    "size": "117879539"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A7783DDE33",
+                            "link": "https://filecrypt.cc/Container/A7783DDE33"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/010705B728",
+                            "link": "https://filecrypt.cc/Container/010705B728"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/02E2EC72F3",
+                            "link": "https://filecrypt.cc/Container/02E2EC72F3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/62D013535F",
+                            "link": "https://filecrypt.cc/Container/62D013535F"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

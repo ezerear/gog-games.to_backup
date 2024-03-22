@@ -1,0 +1,68 @@
+{
+    "href": "/game/fate_the_traitor_soul",
+    "MSG": {
+        "id": "1595490147",
+        "title": "FATE: The Traitor Soul",
+        "slug": "fate_the_traitor_soul",
+        "thumb_id": "5417532f2dfc0a83a226e456e354af20c9a02d4a9dd252502ebdd75c54018482",
+        "bg_id": "954082ee3a42a9bf4e23bb3ad88f5a7287a9056e7edd7d17dd664dce5910bbf2",
+        "url": "https://www.gog.com/game/fate_the_traitor_soul",
+        "developer": "WildTangent",
+        "publisher": "WildTangent",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709483465",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_fate_the_traitor_soul_1.1.2_(45488).exe",
+                    "size": "517109072"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E5D258079A",
+                            "link": "https://filecrypt.cc/Container/E5D258079A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C94EA820FC",
+                            "link": "https://filecrypt.cc/Container/C94EA820FC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B77BF4199C",
+                            "link": "https://filecrypt.cc/Container/B77BF4199C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

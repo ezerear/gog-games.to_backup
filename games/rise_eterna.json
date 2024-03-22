@@ -1,0 +1,72 @@
+{
+    "href": "/game/rise_eterna",
+    "MSG": {
+        "id": "1079804638",
+        "title": "Rise Eterna",
+        "slug": "rise_eterna",
+        "thumb_id": "ba18dccaac380dc20415555da52a82c1dd428435330d72ce0c24bfb1615c54fa",
+        "bg_id": "d9c8992a746ce4db2e60cb9fe10afcbbb80eaef252bfabbc90f5b3006180fcad",
+        "url": "https://www.gog.com/game/rise_eterna",
+        "developer": "Makee, Forever Entertainment S. A.",
+        "publisher": "Forever Entertainment S. A.",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710310977",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_rise_eterna_1.0.0_r6_(47961)-1.bin",
+                    "size": "2378017431"
+                },
+                {
+                    "name": "setup_rise_eterna_1.0.0_r6_(47961).exe",
+                    "size": "830640"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/62515CCD90",
+                            "link": "https://filecrypt.cc/Container/62515CCD90"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2933FB595D",
+                            "link": "https://filecrypt.cc/Container/2933FB595D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F5C3312250",
+                            "link": "https://filecrypt.cc/Container/F5C3312250"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

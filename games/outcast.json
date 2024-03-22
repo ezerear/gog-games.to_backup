@@ -1,0 +1,127 @@
+{
+    "href": "/game/outcast",
+    "MSG": {
+        "id": "1207658853",
+        "title": "Outcast 1.1",
+        "slug": "outcast",
+        "thumb_id": "1e3d93502fc5c23abf7f5a9bccf2878797a59965661e762f8e2452539a482e3c",
+        "bg_id": "f32c4f17530f315e7b22644ec3b76f0c8ec19c4d1f56dc21b0f1115bb39fc1ec",
+        "url": "https://www.gog.com/game/outcast",
+        "developer": "Fresh3D",
+        "publisher": "Fresh3D",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710522353",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_outcast_18970_(19502).exe",
+                    "size": "1289525680"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "Outcast_Artworks.zip",
+                    "size": "36125774"
+                },
+                {
+                    "name": "Outcast_Making_Of.zip",
+                    "size": "122418973"
+                },
+                {
+                    "name": "Outcast_manual.zip",
+                    "size": "2648599"
+                },
+                {
+                    "name": "Outcast_Outtakes.zip",
+                    "size": "69235717"
+                },
+                {
+                    "name": "Outcast_soundtrack.zip",
+                    "size": "65461464"
+                },
+                {
+                    "name": "setup_outcast_2.0.0.13.exe",
+                    "size": "1425535056"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B150ACC999",
+                            "link": "https://filecrypt.cc/Container/B150ACC999"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3411E290D6",
+                            "link": "https://filecrypt.cc/Container/3411E290D6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/28E63025DA",
+                            "link": "https://filecrypt.cc/Container/28E63025DA"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/351AAF0000",
+                            "link": "https://filecrypt.cc/Container/351AAF0000"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B413AD1AB0",
+                            "link": "https://filecrypt.cc/Container/B413AD1AB0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DF99E5B412",
+                            "link": "https://filecrypt.cc/Container/DF99E5B412"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,90 @@
+{
+    "href": "/game/corpse_factory",
+    "MSG": {
+        "id": "1837039836",
+        "title": "CORPSE FACTORY",
+        "slug": "corpse_factory",
+        "thumb_id": "5b2e44d94fab81a8de8f38fc2a598b19326fc606da9d7a8f8d8039c87dce4396",
+        "bg_id": "37d0b62326812cdcf1f74374eadf26c4654d35903fd5231f02c88b8ab52010c5",
+        "url": "https://www.gog.com/en/game/corpse_factory",
+        "developer": "RIVER CROW STUDIO",
+        "publisher": "RIVER CROW STUDIO",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1697509545",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_corpse_factory_1.0_(59791).exe",
+                    "size": "933709168"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/812DB0349D",
+                            "link": "https://filecrypt.cc/Container/812DB0349D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/045AB8751A",
+                            "link": "https://filecrypt.cc/Container/045AB8751A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EC3DF05528",
+                            "link": "https://filecrypt.cc/Container/EC3DF05528"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7A0F258277",
+                            "link": "https://filecrypt.cc/Container/7A0F258277"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E7266C7A07",
+                            "link": "https://filecrypt.cc/Container/E7266C7A07"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,135 @@
+{
+    "href": "/game/stronghold",
+    "MSG": {
+        "id": "1207658712",
+        "title": "Stronghold HD",
+        "slug": "stronghold",
+        "thumb_id": "ab6728d1788b22409c4724742dbdc8248e96bee7d029f9eb7152b6c7bd300f91",
+        "bg_id": "423703ea9c2f0554b6dfa22c434e24b07e8ac13a48daaa63db46d3e2480138dc",
+        "url": "https://www.gog.com/game/stronghold",
+        "developer": "FireFly Studios",
+        "publisher": "FireFly Studios",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710093099",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_stronghold_hd_1.41_(20341)-1.bin",
+                    "size": "777390820"
+                },
+                {
+                    "name": "setup_stronghold_hd_1.41_(20341).exe",
+                    "size": "1162152"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "setup_stronghold_2.0.0.9.exe",
+                    "size": "602606672"
+                },
+                {
+                    "name": "stronghold_classic_1.0.0.12.dmg",
+                    "size": "825456802"
+                },
+                {
+                    "name": "stronghold_excalibur_pack.zip",
+                    "size": "5513161"
+                },
+                {
+                    "name": "stronghold_hd_soundtrack.zip",
+                    "size": "79976815"
+                },
+                {
+                    "name": "stronghold_manual.zip",
+                    "size": "2938648"
+                },
+                {
+                    "name": "stronghold_wallpaper.zip",
+                    "size": "7264339"
+                },
+                {
+                    "name": "super_castle_attack.zip",
+                    "size": "2401586"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2DC3D77BB1",
+                            "link": "https://filecrypt.cc/Container/2DC3D77BB1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A2B5D42132",
+                            "link": "https://filecrypt.cc/Container/A2B5D42132"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E52D273C47",
+                            "link": "https://filecrypt.cc/Container/E52D273C47"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F6ABD74179",
+                            "link": "https://filecrypt.cc/Container/F6ABD74179"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EF75BFA512",
+                            "link": "https://filecrypt.cc/Container/EF75BFA512"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4E906DA362",
+                            "link": "https://filecrypt.cc/Container/4E906DA362"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

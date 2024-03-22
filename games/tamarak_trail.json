@@ -1,0 +1,115 @@
+{
+    "href": "/game/tamarak_trail",
+    "MSG": {
+        "id": "1747099042",
+        "title": "Tamarak Trail",
+        "slug": "tamarak_trail",
+        "thumb_id": "ae6b538f768a1e673036feb110d45ca44312b10e23452284fcfc9adac67a7e3e",
+        "bg_id": "24abe21f0bb82468b67f04602ec6eeba2c4ed5de69f3fabd1c1f1bbcd23e0570",
+        "url": "https://www.gog.com/en/game/tamarak_trail",
+        "developer": "Yarrow Games",
+        "publisher": "Versus Evil",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710021843",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tamarak_trail_1.0.gog_(64bit)_(71484)-1.bin",
+                    "size": "1822705646"
+                },
+                {
+                    "name": "setup_tamarak_trail_1.0.gog_(64bit)_(71484).exe",
+                    "size": "940432"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "tamarak_trail_soundtrack_mp3.zip",
+                    "size": "169047664"
+                },
+                {
+                    "name": "tamarak_trail_soundtrack_wav.zip",
+                    "size": "962639865"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FCDD5AB7B7",
+                            "link": "https://filecrypt.cc/Container/FCDD5AB7B7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/75F10EB6ED",
+                            "link": "https://filecrypt.cc/Container/75F10EB6ED"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/495BDFFBAC",
+                            "link": "https://filecrypt.cc/Container/495BDFFBAC"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3945C94903",
+                            "link": "https://filecrypt.cc/Container/3945C94903"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AC711A3CD5",
+                            "link": "https://filecrypt.cc/Container/AC711A3CD5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9F25FDED6C",
+                            "link": "https://filecrypt.cc/Container/9F25FDED6C"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

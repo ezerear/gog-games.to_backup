@@ -1,0 +1,76 @@
+{
+    "href": "/game/shores_unknown",
+    "MSG": {
+        "id": "1667167658",
+        "title": "Shores Unknown",
+        "slug": "shores_unknown",
+        "thumb_id": "82d82e694a8bd15417eb605a2751d46133dc7bb9af4847b9d3616060811c4322",
+        "bg_id": "25eeaeee6dec5c4f0a7e785744ea197b47e7bb036a8c751492e35baeb16d6537",
+        "url": "https://www.gog.com/game/shores_unknown",
+        "developer": "Vallynne",
+        "publisher": "Hitcents",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1705934547",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_shores_unknown_ea_0.8.1.1_(64bit)_(51995)-1.bin",
+                    "size": "4294129662"
+                },
+                {
+                    "name": "setup_shores_unknown_ea_0.8.1.1_(64bit)_(51995)-2.bin",
+                    "size": "1066393830"
+                },
+                {
+                    "name": "setup_shores_unknown_ea_0.8.1.1_(64bit)_(51995).exe",
+                    "size": "844080"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5C560FB217",
+                            "link": "https://filecrypt.cc/Container/5C560FB217"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CFC9FA150A",
+                            "link": "https://filecrypt.cc/Container/CFC9FA150A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2A10EB9D5A",
+                            "link": "https://filecrypt.cc/Container/2A10EB9D5A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

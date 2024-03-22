@@ -1,0 +1,76 @@
+{
+    "href": "/game/kane_and_lynch_dead_men",
+    "MSG": {
+        "id": "1721096025",
+        "title": "Kane and Lynch: Dead Men™",
+        "slug": "kane_and_lynch_dead_men",
+        "thumb_id": "6b2fe11ee80352fcdcfbff89568c6886b447a6b34729426a8c7b0cc3d737b387",
+        "bg_id": "9e74172e0f96177d820dac7a492fcf0b76cbefb480ebdfa3da07bfde7a4ec2d6",
+        "url": "https://www.gog.com/en/game/kane_and_lynch_dead_men",
+        "developer": "IO Interactive",
+        "publisher": "Square Enix",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708944776",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_kane_and_lynch_dead_men_1.0.0.129_(53697)-1.bin",
+                    "size": "4294025214"
+                },
+                {
+                    "name": "setup_kane_and_lynch_dead_men_1.0.0.129_(53697)-2.bin",
+                    "size": "3425774924"
+                },
+                {
+                    "name": "setup_kane_and_lynch_dead_men_1.0.0.129_(53697).exe",
+                    "size": "952384"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C86BAB0A8B",
+                            "link": "https://filecrypt.cc/Container/C86BAB0A8B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2C436A11B1",
+                            "link": "https://filecrypt.cc/Container/2C436A11B1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5903DE77B2",
+                            "link": "https://filecrypt.cc/Container/5903DE77B2"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

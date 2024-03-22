@@ -1,0 +1,80 @@
+{
+    "href": "/game/kimagure_temptation",
+    "MSG": {
+        "id": "1389150184",
+        "title": "Kimagure Temptation",
+        "slug": "kimagure_temptation",
+        "thumb_id": "f2a35f93ad6a52cdbf5ab6ea53a0472336b99705dbe6241e44f95b4543d19cdd",
+        "bg_id": "b8dd4f92859d05d80c48022aba7fc17ff49446aeab848fcf707fd5272beb1d61",
+        "url": "https://www.gog.com/game/kimagure_temptation",
+        "developer": "Silky's Plus Wasabi",
+        "publisher": "Sekai Project",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708162320",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_kimagure_temptation_1.0.5.0_(52724)-1.bin",
+                    "size": "2171004434"
+                },
+                {
+                    "name": "setup_kimagure_temptation_1.0.5.0_(52724).exe",
+                    "size": "823296"
+                },
+                {
+                    "name": "setup_kimagure_temptation_uncensored_1.0.5.0_(52724)-1.bin",
+                    "size": "2887866529"
+                },
+                {
+                    "name": "setup_kimagure_temptation_uncensored_1.0.5.0_(52724).exe",
+                    "size": "847080"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4B4F7AFE76",
+                            "link": "https://filecrypt.cc/Container/4B4F7AFE76"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D632AFC6CC",
+                            "link": "https://filecrypt.cc/Container/D632AFC6CC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5E03931B0B",
+                            "link": "https://filecrypt.cc/Container/5E03931B0B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

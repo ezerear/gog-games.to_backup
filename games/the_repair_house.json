@@ -1,0 +1,76 @@
+{
+    "href": "/game/the_repair_house",
+    "MSG": {
+        "id": "1397426969",
+        "title": "The Repair House",
+        "slug": "the_repair_house",
+        "thumb_id": "a6efd92556269d329bdf3ae58c3bb9562850bc0dcb46eba2bd1c6d39c4730964",
+        "bg_id": "7ac13c7eb1a6563ae2cab64344bbed08227f97b55cb6510d92363763b969384e",
+        "url": "https://www.gog.com/en/game/the_repair_house",
+        "developer": "Claudiu Kiss, QUANTUM LOGIC GAMES",
+        "publisher": "",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1709969244",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_repair_house_1.7_(64bit)_(67306)-1.bin",
+                    "size": "4293876222"
+                },
+                {
+                    "name": "setup_the_repair_house_1.7_(64bit)_(67306)-2.bin",
+                    "size": "3962044950"
+                },
+                {
+                    "name": "setup_the_repair_house_1.7_(64bit)_(67306).exe",
+                    "size": "1100888"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0674E822EA",
+                            "link": "https://filecrypt.cc/Container/0674E822EA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5AC7D812AB",
+                            "link": "https://filecrypt.cc/Container/5AC7D812AB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/93A754C92C",
+                            "link": "https://filecrypt.cc/Container/93A754C92C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

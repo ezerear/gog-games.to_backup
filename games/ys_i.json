@@ -1,0 +1,111 @@
+{
+    "href": "/game/ys_i",
+    "MSG": {
+        "id": "1422440106",
+        "title": "Ys I",
+        "slug": "ys_i",
+        "thumb_id": "3723317a1e222cce1e7fd355a18c281d2d092b33fe3c160f8bb777c87958a7cd",
+        "bg_id": "1d7f474306025c23af87669dfefdf86e840d807c21c10c8c2492b22b166d01a3",
+        "url": "https://www.gog.com/game/ys_i_ii_chronicles",
+        "developer": "Nihon Falcom",
+        "publisher": "XSEED Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710520404",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_ys_i_2022-01-03_(52678).exe",
+                    "size": "708100728"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "ys_chronicles_avatars.zip",
+                    "size": "2827785"
+                },
+                {
+                    "name": "ys_chronicles_wallpapers.zip",
+                    "size": "26112150"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0830B2E253",
+                            "link": "https://filecrypt.cc/Container/0830B2E253"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E777BD548E",
+                            "link": "https://filecrypt.cc/Container/E777BD548E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1BA33557FB",
+                            "link": "https://filecrypt.cc/Container/1BA33557FB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8A1A5659B0",
+                            "link": "https://filecrypt.cc/Container/8A1A5659B0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/36A9F8DB06",
+                            "link": "https://filecrypt.cc/Container/36A9F8DB06"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5421344F1F",
+                            "link": "https://filecrypt.cc/Container/5421344F1F"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

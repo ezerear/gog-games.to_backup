@@ -1,0 +1,68 @@
+{
+    "href": "/game/growing_up",
+    "MSG": {
+        "id": "2063281711",
+        "title": "Growing Up",
+        "slug": "growing_up",
+        "thumb_id": "b4129dd897755db6538a7587940be307a2cd46b7297645ac9b38e2ab3625dd99",
+        "bg_id": "d905058e86dfed653ad6ebd4d69336be3c188bf8bc17e4a63158d97d652171fd",
+        "url": "https://www.gog.com/game/growing_up",
+        "developer": "Vile Monarch",
+        "publisher": "Vile Monarch",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1708749696",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_growing_up_1.2.3932_(54948).exe",
+                    "size": "860877872"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/77B5888336",
+                            "link": "https://filecrypt.cc/Container/77B5888336"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7BB0D1A127",
+                            "link": "https://filecrypt.cc/Container/7BB0D1A127"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9C1A7B8F4F",
+                            "link": "https://filecrypt.cc/Container/9C1A7B8F4F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

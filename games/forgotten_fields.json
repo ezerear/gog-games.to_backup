@@ -1,0 +1,83 @@
+{
+    "href": "/game/forgotten_fields",
+    "MSG": {
+        "id": "1774526067",
+        "title": "Forgotten Fields",
+        "slug": "forgotten_fields",
+        "thumb_id": "3756ab69373077fc1482ac228cdf89910b3f9a1ba84f1c7401b88f6b67e77be8",
+        "bg_id": "d56f17f2be344ddc40be1e018b341d37681e47e0db528bb46d94c5627678163f",
+        "url": "https://www.gog.com/game/forgotten_fields",
+        "developer": "Frostwood Interactive",
+        "publisher": "Dino Digital",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1684331496",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_forgotten_fields_v1.6_(64bit)_(53526)-1.bin",
+                    "size": "2730303907"
+                },
+                {
+                    "name": "setup_forgotten_fields_v1.6_(64bit)_(53526).exe",
+                    "size": "905808"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9DDF5570A0",
+                            "link": "https://filecrypt.cc/Container/9DDF5570A0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D4FB94621B",
+                            "link": "https://filecrypt.cc/Container/D4FB94621B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B02E8AC1DB",
+                            "link": "https://filecrypt.cc/Container/B02E8AC1DB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6820B1FFB5",
+                            "link": "https://filecrypt.cc/Container/6820B1FFB5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

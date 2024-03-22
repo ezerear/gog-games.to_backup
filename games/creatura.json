@@ -1,0 +1,79 @@
+{
+    "href": "/game/creatura",
+    "MSG": {
+        "id": "1677559564",
+        "title": "Creatura",
+        "slug": "creatura",
+        "thumb_id": "fc5b76246495aa5079e1b0972e4f46609935c83c5a4f0ddea2203bdbd94955f6",
+        "bg_id": "4227bca503e5f59a589e6824e97b0352383c35fa777e52ffdc3c2b97843e0016",
+        "url": "https://www.gog.com/en/game/creatura",
+        "developer": "FreeMind S.A.",
+        "publisher": "FreeMind S.A.",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1685191514",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_creatura_1.1.4a_(61089).exe",
+                    "size": "304773680"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A7A058E724",
+                            "link": "https://filecrypt.cc/Container/A7A058E724"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4281D4E6F9",
+                            "link": "https://filecrypt.cc/Container/4281D4E6F9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/16932D2DA6",
+                            "link": "https://filecrypt.cc/Container/16932D2DA6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/85F166A4F3",
+                            "link": "https://filecrypt.cc/Container/85F166A4F3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

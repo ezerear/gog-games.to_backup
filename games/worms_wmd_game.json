@@ -1,0 +1,76 @@
+{
+    "href": "/game/worms_wmd_game",
+    "MSG": {
+        "id": "1448620034",
+        "title": "Worms W.M.D",
+        "slug": "worms_wmd_game",
+        "thumb_id": "8c472b485991b0a7d936f223a0929dbaa4e6bd70a788958644e76e4b5a01fe9d",
+        "bg_id": "22ebc62f0b0e0d61ca6f294666baaa63bc1ade5b081bb492a6d86214e808c9cf",
+        "url": "https://www.gog.com/game/worms_wmd",
+        "developer": "Team17 Digital LTD.",
+        "publisher": "Team17 Digital LTD.",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1709513988",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_worms_w.m.d._all_stars_pack_1.0.0.273_(a)_(49738).exe",
+                    "size": "6710560"
+                },
+                {
+                    "name": "setup_worms_w.m.d_1.0.0.273_(a)_(49738)-1.bin",
+                    "size": "1924661915"
+                },
+                {
+                    "name": "setup_worms_w.m.d_1.0.0.273_(a)_(49738).exe",
+                    "size": "939616"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/81845A3CDF",
+                            "link": "https://filecrypt.cc/Container/81845A3CDF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AD9AC5FE26",
+                            "link": "https://filecrypt.cc/Container/AD9AC5FE26"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/644D5BA4DD",
+                            "link": "https://filecrypt.cc/Container/644D5BA4DD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,127 @@
+{
+    "href": "/game/the_messenger",
+    "MSG": {
+        "id": "1433116924",
+        "title": "The Messenger",
+        "slug": "the_messenger",
+        "thumb_id": "817371f8c4ab44acb6781b4424b60c093cbb34b5b7346da949caa6bdc1417a2d",
+        "bg_id": "c3196bf0f6ae8730e286c988e2401bf18a14924eb8ec54fe47c7f2e7e05b40a7",
+        "url": "https://www.gog.com/game/the_messenger",
+        "developer": "Sabotage",
+        "publisher": "Devolver Digital",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709770066",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_messenger_2.0.4_(64bit)_(30928).exe",
+                    "size": "356902000"
+                },
+                {
+                    "name": "setup_the_messenger_picnic_panic_2.0.4_(64bit)_(30928).exe",
+                    "size": "6715312"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "the_messenger_keiji_yamagishi_ep.zip",
+                    "size": "125419992"
+                },
+                {
+                    "name": "the_messenger_ost_disc_1_mp3.zip",
+                    "size": "105161625"
+                },
+                {
+                    "name": "the_messenger_ost_disc_2_mp3.zip",
+                    "size": "103880556"
+                },
+                {
+                    "name": "the_messenger_picnic_panic_ost_mp3.zip",
+                    "size": "84785089"
+                },
+                {
+                    "name": "the_messenger_picnic_panic_wallpaper.zip",
+                    "size": "3452255"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A5C43FF6D3",
+                            "link": "https://filecrypt.cc/Container/A5C43FF6D3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ED9167675B",
+                            "link": "https://filecrypt.cc/Container/ED9167675B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/99FC9DBBD2",
+                            "link": "https://filecrypt.cc/Container/99FC9DBBD2"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C56B826AFF",
+                            "link": "https://filecrypt.cc/Container/C56B826AFF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B009B062F4",
+                            "link": "https://filecrypt.cc/Container/B009B062F4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E055B427E1",
+                            "link": "https://filecrypt.cc/Container/E055B427E1"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,112 @@
+{
+    "href": "/game/scrapland_remastered",
+    "MSG": {
+        "id": "1688988400",
+        "title": "Scrapland Remastered",
+        "slug": "scrapland_remastered",
+        "thumb_id": "c829f957c7585402c0b13805338eb23dbc5304441e5cdbb1698774bc09482789",
+        "bg_id": "2bdfe4357f1a773a26f7c8c512327f46b43c46e9464ec00b3a937abeeb34330d",
+        "url": "https://www.gog.com/game/scrapland_remastered",
+        "developer": "MercurySteam",
+        "publisher": "MercurySteam",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708897384",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_scrapland_remastered_1.6.1_(52159)-1.bin",
+                    "size": "4294087678"
+                },
+                {
+                    "name": "setup_scrapland_remastered_1.6.1_(52159)-2.bin",
+                    "size": "1593960726"
+                },
+                {
+                    "name": "setup_scrapland_remastered_1.6.1_(52159).exe",
+                    "size": "886112"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "How_to_Improve_Graphic_Settings_manual.zip",
+                    "size": "11920"
+                },
+                {
+                    "name": "Run_Dedicated_Server_manual.zip",
+                    "size": "10007"
+                },
+                {
+                    "name": "Unpublished_Concept_Art.zip",
+                    "size": "40687882"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/289B6CEA47",
+                            "link": "https://filecrypt.cc/Container/289B6CEA47"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/33490924A2",
+                            "link": "https://filecrypt.cc/Container/33490924A2"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E10F92D2EB",
+                            "link": "https://filecrypt.cc/Container/E10F92D2EB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3F172930A9",
+                            "link": "https://filecrypt.cc/Container/3F172930A9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/30CB22B810",
+                            "link": "https://filecrypt.cc/Container/30CB22B810"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

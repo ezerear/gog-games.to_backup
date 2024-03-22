@@ -1,0 +1,72 @@
+{
+    "href": "/game/762_high_calibre",
+    "MSG": {
+        "id": "1727035233",
+        "title": "7.62 High Calibre",
+        "slug": "762_high_calibre",
+        "thumb_id": "a0b22c2e70872d5dcf7454215831c07ba232463a27a14ae1485d7cfd380d99d5",
+        "bg_id": "1fd815ec9c9d4f1345843b441daeb40eaa95a58f1778d1cc93cec416554c1838",
+        "url": "https://www.gog.com/en/game/762_high_calibre_762_hard_life",
+        "developer": "Apeiron / HLA team",
+        "publisher": "Fulqrum Publishing",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1709898564",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_7.62_high_calibre_1.11_(58204)-1.bin",
+                    "size": "3273742553"
+                },
+                {
+                    "name": "setup_7.62_high_calibre_1.11_(58204).exe",
+                    "size": "1119512"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0E6F9B1F04",
+                            "link": "https://filecrypt.cc/Container/0E6F9B1F04"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FC23F39B32",
+                            "link": "https://filecrypt.cc/Container/FC23F39B32"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7C0704B239",
+                            "link": "https://filecrypt.cc/Container/7C0704B239"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

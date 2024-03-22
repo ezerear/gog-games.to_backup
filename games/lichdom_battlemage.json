@@ -1,0 +1,131 @@
+{
+    "href": "/game/lichdom_battlemage",
+    "MSG": {
+        "id": "1426765313",
+        "title": "Lichdom: Battlemage",
+        "slug": "lichdom_battlemage",
+        "thumb_id": "16fad6364447d058604f3ae58501ff60b4d2cd8289b2ddcc482659a0c393b85f",
+        "bg_id": "9077d605f31fc6c19b29dfaf070d28dab136c0dcbf0188fb242d04cd11b91b23",
+        "url": "https://www.gog.com/game/lichdom_battlemage",
+        "developer": "Xaviant",
+        "publisher": "Xaviant Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709496082",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_lichdom_-_battlemage_64_1.2.3_(18496)-1.bin",
+                    "size": "4294218238"
+                },
+                {
+                    "name": "setup_lichdom_-_battlemage_64_1.2.3_(18496)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_lichdom_-_battlemage_64_1.2.3_(18496)-3.bin",
+                    "size": "3402094870"
+                },
+                {
+                    "name": "setup_lichdom_-_battlemage_64_1.2.3_(18496).exe",
+                    "size": "756368"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "lichdom_battlemage_artworks.zip",
+                    "size": "15962847"
+                },
+                {
+                    "name": "lichdom_battlemage_ost_mp3.zip",
+                    "size": "174709285"
+                },
+                {
+                    "name": "lichdom_battlemage_wallpapers.zip",
+                    "size": "21665082"
+                },
+                {
+                    "name": "lichdom_soundtrack_mp3.zip",
+                    "size": "46622816"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F5AA19A9AF",
+                            "link": "https://filecrypt.cc/Container/F5AA19A9AF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A3555E256C",
+                            "link": "https://filecrypt.cc/Container/A3555E256C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5DDDABCF8E",
+                            "link": "https://filecrypt.cc/Container/5DDDABCF8E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BAA57F4CB0",
+                            "link": "https://filecrypt.cc/Container/BAA57F4CB0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B7550AD0A5",
+                            "link": "https://filecrypt.cc/Container/B7550AD0A5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/351F1C5F97",
+                            "link": "https://filecrypt.cc/Container/351F1C5F97"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,72 @@
+{
+    "href": "/game/endless_sky",
+    "MSG": {
+        "id": "1829678475",
+        "title": "Endless Sky",
+        "slug": "endless_sky",
+        "thumb_id": "60a9054521df880ca64ae1fb022f3817ebe1a715403e5e73d6106791b607abbb",
+        "bg_id": "6242eddb4651e5a91e4427975cb4676187e66beb3cef03df0f0d589a93ffada2",
+        "url": "https://www.gog.com/en/game/endless_sky",
+        "developer": "Michael Zahniser",
+        "publisher": "Michael Zahniser",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708933652",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_endless_sky_-_high_dpi_0.10.6_(64bit)_(71276).exe",
+                    "size": "587501488"
+                },
+                {
+                    "name": "setup_endless_sky_0.10.6_(64bit)_(71276).exe",
+                    "size": "263038528"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F4A24BF025",
+                            "link": "https://filecrypt.cc/Container/F4A24BF025"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FC73CA7246",
+                            "link": "https://filecrypt.cc/Container/FC73CA7246"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D84EFC793B",
+                            "link": "https://filecrypt.cc/Container/D84EFC793B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

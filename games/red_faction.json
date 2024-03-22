@@ -1,0 +1,107 @@
+{
+    "href": "/game/red_faction",
+    "MSG": {
+        "id": "1207660623",
+        "title": "Red Faction",
+        "slug": "red_faction",
+        "thumb_id": "5f471e5cb59199254a41609ac279ca45f51d1dfeb0cd1e9ac5e69f7171dbb177",
+        "bg_id": "12db8df66958f27b29f6976e8a2e514f4e7c2aeca1b3a680933d4a9f5e79b259",
+        "url": "https://www.gog.com/game/red_faction",
+        "developer": "Volition",
+        "publisher": "THQ Nordic GmbH",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1709593616",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_red_faction_2.0.0.7.exe",
+                    "size": "856667368"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "red_faction_manual.zip",
+                    "size": "1327840"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E606D4BDEE",
+                            "link": "https://filecrypt.cc/Container/E606D4BDEE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/946469DFFE",
+                            "link": "https://filecrypt.cc/Container/946469DFFE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5DB4A1A5E8",
+                            "link": "https://filecrypt.cc/Container/5DB4A1A5E8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/34E9A78FB8",
+                            "link": "https://filecrypt.cc/Container/34E9A78FB8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/82BABE9A34",
+                            "link": "https://filecrypt.cc/Container/82BABE9A34"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/626ACD4453",
+                            "link": "https://filecrypt.cc/Container/626ACD4453"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

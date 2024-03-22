@@ -1,0 +1,72 @@
+{
+    "href": "/game/baldurs_gate_dark_alliance_ii",
+    "MSG": {
+        "id": "1745438757",
+        "title": "Baldur's Gate: Dark Alliance II",
+        "slug": "baldurs_gate_dark_alliance_ii",
+        "thumb_id": "09c4d39ba5434c529d0c8cce0a36c3cd4fbe70dfbbbcd49d513c2f5f3f23d2af",
+        "bg_id": "d46a9ed95b01065dd64ce4471f4362ada73a55ce3be16501dca6d8d5afe13b69",
+        "url": "https://www.gog.com/en/game/baldurs_gate_dark_alliance_ii",
+        "developer": "Black Isle Studios",
+        "publisher": "Interplay Entertainment Corp.",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707939354",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_baldurs_gate_dark_alliance_ii_1.0.4.1_(64bit)_(58628)-1.bin",
+                    "size": "3608258399"
+                },
+                {
+                    "name": "setup_baldurs_gate_dark_alliance_ii_1.0.4.1_(64bit)_(58628).exe",
+                    "size": "922856"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/27DCAFF37D",
+                            "link": "https://filecrypt.cc/Container/27DCAFF37D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7754C72A95",
+                            "link": "https://filecrypt.cc/Container/7754C72A95"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A4E81508A2",
+                            "link": "https://filecrypt.cc/Container/A4E81508A2"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

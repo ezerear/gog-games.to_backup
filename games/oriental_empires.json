@@ -1,0 +1,98 @@
+{
+    "href": "/game/oriental_empires",
+    "MSG": {
+        "id": "1225157693",
+        "title": "Oriental Empires",
+        "slug": "oriental_empires",
+        "thumb_id": "2e85cf3892473d377aaf9c512798ed9c85a4c0775b0be74de0d5cfaaf0b0533e",
+        "bg_id": "d86d842d31a18e0af7a8e02aceb8b1662fd2058d1eb739fc20c0bf98a6ea1517",
+        "url": "https://www.gog.com/game/oriental_empires",
+        "developer": "Shining Pixel Studios",
+        "publisher": "Iceberg Interactive",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1705496963",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_genghis_1.0.1.16_(64bit)_(54796).exe",
+                    "size": "9808160"
+                },
+                {
+                    "name": "setup_oriental_empires_1.0.1.16_(64bit)_(54796).exe",
+                    "size": "971517464"
+                },
+                {
+                    "name": "setup_three_kingdoms_1.0.1.16_(64bit)_(54796).exe",
+                    "size": "9837032"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FB18A7B6B9",
+                            "link": "https://filecrypt.cc/Container/FB18A7B6B9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/44A7C3FCCC",
+                            "link": "https://filecrypt.cc/Container/44A7C3FCCC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/979C62F945",
+                            "link": "https://filecrypt.cc/Container/979C62F945"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/68A8E7B74D",
+                            "link": "https://filecrypt.cc/Container/68A8E7B74D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F5C935E29D",
+                            "link": "https://filecrypt.cc/Container/F5C935E29D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

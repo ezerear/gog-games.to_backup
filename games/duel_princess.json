@@ -1,0 +1,90 @@
+{
+    "href": "/game/duel_princess",
+    "MSG": {
+        "id": "1387622228",
+        "title": "Duel Princess",
+        "slug": "duel_princess",
+        "thumb_id": "23f4ecc163e51b25d2e43cfc333d6e5cf209afb20dfac621beece634c045ad9a",
+        "bg_id": "1ded003562f5f973bebb99c0c73154f11fa5604ba4c77acdf44811dd736be052",
+        "url": "https://www.gog.com/en/game/duel_princess",
+        "developer": "qureate",
+        "publisher": "qureate",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1706930792",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_duel_princess_1.0_(final)_(60317).exe",
+                    "size": "759077288"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3FCFAFE758",
+                            "link": "https://filecrypt.cc/Container/3FCFAFE758"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/21BCE5D80D",
+                            "link": "https://filecrypt.cc/Container/21BCE5D80D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9FCD602998",
+                            "link": "https://filecrypt.cc/Container/9FCD602998"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0DE3E6A2FC",
+                            "link": "https://filecrypt.cc/Container/0DE3E6A2FC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/20FFF49768",
+                            "link": "https://filecrypt.cc/Container/20FFF49768"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

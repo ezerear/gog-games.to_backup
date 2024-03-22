@@ -1,0 +1,111 @@
+{
+    "href": "/game/hidden_folks",
+    "MSG": {
+        "id": "1465282530",
+        "title": "Hidden Folks",
+        "slug": "hidden_folks",
+        "thumb_id": "55fd1f3f84223930cba4e91e58dcc72c6f885b1a4964829a241447dbdee55f26",
+        "bg_id": "4103f78122ab4ae630821ace4c29abc3c5326b950e9677a5e3234f33f04deb49",
+        "url": "https://www.gog.com/en/game/hidden_folks",
+        "developer": "Adriaan de Jongh, Sylvain Tegroeg",
+        "publisher": "Adriaan de Jongh",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710101880",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hidden_folks_2.1.4_(64bit)_(62318).exe",
+                    "size": "105899624"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "hidden_folks_mouth_sounds_pack_mp3.zip",
+                    "size": "10214112"
+                },
+                {
+                    "name": "hidden_folks_mouth_sounds_pack_wav.zip",
+                    "size": "18549279"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/05BD7F2E0C",
+                            "link": "https://filecrypt.cc/Container/05BD7F2E0C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/810DCBEF06",
+                            "link": "https://filecrypt.cc/Container/810DCBEF06"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E2459A4893",
+                            "link": "https://filecrypt.cc/Container/E2459A4893"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2EBA372EF0",
+                            "link": "https://filecrypt.cc/Container/2EBA372EF0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2FCBAF7169",
+                            "link": "https://filecrypt.cc/Container/2FCBAF7169"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BE084B364E",
+                            "link": "https://filecrypt.cc/Container/BE084B364E"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

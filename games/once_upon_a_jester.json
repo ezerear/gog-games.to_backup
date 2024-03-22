@@ -1,0 +1,96 @@
+{
+    "href": "/game/once_upon_a_jester",
+    "MSG": {
+        "id": "1974801979",
+        "title": "Once Upon a Jester",
+        "slug": "once_upon_a_jester",
+        "thumb_id": "c8083f54177e6886536be18e83ee7b19c8447eef0302b337f9098a212fbefb3e",
+        "bg_id": "64e42a95a01b1eebc51526c8ab5577fdaaee227abe6c3072c44bb28f0b157ca9",
+        "url": "https://www.gog.com/en/game/once_upon_a_jester",
+        "developer": "Bonte Avond",
+        "publisher": "Crunching Koalas",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709051863",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_once_upon_a_jester_1.1.2_(64bit)_(60394).exe",
+                    "size": "262194752"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "once_upon_a_jester_ost.zip",
+                    "size": "126596420"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/27EE77F329",
+                            "link": "https://filecrypt.cc/Container/27EE77F329"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F364A7D9F3",
+                            "link": "https://filecrypt.cc/Container/F364A7D9F3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5FB226ABA6",
+                            "link": "https://filecrypt.cc/Container/5FB226ABA6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E202F692D8",
+                            "link": "https://filecrypt.cc/Container/E202F692D8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/17A9AAAD6B",
+                            "link": "https://filecrypt.cc/Container/17A9AAAD6B"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

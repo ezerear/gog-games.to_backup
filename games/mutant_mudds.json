@@ -1,0 +1,115 @@
+{
+    "href": "/game/mutant_mudds",
+    "MSG": {
+        "id": "1207659085",
+        "title": "Mutant Mudds",
+        "slug": "mutant_mudds",
+        "thumb_id": "59c240bc71504c088a3d18bba63488aaa07f174a31f8fc870b0d5aed2366dff6",
+        "bg_id": "f6dcb525e50006258d940445525de3aada87ee7f3ed1b0f649a7bd2261d518e6",
+        "url": "https://web.archive.org/web/20121020045507/http://www.gog.com/en/gamecard/mutant_mudds",
+        "developer": "Renegade Kid",
+        "publisher": "Renegade Kid",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710104087",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_mutant_mudds_1.3.0.2527_(21303).exe",
+                    "size": "129129376"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "mutant_mudds_avatars.zip",
+                    "size": "168427"
+                },
+                {
+                    "name": "mutant_mudds_soundtrack.zip",
+                    "size": "49912395"
+                },
+                {
+                    "name": "mutant_mudds_wallpaper.zip",
+                    "size": "736965"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2D34BB37B5",
+                            "link": "https://filecrypt.cc/Container/2D34BB37B5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1F8472A927",
+                            "link": "https://filecrypt.cc/Container/1F8472A927"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/841B680E32",
+                            "link": "https://filecrypt.cc/Container/841B680E32"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0EA22889FD",
+                            "link": "https://filecrypt.cc/Container/0EA22889FD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E8F6E27F35",
+                            "link": "https://filecrypt.cc/Container/E8F6E27F35"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DC92D97962",
+                            "link": "https://filecrypt.cc/Container/DC92D97962"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

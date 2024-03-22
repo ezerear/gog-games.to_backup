@@ -1,0 +1,123 @@
+{
+    "href": "/game/oddworld_abes_exoddus",
+    "MSG": {
+        "id": "1207658709",
+        "title": "Oddworld: Abe's Exoddus",
+        "slug": "oddworld_abes_exoddus",
+        "thumb_id": "0c2de60e953bb9683d82dafc8a27be6a913fba901e6f985af45fbe9a569659f6",
+        "bg_id": "e8dea59b1aef66a5a253bb2739e5e389ecbfbc73b8b53d868581e17c9ada5a91",
+        "url": "https://www.gog.com/game/oddworld_abes_exoddus",
+        "developer": "Oddworld Inhabitants",
+        "publisher": "Oddworld Inhabitants",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709693489",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_abes_exoddus_1.0_(19118).exe",
+                    "size": "635769496"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "oddworld_abes_exoddus_manual.zip",
+                    "size": "5008845"
+                },
+                {
+                    "name": "oddworld_abes_exoddus_wallpapers.zip",
+                    "size": "15324306"
+                },
+                {
+                    "name": "oddworld_abes_map.zip",
+                    "size": "14827581"
+                },
+                {
+                    "name": "oddworld_abes_serie_avatars.zip",
+                    "size": "311702"
+                },
+                {
+                    "name": "oddworld_abes_serie_wallpapers_pack.zip",
+                    "size": "105168604"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/71B37DF221",
+                            "link": "https://filecrypt.cc/Container/71B37DF221"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/952749117D",
+                            "link": "https://filecrypt.cc/Container/952749117D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D17621872F",
+                            "link": "https://filecrypt.cc/Container/D17621872F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1301DB07AA",
+                            "link": "https://filecrypt.cc/Container/1301DB07AA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6D1B8E677D",
+                            "link": "https://filecrypt.cc/Container/6D1B8E677D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/83D3C0AA24",
+                            "link": "https://filecrypt.cc/Container/83D3C0AA24"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

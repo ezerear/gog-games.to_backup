@@ -1,0 +1,72 @@
+{
+    "href": "/game/tomb_raider_i_to_iii_remastered",
+    "MSG": {
+        "id": "1407750955",
+        "title": "Tomb Raider I-III Remastered Starring Lara Croft",
+        "slug": "tomb_raider_i_to_iii_remastered",
+        "thumb_id": "b9cd9d9552ef18b5f3ee87a9dd0617fc596204e693225b0bbf6dee8dc5a2c593",
+        "bg_id": "c44c849a3dbb91f474a48c67acf3f82af234e2c5c615ee7a7185a2158303abbc",
+        "url": "https://www.gog.com/en/game/tomb_raider_i_to_iii_remastered",
+        "developer": "Aspyr, Crystal Dynamics",
+        "publisher": "Aspyr",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710524519",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tomb_raider_i-iii_remastered_1.01-savefix2_(71193)-1.bin",
+                    "size": "4038146557"
+                },
+                {
+                    "name": "setup_tomb_raider_i-iii_remastered_1.01-savefix2_(71193).exe",
+                    "size": "2315416"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B6340F3903",
+                            "link": "https://filecrypt.cc/Container/B6340F3903"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/30747E3E52",
+                            "link": "https://filecrypt.cc/Container/30747E3E52"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EE78A06B08",
+                            "link": "https://filecrypt.cc/Container/EE78A06B08"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

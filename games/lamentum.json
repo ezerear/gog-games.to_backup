@@ -1,0 +1,115 @@
+{
+    "href": "/game/lamentum",
+    "MSG": {
+        "id": "1191533557",
+        "title": "Lamentum",
+        "slug": "lamentum",
+        "thumb_id": "705172114f0b2b7dcd0bd1cef78e995dad791a4bb9ef14c924a6ffb37029da0b",
+        "bg_id": "edb9592ba6cfe9c9c8d8928d03225cf16f66cc142754ff72da9b766229672bf4",
+        "url": "https://www.gog.com/en/game/lamentum",
+        "developer": "Obscure Tales",
+        "publisher": "Neon Doctrine",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708722835",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_lamentum_1.0.5_update_gog_(69853).exe",
+                    "size": "158797456"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "lamentum_digital_artbook.zip",
+                    "size": "23051945"
+                },
+                {
+                    "name": "lamentum_ost_mp3.zip",
+                    "size": "70807466"
+                },
+                {
+                    "name": "lamentum_ost_wav.zip",
+                    "size": "449184137"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B9B3556830",
+                            "link": "https://filecrypt.cc/Container/B9B3556830"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7B282E5906",
+                            "link": "https://filecrypt.cc/Container/7B282E5906"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7164133D9C",
+                            "link": "https://filecrypt.cc/Container/7164133D9C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/08E60D3518",
+                            "link": "https://filecrypt.cc/Container/08E60D3518"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8B01E83666",
+                            "link": "https://filecrypt.cc/Container/8B01E83666"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CB888B00D3",
+                            "link": "https://filecrypt.cc/Container/CB888B00D3"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

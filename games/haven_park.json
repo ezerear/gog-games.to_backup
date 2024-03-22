@@ -1,0 +1,68 @@
+{
+    "href": "/game/haven_park",
+    "MSG": {
+        "id": "1906330252",
+        "title": "Haven Park",
+        "slug": "haven_park",
+        "thumb_id": "99133fab4338c7d3d164a5af2d5d5c844d40c0f65058022d294522d64ef86873",
+        "bg_id": "c0aec63900262d29febee7f259f642d36f6370be3e0a39464887c64b4a6908db",
+        "url": "https://www.gog.com/game/haven_park",
+        "developer": "Fabien Weibel",
+        "publisher": "Fabien Weibel, Mooneye Studios",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710647735",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_haven_park_1.2.3_(61844).exe",
+                    "size": "215434064"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3BC107B786",
+                            "link": "https://filecrypt.cc/Container/3BC107B786"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C4897785EC",
+                            "link": "https://filecrypt.cc/Container/C4897785EC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9E0FB9DA75",
+                            "link": "https://filecrypt.cc/Container/9E0FB9DA75"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,115 @@
+{
+    "href": "/game/megabyte_punch",
+    "MSG": {
+        "id": "1207659583",
+        "title": "Megabyte Punch",
+        "slug": "megabyte_punch",
+        "thumb_id": "3564ce50ff239bf35bb5ea9219a02408f6e05aa17f24be92d363638af63d65fd",
+        "bg_id": "7a4057bde2367c2c6c4168c20c374286adcdd452e5c44d6fca0587001b791abc",
+        "url": "https://www.gog.com/game/megabyte_punch",
+        "developer": "Reptile Games",
+        "publisher": "Reptile Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1690672761",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_megabyte_punch_1.12_(21180).exe",
+                    "size": "155277016"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "megabyte_punch_avatars.zip",
+                    "size": "887466"
+                },
+                {
+                    "name": "megabyte_punch_soundtrack.zip",
+                    "size": "31195229"
+                },
+                {
+                    "name": "megabyte_punch_wallpapers.zip",
+                    "size": "2324062"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6DF1850772",
+                            "link": "https://filecrypt.cc/Container/6DF1850772"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C0B48BB3C6",
+                            "link": "https://filecrypt.cc/Container/C0B48BB3C6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5CC9DF900F",
+                            "link": "https://filecrypt.cc/Container/5CC9DF900F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3089D4DC60",
+                            "link": "https://filecrypt.cc/Container/3089D4DC60"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EDB2139814",
+                            "link": "https://filecrypt.cc/Container/EDB2139814"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/39307AB740",
+                            "link": "https://filecrypt.cc/Container/39307AB740"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

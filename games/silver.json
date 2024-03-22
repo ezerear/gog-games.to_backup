@@ -1,0 +1,131 @@
+{
+    "href": "/game/silver",
+    "MSG": {
+        "id": "1207659041",
+        "title": "Silver",
+        "slug": "silver",
+        "thumb_id": "1bc8406b54f919272a049b1b1cdc6065bc33319653a718c94cfcc01125f6b422",
+        "bg_id": "36037bf5a8e094e5467f72da93ec46af2f095589a1bcef516f9669b454cd65fd",
+        "url": "https://www.gog.com/game/silver",
+        "developer": "Infogrames Europe SA",
+        "publisher": "THQ Nordic GmbH",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709647653",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_silver_1.23_(22789)-1.bin",
+                    "size": "1395421698"
+                },
+                {
+                    "name": "setup_silver_1.23_(22789).exe",
+                    "size": "2061648"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "silver_artworks.zip",
+                    "size": "1712723"
+                },
+                {
+                    "name": "silver_avatars.zip",
+                    "size": "62863"
+                },
+                {
+                    "name": "silver_handbuch.zip",
+                    "size": "1131283"
+                },
+                {
+                    "name": "silver_manual.zip",
+                    "size": "1295144"
+                },
+                {
+                    "name": "silver_manual_italian.zip",
+                    "size": "1371246"
+                },
+                {
+                    "name": "silver_soundtrack_mp3.zip",
+                    "size": "107412088"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6EDA0E54B0",
+                            "link": "https://filecrypt.cc/Container/6EDA0E54B0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/402EC56C22",
+                            "link": "https://filecrypt.cc/Container/402EC56C22"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CDAE1563FC",
+                            "link": "https://filecrypt.cc/Container/CDAE1563FC"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/94CF0A1FC6",
+                            "link": "https://filecrypt.cc/Container/94CF0A1FC6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4F2FB07E9E",
+                            "link": "https://filecrypt.cc/Container/4F2FB07E9E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/455E0C5F45",
+                            "link": "https://filecrypt.cc/Container/455E0C5F45"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

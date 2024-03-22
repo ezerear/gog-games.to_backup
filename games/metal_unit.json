@@ -1,0 +1,107 @@
+{
+    "href": "/game/metal_unit",
+    "MSG": {
+        "id": "1318399548",
+        "title": "Metal Unit",
+        "slug": "metal_unit",
+        "thumb_id": "d2844114014c77ae1aabf5a1584b6538806b5a547f107a4e975d55bec9ac8884",
+        "bg_id": "8011b166d8b2720711f18acc99e3408100a53f56cb28440096cb471e3dd20499",
+        "url": "https://www.gog.com/en/game/metal_unit",
+        "developer": "JellySnow Studio",
+        "publisher": "NEOWIZ",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710737293",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_metal_unit_010309_(71486).exe",
+                    "size": "504396040"
+                }
+            ],
+            "PATCHES": [
+                {
+                    "name": "patch_metal_unit_12498717_(68460)_to_010309_(71486).exe",
+                    "size": "4583304"
+                }
+            ],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DF58ED40EE",
+                            "link": "https://filecrypt.cc/Container/DF58ED40EE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4353E8BD14",
+                            "link": "https://filecrypt.cc/Container/4353E8BD14"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/806CCB4C28",
+                            "link": "https://filecrypt.cc/Container/806CCB4C28"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9D7982F411",
+                            "link": "https://filecrypt.cc/Container/9D7982F411"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/38C8735E59",
+                            "link": "https://filecrypt.cc/Container/38C8735E59"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DC016BE622",
+                            "link": "https://filecrypt.cc/Container/DC016BE622"
+                        }
+                    ]
+                }
+            ],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

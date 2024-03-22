@@ -1,0 +1,79 @@
+{
+    "href": "/game/gemcraft_frostborn_wrath",
+    "MSG": {
+        "id": "1188933438",
+        "title": "GemCraft - Frostborn Wrath",
+        "slug": "gemcraft_frostborn_wrath",
+        "thumb_id": "354c59fc8371b44ea3be1b93c595ff93f70c0a11ad8a8e757216d049432918ad",
+        "bg_id": "35b6e88a72f137e4613f9d628719d2034118e1fe5bea54724eabe443fedadccd",
+        "url": "https://www.gog.com/game/gemcraft_frostborn_wrath",
+        "developer": "Game in a Bottle",
+        "publisher": "Game in a Bottle",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707919273",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_gemcraft_-_frostborn_wrath_v.1.2.1a_(45694).exe",
+                    "size": "188654160"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/37648419DB",
+                            "link": "https://filecrypt.cc/Container/37648419DB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/560FE18807",
+                            "link": "https://filecrypt.cc/Container/560FE18807"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B82CFB37FA",
+                            "link": "https://filecrypt.cc/Container/B82CFB37FA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E16A5DDB68",
+                            "link": "https://filecrypt.cc/Container/E16A5DDB68"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

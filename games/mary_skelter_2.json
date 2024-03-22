@@ -1,0 +1,80 @@
+{
+    "href": "/game/mary_skelter_2",
+    "MSG": {
+        "id": "1994849124",
+        "title": "Mary Skelter 2",
+        "slug": "mary_skelter_2",
+        "thumb_id": "749c00855afed31f0e86130b141fac2cfddade6579f63c7cfcbff84d25874d8d",
+        "bg_id": "c2a5ca74cb98634479f3d550922f4211d0213894aedc5220595fcb552c9580da",
+        "url": "https://www.gog.com/game/mary_skelter_2",
+        "developer": "Idea Factory",
+        "publisher": "Ghostlight LTD",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1707077420",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_mary_skelter_2_v1.05_(64bit)_(53388)-1.bin",
+                    "size": "4294069758"
+                },
+                {
+                    "name": "setup_mary_skelter_2_v1.05_(64bit)_(53388)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_mary_skelter_2_v1.05_(64bit)_(53388)-3.bin",
+                    "size": "220329547"
+                },
+                {
+                    "name": "setup_mary_skelter_2_v1.05_(64bit)_(53388).exe",
+                    "size": "903672"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0FAB6477F5",
+                            "link": "https://filecrypt.cc/Container/0FAB6477F5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6958EE8965",
+                            "link": "https://filecrypt.cc/Container/6958EE8965"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1CD9BFF2E1",
+                            "link": "https://filecrypt.cc/Container/1CD9BFF2E1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

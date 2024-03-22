@@ -1,0 +1,90 @@
+{
+    "href": "/game/rusty_lake_paradise",
+    "MSG": {
+        "id": "1935427813",
+        "title": "Rusty Lake Paradise",
+        "slug": "rusty_lake_paradise",
+        "thumb_id": "fbf1c2cc2d2158242d48edbaa5e96c9baa50cba50aac729aa509ec11b025b139",
+        "bg_id": "c23b470fd12fe152eabe37d0b15894e62bc966916f14c084929be58a1e8a767c",
+        "url": "https://www.gog.com/game/rusty_lake_paradise",
+        "developer": "Rusty Lake",
+        "publisher": "Rusty Lake",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707898453",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_rusty_lake_paradise_gog-1_(30704).exe",
+                    "size": "106032000"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8E17FB75D5",
+                            "link": "https://filecrypt.cc/Container/8E17FB75D5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F1B031A61E",
+                            "link": "https://filecrypt.cc/Container/F1B031A61E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0B467F0E6F",
+                            "link": "https://filecrypt.cc/Container/0B467F0E6F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8937384FE6",
+                            "link": "https://filecrypt.cc/Container/8937384FE6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5EFD491036",
+                            "link": "https://filecrypt.cc/Container/5EFD491036"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

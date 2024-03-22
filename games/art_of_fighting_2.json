@@ -1,0 +1,68 @@
+{
+    "href": "/game/art_of_fighting_2",
+    "MSG": {
+        "id": "1429723205",
+        "title": "ART OF FIGHTING 2",
+        "slug": "art_of_fighting_2",
+        "thumb_id": "d5f6c4fd125be5bdfb6404b9d005d1505705da69f214d60fa3f927de14c79078",
+        "bg_id": "4d62a33499c49a369077dba417f6e96f7dceeec5c1fde7138125c4eb63a42881",
+        "url": "https://www.gog.com/game/art_of_fighting_2",
+        "developer": "SNK CORPORATION",
+        "publisher": "SNK CORPORATION",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1689579253",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_art_of_fighting_2_gog-1.0.2_(39149).exe",
+                    "size": "54046840"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/43CAE61CC9",
+                            "link": "https://filecrypt.cc/Container/43CAE61CC9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D0ED506C90",
+                            "link": "https://filecrypt.cc/Container/D0ED506C90"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4569184AF6",
+                            "link": "https://filecrypt.cc/Container/4569184AF6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

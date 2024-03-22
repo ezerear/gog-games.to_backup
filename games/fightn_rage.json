@@ -1,0 +1,68 @@
+{
+    "href": "/game/fightn_rage",
+    "MSG": {
+        "id": "1608965204",
+        "title": "Fight'N Rage",
+        "slug": "fightn_rage",
+        "thumb_id": "cbd57ecab2e2f97bdd011588fdb34958a6f7e1db7993c192a5e611a31aec1033",
+        "bg_id": "c47679861f8660c2371d091e5b10c51533382314ee7db2a1ca24eb37b1a6a5d0",
+        "url": "https://www.gog.com/game/fightn_rage",
+        "developer": "sebagamesdev",
+        "publisher": "sebagamesdev",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709325993",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_fightn_rage_build220120_(53068).exe",
+                    "size": "308021120"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/98DF9B8FA5",
+                            "link": "https://filecrypt.cc/Container/98DF9B8FA5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/339A214E46",
+                            "link": "https://filecrypt.cc/Container/339A214E46"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F1F372A2A7",
+                            "link": "https://filecrypt.cc/Container/F1F372A2A7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

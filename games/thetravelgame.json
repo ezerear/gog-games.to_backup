@@ -1,0 +1,79 @@
+{
+    "href": "/game/thetravelgame",
+    "MSG": {
+        "id": "2070911735",
+        "title": "TheTravelGame",
+        "slug": "thetravelgame",
+        "thumb_id": "5ef4513e00da614042e368068a17d798ee15131ec47593a0cedb259f9ee1bc36",
+        "bg_id": "83ffda1913ba70268a90f0266cff39c20100d889e19999fc637a395964259f4e",
+        "url": "https://www.gog.com/en/game/thetravelgame",
+        "developer": "Midori Games / みどりげーむず",
+        "publisher": "MediBang Inc.",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1703470611",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_thetravelgame_1.0_(66032).exe",
+                    "size": "170760560"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8F44A4A3F4",
+                            "link": "https://filecrypt.cc/Container/8F44A4A3F4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FB02F1F13B",
+                            "link": "https://filecrypt.cc/Container/FB02F1F13B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CAC73E04DA",
+                            "link": "https://filecrypt.cc/Container/CAC73E04DA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EB7EA7C8AA",
+                            "link": "https://filecrypt.cc/Container/EB7EA7C8AA"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

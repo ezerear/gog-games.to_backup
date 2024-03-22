@@ -1,0 +1,79 @@
+{
+    "href": "/game/peglin",
+    "MSG": {
+        "id": "1155924803",
+        "title": "Peglin",
+        "slug": "peglin",
+        "thumb_id": "fdf01f78241c797768772994737129f72aafdeb2ea573badaed4b689e6b5d8d7",
+        "bg_id": "3675e3c372b685b88154f41a137ed31db1b18cd1bfe5913e57ed472dd6f4d8b6",
+        "url": "https://www.gog.com/game/peglin",
+        "developer": "Red Nexus Games Inc.",
+        "publisher": "Red Nexus Games Inc., IndieArk",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1708304498",
+        "votes": "3",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_peglin_0.9.49_(71203).exe",
+                    "size": "129300512"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/Spb6es4",
+                            "link": "https://safelinking.net/Spb6es4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/5FX2mge",
+                            "link": "https://safelinking.net/5FX2mge"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/5zAXLXd",
+                            "link": "https://safelinking.net/5zAXLXd"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/Qyya8il",
+                            "link": "https://safelinking.net/Qyya8il"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

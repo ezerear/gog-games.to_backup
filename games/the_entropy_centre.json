@@ -1,0 +1,80 @@
+{
+    "href": "/game/the_entropy_centre",
+    "MSG": {
+        "id": "1684722905",
+        "title": "The Entropy Centre",
+        "slug": "the_entropy_centre",
+        "thumb_id": "d886839372eba51571728a014a5cb63e16882d0c150fb789a01ce0eacabb286d",
+        "bg_id": "6aca2259d7b9604ee5a1dde7be8568c1328e7f543b4deef21e46d810b8cfd5ac",
+        "url": "https://www.gog.com/en/game/the_entropy_centre",
+        "developer": "Stubby Games",
+        "publisher": "Playstack",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708654000",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_entropy_centre_v.1.1.3_(63516)-1.bin",
+                    "size": "4294048254"
+                },
+                {
+                    "name": "setup_the_entropy_centre_v.1.1.3_(63516)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_the_entropy_centre_v.1.1.3_(63516)-3.bin",
+                    "size": "3671402681"
+                },
+                {
+                    "name": "setup_the_entropy_centre_v.1.1.3_(63516).exe",
+                    "size": "929016"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2D854B4FAD",
+                            "link": "https://filecrypt.cc/Container/2D854B4FAD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6E5890FFED",
+                            "link": "https://filecrypt.cc/Container/6E5890FFED"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/55D908F04E",
+                            "link": "https://filecrypt.cc/Container/55D908F04E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

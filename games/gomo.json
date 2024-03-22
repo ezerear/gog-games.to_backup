@@ -1,0 +1,111 @@
+{
+    "href": "/game/gomo",
+    "MSG": {
+        "id": "1207660403",
+        "title": "Gomo",
+        "slug": "gomo",
+        "thumb_id": "17b6a65103a2fe76c133082b05f7c059c24b5a64edda26c88e30b27b72d7b0f6",
+        "bg_id": "4e3ec22ba63c44e0247518dd806cfcd0eb82cbd1ef81f609b75c175c94ff16c4",
+        "url": "https://www.gog.com/game/gomo",
+        "developer": "Fishcow Studio",
+        "publisher": "Daedalic Entertainment",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709958444",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_gomo_1.0_(20774).exe",
+                    "size": "271802960"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "gomo_avatars.zip",
+                    "size": "174916"
+                },
+                {
+                    "name": "gomo_wallpaper.zip",
+                    "size": "607531"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0BEA90B46B",
+                            "link": "https://filecrypt.cc/Container/0BEA90B46B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B86E358A19",
+                            "link": "https://filecrypt.cc/Container/B86E358A19"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FBB5B136A4",
+                            "link": "https://filecrypt.cc/Container/FBB5B136A4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/554F60AFE6",
+                            "link": "https://filecrypt.cc/Container/554F60AFE6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4B816805B4",
+                            "link": "https://filecrypt.cc/Container/4B816805B4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/57EA9A46D5",
+                            "link": "https://filecrypt.cc/Container/57EA9A46D5"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

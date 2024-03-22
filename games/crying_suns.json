@@ -1,0 +1,115 @@
+{
+    "href": "/game/crying_suns",
+    "MSG": {
+        "id": "2011839355",
+        "title": "Crying Suns",
+        "slug": "crying_suns",
+        "thumb_id": "0749270fb8b716edc788ed6fe6820de2fd8adf0b7f4b318066c308134c33e307",
+        "bg_id": "adf0075cf90cc902027d72fd33b448d6c54a67844960ae52eaae8ed91a310996",
+        "url": "https://www.gog.com/game/crying_suns",
+        "developer": "Alt Shift",
+        "publisher": "Humble Bundle",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710625905",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_crying_suns_3.0.1_normal_win32.142_win64.144_gog_(64bit)_(65312).exe",
+                    "size": "472830344"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "CryingSuns_OST_FLAC.zip",
+                    "size": "686325324"
+                },
+                {
+                    "name": "crying_suns_digital_artbook.zip",
+                    "size": "37689677"
+                },
+                {
+                    "name": "crying_suns_original_soundtrack_mp3.zip",
+                    "size": "139321489"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A6A3360AAC",
+                            "link": "https://filecrypt.cc/Container/A6A3360AAC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/78642F5BA4",
+                            "link": "https://filecrypt.cc/Container/78642F5BA4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CCA394CB1D",
+                            "link": "https://filecrypt.cc/Container/CCA394CB1D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F3F72EEFA8",
+                            "link": "https://filecrypt.cc/Container/F3F72EEFA8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/72325F5A11",
+                            "link": "https://filecrypt.cc/Container/72325F5A11"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9AF734F9ED",
+                            "link": "https://filecrypt.cc/Container/9AF734F9ED"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,79 @@
+{
+    "href": "/game/evertried",
+    "MSG": {
+        "id": "1981657503",
+        "title": "Evertried",
+        "slug": "evertried",
+        "thumb_id": "d2c30245669fc821637b646b8f289cd90e1218928162d84200c6c16ca6d0fd2c",
+        "bg_id": "5a1e7d849d4d9bebaa6bf429216d745bbd6fc219a64090d9fd59a74c556b094b",
+        "url": "https://www.gog.com/game/evertried",
+        "developer": "Lunic Games / Danilo Domingues",
+        "publisher": "DANGEN Entertainment",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708197883",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_evertried_1.0_(50674).exe",
+                    "size": "200116544"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1BF741C617",
+                            "link": "https://filecrypt.cc/Container/1BF741C617"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F6C97BE349",
+                            "link": "https://filecrypt.cc/Container/F6C97BE349"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AA6E2B7A15",
+                            "link": "https://filecrypt.cc/Container/AA6E2B7A15"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5DC252696E",
+                            "link": "https://filecrypt.cc/Container/5DC252696E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,84 @@
+{
+    "href": "/game/scarlet_hollow",
+    "MSG": {
+        "id": "1821656089",
+        "title": "Scarlet Hollow",
+        "slug": "scarlet_hollow",
+        "thumb_id": "328fe043bdd64aae5e2975849c5a9e778afbc38b31e738114fc686b8c7cfc6f9",
+        "bg_id": "b901fa2dab644416df3ab207f90d9cc295dd8090efe4c48cd38420fa62856a85",
+        "url": "https://www.gog.com/en/game/scarlet_hollow",
+        "developer": "Black Tabby Games",
+        "publisher": "Black Tabby Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709225560",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_scarlet_hollow_scarlet_hollow_episode_4_1.2d_windows_(64bit)_(65755)-1.bin",
+                    "size": "4005382360"
+                },
+                {
+                    "name": "setup_scarlet_hollow_scarlet_hollow_episode_4_1.2d_windows_(64bit)_(65755).exe",
+                    "size": "1882464"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/366C116580",
+                            "link": "https://filecrypt.cc/Container/366C116580"
+                        },
+                        {
+                            "name": "https://filecrypt.cc/Container/F7B117FEF3",
+                            "link": "https://filecrypt.cc/Container/F7B117FEF3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1C1285D8EC",
+                            "link": "https://filecrypt.cc/Container/1C1285D8EC"
+                        },
+                        {
+                            "name": "https://filecrypt.cc/Container/76C39C3A16",
+                            "link": "https://filecrypt.cc/Container/76C39C3A16"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/29482CB1ED",
+                            "link": "https://filecrypt.cc/Container/29482CB1ED"
+                        },
+                        {
+                            "name": "https://filecrypt.cc/Container/AD6EC59C1C",
+                            "link": "https://filecrypt.cc/Container/AD6EC59C1C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

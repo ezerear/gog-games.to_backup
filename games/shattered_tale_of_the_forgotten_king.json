@@ -1,0 +1,80 @@
+{
+    "href": "/game/shattered_tale_of_the_forgotten_king",
+    "MSG": {
+        "id": "1402489296",
+        "title": "Shattered - Tale of the Forgotten King",
+        "slug": "shattered_tale_of_the_forgotten_king",
+        "thumb_id": "463071bd0db54b48c017ec5f5cd9bb1507c214ceafbfd7d4ea5d338e41b3c8fe",
+        "bg_id": "a2d8e6b60d364a45f92480a48499dbdbd67f6decd9ad7fb4c7084087a7f40cd1",
+        "url": "https://www.gog.com/game/shattered_tale_of_the_forgotten_king",
+        "developer": "Redlock Studio",
+        "publisher": "Redlock Studio",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708403404",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_shattered_-_tale_of_the_forgotten_king_1.3.00_(64bit)_(48470)-1.bin",
+                    "size": "4294024702"
+                },
+                {
+                    "name": "setup_shattered_-_tale_of_the_forgotten_king_1.3.00_(64bit)_(48470)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_shattered_-_tale_of_the_forgotten_king_1.3.00_(64bit)_(48470)-3.bin",
+                    "size": "3567373909"
+                },
+                {
+                    "name": "setup_shattered_-_tale_of_the_forgotten_king_1.3.00_(64bit)_(48470).exe",
+                    "size": "949024"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/JLtmPXd",
+                            "link": "https://safelinking.net/JLtmPXd"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/4J585aj",
+                            "link": "https://safelinking.net/4J585aj"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/MhFeBap",
+                            "link": "https://safelinking.net/MhFeBap"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

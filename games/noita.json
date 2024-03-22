@@ -1,0 +1,139 @@
+{
+    "href": "/game/noita",
+    "MSG": {
+        "id": "1310457090",
+        "title": "Noita",
+        "slug": "noita",
+        "thumb_id": "6c338ef56010d630fa2151626899534916845b6ca74240779fd24f87f18df8d5",
+        "bg_id": "fe7e925a64a43954f5518e8a1f11e6074cd86bb80713659dfbb99771dc3410d5",
+        "url": "https://www.gog.com/game/noita",
+        "developer": "Nolla Games",
+        "publisher": "Nolla Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710853832",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_noita_20240214-_812_(71243).exe",
+                    "size": "1335221048"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "noita_ost_flac.zip",
+                    "size": "1089491273"
+                },
+                {
+                    "name": "noita_ost_mp3.zip",
+                    "size": "196468542"
+                },
+                {
+                    "name": "noita_ost_vol2_flac.zip",
+                    "size": "703582353"
+                },
+                {
+                    "name": "noita_ost_vol2_mp3.zip",
+                    "size": "145695017"
+                },
+                {
+                    "name": "noita_ost_vol2_wav.zip",
+                    "size": "585623539"
+                },
+                {
+                    "name": "noita_ost_vol3_flac.zip",
+                    "size": "831756606"
+                },
+                {
+                    "name": "noita_ost_vol3_mp3.zip",
+                    "size": "171598869"
+                },
+                {
+                    "name": "noita_ost_vol3_wav.zip",
+                    "size": "692337627"
+                },
+                {
+                    "name": "noita_ost_wav.zip",
+                    "size": "1468625633"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/169CFCD76B",
+                            "link": "https://filecrypt.cc/Container/169CFCD76B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/28980FF5B2",
+                            "link": "https://filecrypt.cc/Container/28980FF5B2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FEC19112B6",
+                            "link": "https://filecrypt.cc/Container/FEC19112B6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/544930738E",
+                            "link": "https://filecrypt.cc/Container/544930738E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A69475E859",
+                            "link": "https://filecrypt.cc/Container/A69475E859"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/98D95F8E26",
+                            "link": "https://filecrypt.cc/Container/98D95F8E26"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

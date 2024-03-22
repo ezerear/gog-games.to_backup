@@ -1,0 +1,90 @@
+{
+    "href": "/game/xwing_cdrom_placeholder",
+    "MSG": {
+        "id": "1207667213",
+        "title": "STAR WARS®: X-Wing Collector's CD (1994)",
+        "slug": "xwing_cdrom_placeholder",
+        "thumb_id": "561db77486dda36259bd805ad7f00baf2ca6bbd086f72ee0f71e9beca9a2a2a6",
+        "bg_id": "eb18d6b259d83f008e213e0e2e448d32ab72d07f8c74d819b5de4a88a6220e98",
+        "url": "https://www.gog.com/game/star_wars_xwing_special_edition",
+        "developer": "Lucasfilm",
+        "publisher": "Disney",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1706077797",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_star_warstm_x-wing_collectors_cd_(1994)_1.0_(20412).exe",
+                    "size": "68335000"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6D3E1A145C",
+                            "link": "https://filecrypt.cc/Container/6D3E1A145C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/84045CEA6C",
+                            "link": "https://filecrypt.cc/Container/84045CEA6C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9DDA817CCB",
+                            "link": "https://filecrypt.cc/Container/9DDA817CCB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F45B65D1E6",
+                            "link": "https://filecrypt.cc/Container/F45B65D1E6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1F39B58D50",
+                            "link": "https://filecrypt.cc/Container/1F39B58D50"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

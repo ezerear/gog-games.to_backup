@@ -1,0 +1,127 @@
+{
+    "href": "/game/the_book_of_unwritten_tales",
+    "MSG": {
+        "id": "1207659081",
+        "title": "The Book of Unwritten Tales",
+        "slug": "the_book_of_unwritten_tales",
+        "thumb_id": "4b0224f6e27d0854f07c047f8630c4e7e6cc54e13e39b415adf8cfb77b0022c6",
+        "bg_id": "cb58ea78a79f19abdd286497903533c6fbf46bcbb6410fc013112c0a02f7af92",
+        "url": "https://www.gog.com/game/the_book_of_unwritten_tales",
+        "developer": "KING Art",
+        "publisher": "THQ Nordic GmbH",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710539054",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_book_of_unwritten_tales_2.0.0.4-1.bin",
+                    "size": "1564641664"
+                },
+                {
+                    "name": "setup_book_of_unwritten_tales_2.0.0.4-2.bin",
+                    "size": "1566000000"
+                },
+                {
+                    "name": "setup_book_of_unwritten_tales_2.0.0.4-3.bin",
+                    "size": "844636789"
+                },
+                {
+                    "name": "setup_book_of_unwritten_tales_2.0.0.4.exe",
+                    "size": "1366424"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "bout_artworks.zip",
+                    "size": "664741"
+                },
+                {
+                    "name": "bout_avatars.zip",
+                    "size": "78443"
+                },
+                {
+                    "name": "bout_wallpapers.zip",
+                    "size": "11181007"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/08F2E2E831",
+                            "link": "https://filecrypt.cc/Container/08F2E2E831"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/50A80A59C4",
+                            "link": "https://filecrypt.cc/Container/50A80A59C4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/37A55C326F",
+                            "link": "https://filecrypt.cc/Container/37A55C326F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7C5F923A9B",
+                            "link": "https://filecrypt.cc/Container/7C5F923A9B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BF0728314D",
+                            "link": "https://filecrypt.cc/Container/BF0728314D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/33CFBCEA62",
+                            "link": "https://filecrypt.cc/Container/33CFBCEA62"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/lazy_galaxy",
+    "MSG": {
+        "id": "1429822483",
+        "title": "Lazy Galaxy",
+        "slug": "lazy_galaxy",
+        "thumb_id": "0acdf5424472d50298b59dbd73dba04aaa23cc1c657f3614950ab6c28c81eae8",
+        "bg_id": "017f4022b6d148cb72bf990b771ce884712949b7260ac9763121997fe180dde8",
+        "url": "https://www.gog.com/en/game/lazy_galaxy",
+        "developer": "Coldwild Games",
+        "publisher": "Coldwild Games",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1709609048",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_lazy_galaxy_1.0.0_(70263).exe",
+                    "size": "53868632"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5FAC63A01A",
+                            "link": "https://filecrypt.cc/Container/5FAC63A01A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/81DCD2CB84",
+                            "link": "https://filecrypt.cc/Container/81DCD2CB84"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FB4E129BF7",
+                            "link": "https://filecrypt.cc/Container/FB4E129BF7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

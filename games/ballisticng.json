@@ -1,0 +1,88 @@
+{
+    "href": "/game/ballisticng",
+    "MSG": {
+        "id": "1544161518",
+        "title": "BallisticNG",
+        "slug": "ballisticng",
+        "thumb_id": "cde99e5287a3d06519afb0113f16a4526502baf1d4ace115ec064608afc96e48",
+        "bg_id": "04aace0972d0c61ce925f7b0c9d356c2d1c0032b5adba9a133b5523e0f0f9ad6",
+        "url": "https://www.gog.com/en/game/ballisticng",
+        "developer": "Neognosis",
+        "publisher": "Neognosis",
+        "category": "Racing",
+        "uploading": "0",
+        "last_upload": "1709522903",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_ballisticng_-_bling_pack_1.3.3_(64bit)_(69069).exe",
+                    "size": "5994776"
+                },
+                {
+                    "name": "setup_ballisticng_-_maceno_island_1.3.3_(64bit)_(69069).exe",
+                    "size": "131580232"
+                },
+                {
+                    "name": "setup_ballisticng_-_neon_nights_1.3.3_(64bit)_(69069).exe",
+                    "size": "94297032"
+                },
+                {
+                    "name": "setup_ballisticng_-_outer_reaches_1.3.3_(64bit)_(69069).exe",
+                    "size": "103324512"
+                },
+                {
+                    "name": "setup_ballisticng_1.3.3_(64bit)_(69069)-1.bin",
+                    "size": "1819069979"
+                },
+                {
+                    "name": "setup_ballisticng_1.3.3_(64bit)_(69069).exe",
+                    "size": "862232"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EE87AD37EC",
+                            "link": "https://filecrypt.cc/Container/EE87AD37EC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6E1AD3F928",
+                            "link": "https://filecrypt.cc/Container/6E1AD3F928"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5840EB4827",
+                            "link": "https://filecrypt.cc/Container/5840EB4827"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

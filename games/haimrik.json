@@ -1,0 +1,101 @@
+{
+    "href": "/game/haimrik",
+    "MSG": {
+        "id": "1421848741",
+        "title": "Haimrik",
+        "slug": "haimrik",
+        "thumb_id": "2f4f5e9fb7e16f059a31dcb9973bba13f8c262a7e013c2b8071b0ba6516e859f",
+        "bg_id": "2ab4ad9d9d8f93362fd7a3ed715c94fbde244f9b3f96d76ae1be06d11699c02e",
+        "url": "https://www.gog.com/game/haimrik",
+        "developer": "Below the Game",
+        "publisher": "1C Publishing",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1698575721",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_haimrik_gog-1_(21463).exe",
+                    "size": "393749424"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5D447E23F1",
+                            "link": "https://filecrypt.cc/Container/5D447E23F1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EC83CC3BAD",
+                            "link": "https://filecrypt.cc/Container/EC83CC3BAD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D563D65D6B",
+                            "link": "https://filecrypt.cc/Container/D563D65D6B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/85D2EE8D78",
+                            "link": "https://filecrypt.cc/Container/85D2EE8D78"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8C19DBF50A",
+                            "link": "https://filecrypt.cc/Container/8C19DBF50A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/391791FA48",
+                            "link": "https://filecrypt.cc/Container/391791FA48"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

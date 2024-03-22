@@ -1,0 +1,94 @@
+{
+    "href": "/game/tavernacle",
+    "MSG": {
+        "id": "1239029552",
+        "title": "Tavernacle!",
+        "slug": "tavernacle",
+        "thumb_id": "76cf8bf8e24b9e107f4d14614707ab1460b8fdf3e69dee4a354cb2cfbdb9d7c1",
+        "bg_id": "b7ad2c445f04981dde0ea92484d90e605953a22e871389fe34eae42bc4c49a5d",
+        "url": "https://www.gog.com/en/game/tavernacle",
+        "developer": "Dama Dama Games",
+        "publisher": "Freedom Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1696355450",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tavernacle_1.0.3_(64bit)_(67694)-1.bin",
+                    "size": "3333061994"
+                },
+                {
+                    "name": "setup_tavernacle_1.0.3_(64bit)_(67694).exe",
+                    "size": "1185688"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1780CAEB13",
+                            "link": "https://filecrypt.cc/Container/1780CAEB13"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/95A8FF9847",
+                            "link": "https://filecrypt.cc/Container/95A8FF9847"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AE3D5DC72C",
+                            "link": "https://filecrypt.cc/Container/AE3D5DC72C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/021F1393A0",
+                            "link": "https://filecrypt.cc/Container/021F1393A0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7A85BDCE04",
+                            "link": "https://filecrypt.cc/Container/7A85BDCE04"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,76 @@
+{
+    "href": "/game/hard_reset_redux",
+    "MSG": {
+        "id": "1459790972",
+        "title": "Hard Reset Redux",
+        "slug": "hard_reset_redux",
+        "thumb_id": "77d6fa785e54001b38a8a091b4c8821a78cbf14bb5f4ef575685a885b339ec87",
+        "bg_id": "8129d00e08e1fc2926d6794fcbadd1f1ec1a6f910e69155c3829b85ca350b21f",
+        "url": "https://www.gog.com/game/hard_reset_redux",
+        "developer": "Flying Wild Hog",
+        "publisher": "Good Shepherd Entertainment\t",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709747950",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hard_reset_redux_2.2.0.4-1.bin",
+                    "size": "4194304000"
+                },
+                {
+                    "name": "setup_hard_reset_redux_2.2.0.4-2.bin",
+                    "size": "1382977390"
+                },
+                {
+                    "name": "setup_hard_reset_redux_2.2.0.4.exe",
+                    "size": "34038152"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5E352DEE2B",
+                            "link": "https://filecrypt.cc/Container/5E352DEE2B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F05EEB435F",
+                            "link": "https://filecrypt.cc/Container/F05EEB435F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BC6F4CBA89",
+                            "link": "https://filecrypt.cc/Container/BC6F4CBA89"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

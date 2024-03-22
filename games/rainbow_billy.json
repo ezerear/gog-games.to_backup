@@ -1,0 +1,72 @@
+{
+    "href": "/game/rainbow_billy",
+    "MSG": {
+        "id": "2045714816",
+        "title": "Rainbow Billy: The Curse of the Leviathan",
+        "slug": "rainbow_billy",
+        "thumb_id": "4df6726122476194ac91ab0100b00913bd4a5c73117ff04952c84a7d7538ec43",
+        "bg_id": "34ad92ddfbb67e0cc2ffe1d5c365c12301f4b6361a087c403b65236a978192a1",
+        "url": "https://www.gog.com/en/game/rainbow_billy",
+        "developer": "ManaVoid Entertainment",
+        "publisher": "Skybound Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709188447",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_rainbow_billy_1.0_(54378)-1.bin",
+                    "size": "3663978303"
+                },
+                {
+                    "name": "setup_rainbow_billy_1.0_(54378).exe",
+                    "size": "952456"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3A71226B58",
+                            "link": "https://filecrypt.cc/Container/3A71226B58"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/34820C5EC3",
+                            "link": "https://filecrypt.cc/Container/34820C5EC3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4B404F860B",
+                            "link": "https://filecrypt.cc/Container/4B404F860B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

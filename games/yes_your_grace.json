@@ -1,0 +1,111 @@
+{
+    "href": "/game/yes_your_grace",
+    "MSG": {
+        "id": "1482195316",
+        "title": "Yes, Your Grace",
+        "slug": "yes_your_grace",
+        "thumb_id": "bab4a81990fe34578071214b481a718c25204e538a8cb2cfc715f95759e9928f",
+        "bg_id": "24e2bde1cc4b8cfa06790ab2929cbce80d9aa19730b21813cdcd27d58cbd8c81",
+        "url": "https://www.gog.com/game/yes_your_grace",
+        "developer": "Brave At Night",
+        "publisher": "No More Robots",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709163860",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_yes_your_grace_v1.0.19_(47557).exe",
+                    "size": "369201880"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "yes_your_grace_soundtrack_mp3.zip",
+                    "size": "114461539"
+                },
+                {
+                    "name": "yes_your_grace_soundtrack_wav.zip",
+                    "size": "625281823"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DF45C991C5",
+                            "link": "https://filecrypt.cc/Container/DF45C991C5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EF0B54BA00",
+                            "link": "https://filecrypt.cc/Container/EF0B54BA00"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E4793C5FF2",
+                            "link": "https://filecrypt.cc/Container/E4793C5FF2"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/55296F4404",
+                            "link": "https://filecrypt.cc/Container/55296F4404"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CBC98DAAFA",
+                            "link": "https://filecrypt.cc/Container/CBC98DAAFA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FEE1D9F075",
+                            "link": "https://filecrypt.cc/Container/FEE1D9F075"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

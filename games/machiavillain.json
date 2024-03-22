@@ -1,0 +1,79 @@
+{
+    "href": "/game/machiavillain",
+    "MSG": {
+        "id": "1455998221",
+        "title": "MachiaVillain",
+        "slug": "machiavillain",
+        "thumb_id": "e5ac2d6b0d6023bc85070d3fe64557ace4f91177e05109d0d71a76659ed44cb3",
+        "bg_id": "d4840bcbb5b42e2302176412508971b11ade7c9343982df01e5b5c35eadf630a",
+        "url": "https://www.gog.com/game/machiavillain",
+        "developer": "Wild Factor",
+        "publisher": "Good Shepherd Entertainment\t",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1705662798",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_machiavillain_2.6_(64bit)_(38507).exe",
+                    "size": "446314096"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7846F8B035",
+                            "link": "https://filecrypt.cc/Container/7846F8B035"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B00AF96DEA",
+                            "link": "https://filecrypt.cc/Container/B00AF96DEA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/432F7F0A7C",
+                            "link": "https://filecrypt.cc/Container/432F7F0A7C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/17DBDBCE0E",
+                            "link": "https://filecrypt.cc/Container/17DBDBCE0E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

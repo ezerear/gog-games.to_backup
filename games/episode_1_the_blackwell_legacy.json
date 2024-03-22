@@ -1,0 +1,123 @@
+{
+    "href": "/game/episode_1_the_blackwell_legacy",
+    "MSG": {
+        "id": "1207662883",
+        "title": "Blackwell Legacy",
+        "slug": "episode_1_the_blackwell_legacy",
+        "thumb_id": "1e5ae3df75c117c573bc993c3cfc098ac0c78151144fa504969ff1c8c9a6cfc5",
+        "bg_id": "12f6d9903351c201c13bf6fe2e1ebe6303c5ba0c5f6fe50ef7f1539330d24c7c",
+        "url": "https://www.gog.com/game/blackwell_bundle",
+        "developer": "Wadjet Eye Games",
+        "publisher": "Wadjet Eye Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710373917",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_blackwell_legacy_3.5_(71785).exe",
+                    "size": "221909864"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "blackwell_artworks.zip",
+                    "size": "1329647"
+                },
+                {
+                    "name": "blackwell_avatars.zip",
+                    "size": "378685"
+                },
+                {
+                    "name": "blackwell_posters.zip",
+                    "size": "8648807"
+                },
+                {
+                    "name": "blackwell_soundtracks.zip",
+                    "size": "137017130"
+                },
+                {
+                    "name": "blackwell_wallpapers.zip",
+                    "size": "7569576"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/13E580FE17",
+                            "link": "https://filecrypt.cc/Container/13E580FE17"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1AF4FBE912",
+                            "link": "https://filecrypt.cc/Container/1AF4FBE912"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5F858F9F0A",
+                            "link": "https://filecrypt.cc/Container/5F858F9F0A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E317691348",
+                            "link": "https://filecrypt.cc/Container/E317691348"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6DE5D53A12",
+                            "link": "https://filecrypt.cc/Container/6DE5D53A12"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BB1F97E5F3",
+                            "link": "https://filecrypt.cc/Container/BB1F97E5F3"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

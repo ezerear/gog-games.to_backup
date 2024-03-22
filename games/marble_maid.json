@@ -1,0 +1,68 @@
+{
+    "href": "/game/marble_maid",
+    "MSG": {
+        "id": "1810402117",
+        "title": "Marble Maid",
+        "slug": "marble_maid",
+        "thumb_id": "b95e04988a456982ca2ec029b8668e56f280e278fc812c4470fbcb88650ad701",
+        "bg_id": "713b98cc4b414b1644f257fcf42012e9c8e0f11be18e7cf830ba90a776c3c386",
+        "url": "https://www.gog.com/en/game/marble_maid",
+        "developer": "Shady Corner Games",
+        "publisher": "Shady Corner Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710411127",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_marble_maid_1.2_(67281).exe",
+                    "size": "199959904"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B49DAF3FE9",
+                            "link": "https://filecrypt.cc/Container/B49DAF3FE9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/900964AA4B",
+                            "link": "https://filecrypt.cc/Container/900964AA4B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8C22644FE6",
+                            "link": "https://filecrypt.cc/Container/8C22644FE6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

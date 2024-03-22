@@ -1,0 +1,127 @@
+{
+    "href": "/game/haven",
+    "MSG": {
+        "id": "1113297025",
+        "title": "Haven",
+        "slug": "haven",
+        "thumb_id": "23e70b64efa88c23ca2fc7d02110a4a98ff8f67861d765dcc829c817d155fe34",
+        "bg_id": "2f7d5c39e90a4333e856286d83ba8aedc36088911a9f55691927f6e53e10663b",
+        "url": "https://www.gog.com/game/haven",
+        "developer": "The Game Bakers",
+        "publisher": "The Game Bakers",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1708006858",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_haven_soundtrack_v1.1.302_official_(64bit)_(54386).exe",
+                    "size": "6472216"
+                },
+                {
+                    "name": "setup_haven_v1.1.302_official_(64bit)_(54386)-1.bin",
+                    "size": "4290367486"
+                },
+                {
+                    "name": "setup_haven_v1.1.302_official_(64bit)_(54386)-2.bin",
+                    "size": "899162742"
+                },
+                {
+                    "name": "setup_haven_v1.1.302_official_(64bit)_(54386).exe",
+                    "size": "4607624"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "442_-_still_free.zip",
+                    "size": "8040891"
+                },
+                {
+                    "name": "haven_original_soundtrack_flac.zip",
+                    "size": "1145880825"
+                },
+                {
+                    "name": "haven_original_soundtrack_mp3.zip",
+                    "size": "219137580"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/37097A8DB8",
+                            "link": "https://filecrypt.cc/Container/37097A8DB8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6E07EF6CAA",
+                            "link": "https://filecrypt.cc/Container/6E07EF6CAA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AD1D245BFE",
+                            "link": "https://filecrypt.cc/Container/AD1D245BFE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5B1AD800A0",
+                            "link": "https://filecrypt.cc/Container/5B1AD800A0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5B8F75383C",
+                            "link": "https://filecrypt.cc/Container/5B8F75383C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/18BC757020",
+                            "link": "https://filecrypt.cc/Container/18BC757020"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

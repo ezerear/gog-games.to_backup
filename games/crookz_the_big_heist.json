@@ -1,0 +1,83 @@
+{
+    "href": "/game/crookz_the_big_heist",
+    "MSG": {
+        "id": "1436885539",
+        "title": "Crookz - The Big Heist",
+        "slug": "crookz_the_big_heist",
+        "thumb_id": "bb61ab1dc869f07956d395f5e3ac2b180eb1c6506a22a204601df03fd327c5e4",
+        "bg_id": "8202b1f129ba8e53ccd64b075b1a8fc0a26be600eeb07da395ee1b15882d5f8a",
+        "url": "https://www.gog.com/game/crookz_the_big_heist",
+        "developer": "Skilltree Studios",
+        "publisher": "Kalypso Media Digital",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1683712315",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_crookz_1.0.0.24360_(16766)-1.bin",
+                    "size": "3656339485"
+                },
+                {
+                    "name": "setup_crookz_1.0.0.24360_(16766).exe",
+                    "size": "829936"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/998E6A2752",
+                            "link": "https://filecrypt.cc/Container/998E6A2752"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B1C660A228",
+                            "link": "https://filecrypt.cc/Container/B1C660A228"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/93379F0FFA",
+                            "link": "https://filecrypt.cc/Container/93379F0FFA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3179F834EE",
+                            "link": "https://filecrypt.cc/Container/3179F834EE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

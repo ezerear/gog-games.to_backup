@@ -1,0 +1,83 @@
+{
+    "href": "/game/retro_machina",
+    "MSG": {
+        "id": "1768421970",
+        "title": "Retro Machina",
+        "slug": "retro_machina",
+        "thumb_id": "77609c67cfca628abf354825b23a58532b75142af636c418c05b9f9d74fa1b3a",
+        "bg_id": "0ad1ba5d13050c99072f966291330800a20c33cda6666e2979e969d488b36393",
+        "url": "https://www.gog.com/game/retro_machina",
+        "developer": "Orbit Studio",
+        "publisher": "SUPER.COM",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707333903",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_retro_machina_1.091_(47532)-1.bin",
+                    "size": "3564276543"
+                },
+                {
+                    "name": "setup_retro_machina_1.091_(47532).exe",
+                    "size": "928504"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B6946E3139",
+                            "link": "https://filecrypt.cc/Container/B6946E3139"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EE9CC1BEA3",
+                            "link": "https://filecrypt.cc/Container/EE9CC1BEA3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8F9F4591F2",
+                            "link": "https://filecrypt.cc/Container/8F9F4591F2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DE35F7B4D6",
+                            "link": "https://filecrypt.cc/Container/DE35F7B4D6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

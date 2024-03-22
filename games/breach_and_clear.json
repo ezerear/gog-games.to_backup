@@ -1,0 +1,72 @@
+{
+    "href": "/game/breach_and_clear",
+    "MSG": {
+        "id": "1434013541",
+        "title": "Breach & Clear",
+        "slug": "breach_and_clear",
+        "thumb_id": "ef861d32210bbe5876761681826918e349bf21e931de03857762c1a4db746424",
+        "bg_id": "a123781ca9f2e03c8eac1f8ca3ff23e5df9a359d919d8c84ef36b2b3cf43ac79",
+        "url": "https://www.gog.com/game/breach_and_clear",
+        "developer": " Mighty Rabbit Studios",
+        "publisher": "Good Shepherd Entertainment\t",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1709013439",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_breach_and_clear_gog-1_(16650)-1.bin",
+                    "size": "962341080"
+                },
+                {
+                    "name": "setup_breach_and_clear_gog-1_(16650).exe",
+                    "size": "735736"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8FCF54DAA5",
+                            "link": "https://filecrypt.cc/Container/8FCF54DAA5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/602F9EBCC7",
+                            "link": "https://filecrypt.cc/Container/602F9EBCC7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7FCB18A903",
+                            "link": "https://filecrypt.cc/Container/7FCB18A903"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

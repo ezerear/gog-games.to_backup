@@ -1,0 +1,68 @@
+{
+    "href": "/game/hunt_the_night",
+    "MSG": {
+        "id": "1579221286",
+        "title": "Hunt the Night",
+        "slug": "hunt_the_night",
+        "thumb_id": "be9cec4bd31842039111a501170187093f55a33ca4925147ad716d70dad9c69b",
+        "bg_id": "ca1433a3fce51f54a7ada9b747fc646e968657e8ea5e08204088dd2b0083581b",
+        "url": "https://www.gog.com/en/game/hunt_the_night",
+        "developer": "Moonlight Games",
+        "publisher": "DANGEN Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709759301",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hunt_the_night_htn_build_04-05-2023_(64358).exe",
+                    "size": "1492805888"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B6C824120C",
+                            "link": "https://filecrypt.cc/Container/B6C824120C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/598C75C6FF",
+                            "link": "https://filecrypt.cc/Container/598C75C6FF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/91F88CDFFE",
+                            "link": "https://filecrypt.cc/Container/91F88CDFFE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

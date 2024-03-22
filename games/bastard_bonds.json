@@ -1,0 +1,90 @@
+{
+    "href": "/game/bastard_bonds",
+    "MSG": {
+        "id": "1513762570",
+        "title": "Bastard Bonds",
+        "slug": "bastard_bonds",
+        "thumb_id": "372529a60cfbf8392c975b74caeea858af2c385d12b3132de34202b0ff95e5bb",
+        "bg_id": "99e21aaf322d39be1ad1479c5b323f35f6dce341d598a97fe89c3e3f67e5b135",
+        "url": "https://www.gog.com/en/game/bastard_bonds",
+        "developer": "Bigfingers",
+        "publisher": "Bigfingers",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1707720676",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_bastard_bonds_1.2.9_(64761).exe",
+                    "size": "193882520"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A5A8782C38",
+                            "link": "https://filecrypt.cc/Container/A5A8782C38"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0C3C43C5B1",
+                            "link": "https://filecrypt.cc/Container/0C3C43C5B1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A24AD13924",
+                            "link": "https://filecrypt.cc/Container/A24AD13924"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/136A9BE6F0",
+                            "link": "https://filecrypt.cc/Container/136A9BE6F0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5F59E3595A",
+                            "link": "https://filecrypt.cc/Container/5F59E3595A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

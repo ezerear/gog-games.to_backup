@@ -1,0 +1,79 @@
+{
+    "href": "/game/semblance",
+    "MSG": {
+        "id": "2098531388",
+        "title": "Semblance",
+        "slug": "semblance",
+        "thumb_id": "9ab4cffd1ccdbea875747a5e141e23e3aea5547a6efd308ec690cad10c25ddc8",
+        "bg_id": "86d67c137cb7b150059016ab4fadb03d51024e68f4629e05b178bae55ac4dde4",
+        "url": "https://www.gog.com/game/semblance",
+        "developer": "Nyamakop",
+        "publisher": "Good Shepherd Entertainment\t",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708256900",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_semblance_1.0.3b_(26650).exe",
+                    "size": "704753352"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4353830FB7",
+                            "link": "https://filecrypt.cc/Container/4353830FB7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CE399AD399",
+                            "link": "https://filecrypt.cc/Container/CE399AD399"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DE81D24600",
+                            "link": "https://filecrypt.cc/Container/DE81D24600"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0A7898D1B8",
+                            "link": "https://filecrypt.cc/Container/0A7898D1B8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

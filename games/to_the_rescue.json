@@ -1,0 +1,111 @@
+{
+    "href": "/game/to_the_rescue",
+    "MSG": {
+        "id": "1569371366",
+        "title": "To The Rescue!",
+        "slug": "to_the_rescue",
+        "thumb_id": "6ae4e56e5b50418b97cbd7e8df475e461e1fb2dc71d47c4c7b576adaca9f703a",
+        "bg_id": "efb73df7a6704744dc85fc125d43799b6d526ef9144ad3f76d9528b42f3618c5",
+        "url": "https://www.gog.com/en/game/to_the_rescue",
+        "developer": "Little Rock Games",
+        "publisher": "Freedom Games",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710542460",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_to_the_rescue_1.4.213_(65104).exe",
+                    "size": "238267512"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "to_the_rescue_soundtrack_flac.zip",
+                    "size": "254947785"
+                },
+                {
+                    "name": "to_the_rescue_soundtrack_mp3.zip",
+                    "size": "56667727"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E5BD54FCD8",
+                            "link": "https://filecrypt.cc/Container/E5BD54FCD8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3E2F488AA5",
+                            "link": "https://filecrypt.cc/Container/3E2F488AA5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CA0B3AD3B4",
+                            "link": "https://filecrypt.cc/Container/CA0B3AD3B4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3788A954E9",
+                            "link": "https://filecrypt.cc/Container/3788A954E9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/077AF89880",
+                            "link": "https://filecrypt.cc/Container/077AF89880"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/565A1A09CF",
+                            "link": "https://filecrypt.cc/Container/565A1A09CF"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

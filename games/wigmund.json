@@ -1,0 +1,72 @@
+{
+    "href": "/game/wigmund",
+    "MSG": {
+        "id": "1630938840",
+        "title": "Wigmund",
+        "slug": "wigmund",
+        "thumb_id": "4c18a38b06111c62a9d76758b4bf9a12c69da4387c6c475a33d46c3b8702a6c0",
+        "bg_id": "42f45df7eb7367c5b0510308cfac89bd86fc9a8cd3e0dd622ab5d4c26e2b7953",
+        "url": "https://www.gog.com/en/game/wigmund",
+        "developer": "The Scholastics",
+        "publisher": "The Scholastics",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710416823",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_wigmund_1.4.1_(64bit)_(64547)-1.bin",
+                    "size": "2058319731"
+                },
+                {
+                    "name": "setup_wigmund_1.4.1_(64bit)_(64547).exe",
+                    "size": "892064"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/67EB322083",
+                            "link": "https://filecrypt.cc/Container/67EB322083"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1B8671EBDD",
+                            "link": "https://filecrypt.cc/Container/1B8671EBDD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A8CD252E52",
+                            "link": "https://filecrypt.cc/Container/A8CD252E52"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

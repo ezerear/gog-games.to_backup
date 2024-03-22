@@ -1,0 +1,90 @@
+{
+    "href": "/game/tron_20",
+    "MSG": {
+        "id": "1655444396",
+        "title": "TRON 2.0",
+        "slug": "tron_20",
+        "thumb_id": "55de04ec6037ef92aa54c7f85cf2bb7739ac0527b2c895088ddc198354a57448",
+        "bg_id": "949f77cecfadbaf353d6637c4f9a212a4e76b92b56132a7dfb6aacd636bce793",
+        "url": "https://www.gog.com/game/tron_20",
+        "developer": "Monolith Productions",
+        "publisher": "Disney",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1704971438",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tron20_2.0.0.2.exe",
+                    "size": "1061174424"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5D00920BBC",
+                            "link": "https://filecrypt.cc/Container/5D00920BBC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B51C4333A4",
+                            "link": "https://filecrypt.cc/Container/B51C4333A4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FA326BE6A3",
+                            "link": "https://filecrypt.cc/Container/FA326BE6A3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D9D2ECF74C",
+                            "link": "https://filecrypt.cc/Container/D9D2ECF74C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3811519FA2",
+                            "link": "https://filecrypt.cc/Container/3811519FA2"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

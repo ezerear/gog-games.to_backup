@@ -1,0 +1,123 @@
+{
+    "href": "/game/gris",
+    "MSG": {
+        "id": "2078272297",
+        "title": "GRIS",
+        "slug": "gris",
+        "thumb_id": "2711f1155f42d68a57c9ad2fb755a49839e6bc17a22b4a0bc262b0e35cb73115",
+        "bg_id": "8d3607b8a2961f2be15a48b36197d0ed8b36e23c43be01a283de91a424704002",
+        "url": "https://www.gog.com/game/gris",
+        "developer": "Nomada Studio",
+        "publisher": "Devolver Digital",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708766770",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_gris_1.03_(28074).exe",
+                    "size": "1210878824"
+                },
+                {
+                    "name": "setup_gris_1.03_(28074).exe",
+                    "size": "1210878824"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "gris_ost_flac.zip",
+                    "size": "591046904"
+                },
+                {
+                    "name": "gris_ost_flac.zip",
+                    "size": "591046904"
+                },
+                {
+                    "name": "gris_ost_mp3.zip",
+                    "size": "290545140"
+                },
+                {
+                    "name": "gris_ost_mp3.zip",
+                    "size": "290545140"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7BF014BDB9",
+                            "link": "https://filecrypt.cc/Container/7BF014BDB9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/944C93486A",
+                            "link": "https://filecrypt.cc/Container/944C93486A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/40DB47B050",
+                            "link": "https://filecrypt.cc/Container/40DB47B050"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5E482B2725",
+                            "link": "https://filecrypt.cc/Container/5E482B2725"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/111A3FFC55",
+                            "link": "https://filecrypt.cc/Container/111A3FFC55"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1D7E533C06",
+                            "link": "https://filecrypt.cc/Container/1D7E533C06"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

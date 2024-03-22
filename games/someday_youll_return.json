@@ -1,0 +1,119 @@
+{
+    "href": "/game/someday_youll_return",
+    "MSG": {
+        "id": "2107162474",
+        "title": "Someday You'll Return",
+        "slug": "someday_youll_return",
+        "thumb_id": "5cde91d8f6caeb2bd04e5450381c8e28289c1f49738ba2f5102f6e24b7e418d3",
+        "bg_id": "beae2e247e298bc02359f49dd9563a79a308cc5b9f839084e6bdbab61556501d",
+        "url": "https://www.gog.com/game/someday_youll_return",
+        "developer": "CBE Software",
+        "publisher": "CBE Software",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709024993",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_someday_youll_return_1.7.7g_(64bit)_(43058)-1.bin",
+                    "size": "4294041598"
+                },
+                {
+                    "name": "setup_someday_youll_return_1.7.7g_(64bit)_(43058)-2.bin",
+                    "size": "2189076943"
+                },
+                {
+                    "name": "setup_someday_youll_return_1.7.7g_(64bit)_(43058).exe",
+                    "size": "931840"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "syr_ost_mp3.zip",
+                    "size": "66082352"
+                },
+                {
+                    "name": "syr_ost_wav.zip",
+                    "size": "380225175"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/119AC74366",
+                            "link": "https://filecrypt.cc/Container/119AC74366"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4A294EB55C",
+                            "link": "https://filecrypt.cc/Container/4A294EB55C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CF4205080F",
+                            "link": "https://filecrypt.cc/Container/CF4205080F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ADA7512861",
+                            "link": "https://filecrypt.cc/Container/ADA7512861"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7DBE451F38",
+                            "link": "https://filecrypt.cc/Container/7DBE451F38"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/803D754FCA",
+                            "link": "https://filecrypt.cc/Container/803D754FCA"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

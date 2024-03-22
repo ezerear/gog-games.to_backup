@@ -1,0 +1,127 @@
+{
+    "href": "/game/state_of_mind",
+    "MSG": {
+        "id": "1663581818",
+        "title": "State of Mind",
+        "slug": "state_of_mind",
+        "thumb_id": "948360d0e110622fdbdab367732dc1a3004fd51bad991bada0e95a1f9acb8ccf",
+        "bg_id": "5b893ced19ace335a7d161875004dcc02fcd45ed79f5789882869c78e7aad6bf",
+        "url": "https://www.gog.com/game/state_of_mind",
+        "developer": "Daedalic Entertainment",
+        "publisher": "Daedalic Entertainment",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1691654306",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_state_of_mind_1.2.24280_(24221)-1.bin",
+                    "size": "4293922302"
+                },
+                {
+                    "name": "setup_state_of_mind_1.2.24280_(24221)-2.bin",
+                    "size": "3936468586"
+                },
+                {
+                    "name": "setup_state_of_mind_1.2.24280_(24221).exe",
+                    "size": "1051888"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "artbook_DE_digital.zip",
+                    "size": "161525014"
+                },
+                {
+                    "name": "artbook_ENG_digital.zip",
+                    "size": "161774356"
+                },
+                {
+                    "name": "state_of_mid_ost_flac.zip",
+                    "size": "426139805"
+                },
+                {
+                    "name": "state_of_mid_ost_mp3.zip",
+                    "size": "220718006"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1058C257F1",
+                            "link": "https://filecrypt.cc/Container/1058C257F1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/58F9CB8859",
+                            "link": "https://filecrypt.cc/Container/58F9CB8859"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D94A8CBA21",
+                            "link": "https://filecrypt.cc/Container/D94A8CBA21"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DAE838522D",
+                            "link": "https://filecrypt.cc/Container/DAE838522D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EA2DDD81F3",
+                            "link": "https://filecrypt.cc/Container/EA2DDD81F3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4BF9E87FA5",
+                            "link": "https://filecrypt.cc/Container/4BF9E87FA5"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

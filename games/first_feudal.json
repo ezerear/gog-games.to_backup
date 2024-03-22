@@ -1,0 +1,89 @@
+{
+    "href": "/game/first_feudal",
+    "MSG": {
+        "id": "1548203713",
+        "title": "First Feudal",
+        "slug": "first_feudal",
+        "thumb_id": "21d7d1350b930574077e2a9973c3079fb56d7ed6d25eaef43614e78d1401e5b9",
+        "bg_id": "ed4dedd1ec901b81fccdf538dfc72c9e4986c3addbb0a06b8809b055b9b44967",
+        "url": "https://www.gog.com/game/first_feudal",
+        "developer": "Harpoon Games",
+        "publisher": "Harpoon Games, Gamera Game",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710154298",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_first_feudal_1.5.4_(70360).exe",
+                    "size": "404581728"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "Art.zip",
+                    "size": "23982189"
+                },
+                {
+                    "name": "soundtrack.zip",
+                    "size": "104583326"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A34126C80F",
+                            "link": "https://filecrypt.cc/Container/A34126C80F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DE8ABA22E8",
+                            "link": "https://filecrypt.cc/Container/DE8ABA22E8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3CCDE4CFB5",
+                            "link": "https://filecrypt.cc/Container/3CCDE4CFB5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/35BFC3E3DF",
+                            "link": "https://filecrypt.cc/Container/35BFC3E3DF"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

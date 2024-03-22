@@ -1,0 +1,68 @@
+{
+    "href": "/game/sunrider_academy",
+    "MSG": {
+        "id": "1944959747",
+        "title": "Sunrider Academy",
+        "slug": "sunrider_academy",
+        "thumb_id": "797296826d4b47e8d0d11b769b370ff0d2025b3ec2b2e556657ba31d56a98a3e",
+        "bg_id": "ded31528eea5e36ed39710e29ef8ff55b5d58036dc1a2fbf67c97d0b905196c3",
+        "url": "https://www.gog.com/game/sunrider_academy",
+        "developer": "Love in Space",
+        "publisher": "Sekai Project",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1708976696",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sunrider_academy_1.02_(20913).exe",
+                    "size": "720094664"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/82B81AF9C9",
+                            "link": "https://filecrypt.cc/Container/82B81AF9C9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D5F7DA9C2C",
+                            "link": "https://filecrypt.cc/Container/D5F7DA9C2C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B1EC052CA9",
+                            "link": "https://filecrypt.cc/Container/B1EC052CA9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

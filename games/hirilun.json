@@ -1,0 +1,68 @@
+{
+    "href": "/game/hirilun",
+    "MSG": {
+        "id": "1703925190",
+        "title": "Hirilun",
+        "slug": "hirilun",
+        "thumb_id": "3ae0f9206348a987d91c14773e2314cab5e23a5fbd6671368966608b9fdf1de4",
+        "bg_id": "fc941a0d792530da9ea56bde900f042111d64c733d3494b87b0198925df84d46",
+        "url": "https://www.gog.com/en/game/hirilun",
+        "developer": "Gone Mad Studios",
+        "publisher": "Meridian4",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1687384987",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hirilun_1.0c_(64bit)_(54586).exe",
+                    "size": "233313872"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B5FF8ADED5",
+                            "link": "https://filecrypt.cc/Container/B5FF8ADED5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/547B0773D1",
+                            "link": "https://filecrypt.cc/Container/547B0773D1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/94E57510A2",
+                            "link": "https://filecrypt.cc/Container/94E57510A2"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,79 @@
+{
+    "href": "/game/dicey_dungeons",
+    "MSG": {
+        "id": "1744618123",
+        "title": "Dicey Dungeons",
+        "slug": "dicey_dungeons",
+        "thumb_id": "dd18a29508d49a5f413b9e0619b33b1155c3ef2a7e1caf060489d5d70fe16c4c",
+        "bg_id": "c7c9771362d7a482f50667eded9ff83aac4bf339147c857a382d53974804adb5",
+        "url": "https://www.gog.com/game/dicey_dungeons",
+        "developer": "Terry Cavanagh",
+        "publisher": "Terry Cavanagh",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1708112444",
+        "votes": "2",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dicey_dungeons_2.1_(64bit)_(58189).exe",
+                    "size": "466137528"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/36FD8B2BD8",
+                            "link": "https://filecrypt.cc/Container/36FD8B2BD8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/94344788CE",
+                            "link": "https://filecrypt.cc/Container/94344788CE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4589A124AD",
+                            "link": "https://filecrypt.cc/Container/4589A124AD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C6000D133C",
+                            "link": "https://filecrypt.cc/Container/C6000D133C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

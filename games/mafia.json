@@ -1,0 +1,104 @@
+{
+    "href": "/game/mafia",
+    "MSG": {
+        "id": "1595659240",
+        "title": "Mafia",
+        "slug": "mafia",
+        "thumb_id": "13db1df4019ec23694c77d47da63d30f0e89dca33ab50ebdf0819fe3bc6272a8",
+        "bg_id": "a7e110a04342d9ed86e8df4306fc072feb29a172aa38265aaf58652846cd10fb",
+        "url": "https://www.gog.com/game/mafia",
+        "developer": "Illusion Softworks",
+        "publisher": "2K Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709328367",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_mafia_1.3_(16073)-1.bin",
+                    "size": "2657385474"
+                },
+                {
+                    "name": "setup_mafia_1.3_(16073).exe",
+                    "size": "1546904"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "mafia_manual.zip",
+                    "size": "2863409"
+                },
+                {
+                    "name": "mafia_map.zip",
+                    "size": "475412"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4D3D13F6C3",
+                            "link": "https://filecrypt.cc/Container/4D3D13F6C3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C3E7133979",
+                            "link": "https://filecrypt.cc/Container/C3E7133979"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/47FA74D2B8",
+                            "link": "https://filecrypt.cc/Container/47FA74D2B8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9E49617BEF",
+                            "link": "https://filecrypt.cc/Container/9E49617BEF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B70A313DE2",
+                            "link": "https://filecrypt.cc/Container/B70A313DE2"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

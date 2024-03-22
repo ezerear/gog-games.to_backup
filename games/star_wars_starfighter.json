@@ -1,0 +1,90 @@
+{
+    "href": "/game/star_wars_starfighter",
+    "MSG": {
+        "id": "1421404999",
+        "title": "STAR WARS™ Starfighter™",
+        "slug": "star_wars_starfighter",
+        "thumb_id": "954d681f969eb1ec8d723c671637ed5f2f42bffffd9016ae97d9e9de457b6807",
+        "bg_id": "c5f822a28a0a87217a3cd9fbd44a9c12897c1a368845f4f785fc66ec59b915a2",
+        "url": "https://www.gog.com/game/star_wars_starfighter",
+        "developer": "Lucasfilm",
+        "publisher": "Disney",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1706618474",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sw_starfighter_2.0.0.4.exe",
+                    "size": "433862712"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/42D1E2461F",
+                            "link": "https://filecrypt.cc/Container/42D1E2461F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B80D5F9F93",
+                            "link": "https://filecrypt.cc/Container/B80D5F9F93"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D7D832BE30",
+                            "link": "https://filecrypt.cc/Container/D7D832BE30"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/07F98B764E",
+                            "link": "https://filecrypt.cc/Container/07F98B764E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/106B4DEC0D",
+                            "link": "https://filecrypt.cc/Container/106B4DEC0D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

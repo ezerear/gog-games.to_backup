@@ -1,0 +1,100 @@
+{
+    "href": "/game/mount_blade",
+    "MSG": {
+        "id": "1207666893",
+        "title": "Mount & Blade",
+        "slug": "mount_blade",
+        "thumb_id": "bced566d8b7737abffd69f7b200a99d0f9b6acb844d7746c54a940771a800534",
+        "bg_id": "c34b8c432c3778bf3ce3a3ce3222b4121491422ea7c98e6aa1a993cd8b4f575a",
+        "url": "https://www.gog.com/game/mount_blade",
+        "developer": "TaleWorlds Entertainment",
+        "publisher": "TaleWorlds Entertainment",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709333407",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_mount_and_blade_1.011_(13720).exe",
+                    "size": "502744168"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "mount_and_blade_manual_english.zip",
+                    "size": "23606192"
+                },
+                {
+                    "name": "mount_and_blade_wallpapers.zip",
+                    "size": "6204375"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/999E0A9139",
+                            "link": "https://filecrypt.cc/Container/999E0A9139"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CCE8E26CA5",
+                            "link": "https://filecrypt.cc/Container/CCE8E26CA5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/95146005E2",
+                            "link": "https://filecrypt.cc/Container/95146005E2"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CB2AF771F4",
+                            "link": "https://filecrypt.cc/Container/CB2AF771F4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D7CF9AF2B2",
+                            "link": "https://filecrypt.cc/Container/D7CF9AF2B2"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

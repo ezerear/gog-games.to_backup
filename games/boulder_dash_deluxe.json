@@ -1,0 +1,68 @@
+{
+    "href": "/game/boulder_dash_deluxe",
+    "MSG": {
+        "id": "1160592599",
+        "title": "Boulder Dash Deluxe",
+        "slug": "boulder_dash_deluxe",
+        "thumb_id": "259125ec4875e05b309dc106ec759d7b1395ca43d2c88c9e186b855242f4f728",
+        "bg_id": "ebe1cd5a14fa0f362d7ffc13815958da5dd253201cf340fdead6e199d7f196d7",
+        "url": "https://www.gog.com/game/boulder_dash_deluxe",
+        "developer": "BBG Entertainment GmbH",
+        "publisher": "BBG Entertainment GmbH",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710008327",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_boulder_dash_deluxe_1.0.5_(64bit)_(53531).exe",
+                    "size": "174026912"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B6AA5E790B",
+                            "link": "https://filecrypt.cc/Container/B6AA5E790B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F76F6BDD81",
+                            "link": "https://filecrypt.cc/Container/F76F6BDD81"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FC08979319",
+                            "link": "https://filecrypt.cc/Container/FC08979319"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

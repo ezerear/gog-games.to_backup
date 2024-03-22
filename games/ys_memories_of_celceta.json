@@ -1,0 +1,72 @@
+{
+    "href": "/game/ys_memories_of_celceta",
+    "MSG": {
+        "id": "2000358318",
+        "title": "Ys: Memories of Celceta",
+        "slug": "ys_memories_of_celceta",
+        "thumb_id": "ab5e7d79b12665efc805a112c600eb01d761f46e79fe54491fb0171ce691dc5a",
+        "bg_id": "10760763fb8dcebc3f5a0317b54c5cd6b455317f1ebcd88628513d27265528fe",
+        "url": "https://www.gog.com/game/ys_memories_of_celceta",
+        "developer": "Nihon Falcom Corporation",
+        "publisher": "XSEED Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709149103",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_ys_memories_of_celceta_1.0.0.15_(33196)-1.bin",
+                    "size": "1936629324"
+                },
+                {
+                    "name": "setup_ys_memories_of_celceta_1.0.0.15_(33196).exe",
+                    "size": "1735520"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DE8DE6F86C",
+                            "link": "https://filecrypt.cc/Container/DE8DE6F86C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AA028F5696",
+                            "link": "https://filecrypt.cc/Container/AA028F5696"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/33A3F911FE",
+                            "link": "https://filecrypt.cc/Container/33A3F911FE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

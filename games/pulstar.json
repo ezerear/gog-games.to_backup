@@ -1,0 +1,79 @@
+{
+    "href": "/game/pulstar",
+    "MSG": {
+        "id": "1281575146",
+        "title": "PULSTAR",
+        "slug": "pulstar",
+        "thumb_id": "a3d77d4fd92f1b53080113bff3d237ccf72f219aa7aa3a4be02fe7ff543cf5b3",
+        "bg_id": "73ac21a6cac4faa55e5caa00408e04b10789c3f65aaabe0fa290907a3a547c26",
+        "url": "https://www.gog.com/game/pulstar",
+        "developer": "SNK CORPORATION",
+        "publisher": "SNK CORPORATION",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1685072863",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_pulstar_gog-1_(14775).exe",
+                    "size": "58422688"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/948D674040",
+                            "link": "https://filecrypt.cc/Container/948D674040"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6C0718A198",
+                            "link": "https://filecrypt.cc/Container/6C0718A198"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/322E55B6B2",
+                            "link": "https://filecrypt.cc/Container/322E55B6B2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/994944A0E7",
+                            "link": "https://filecrypt.cc/Container/994944A0E7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

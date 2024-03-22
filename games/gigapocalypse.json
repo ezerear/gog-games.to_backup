@@ -1,0 +1,101 @@
+{
+    "href": "/game/gigapocalypse",
+    "MSG": {
+        "id": "2037253096",
+        "title": "Gigapocalypse",
+        "slug": "gigapocalypse",
+        "thumb_id": "38d15df43e2ad27f17bf775c555b35e6c4b5b2de421097985890fb5b8e25c5a1",
+        "bg_id": "3fd4a7697b30c10dbe68d4f495d3e64f36d46ef8ebe9ff8f818c1593d75a503a",
+        "url": "https://www.gog.com/game/gigapocalypse",
+        "developer": "Goody Gameworks",
+        "publisher": "Headup",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1697279882",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_gigapocalypse_v.1.9.83._(56623).exe",
+                    "size": "102469440"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/298E028945",
+                            "link": "https://filecrypt.cc/Container/298E028945"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0C0E6DE28F",
+                            "link": "https://filecrypt.cc/Container/0C0E6DE28F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6BA3F753A3",
+                            "link": "https://filecrypt.cc/Container/6BA3F753A3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5FE7AE4F3F",
+                            "link": "https://filecrypt.cc/Container/5FE7AE4F3F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A62365DB4E",
+                            "link": "https://filecrypt.cc/Container/A62365DB4E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E6BDCC99F3",
+                            "link": "https://filecrypt.cc/Container/E6BDCC99F3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

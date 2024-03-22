@@ -1,0 +1,139 @@
+{
+    "href": "/game/alice_vr",
+    "MSG": {
+        "id": "1170675521",
+        "title": "Alice VR",
+        "slug": "alice_vr",
+        "thumb_id": "19a75d19f7bef65cc300e89a11b7061e2e9f13d8bbb2376a1a88f825a6ca6a1f",
+        "bg_id": "ebef16f0502695b084f6955feee71b0db5d5a0b4df0b136625d3b6a6a587ad53",
+        "url": "https://www.gog.com/game/alice_vr",
+        "developer": "Carbon Studio",
+        "publisher": "Klabater",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710296376",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_alice_vr_patch_7_(13019)-1.bin",
+                    "size": "4294245886"
+                },
+                {
+                    "name": "setup_alice_vr_patch_7_(13019)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_alice_vr_patch_7_(13019)-3.bin",
+                    "size": "1007680260"
+                },
+                {
+                    "name": "setup_alice_vr_patch_7_(13019).exe",
+                    "size": "728296"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "Alice_VR_artbook_DE_ES_FR_PL_RU.zip",
+                    "size": "358664529"
+                },
+                {
+                    "name": "Alice_VR_artbook_EN.zip",
+                    "size": "71640374"
+                },
+                {
+                    "name": "Alice_VR_developer_diaries.zip",
+                    "size": "235663060"
+                },
+                {
+                    "name": "Alice_VR_soundtrack_FLAC.zip",
+                    "size": "758169339"
+                },
+                {
+                    "name": "Alice_VR_soundtrack_MP3.zip",
+                    "size": "221148459"
+                },
+                {
+                    "name": "Alice_VR_wallpapers.zip",
+                    "size": "20929836"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/051F6F7A47",
+                            "link": "https://filecrypt.cc/Container/051F6F7A47"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3CDE38133D",
+                            "link": "https://filecrypt.cc/Container/3CDE38133D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C907B7CDE1",
+                            "link": "https://filecrypt.cc/Container/C907B7CDE1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F568437AE3",
+                            "link": "https://filecrypt.cc/Container/F568437AE3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7F40B46F9F",
+                            "link": "https://filecrypt.cc/Container/7F40B46F9F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E58E913E66",
+                            "link": "https://filecrypt.cc/Container/E58E913E66"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

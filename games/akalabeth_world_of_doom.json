@@ -1,0 +1,123 @@
+{
+    "href": "/game/akalabeth_world_of_doom",
+    "MSG": {
+        "id": "1207666073",
+        "title": "Akalabeth: World of Doom",
+        "slug": "akalabeth_world_of_doom",
+        "thumb_id": "56262850671fd7232b8ff46deba530007ff7a437fab0ddd67147f8d41aa6bca0",
+        "bg_id": "cea5455ba5381633e55b763dea6c2ea6acc996c14b0889bf0fe4a213ee91aaf6",
+        "url": "https://www.gog.com/game/akalabeth_world_of_doom",
+        "developer": "Richard Garriot",
+        "publisher": "Richard Garriot",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1682025086",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_akalabeth_2.0.0.1.exe",
+                    "size": "19005672"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "akalabeth_1998_linux.zip",
+                    "size": "6418088"
+                },
+                {
+                    "name": "akalabeth_1998_mac.zip",
+                    "size": "13949380"
+                },
+                {
+                    "name": "akalabeth_1998_windows.zip",
+                    "size": "15869432"
+                },
+                {
+                    "name": "akalabeth_manual.zip",
+                    "size": "1769425"
+                },
+                {
+                    "name": "akalabeth_wallpaper.zip",
+                    "size": "1876995"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9DAA0D5A26",
+                            "link": "https://filecrypt.cc/Container/9DAA0D5A26"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EEE4810F21",
+                            "link": "https://filecrypt.cc/Container/EEE4810F21"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/wlZz7TL",
+                            "link": "https://safelinking.net/wlZz7TL"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CDE9C8BF24",
+                            "link": "https://filecrypt.cc/Container/CDE9C8BF24"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B984C289F3",
+                            "link": "https://filecrypt.cc/Container/B984C289F3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/aLxBpaM",
+                            "link": "https://safelinking.net/aLxBpaM"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

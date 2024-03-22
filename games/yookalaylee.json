@@ -1,0 +1,93 @@
+{
+    "href": "/game/yookalaylee",
+    "MSG": {
+        "id": "1445853962",
+        "title": "Yooka-Laylee",
+        "slug": "yookalaylee",
+        "thumb_id": "9c3e695fbc36ced0737b0f3477904230378397a144f98b70233a759f0766a2d4",
+        "bg_id": "cc812b7cc3c0e0f8043aa8d77c1fcc505c2e823e4f0cd0b310e1df15c4fe0a95",
+        "url": "https://www.gog.com/game/yookalaylee",
+        "developer": "Team17 Digital",
+        "publisher": "Team17 Digital",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709244282",
+        "votes": "1",
+        "files": false,
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/739BF2668E",
+                            "link": "https://filecrypt.cc/Container/739BF2668E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D1BF5AE6AF",
+                            "link": "https://filecrypt.cc/Container/D1BF5AE6AF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E0269D95E4",
+                            "link": "https://filecrypt.cc/Container/E0269D95E4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/366479941C",
+                            "link": "https://filecrypt.cc/Container/366479941C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CEEF027E74",
+                            "link": "https://filecrypt.cc/Container/CEEF027E74"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/36BBA773F4",
+                            "link": "https://filecrypt.cc/Container/36BBA773F4"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

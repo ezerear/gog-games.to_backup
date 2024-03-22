@@ -1,0 +1,79 @@
+{
+    "href": "/game/pinball_dreams_deluxe",
+    "MSG": {
+        "id": "1207664093",
+        "title": "Pinball Dreams Deluxe",
+        "slug": "pinball_dreams_deluxe",
+        "thumb_id": "113b18e1ab57cf91f4b821870daafc2c54f40b59e32d800a500347876a5b2584",
+        "bg_id": "78df19da69d7835f5b68313bdc73a1c5c65582769c7da9bf7debe145cec8f275",
+        "url": "https://www.gog.com/game/pinball_gold_pack",
+        "developer": "Digital Illusions",
+        "publisher": "Rebellion",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1684580492",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_pinball_dreams_2.1.0.20.exe",
+                    "size": "54707032"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A5145F61D8",
+                            "link": "https://filecrypt.cc/Container/A5145F61D8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/37AD0886CB",
+                            "link": "https://filecrypt.cc/Container/37AD0886CB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1C36494726",
+                            "link": "https://filecrypt.cc/Container/1C36494726"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A194071A3D",
+                            "link": "https://filecrypt.cc/Container/A194071A3D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

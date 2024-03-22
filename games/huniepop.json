@@ -1,0 +1,119 @@
+{
+    "href": "/game/huniepop",
+    "MSG": {
+        "id": "1443428641",
+        "title": "HuniePop",
+        "slug": "huniepop",
+        "thumb_id": "890d64606d943c000f47b7a028346cd3e863995eeb96628b8b724125a404d7f5",
+        "bg_id": "4aad46c8b69e97e51e573ae5ed001e269fe156b00e9114ccb6a1636f049f0197",
+        "url": "https://www.gog.com/game/huniepop",
+        "developer": "HuniePot",
+        "publisher": "HuniePot",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1708586544",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_huniepop_1.2.0_(17629).exe",
+                    "size": "324094736"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "huniepop_art_collection.zip",
+                    "size": "175081001"
+                },
+                {
+                    "name": "huniepop_ost_flac.zip",
+                    "size": "625888643"
+                },
+                {
+                    "name": "huniepop_ost_mp3.zip",
+                    "size": "50806590"
+                },
+                {
+                    "name": "huniepop_wallpaper.zip",
+                    "size": "2393924"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/464B0871E6",
+                            "link": "https://filecrypt.cc/Container/464B0871E6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FB238713C9",
+                            "link": "https://filecrypt.cc/Container/FB238713C9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9416544FE4",
+                            "link": "https://filecrypt.cc/Container/9416544FE4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/67313DCB8C",
+                            "link": "https://filecrypt.cc/Container/67313DCB8C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D02BF584EF",
+                            "link": "https://filecrypt.cc/Container/D02BF584EF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/727EC32AC9",
+                            "link": "https://filecrypt.cc/Container/727EC32AC9"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

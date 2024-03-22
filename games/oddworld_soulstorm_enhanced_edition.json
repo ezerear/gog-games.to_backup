@@ -1,0 +1,84 @@
+{
+    "href": "/game/oddworld_soulstorm_enhanced_edition",
+    "MSG": {
+        "id": "1138525184",
+        "title": "Oddworld: Soulstorm Enhanced Edition",
+        "slug": "oddworld_soulstorm_enhanced_edition",
+        "thumb_id": "d3e751fda89473be5ec3d07c271c5eca8af206c8ea5913afc32a7816830c4470",
+        "bg_id": "607b1f1ac817412cde8d894d9d1f56b49d463c1ae64c453041b3e5b09f01b95e",
+        "url": "https://www.gog.com/en/game/oddworld_soulstorm_enhanced_edition",
+        "developer": "Oddworld Inhabitants",
+        "publisher": "Oddworld Inhabitants",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708431761",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_oddworld_soulstorm_enhanced_edition_1.0_(66368)-1.bin",
+                    "size": "4293717502"
+                },
+                {
+                    "name": "setup_oddworld_soulstorm_enhanced_edition_1.0_(66368)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_oddworld_soulstorm_enhanced_edition_1.0_(66368)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_oddworld_soulstorm_enhanced_edition_1.0_(66368)-4.bin",
+                    "size": "559854062"
+                },
+                {
+                    "name": "setup_oddworld_soulstorm_enhanced_edition_1.0_(66368).exe",
+                    "size": "1260088"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/ekQEBnr",
+                            "link": "https://safelinking.net/ekQEBnr"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/s6lsWp6",
+                            "link": "https://safelinking.net/s6lsWp6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/9lxECG6",
+                            "link": "https://safelinking.net/9lxECG6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

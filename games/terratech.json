@@ -1,0 +1,72 @@
+{
+    "href": "/game/terratech",
+    "MSG": {
+        "id": "1448625945",
+        "title": "TerraTech",
+        "slug": "terratech",
+        "thumb_id": "39728b76efff3acf46b0e8886db9770455ba9379636d5bca2f7205975a7b358f",
+        "bg_id": "f2ca9ec8947a1f1caefe7101be81643b83f864ea378e63b17b34a6c83fcb139a",
+        "url": "https://web.archive.org/web/20180613183927/https://www.gog.com/game/terratech",
+        "developer": "Payload Studios",
+        "publisher": "Payload Studios",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710260346",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_r_and_d_pack_1.0_(64bit)_(22859).exe",
+                    "size": "10723400"
+                },
+                {
+                    "name": "setup_terratech_1.0_(64bit)_(22859).exe",
+                    "size": "401282048"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/84BE356AF9",
+                            "link": "https://filecrypt.cc/Container/84BE356AF9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A914BEBD59",
+                            "link": "https://filecrypt.cc/Container/A914BEBD59"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/546144CAD4",
+                            "link": "https://filecrypt.cc/Container/546144CAD4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

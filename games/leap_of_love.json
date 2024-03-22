@@ -1,0 +1,94 @@
+{
+    "href": "/game/leap_of_love",
+    "MSG": {
+        "id": "1111421371",
+        "title": "Leap of Love",
+        "slug": "leap_of_love",
+        "thumb_id": "958daf19e29f7ca7eaa2c5c7d6b0c6f0e3469c07f0dade7e6e0d2fe809b93673",
+        "bg_id": "96e0bdfb1e2a642ec44ae6d09212a5469a4dc7e83700842644e0c5d29622cb55",
+        "url": "https://www.gog.com/en/game/leap_of_love",
+        "developer": "Andrealphus Games",
+        "publisher": "Andrealphus Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1703120227",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_leap_of_love_-_dark_princesses_2.5.8_(64bit)_(68192).exe",
+                    "size": "152308640"
+                },
+                {
+                    "name": "setup_leap_of_love_2.5.8_(64bit)_(68192).exe",
+                    "size": "338569336"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B6EF9382C7",
+                            "link": "https://filecrypt.cc/Container/B6EF9382C7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6092847ACF",
+                            "link": "https://filecrypt.cc/Container/6092847ACF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9163D49EB2",
+                            "link": "https://filecrypt.cc/Container/9163D49EB2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/677B96ADDE",
+                            "link": "https://filecrypt.cc/Container/677B96ADDE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/17EC129B7C",
+                            "link": "https://filecrypt.cc/Container/17EC129B7C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

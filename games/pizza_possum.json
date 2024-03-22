@@ -1,0 +1,57 @@
+{
+    "href": "/game/pizza_possum",
+    "MSG": {
+        "id": "1075877492",
+        "title": "Pizza Possum",
+        "slug": "pizza_possum",
+        "thumb_id": "d3206c9e7ee44950359503b5de610d23260fba75b6fdc30bfe0c70afd32dffd8",
+        "bg_id": "4906d194782a3ceabcf803b021d223ab6fd1c3d46a1fe4e212e23e55990febf3",
+        "url": "https://www.gog.com/en/game/pizza_possum",
+        "developer": "Cosy Computer",
+        "publisher": "Raw Fury",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710145164",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_pizza_possum_1.4.16_(64bit)_(69633).exe",
+                    "size": "227125032"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B3539547EF",
+                            "link": "https://filecrypt.cc/Container/B3539547EF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B08CD925FC",
+                            "link": "https://filecrypt.cc/Container/B08CD925FC"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

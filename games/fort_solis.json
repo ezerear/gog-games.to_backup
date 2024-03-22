@@ -1,0 +1,76 @@
+{
+    "href": "/game/fort_solis",
+    "MSG": {
+        "id": "1654564600",
+        "title": "Fort Solis",
+        "slug": "fort_solis",
+        "thumb_id": "0f028e6686a0603b11e31b4fd570b7ce6334e7ceba0b2d6c3cce9ffa018768a5",
+        "bg_id": "a612fee41fe3f1b514eeca128664ab6cce248b178fecb1951051d0106e0d8662",
+        "url": "https://www.gog.com/en/game/fort_solis",
+        "developer": "Fallen Leaf, Black Drakkar Games",
+        "publisher": "Dear Villagers",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710712559",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_fort_solis_1.0_(71168)-1.bin",
+                    "size": "4293967870"
+                },
+                {
+                    "name": "setup_fort_solis_1.0_(71168)-2.bin",
+                    "size": "4213236567"
+                },
+                {
+                    "name": "setup_fort_solis_1.0_(71168).exe",
+                    "size": "1006328"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EC12FE83FD",
+                            "link": "https://filecrypt.cc/Container/EC12FE83FD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A80525F23F",
+                            "link": "https://filecrypt.cc/Container/A80525F23F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/46C63A85A1",
+                            "link": "https://filecrypt.cc/Container/46C63A85A1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

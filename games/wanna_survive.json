@@ -1,0 +1,68 @@
+{
+    "href": "/game/wanna_survive",
+    "MSG": {
+        "id": "1960507401",
+        "title": "Wanna Survive",
+        "slug": "wanna_survive",
+        "thumb_id": "de36620d4233cbf3361c5a93e67183ee2fab3448c3740e517793f22da90d30cd",
+        "bg_id": "f97b356e9437ba2fc981d0d61dbdda6d3bbdded357d5f57341a92772296f1763",
+        "url": "https://www.gog.com/en/game/wanna_survive",
+        "developer": "PINIX Games",
+        "publisher": "Nicalis, Inc.",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710629026",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_wanna_survive_00061_(64bit)_(56257).exe",
+                    "size": "256757808"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/140D11B38A",
+                            "link": "https://filecrypt.cc/Container/140D11B38A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D82CBDD9E7",
+                            "link": "https://filecrypt.cc/Container/D82CBDD9E7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2CE4BDA063",
+                            "link": "https://filecrypt.cc/Container/2CE4BDA063"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

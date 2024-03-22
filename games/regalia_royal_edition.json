@@ -1,0 +1,83 @@
+{
+    "href": "/game/regalia_royal_edition",
+    "MSG": {
+        "id": "1965502180",
+        "title": "Regalia - Royal Edition",
+        "slug": "regalia_royal_edition",
+        "thumb_id": "850f984996001a58d38aef22b1cc91a3b5b74659de7b8f1de78b8f303f39143a",
+        "bg_id": "6c1d942c6f866cb0c076b3e70e0bd29b9c48de319a4a60fa478b0fd4e0045b24",
+        "url": "https://www.gog.com/game/regalia_royal_edition",
+        "developer": "Pixelated Milk",
+        "publisher": "Klabater",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1705477041",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_regalia_-_royal_edition_1.2a_hotfix_(64bit)_(21347)-1.bin",
+                    "size": "1892933316"
+                },
+                {
+                    "name": "setup_regalia_-_royal_edition_1.2a_hotfix_(64bit)_(21347).exe",
+                    "size": "927208"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B124FE1383",
+                            "link": "https://filecrypt.cc/Container/B124FE1383"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/39D1C96D08",
+                            "link": "https://filecrypt.cc/Container/39D1C96D08"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FEB3013F81",
+                            "link": "https://filecrypt.cc/Container/FEB3013F81"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3BA42DF913",
+                            "link": "https://filecrypt.cc/Container/3BA42DF913"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

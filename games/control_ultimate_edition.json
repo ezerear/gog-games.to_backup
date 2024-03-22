@@ -1,0 +1,96 @@
+{
+    "href": "/game/control_ultimate_edition",
+    "MSG": {
+        "id": "2049187585",
+        "title": "Control Ultimate Edition",
+        "slug": "control_ultimate_edition",
+        "thumb_id": "6e6dbbd1637253394627e72c2b99f39d5c89e160ef07ca0d7823ad7603062496",
+        "bg_id": "bea1b8def14d82237a459a389db54714809cdbb345e935fac2382e17744d4a18",
+        "url": "https://www.gog.com/game/control_ultimate_edition",
+        "developer": "Remedy Entertainment",
+        "publisher": "505 Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710041045",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_control_ultimate_edition_update_2_(41492)-1.bin",
+                    "size": "4293609470"
+                },
+                {
+                    "name": "setup_control_ultimate_edition_update_2_(41492)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_control_ultimate_edition_update_2_(41492)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_control_ultimate_edition_update_2_(41492)-4.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_control_ultimate_edition_update_2_(41492)-5.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_control_ultimate_edition_update_2_(41492)-6.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_control_ultimate_edition_update_2_(41492)-7.bin",
+                    "size": "2211453139"
+                },
+                {
+                    "name": "setup_control_ultimate_edition_update_2_(41492).exe",
+                    "size": "1364952"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E22C73F44A",
+                            "link": "https://filecrypt.cc/Container/E22C73F44A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A3B782F91E",
+                            "link": "https://filecrypt.cc/Container/A3B782F91E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0D7569C3B0",
+                            "link": "https://filecrypt.cc/Container/0D7569C3B0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

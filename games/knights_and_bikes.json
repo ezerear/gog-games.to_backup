@@ -1,0 +1,79 @@
+{
+    "href": "/game/knights_and_bikes",
+    "MSG": {
+        "id": "1687611835",
+        "title": "Knights and Bikes",
+        "slug": "knights_and_bikes",
+        "thumb_id": "be51652eac1eec9f283eb5519aaf3604998b8a71921058bb8d45bb1857e74f6b",
+        "bg_id": "bb844622b886fce44acf7f951636144a9959f51cb77e6fb1863ae342d94d0e0a",
+        "url": "https://www.gog.com/game/knights_and_bikes",
+        "developer": "Foam Sword",
+        "publisher": "Double Fine Productions",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708277366",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_knights_and_bikes_1.12_rc3_v0_(64bit)_(48634).exe",
+                    "size": "1369092392"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DD1273172E",
+                            "link": "https://filecrypt.cc/Container/DD1273172E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7B87AD85EC",
+                            "link": "https://filecrypt.cc/Container/7B87AD85EC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EA8742649F",
+                            "link": "https://filecrypt.cc/Container/EA8742649F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/912CE3A7BB",
+                            "link": "https://filecrypt.cc/Container/912CE3A7BB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

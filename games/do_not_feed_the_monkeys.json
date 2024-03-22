@@ -1,0 +1,68 @@
+{
+    "href": "/game/do_not_feed_the_monkeys",
+    "MSG": {
+        "id": "1084764045",
+        "title": "Do Not Feed the Monkeys",
+        "slug": "do_not_feed_the_monkeys",
+        "thumb_id": "88640c120adb4daa3641bd09d22f775eab7aaf1a8487db4edb22bb21afc99230",
+        "bg_id": "bc5c0be4271899dd8f7c6498f436f06886c05441641ae666a2924002ac193929",
+        "url": "https://www.gog.com/game/do_not_feed_the_monkeys",
+        "developer": "Fictiorama Studios",
+        "publisher": "Alawar Premium",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1709804641",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_do_not_feed_the_monkeys_1.0.6.6_(30237).exe",
+                    "size": "344894728"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1C26CF1FD0",
+                            "link": "https://filecrypt.cc/Container/1C26CF1FD0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C6081E9B3F",
+                            "link": "https://filecrypt.cc/Container/C6081E9B3F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7A187E50F7",
+                            "link": "https://filecrypt.cc/Container/7A187E50F7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

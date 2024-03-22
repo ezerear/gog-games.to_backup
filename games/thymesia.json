@@ -1,0 +1,123 @@
+{
+    "href": "/game/thymesia",
+    "MSG": {
+        "id": "1284626411",
+        "title": "Thymesia",
+        "slug": "thymesia",
+        "thumb_id": "5bc1da937568677346d95d7ee51600eda405459724a5572cda419e1283d13c60",
+        "bg_id": "11a3bebf00b86af41e0c535ba070c84a8cfe3599a56029802e22337d0a394cfd",
+        "url": "https://www.gog.com/game/thymesia",
+        "developer": "OverBorder Studio",
+        "publisher": "Team17 Digital LTD.",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710329120",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_thymesia_pro_21.24723_(60325)-1.bin",
+                    "size": "4294034942"
+                },
+                {
+                    "name": "setup_thymesia_pro_21.24723_(60325)-2.bin",
+                    "size": "2482165888"
+                },
+                {
+                    "name": "setup_thymesia_pro_21.24723_(60325).exe",
+                    "size": "942344"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "thymesia_artbook.zip",
+                    "size": "832949832"
+                },
+                {
+                    "name": "thymesia_soundtrack.zip",
+                    "size": "528833019"
+                },
+                {
+                    "name": "wallpapers.zip",
+                    "size": "517270"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5051EDC410",
+                            "link": "https://filecrypt.cc/Container/5051EDC410"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/20F8DF1FE1",
+                            "link": "https://filecrypt.cc/Container/20F8DF1FE1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/80B541C918",
+                            "link": "https://filecrypt.cc/Container/80B541C918"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/74EAA709DC",
+                            "link": "https://filecrypt.cc/Container/74EAA709DC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8E893DC751",
+                            "link": "https://filecrypt.cc/Container/8E893DC751"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/34FE06EA76",
+                            "link": "https://filecrypt.cc/Container/34FE06EA76"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

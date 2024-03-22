@@ -1,0 +1,83 @@
+{
+    "href": "/game/field_of_glory_empires",
+    "MSG": {
+        "id": "1193470625",
+        "title": "Field of Glory: Empires",
+        "slug": "field_of_glory_empires",
+        "thumb_id": "219a5f75bb49609bab07d589cbae9b8d0eaa9095079e8b17c3b3915ff48c1cf4",
+        "bg_id": "24d364d1c99397d32ee982f82eeac94ba2317a705d245c91667ee1b3a84f4337",
+        "url": "https://www.gog.com/game/field_of_glory_empires",
+        "developer": "Ageod",
+        "publisher": "Slitherine Ltd.",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1703489300",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_field_of_glory_empires_-_persia_550-330_bce_1.3.9.0_(47223).exe",
+                    "size": "6084640"
+                },
+                {
+                    "name": "setup_field_of_glory_empires_1.3.9.0_(47223).exe",
+                    "size": "1353291136"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D81A28BA4D",
+                            "link": "https://filecrypt.cc/Container/D81A28BA4D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CEB57B4639",
+                            "link": "https://filecrypt.cc/Container/CEB57B4639"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/26676BB207",
+                            "link": "https://filecrypt.cc/Container/26676BB207"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F52DF6B048",
+                            "link": "https://filecrypt.cc/Container/F52DF6B048"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

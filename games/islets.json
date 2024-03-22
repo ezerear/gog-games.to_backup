@@ -1,0 +1,57 @@
+{
+    "href": "/game/islets",
+    "MSG": {
+        "id": "1277129814",
+        "title": "Islets",
+        "slug": "islets",
+        "thumb_id": "776626a5a75e2fca22a03d1f8ad625fc8335fe35e971220dc765570ace012942",
+        "bg_id": "80c312d5257f97455e7b872ccffa30b7f48e28fa4866b63cac10bb0802a5075e",
+        "url": "https://www.gog.com/en/game/islets",
+        "developer": "Kyle Thompson",
+        "publisher": "Armor Games Studios",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709514165",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_islets_1.03_(60929).exe",
+                    "size": "468263312"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A26133691A",
+                            "link": "https://filecrypt.cc/Container/A26133691A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D368FC9D50",
+                            "link": "https://filecrypt.cc/Container/D368FC9D50"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

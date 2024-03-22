@@ -1,0 +1,72 @@
+{
+    "href": "/game/distant_kingdoms",
+    "MSG": {
+        "id": "1684671173",
+        "title": "Distant Kingdoms",
+        "slug": "distant_kingdoms",
+        "thumb_id": "99124adfa9358a80fe1277d88045431b3ec251e5d38a01d717e5337bb1f6815b",
+        "bg_id": "0e114702ed42f585f17532bff053f608e48ac979a7e25e33fb9754da560e09be",
+        "url": "https://www.gog.com/game/distant_kingdoms",
+        "developer": "Orthrus Studios",
+        "publisher": "Kasedo Games",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1709376557",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_distant_kingdoms_12153_(british_english_64bit)_(48903)-1.bin",
+                    "size": "2114354555"
+                },
+                {
+                    "name": "setup_distant_kingdoms_12153_(british_english_64bit)_(48903).exe",
+                    "size": "1259272"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/25B16FDB02",
+                            "link": "https://filecrypt.cc/Container/25B16FDB02"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/58F8780064",
+                            "link": "https://filecrypt.cc/Container/58F8780064"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EAA374388C",
+                            "link": "https://filecrypt.cc/Container/EAA374388C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

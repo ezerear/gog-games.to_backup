@@ -1,0 +1,131 @@
+{
+    "href": "/game/ad_infinitum",
+    "MSG": {
+        "id": "1153685570",
+        "title": "Ad Infinitum",
+        "slug": "ad_infinitum",
+        "thumb_id": "0fc8c5c8544d920a07326f23d58157d0ab52f3cd0523f63a6c802342e0170156",
+        "bg_id": "1cddce379b2f990e0a558b4e5bd6be1ef47a40a7a630564781524c706f8b7043",
+        "url": "https://www.gog.com/en/game/ad_infinitum",
+        "developer": "Hekate",
+        "publisher": "",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708830587",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_ad_infinitum_1.0.8.271534_(71366)-1.bin",
+                    "size": "4293858302"
+                },
+                {
+                    "name": "setup_ad_infinitum_1.0.8.271534_(71366)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_ad_infinitum_1.0.8.271534_(71366)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_ad_infinitum_1.0.8.271534_(71366)-4.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_ad_infinitum_1.0.8.271534_(71366)-5.bin",
+                    "size": "4087924538"
+                },
+                {
+                    "name": "setup_ad_infinitum_1.0.8.271534_(71366).exe",
+                    "size": "1116128"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "ad_infinitum_digital_artbook.zip",
+                    "size": "26599793"
+                },
+                {
+                    "name": "ad_infinitum_soundtrack_mp3.zip",
+                    "size": "98662845"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AE45F3CF53",
+                            "link": "https://filecrypt.cc/Container/AE45F3CF53"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B0AD78F0DB",
+                            "link": "https://filecrypt.cc/Container/B0AD78F0DB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1C27010EB1",
+                            "link": "https://filecrypt.cc/Container/1C27010EB1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5398F1C502",
+                            "link": "https://filecrypt.cc/Container/5398F1C502"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DEEEB1DE93",
+                            "link": "https://filecrypt.cc/Container/DEEEB1DE93"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6CC6AB53D6",
+                            "link": "https://filecrypt.cc/Container/6CC6AB53D6"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

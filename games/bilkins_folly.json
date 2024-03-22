@@ -1,0 +1,68 @@
+{
+    "href": "/game/bilkins_folly",
+    "MSG": {
+        "id": "1931104241",
+        "title": "Bilkins' Folly",
+        "slug": "bilkins_folly",
+        "thumb_id": "83fc276f30bb5aa53e9b932f2553974bb118e855045bcb0be6c74884169d79c8",
+        "bg_id": "5b75684dad0406163d9af3feeecfddd655eb8af21d169d894088ef350d1275fd",
+        "url": "https://www.gog.com/en/game/bilkins_folly",
+        "developer": "Webbysoft",
+        "publisher": "Armor Games Studios",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710472094",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_bilkins_folly_1.0.37_(64bit)_(68906).exe",
+                    "size": "512627256"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9B884F002B",
+                            "link": "https://filecrypt.cc/Container/9B884F002B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E913B06AD1",
+                            "link": "https://filecrypt.cc/Container/E913B06AD1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6FABBF1564",
+                            "link": "https://filecrypt.cc/Container/6FABBF1564"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

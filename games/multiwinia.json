@@ -1,0 +1,127 @@
+{
+    "href": "/game/multiwinia",
+    "MSG": {
+        "id": "1207659074",
+        "title": "Multiwinia",
+        "slug": "multiwinia",
+        "thumb_id": "bac4bc7625d78e767a9f02324b86bbd0dbd7c8031f594de099319cfa7b261ac6",
+        "bg_id": "ab193a0c00592702f809ffefd6e563d77e16ef0409138355e8ccec35d00e2dfa",
+        "url": "https://www.gog.com/game/multiwinia",
+        "developer": "Introversion Software",
+        "publisher": "Introversion Software",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710532499",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_multiwinia_2.0.0.11.exe",
+                    "size": "60081232"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "multiwinia_artworks.zip",
+                    "size": "1383129"
+                },
+                {
+                    "name": "multiwinia_avatars.zip",
+                    "size": "164501"
+                },
+                {
+                    "name": "multiwinia_developer_photos.zip",
+                    "size": "9510235"
+                },
+                {
+                    "name": "multiwinia_manual.zip",
+                    "size": "778326"
+                },
+                {
+                    "name": "multiwinia_soundtrack.zip",
+                    "size": "17513533"
+                },
+                {
+                    "name": "multiwinia_wallpaper.zip",
+                    "size": "5017560"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/118E312C06",
+                            "link": "https://filecrypt.cc/Container/118E312C06"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/213DB3BD45",
+                            "link": "https://filecrypt.cc/Container/213DB3BD45"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C3C9522A5E",
+                            "link": "https://filecrypt.cc/Container/C3C9522A5E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DB96404578",
+                            "link": "https://filecrypt.cc/Container/DB96404578"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/773C02B4A8",
+                            "link": "https://filecrypt.cc/Container/773C02B4A8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/65DB0DCEB0",
+                            "link": "https://filecrypt.cc/Container/65DB0DCEB0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

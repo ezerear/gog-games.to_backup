@@ -1,0 +1,93 @@
+{
+    "href": "/game/hiveswap",
+    "MSG": {
+        "id": "1980612837",
+        "title": "HIVESWAP: Act 1",
+        "slug": "hiveswap",
+        "thumb_id": "8b5f9041b0d45618abce19c762a432440738ef806002b3d31f4c05d649d989a0",
+        "bg_id": "9a9e7233b7e0619a6eb263786cb1ba97820fc741279eb8c9b79d817376cdfbee",
+        "url": "https://www.gog.com/game/hiveswap",
+        "developer": "What Pumpkin Games, Inc.",
+        "publisher": "What Pumpkin Games, Inc.",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708825923",
+        "votes": "1",
+        "files": false,
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9B3E346EDE",
+                            "link": "https://filecrypt.cc/Container/9B3E346EDE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ACA0EC684B",
+                            "link": "https://filecrypt.cc/Container/ACA0EC684B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4AE6377D71",
+                            "link": "https://filecrypt.cc/Container/4AE6377D71"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F014712387",
+                            "link": "https://filecrypt.cc/Container/F014712387"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1E0D637AF0",
+                            "link": "https://filecrypt.cc/Container/1E0D637AF0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3FC1A07CD0",
+                            "link": "https://filecrypt.cc/Container/3FC1A07CD0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,72 @@
+{
+    "href": "/game/grow_song_of_the_evertree",
+    "MSG": {
+        "id": "1524366985",
+        "title": "Grow: Song of the Evertree",
+        "slug": "grow_song_of_the_evertree",
+        "thumb_id": "008425f7d2f0ec3f3a57fe862dde9b4641853ef70c523126b1fe24a518b36850",
+        "bg_id": "41895b3ca9e85c00c55df93bf7af2318c4e6f9955fce5b090b79b59c8e5eee68",
+        "url": "https://www.gog.com/en/game/grow_song_of_the_evertree",
+        "developer": "Prideful Sloth",
+        "publisher": "505 Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708666027",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_grow_song_of_the_evertree_1.0.6.3369_(64bit)_(54063)-1.bin",
+                    "size": "1828565706"
+                },
+                {
+                    "name": "setup_grow_song_of_the_evertree_1.0.6.3369_(64bit)_(54063).exe",
+                    "size": "1685064"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AC9E285BCD",
+                            "link": "https://filecrypt.cc/Container/AC9E285BCD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/26DB2FF2EF",
+                            "link": "https://filecrypt.cc/Container/26DB2FF2EF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AB21455F42",
+                            "link": "https://filecrypt.cc/Container/AB21455F42"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

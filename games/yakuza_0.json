@@ -1,0 +1,92 @@
+{
+    "href": "/game/yakuza_0",
+    "MSG": {
+        "id": "1103602225",
+        "title": "Yakuza 0",
+        "slug": "yakuza_0",
+        "thumb_id": "3068ae07ebae3a8da440b3cc8ba336afd10564b36e4bd734b6f3c846dd28a9e4",
+        "bg_id": "0362920862bcb91517eb589a6596a8d6c2e2b12a56866ba4d3525d964c5fe7da",
+        "url": "https://www.gog.com/en/game/yakuza_0",
+        "developer": "Ryu Ga Gotoku Studio",
+        "publisher": "SEGA",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708951938",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_yakuza_0_1.015a_(64bit)_(65329)-1.bin",
+                    "size": "4293386238"
+                },
+                {
+                    "name": "setup_yakuza_0_1.015a_(64bit)_(65329)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_yakuza_0_1.015a_(64bit)_(65329)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_yakuza_0_1.015a_(64bit)_(65329)-4.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_yakuza_0_1.015a_(64bit)_(65329)-5.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_yakuza_0_1.015a_(64bit)_(65329)-6.bin",
+                    "size": "1650144566"
+                },
+                {
+                    "name": "setup_yakuza_0_1.015a_(64bit)_(65329).exe",
+                    "size": "1591016"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7FE5B7495D",
+                            "link": "https://filecrypt.cc/Container/7FE5B7495D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/173CC499E7",
+                            "link": "https://filecrypt.cc/Container/173CC499E7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EE27D9A70B",
+                            "link": "https://filecrypt.cc/Container/EE27D9A70B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,94 @@
+{
+    "href": "/game/the_last_worker",
+    "MSG": {
+        "id": "1657481467",
+        "title": "The Last Worker",
+        "slug": "the_last_worker",
+        "thumb_id": "306596b711a4b483b42d8ad4fac041e1e15fc32468556d8542c6f052aa0b973d",
+        "bg_id": "b28241faea67e3834253893fb77e53622ca2ed08ad18785645e0d217f0ca399a",
+        "url": "https://www.gog.com/game/the_last_worker",
+        "developer": "Oiffy, Wolf & Wood Interactive Ltd",
+        "publisher": "Wired Productions",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707043761",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_last_worker_1.0.11_(64142)-1.bin",
+                    "size": "2775946843"
+                },
+                {
+                    "name": "setup_the_last_worker_1.0.11_(64142).exe",
+                    "size": "951656"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9070112E71",
+                            "link": "https://filecrypt.cc/Container/9070112E71"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/609BEF9088",
+                            "link": "https://filecrypt.cc/Container/609BEF9088"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EF048A2E3D",
+                            "link": "https://filecrypt.cc/Container/EF048A2E3D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B75B5D4DC4",
+                            "link": "https://filecrypt.cc/Container/B75B5D4DC4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/87E377528D",
+                            "link": "https://filecrypt.cc/Container/87E377528D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

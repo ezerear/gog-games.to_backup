@@ -1,0 +1,72 @@
+{
+    "href": "/game/monster_prom",
+    "MSG": {
+        "id": "1507139900",
+        "title": "Monster Prom",
+        "slug": "monster_prom",
+        "thumb_id": "136218665de33cf9ec4e11c92c58f7431e9d017cc44cc21e033c2fcc3719eb14",
+        "bg_id": "f6bb2145807a71d0c3f93df763be369bd492996608badae10b03e12dfefdd304",
+        "url": "https://www.gog.com/game/monster_prom",
+        "developer": "Beautiful Glitch",
+        "publisher": "Those Awesome Guys",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1708926762",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_monster_prom_second_term_v6.8b_(71315).exe",
+                    "size": "6305256"
+                },
+                {
+                    "name": "setup_monster_prom_v6.8b_(71315).exe",
+                    "size": "1128913136"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0201D7C750",
+                            "link": "https://filecrypt.cc/Container/0201D7C750"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7547D41D00",
+                            "link": "https://filecrypt.cc/Container/7547D41D00"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2B7E58D15C",
+                            "link": "https://filecrypt.cc/Container/2B7E58D15C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

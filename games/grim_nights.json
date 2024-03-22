@@ -1,0 +1,68 @@
+{
+    "href": "/game/grim_nights",
+    "MSG": {
+        "id": "1555611256",
+        "title": "Grim Nights",
+        "slug": "grim_nights",
+        "thumb_id": "d66dbf197f6c2649d258a3ceebab07934a0a914b678d51d4d4236197b5dabbee",
+        "bg_id": "92b051d866a919f4fb030a8775e49eab24d76e4cf0d4cb042ba55310d9609853",
+        "url": "https://www.gog.com/en/game/grim_nights",
+        "developer": "Edym Pixels",
+        "publisher": "Edym Pixels",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710873924",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_grim_nights_1.3.3.6_(67546).exe",
+                    "size": "916307016"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/159D3B541A",
+                            "link": "https://filecrypt.cc/Container/159D3B541A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0452080DC1",
+                            "link": "https://filecrypt.cc/Container/0452080DC1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/18895213B4",
+                            "link": "https://filecrypt.cc/Container/18895213B4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

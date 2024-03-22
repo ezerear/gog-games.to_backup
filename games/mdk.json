@@ -1,0 +1,127 @@
+{
+    "href": "/game/mdk",
+    "MSG": {
+        "id": "6",
+        "title": "MDK",
+        "slug": "mdk",
+        "thumb_id": "c02a5a3b627f4682a672f14b716334a9b37acc554308852396c3b6fc89ee405d",
+        "bg_id": "e1b2c24a959b9b238edbd00a88b08361084d198c4f6084221c6ab0b5486c0106",
+        "url": "https://www.gog.com/game/mdk",
+        "developer": "Shiny Entertainment",
+        "publisher": "Interplay",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710495323",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_mdk_1.0_hotfix_(56405).exe",
+                    "size": "210538304"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "mdk_avatar.zip",
+                    "size": "26664"
+                },
+                {
+                    "name": "mdk_making_of_booklet.zip",
+                    "size": "23355549"
+                },
+                {
+                    "name": "mdk_making_of_deutsch.zip",
+                    "size": "18175199"
+                },
+                {
+                    "name": "mdk_manual.zip",
+                    "size": "402599"
+                },
+                {
+                    "name": "mdk_soundtrack.zip",
+                    "size": "81953061"
+                },
+                {
+                    "name": "mdk_wallpaper.zip",
+                    "size": "9341612"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0CF5A59CDB",
+                            "link": "https://filecrypt.cc/Container/0CF5A59CDB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/044060CC7E",
+                            "link": "https://filecrypt.cc/Container/044060CC7E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/62B78E9F5E",
+                            "link": "https://filecrypt.cc/Container/62B78E9F5E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4EE3CA8E4C",
+                            "link": "https://filecrypt.cc/Container/4EE3CA8E4C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A774517549",
+                            "link": "https://filecrypt.cc/Container/A774517549"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/02AB6FEFAA",
+                            "link": "https://filecrypt.cc/Container/02AB6FEFAA"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

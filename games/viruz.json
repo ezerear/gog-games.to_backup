@@ -1,0 +1,79 @@
+{
+    "href": "/game/viruz",
+    "MSG": {
+        "id": "2110612731",
+        "title": "ViruZ",
+        "slug": "viruz",
+        "thumb_id": "d00eb9e05359bb7ced8b7446421df7bd11ceeaab9c514b83c167d026594d83b5",
+        "bg_id": "39c07a1751c30582a52bdbad28eaf92dfff1f78b08c081c658074bbaec4aed44",
+        "url": "https://www.gog.com/en/game/viruz",
+        "developer": "BigBread",
+        "publisher": "",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1683889445",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_viruz_1.01_(62413).exe",
+                    "size": "205537608"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7E7A7854A1",
+                            "link": "https://filecrypt.cc/Container/7E7A7854A1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8294071C5A",
+                            "link": "https://filecrypt.cc/Container/8294071C5A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C6BE27016B",
+                            "link": "https://filecrypt.cc/Container/C6BE27016B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/54F724E5D4",
+                            "link": "https://filecrypt.cc/Container/54F724E5D4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

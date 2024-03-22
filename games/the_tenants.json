@@ -1,0 +1,72 @@
+{
+    "href": "/game/the_tenants",
+    "MSG": {
+        "id": "1511514579",
+        "title": "The Tenants",
+        "slug": "the_tenants",
+        "thumb_id": "d1d44a07161be97c1296a0f83ef56f406f6958220cfdb224e0516a43f41b4ba0",
+        "bg_id": "88dba001afe6b70eede26c45d2f4c2f171e83587b8a0face286a06ee146ea5c6",
+        "url": "https://www.gog.com/game/the_tenants",
+        "developer": "Ancient Forge Studio",
+        "publisher": "Frozen District",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710084791",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_tenants_-_pets_dlc_1.2.9_(67726).exe",
+                    "size": "5736008"
+                },
+                {
+                    "name": "setup_the_tenants_1.2.9_(67726).exe",
+                    "size": "1487643640"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C97EE4BD6C",
+                            "link": "https://filecrypt.cc/Container/C97EE4BD6C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F4070EC3F3",
+                            "link": "https://filecrypt.cc/Container/F4070EC3F3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/46F0ACC332",
+                            "link": "https://filecrypt.cc/Container/46F0ACC332"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

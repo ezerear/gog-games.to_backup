@@ -1,0 +1,71 @@
+{
+    "href": "/game/witcher_adventure_game",
+    "MSG": {
+        "id": "1207666883",
+        "title": "The Witcher Adventure Game",
+        "slug": "witcher_adventure_game",
+        "thumb_id": "5bc58089e14771de0c1b872c529c8b8b150b87fe28c7e4db1856389526849bb3",
+        "bg_id": "500832686c8d52e5567f1226b7785ef582efb8bf9d6b351f7a539f39c7fb3a9d",
+        "url": "https://www.gog.com/game/witcher_adventure_game",
+        "developer": "Can Explode",
+        "publisher": "CD PROJEKT RED",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709280380",
+        "votes": "1",
+        "files": false,
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/67C6554135",
+                            "link": "https://filecrypt.cc/Container/67C6554135"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D11003D582",
+                            "link": "https://filecrypt.cc/Container/D11003D582"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/572592DDFE",
+                            "link": "https://filecrypt.cc/Container/572592DDFE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/20D70CADC2",
+                            "link": "https://filecrypt.cc/Container/20D70CADC2"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

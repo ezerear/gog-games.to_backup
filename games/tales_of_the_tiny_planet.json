@@ -1,0 +1,101 @@
+{
+    "href": "/game/tales_of_the_tiny_planet",
+    "MSG": {
+        "id": "1394311225",
+        "title": "Tales of the Tiny Planet",
+        "slug": "tales_of_the_tiny_planet",
+        "thumb_id": "e97f299b48ee922233550b0c3eccc49f386cc4adebdc1eac631598ea5fccac6d",
+        "bg_id": "f0d3d232055ac58acae1213cc1aa7008c077b0ab3aa1f3eed20401259d6ac560",
+        "url": "https://www.gog.com/en/game/tales_of_the_tiny_planet",
+        "developer": "Pixelsplit",
+        "publisher": "Pixelsplit",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1701481313",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tales_of_the_tiny_planet_1.2.1.1_(64bit)_(68726).exe",
+                    "size": "80531816"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3E08C06515",
+                            "link": "https://filecrypt.cc/Container/3E08C06515"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/060AC05438",
+                            "link": "https://filecrypt.cc/Container/060AC05438"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D30EBEFA3A",
+                            "link": "https://filecrypt.cc/Container/D30EBEFA3A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9E0364658B",
+                            "link": "https://filecrypt.cc/Container/9E0364658B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1D1057EAB1",
+                            "link": "https://filecrypt.cc/Container/1D1057EAB1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D8085E9DE1",
+                            "link": "https://filecrypt.cc/Container/D8085E9DE1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

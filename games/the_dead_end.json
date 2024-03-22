@@ -1,0 +1,59 @@
+{
+    "href": "/game/the_dead_end",
+    "MSG": {
+        "id": "1842662827",
+        "title": "The Dead End",
+        "slug": "the_dead_end",
+        "thumb_id": "01a4e784c8fe610fb46b547d69c3f67a5d3acdb8b552c37e8b5036fefb481503",
+        "bg_id": "e41ee51cbbf968e9f3904854a110ea02ea5f03c596c98fcfdb79a1627466bfd9",
+        "url": "https://www.gog.com/en/game/the_dead_end",
+        "developer": "P.+",
+        "publisher": "Kagura Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708719218",
+        "votes": "1",
+        "files": false,
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AA94DB583D",
+                            "link": "https://filecrypt.cc/Container/AA94DB583D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/21ED64555D",
+                            "link": "https://filecrypt.cc/Container/21ED64555D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/16885FA626",
+                            "link": "https://filecrypt.cc/Container/16885FA626"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

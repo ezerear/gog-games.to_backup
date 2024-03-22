@@ -1,0 +1,84 @@
+{
+    "href": "/game/curious_expedition_2",
+    "MSG": {
+        "id": "1090287940",
+        "title": "Curious Expedition 2",
+        "slug": "curious_expedition_2",
+        "thumb_id": "47b34c05b7b32bed288faa711f8082b1f604391f39483237036895775d09eee0",
+        "bg_id": "b5e95c5305f2a412c4e6262d351046159c3a58550e87ea420e72781db32ee289",
+        "url": "https://www.gog.com/en/game/curious_expedition_2",
+        "developer": "Maschinen-Mensch",
+        "publisher": "Thunderful Publishing",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708515694",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_curious_expedition_2_-_highlands_of_avalon_ce2-build-win64-release-1816_(64bit)_(59772).exe",
+                    "size": "138817256"
+                },
+                {
+                    "name": "setup_curious_expedition_2_-_robots_of_lux_ce2-build-win64-release-1816_(64bit)_(59772).exe",
+                    "size": "50425200"
+                },
+                {
+                    "name": "setup_curious_expedition_2_-_shores_of_taishi_ce2-build-win64-release-1816_(64bit)_(59772).exe",
+                    "size": "222662928"
+                },
+                {
+                    "name": "setup_curious_expedition_2_ce2-build-win64-release-1816_(64bit)_(59772)-1.bin",
+                    "size": "1878911192"
+                },
+                {
+                    "name": "setup_curious_expedition_2_ce2-build-win64-release-1816_(64bit)_(59772).exe",
+                    "size": "874520"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/23417D0BB2",
+                            "link": "https://filecrypt.cc/Container/23417D0BB2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/282D8B97B8",
+                            "link": "https://filecrypt.cc/Container/282D8B97B8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/82707681B5",
+                            "link": "https://filecrypt.cc/Container/82707681B5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/kunai",
+    "MSG": {
+        "id": "1646418866",
+        "title": "KUNAI",
+        "slug": "kunai",
+        "thumb_id": "45b6486075f6523570dbc34a69e99af0ca7f9b6b68988e8c30d2b9411d394c6e",
+        "bg_id": "2946ceaa0498cb578da0abdc039655d052b0897c8c88aa0b48e39a17f0a1d90b",
+        "url": "https://www.gog.com/game/kunai",
+        "developer": "TurtleBlaze",
+        "publisher": "The Arcade Crew",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709768564",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_kunai_1.0.4_(37474).exe",
+                    "size": "541701872"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/47C6C978F7",
+                            "link": "https://filecrypt.cc/Container/47C6C978F7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/94930B0AF7",
+                            "link": "https://filecrypt.cc/Container/94930B0AF7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5F1209ACA8",
+                            "link": "https://filecrypt.cc/Container/5F1209ACA8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

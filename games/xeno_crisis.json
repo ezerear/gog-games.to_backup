@@ -1,0 +1,68 @@
+{
+    "href": "/game/xeno_crisis",
+    "MSG": {
+        "id": "1955095293",
+        "title": "Xeno Crisis",
+        "slug": "xeno_crisis",
+        "thumb_id": "3c4b73c409365f4510698ac5e2c2e080f5d7a06ec375f12855047d4a19213a13",
+        "bg_id": "689a89aac014bcb26a27d26b92170d31c7fc4b1232ccaacab1c992a3620c280d",
+        "url": "https://www.gog.com/game/xeno_crisis",
+        "developer": "Bitmap Bureau",
+        "publisher": "Bitmap Bureau",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710534178",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_xeno_crisis_1.0.4_(64bit)_(36061).exe",
+                    "size": "169744608"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/613DD36C19",
+                            "link": "https://filecrypt.cc/Container/613DD36C19"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0F5F218C70",
+                            "link": "https://filecrypt.cc/Container/0F5F218C70"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/901F248A3A",
+                            "link": "https://filecrypt.cc/Container/901F248A3A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

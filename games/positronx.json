@@ -1,0 +1,76 @@
+{
+    "href": "/game/positronx",
+    "MSG": {
+        "id": "1192296544",
+        "title": "PositronX",
+        "slug": "positronx",
+        "thumb_id": "00bc4f70b2bad294a336a80380e2c272f4e035070552edd6d2862909ceabada5",
+        "bg_id": "3db3bd25870e9013c5ecef3b6680204ab9db2c8a35ae7123e0b3e6f8ff805544",
+        "url": "https://www.gog.com/game/positronx",
+        "developer": "Scorpius Games",
+        "publisher": "Scorpius Games",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1705157467",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_positronx_1.0.1_(64bit)_(42332)-1.bin",
+                    "size": "4291510270"
+                },
+                {
+                    "name": "setup_positronx_1.0.1_(64bit)_(42332)-2.bin",
+                    "size": "1912120332"
+                },
+                {
+                    "name": "setup_positronx_1.0.1_(64bit)_(42332).exe",
+                    "size": "3464040"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FC44D4E360",
+                            "link": "https://filecrypt.cc/Container/FC44D4E360"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1DD264C6A3",
+                            "link": "https://filecrypt.cc/Container/1DD264C6A3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EB4814627D",
+                            "link": "https://filecrypt.cc/Container/EB4814627D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

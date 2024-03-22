@@ -1,0 +1,111 @@
+{
+    "href": "/game/the_curse_of_monkey_island",
+    "MSG": {
+        "id": "1528148981",
+        "title": "The Curse of Monkey Island™",
+        "slug": "the_curse_of_monkey_island",
+        "thumb_id": "a2664e3e4746bfaa705e1cc68b8015a2a0de4a8c76c56223c43274ffa78d7f21",
+        "bg_id": "c54960c22cda3c972d50a12cc6ab314aa117747e49d28ccf44550ce1e6ff7d8b",
+        "url": "https://www.gog.com/game/the_curse_of_monkey_island",
+        "developer": "LucasArts",
+        "publisher": "Disney",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710482347",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_curse_of_monkey_islandtm_1.0l_(20628)-1.bin",
+                    "size": "1008917536"
+                },
+                {
+                    "name": "setup_the_curse_of_monkey_islandtm_1.0l_(20628).exe",
+                    "size": "750488"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "curse_of_monkey_island_manual.zip",
+                    "size": "10566636"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/490B84303F",
+                            "link": "https://filecrypt.cc/Container/490B84303F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FC98098F8C",
+                            "link": "https://filecrypt.cc/Container/FC98098F8C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1B88A6C7C7",
+                            "link": "https://filecrypt.cc/Container/1B88A6C7C7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EBD269B5CB",
+                            "link": "https://filecrypt.cc/Container/EBD269B5CB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5D380C1648",
+                            "link": "https://filecrypt.cc/Container/5D380C1648"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/07F4DBF81F",
+                            "link": "https://filecrypt.cc/Container/07F4DBF81F"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

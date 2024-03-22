@@ -1,0 +1,76 @@
+{
+    "href": "/game/bee_simulator",
+    "MSG": {
+        "id": "1787679429",
+        "title": "Bee Simulator",
+        "slug": "bee_simulator",
+        "thumb_id": "7faf10bc68e993a991c3f555daaea1735f8b0d3132a385d8a965c1ec636ab433",
+        "bg_id": "f053a9605fec38d92af7969b1be00c4739b6db8d83c77caf16bb45673b113273",
+        "url": "https://www.gog.com/en/game/bee_simulator",
+        "developer": "VARSAV Game Studios",
+        "publisher": "Nacon",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1704679812",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_bee_simulator_1.0_(55451)-1.bin",
+                    "size": "4284640766"
+                },
+                {
+                    "name": "setup_bee_simulator_1.0_(55451)-2.bin",
+                    "size": "1908424226"
+                },
+                {
+                    "name": "setup_bee_simulator_1.0_(55451).exe",
+                    "size": "10335296"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/210355A283",
+                            "link": "https://filecrypt.cc/Container/210355A283"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A3728C9C59",
+                            "link": "https://filecrypt.cc/Container/A3728C9C59"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A92E97824F",
+                            "link": "https://filecrypt.cc/Container/A92E97824F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

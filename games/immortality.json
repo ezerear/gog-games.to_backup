@@ -1,0 +1,96 @@
+{
+    "href": "/game/immortality",
+    "MSG": {
+        "id": "2070887279",
+        "title": "IMMORTALITY",
+        "slug": "immortality",
+        "thumb_id": "87edcaf10a0a69a95cfa5c60995f13bb77d053828ec8f94d452601adead2ccc9",
+        "bg_id": "a86fe5a79f887ca835dcfc2d167282be8bdd571bae05b985cef7b470af0b334e",
+        "url": "https://www.gog.com/en/game/immortality",
+        "developer": "Half Mermaid",
+        "publisher": "Half Mermaid",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710497843",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_immortality_1.3_(64bit)_(64842)-1.bin",
+                    "size": "4293834750"
+                },
+                {
+                    "name": "setup_immortality_1.3_(64bit)_(64842)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_immortality_1.3_(64bit)_(64842)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_immortality_1.3_(64bit)_(64842)-4.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_immortality_1.3_(64bit)_(64842)-5.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_immortality_1.3_(64bit)_(64842)-6.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_immortality_1.3_(64bit)_(64842)-7.bin",
+                    "size": "2098506743"
+                },
+                {
+                    "name": "setup_immortality_1.3_(64bit)_(64842).exe",
+                    "size": "1142712"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1005C3F1C3",
+                            "link": "https://filecrypt.cc/Container/1005C3F1C3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/63F99AB3D2",
+                            "link": "https://filecrypt.cc/Container/63F99AB3D2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/60CFC6CBD2",
+                            "link": "https://filecrypt.cc/Container/60CFC6CBD2"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

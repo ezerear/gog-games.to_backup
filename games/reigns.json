@@ -1,0 +1,119 @@
+{
+    "href": "/game/reigns",
+    "MSG": {
+        "id": "1677885333",
+        "title": "Reigns",
+        "slug": "reigns",
+        "thumb_id": "fd6180987559c4861d0433ec6ccb40de741c06a98c48b1f3361064d35dadbea5",
+        "bg_id": "ceab49a67140544209a3c89f661c1f920e21baf16ca6558fc36e335d69541bd4",
+        "url": "https://www.gog.com/game/reigns",
+        "developer": "Nerial",
+        "publisher": "Devolver Digital",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710344702",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_reigns_64_1.25_gog-3_(10889).exe",
+                    "size": "89880408"
+                },
+                {
+                    "name": "setup_reigns_collectors_edition_upgrade_1.25_gog-3_(10889).exe",
+                    "size": "59316648"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "reigns_companion_book.zip",
+                    "size": "824860"
+                },
+                {
+                    "name": "reigns_ost_flac.zip",
+                    "size": "65133638"
+                },
+                {
+                    "name": "reigns_ost_mp3.zip",
+                    "size": "55462618"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F4F9728DCD",
+                            "link": "https://filecrypt.cc/Container/F4F9728DCD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D972CE44A8",
+                            "link": "https://filecrypt.cc/Container/D972CE44A8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ECD63EA8BE",
+                            "link": "https://filecrypt.cc/Container/ECD63EA8BE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B4676D0BD6",
+                            "link": "https://filecrypt.cc/Container/B4676D0BD6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7087D64B63",
+                            "link": "https://filecrypt.cc/Container/7087D64B63"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1DFD571C06",
+                            "link": "https://filecrypt.cc/Container/1DFD571C06"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

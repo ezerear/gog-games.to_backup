@@ -1,0 +1,68 @@
+{
+    "href": "/game/lazy_galaxy_2",
+    "MSG": {
+        "id": "1421918286",
+        "title": "Lazy Galaxy 2",
+        "slug": "lazy_galaxy_2",
+        "thumb_id": "83f8bda9764cd81f307de5b6de017679e9eb30daf441e8db093ad4c98ed59a7d",
+        "bg_id": "8444a0e675d02c03a417c94dd566fc0bba809f70fd81914464bd8481495e61fe",
+        "url": "https://www.gog.com/en/game/lazy_galaxy_2",
+        "developer": "Coldwild Games",
+        "publisher": "Coldwild Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709522919",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_lazy_galaxy_2_1.0.0_(70265).exe",
+                    "size": "56440968"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/23E796EFCD",
+                            "link": "https://filecrypt.cc/Container/23E796EFCD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/681543AECF",
+                            "link": "https://filecrypt.cc/Container/681543AECF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/54052D0131",
+                            "link": "https://filecrypt.cc/Container/54052D0131"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

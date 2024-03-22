@@ -1,0 +1,94 @@
+{
+    "href": "/game/filthy_us_complete_edition",
+    "MSG": {
+        "id": "1989102319",
+        "title": "Filthy Us: Complete Edition",
+        "slug": "filthy_us_complete_edition",
+        "thumb_id": "de9d193d259bc0623597933613a0058bf4094e6ec74dc6a2b1eb9f7d1f99ce1a",
+        "bg_id": "3512ad01d922fbc7334c4293e418efb1edc0d800e0fb789f80472431a0158785",
+        "url": "https://www.gog.com/en/game/filthy_us_complete_edition",
+        "developer": "Game Logic Studio",
+        "publisher": "MediBang Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1698871397",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_filthy_us_2_1.0_(64bit)_(68306)-1.bin",
+                    "size": "2235975262"
+                },
+                {
+                    "name": "setup_filthy_us_2_1.0_(64bit)_(68306).exe",
+                    "size": "942712"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4FDCEB91ED",
+                            "link": "https://filecrypt.cc/Container/4FDCEB91ED"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/044EB71530",
+                            "link": "https://filecrypt.cc/Container/044EB71530"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1A299BD961",
+                            "link": "https://filecrypt.cc/Container/1A299BD961"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C19ED49443",
+                            "link": "https://filecrypt.cc/Container/C19ED49443"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DB92BC2E3E",
+                            "link": "https://filecrypt.cc/Container/DB92BC2E3E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

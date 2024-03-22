@@ -1,0 +1,119 @@
+{
+    "href": "/game/planet_nomads",
+    "MSG": {
+        "id": "1403945378",
+        "title": "Planet Nomads",
+        "slug": "planet_nomads",
+        "thumb_id": "38f182e09437a2495aa199a28a81c68eaf5ce9fa16f0404160d8e49810b2768b",
+        "bg_id": "2a8d2a8f8b975e4a8a7a45ac14e54b5d9ff190b7f7d2f4decfe3b2f2430118d7",
+        "url": "https://www.gog.com/game/planet_nomads",
+        "developer": "Craneballs",
+        "publisher": "Craneballs",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709059503",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_planet_nomads_1.0.7.2_(44440)-1.bin",
+                    "size": "1913641237"
+                },
+                {
+                    "name": "setup_planet_nomads_1.0.7.2_(44440).exe",
+                    "size": "904760"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "planet_nomads_soundtrack_flac.zip",
+                    "size": "703172132"
+                },
+                {
+                    "name": "planet_nomads_soundtrack_mp3.zip",
+                    "size": "171254208"
+                },
+                {
+                    "name": "planet_nomads_wallpapers.zip",
+                    "size": "8573612"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/91506639AA",
+                            "link": "https://filecrypt.cc/Container/91506639AA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/01D8954DE4",
+                            "link": "https://filecrypt.cc/Container/01D8954DE4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/10A83A9FF7",
+                            "link": "https://filecrypt.cc/Container/10A83A9FF7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B655FB28C4",
+                            "link": "https://filecrypt.cc/Container/B655FB28C4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4D9E07211B",
+                            "link": "https://filecrypt.cc/Container/4D9E07211B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7133A38436",
+                            "link": "https://filecrypt.cc/Container/7133A38436"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

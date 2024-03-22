@@ -1,0 +1,105 @@
+{
+    "href": "/game/deponia_doomsday",
+    "MSG": {
+        "id": "1439969610",
+        "title": "Deponia 4: Deponia Doomsday",
+        "slug": "deponia_doomsday",
+        "thumb_id": "0227764b25d04eab1b8d6f63f89c7abdab3adc8357405693e5af1e973b2e4716",
+        "bg_id": "456ddbd50c6bc282efc6c5a06d188ebb990e11b72fb6901ea84eb0f6dfcbbda3",
+        "url": "https://www.gog.com/game/deponia_doomsday",
+        "developer": "Daedalic Entertainment",
+        "publisher": "Daedalic Entertainment",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709775748",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_deponia_doomsday_1.2.0267_(15671)-1.bin",
+                    "size": "2879532199"
+                },
+                {
+                    "name": "setup_deponia_doomsday_1.2.0267_(15671).exe",
+                    "size": "776864"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "deponia_4_artbook_de.zip",
+                    "size": "64122786"
+                },
+                {
+                    "name": "deponia_4_artbook_en.zip",
+                    "size": "73480593"
+                },
+                {
+                    "name": "deponia_4_concept_art.zip",
+                    "size": "167128805"
+                },
+                {
+                    "name": "deponia_4_ost_flac.zip",
+                    "size": "297752130"
+                },
+                {
+                    "name": "deponia_4_ost_mp3.zip",
+                    "size": "86608427"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4F82393E22",
+                            "link": "https://filecrypt.cc/Container/4F82393E22"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E993A05FDB",
+                            "link": "https://filecrypt.cc/Container/E993A05FDB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DFDF70B58F",
+                            "link": "https://filecrypt.cc/Container/DFDF70B58F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D0D4B1D480",
+                            "link": "https://filecrypt.cc/Container/D0D4B1D480"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

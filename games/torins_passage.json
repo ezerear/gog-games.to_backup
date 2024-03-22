@@ -1,0 +1,100 @@
+{
+    "href": "/game/torins_passage",
+    "MSG": {
+        "id": "1207659044",
+        "title": "Torin's Passage",
+        "slug": "torins_passage",
+        "thumb_id": "63da946df7e7e0b4d2017967e05a61c6ebcb62f2be95bbcef0abc0c9722928dd",
+        "bg_id": "35e5c4619dc7e7b83f929f3b07e26641354ca5ea7cc4fed2d6336e499970a647",
+        "url": "https://www.gog.com/game/torins_passage",
+        "developer": "Sierra",
+        "publisher": "Activision",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708629699",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_torins_passage_1.0_(20240).exe",
+                    "size": "296725616"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "torins_passage_design_document.zip",
+                    "size": "442231"
+                },
+                {
+                    "name": "torins_passage_manual.zip",
+                    "size": "2563955"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0F67F2A986",
+                            "link": "https://filecrypt.cc/Container/0F67F2A986"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C2E4F7D98E",
+                            "link": "https://filecrypt.cc/Container/C2E4F7D98E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/19400BEB8C",
+                            "link": "https://filecrypt.cc/Container/19400BEB8C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/92A85DDB9C",
+                            "link": "https://filecrypt.cc/Container/92A85DDB9C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/702AF9FCF8",
+                            "link": "https://filecrypt.cc/Container/702AF9FCF8"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

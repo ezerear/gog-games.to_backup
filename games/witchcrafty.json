@@ -1,0 +1,68 @@
+{
+    "href": "/game/witchcrafty",
+    "MSG": {
+        "id": "2142201030",
+        "title": "Witchcrafty",
+        "slug": "witchcrafty",
+        "thumb_id": "5d77104bc4e871b8e2cdca9c74ecd3d58fb09e5b5f3b4619a1b4f0c67275dc8f",
+        "bg_id": "56b4c514451fa208506ffd553cbed7c9119e6d7aca71f132d578950dfd1a9a84",
+        "url": "https://www.gog.com/en/game/witchcrafty",
+        "developer": "PigeonDev",
+        "publisher": "",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709757252",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_witchcrafty_1.15_(64397).exe",
+                    "size": "88031072"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BE2D3ED8E9",
+                            "link": "https://filecrypt.cc/Container/BE2D3ED8E9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A7539CAC0B",
+                            "link": "https://filecrypt.cc/Container/A7539CAC0B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8FC531BC03",
+                            "link": "https://filecrypt.cc/Container/8FC531BC03"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

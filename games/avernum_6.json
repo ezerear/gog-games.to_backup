@@ -1,0 +1,119 @@
+{
+    "href": "/game/avernum_6",
+    "MSG": {
+        "id": "1207663443",
+        "title": "Avernum 6",
+        "slug": "avernum_6",
+        "thumb_id": "643a3a5ef350760f62750f3dcfd04694d3974ced5ea467b4bbde113d366fb924",
+        "bg_id": "afb87856cd1126fbcf6501dc4e76f1c7dec3e4c674423ab93dfff3babd3605ea",
+        "url": "https://www.gog.com/game/avernum_the_complete_saga",
+        "developer": "Spiderweb Software",
+        "publisher": "Spiderweb Software",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710955711",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_avernum6_2.1.0.4.exe",
+                    "size": "44542664"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "avernum_complete_artworks.zip",
+                    "size": "3834594"
+                },
+                {
+                    "name": "avernum_complete_avatars.zip",
+                    "size": "155250"
+                },
+                {
+                    "name": "avernum_complete_manuals.zip",
+                    "size": "4166277"
+                },
+                {
+                    "name": "avernum_complete_wallpapers.zip",
+                    "size": "6696510"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D3B2EBC721",
+                            "link": "https://filecrypt.cc/Container/D3B2EBC721"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D457111D0D",
+                            "link": "https://filecrypt.cc/Container/D457111D0D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D4043E43F2",
+                            "link": "https://filecrypt.cc/Container/D4043E43F2"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/27168D0E26",
+                            "link": "https://filecrypt.cc/Container/27168D0E26"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B41A4C8EDE",
+                            "link": "https://filecrypt.cc/Container/B41A4C8EDE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/53B1B11377",
+                            "link": "https://filecrypt.cc/Container/53B1B11377"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

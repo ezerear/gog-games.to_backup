@@ -1,0 +1,119 @@
+{
+    "href": "/game/scanner_sombre",
+    "MSG": {
+        "id": "1420469009",
+        "title": "Scanner Sombre",
+        "slug": "scanner_sombre",
+        "thumb_id": "871416bfc0c6293f10e691da0e20bfc792bc8854ead16315229b1285796358ca",
+        "bg_id": "e607ebeb717910ba93f86c411128a4a5ef387c9bfffa39a454b9041628027d4c",
+        "url": "https://www.gog.com/game/scanner_sombre",
+        "developer": "Introversion Software",
+        "publisher": "Introversion Software",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708711698",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_scanner_sombre_9142017_(15031)-1.bin",
+                    "size": "1789253189"
+                },
+                {
+                    "name": "setup_scanner_sombre_9142017_(15031).exe",
+                    "size": "778712"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "scanner_sombre_ost_flac.zip",
+                    "size": "170783535"
+                },
+                {
+                    "name": "scanner_sombre_ost_mp3.zip",
+                    "size": "80366647"
+                },
+                {
+                    "name": "scanner_sombre_ost_wav.zip",
+                    "size": "319665276"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0284F58028",
+                            "link": "https://filecrypt.cc/Container/0284F58028"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/41D760C33D",
+                            "link": "https://filecrypt.cc/Container/41D760C33D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/62C9754C0C",
+                            "link": "https://filecrypt.cc/Container/62C9754C0C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5C833D09F2",
+                            "link": "https://filecrypt.cc/Container/5C833D09F2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DEBB912528",
+                            "link": "https://filecrypt.cc/Container/DEBB912528"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5C5724893A",
+                            "link": "https://filecrypt.cc/Container/5C5724893A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

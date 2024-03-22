@@ -1,0 +1,79 @@
+{
+    "href": "/game/black_widow_recharged",
+    "MSG": {
+        "id": "2038976793",
+        "title": "Black Widow: Recharged",
+        "slug": "black_widow_recharged",
+        "thumb_id": "577497094fce699583d567ac2889ee0965ee03dd7378d3e407c84022d927158d",
+        "bg_id": "5995bb53fe5af0d51085a454eb99af316a6bce5e52a26e9cecdaf27497068218",
+        "url": "https://www.gog.com/en/game/black_widow_recharged",
+        "developer": "Adamvision Studios",
+        "publisher": "Atari",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708251259",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_black_widow_recharged_1.0_(61329).exe",
+                    "size": "226927704"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C31AE76F79",
+                            "link": "https://filecrypt.cc/Container/C31AE76F79"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E315FC4B0D",
+                            "link": "https://filecrypt.cc/Container/E315FC4B0D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/736D791FF3",
+                            "link": "https://filecrypt.cc/Container/736D791FF3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8BAACB2B5F",
+                            "link": "https://filecrypt.cc/Container/8BAACB2B5F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

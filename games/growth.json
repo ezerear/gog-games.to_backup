@@ -1,0 +1,90 @@
+{
+    "href": "/game/growth",
+    "MSG": {
+        "id": "1321172590",
+        "title": "Growth",
+        "slug": "growth",
+        "thumb_id": "b3df559178fd15d1bfecffe84baf0ad40883ce99b936175d03220a5d3902a956",
+        "bg_id": "68d862ea2c9a110aa0fd61e8f4868304616c315028fbd4468920c53cc166fd48",
+        "url": "https://www.gog.com/en/game/growth",
+        "developer": "Voodoo Duck",
+        "publisher": "Assemble Entertainment",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1707161207",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_growth_1.0.2_rc1_(68705).exe",
+                    "size": "126613848"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CB82E47377",
+                            "link": "https://filecrypt.cc/Container/CB82E47377"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/36178D88E5",
+                            "link": "https://filecrypt.cc/Container/36178D88E5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A28284F680",
+                            "link": "https://filecrypt.cc/Container/A28284F680"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7EF731A178",
+                            "link": "https://filecrypt.cc/Container/7EF731A178"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D7E637DA86",
+                            "link": "https://filecrypt.cc/Container/D7E637DA86"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

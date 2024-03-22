@@ -1,0 +1,108 @@
+{
+    "href": "/game/aliens_versus_predator_classic_2000",
+    "MSG": {
+        "id": "1207665883",
+        "title": "Aliens versus Predator Classic 2000",
+        "slug": "aliens_versus_predator_classic_2000",
+        "thumb_id": "d14e3610124e8231dcd70be67b00f7f668d676787422830d684533776f77afdc",
+        "bg_id": "e854105bd88512c8761651f44a4833ba7479fa5241bb9615eed79b6e005fa6a0",
+        "url": "https://www.gog.com/game/aliens_versus_predator_classic_2000",
+        "developer": "Rebellion",
+        "publisher": "Rebellion",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1709379780",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_avp_classic_20160330_(2149).exe",
+                    "size": "495713336"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "avp_avatars.zip",
+                    "size": "634600"
+                },
+                {
+                    "name": "avp_controls_guide.zip",
+                    "size": "72496"
+                },
+                {
+                    "name": "avp_manual.zip",
+                    "size": "1598528"
+                },
+                {
+                    "name": "avp_wallpaper.zip",
+                    "size": "1764317"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4DA32ABE81",
+                            "link": "https://filecrypt.cc/Container/4DA32ABE81"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FB9C44FF04",
+                            "link": "https://filecrypt.cc/Container/FB9C44FF04"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4BDEC4A37D",
+                            "link": "https://filecrypt.cc/Container/4BDEC4A37D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/30D9FB065D",
+                            "link": "https://filecrypt.cc/Container/30D9FB065D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/03EA265356",
+                            "link": "https://filecrypt.cc/Container/03EA265356"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,101 @@
+{
+    "href": "/game/kings_bounty_the_legend",
+    "MSG": {
+        "id": "1207658867",
+        "title": "King's Bounty: The Legend",
+        "slug": "kings_bounty_the_legend",
+        "thumb_id": "f43343ed27913f5749f5d517db907638bc0ff3461cffbb52ce8c1b910342e697",
+        "bg_id": "656a935e1fb4d3b7fb97c2e87fce1b77cfe45ffb1b33b8a9698e0ae8b8758b6c",
+        "url": "https://www.gog.com/game/kings_bounty_the_legend",
+        "developer": " Katauri Interactive",
+        "publisher": "1C Publishing",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710163434",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_kings_bounty_the_legend_1.7.35.398_(39945)-1.bin",
+                    "size": "3655923287"
+                },
+                {
+                    "name": "setup_kings_bounty_the_legend_1.7.35.398_(39945).exe",
+                    "size": "882400"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "Kings-Bounty-Artworks.zip",
+                    "size": "82745804"
+                },
+                {
+                    "name": "Kings-Bounty-Avatars.zip",
+                    "size": "467253"
+                },
+                {
+                    "name": "Kings-Bounty-manual.zip",
+                    "size": "18215980"
+                },
+                {
+                    "name": "Kings-Bounty-Wallpapers.zip",
+                    "size": "19870325"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/85D66C726B",
+                            "link": "https://filecrypt.cc/Container/85D66C726B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2307FB7402",
+                            "link": "https://filecrypt.cc/Container/2307FB7402"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9382236EB2",
+                            "link": "https://filecrypt.cc/Container/9382236EB2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/31B9CDCA71",
+                            "link": "https://filecrypt.cc/Container/31B9CDCA71"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

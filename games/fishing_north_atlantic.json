@@ -1,0 +1,84 @@
+{
+    "href": "/game/fishing_north_atlantic",
+    "MSG": {
+        "id": "1122501818",
+        "title": "Fishing: North Atlantic",
+        "slug": "fishing_north_atlantic",
+        "thumb_id": "2f4b7df57ff77d44f31fd547fbbe2c21e32943dd23835db90ac57d64b3e41a44",
+        "bg_id": "5087af39941e68fdccb66f662e6e6fb9fe8ead64d5937a291c558f17de343c85",
+        "url": "https://www.gog.com/game/fishing_north_atlantic",
+        "developer": "Misc Games",
+        "publisher": "Misc Games",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1709804535",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_fishing_north_atlantic_1.8.1143.17120_(64bit)_(68123)-1.bin",
+                    "size": "4294049278"
+                },
+                {
+                    "name": "setup_fishing_north_atlantic_1.8.1143.17120_(64bit)_(68123)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_fishing_north_atlantic_1.8.1143.17120_(64bit)_(68123)-3.bin",
+                    "size": "3018873433"
+                },
+                {
+                    "name": "setup_fishing_north_atlantic_1.8.1143.17120_(64bit)_(68123).exe",
+                    "size": "928216"
+                },
+                {
+                    "name": "setup_north_atlantic_-_scallop_dlc_1.8.1143.17120_(64bit)_(68123).exe",
+                    "size": "767467000"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7F8457AF1B",
+                            "link": "https://filecrypt.cc/Container/7F8457AF1B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/91538F27FF",
+                            "link": "https://filecrypt.cc/Container/91538F27FF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FD35048A9E",
+                            "link": "https://filecrypt.cc/Container/FD35048A9E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

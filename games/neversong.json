@@ -1,0 +1,107 @@
+{
+    "href": "/game/neversong",
+    "MSG": {
+        "id": "1328246867",
+        "title": "Neversong",
+        "slug": "neversong",
+        "thumb_id": "a6847ee430955eb6a2d4e80cb0a1d3418ee54ef93559c4e021bfbfdd1d326bb2",
+        "bg_id": "1cd8eb0698bcce2d1e2884178ea5f6deaef8ada58a09685815cdf0172dd0fb53",
+        "url": "https://www.gog.com/game/neversong",
+        "developer": "Atmos Games, Serenity Forge",
+        "publisher": "Serenity Forge",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710107550",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_neversong_1.0.0_(38329).exe",
+                    "size": "1222575600"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "neversong_soundtrack_mp3.zip",
+                    "size": "49869385"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/477800A992",
+                            "link": "https://filecrypt.cc/Container/477800A992"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/211AB75B2F",
+                            "link": "https://filecrypt.cc/Container/211AB75B2F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/27B88FA864",
+                            "link": "https://filecrypt.cc/Container/27B88FA864"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C36FC9F2C4",
+                            "link": "https://filecrypt.cc/Container/C36FC9F2C4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3C7D62A7B3",
+                            "link": "https://filecrypt.cc/Container/3C7D62A7B3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6733FDE47B",
+                            "link": "https://filecrypt.cc/Container/6733FDE47B"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

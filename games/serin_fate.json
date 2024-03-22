@@ -1,0 +1,101 @@
+{
+    "href": "/game/serin_fate",
+    "MSG": {
+        "id": "1570962649",
+        "title": "Serin Fate",
+        "slug": "serin_fate",
+        "thumb_id": "01525be52ceac1959ad6fe24fcc5f7c69a8db839aec9811ba4697eaf80e99c6d",
+        "bg_id": "992f19afc7ded421827f57e355556697dee46af2cf9739355cf613392c974748",
+        "url": "https://www.gog.com/game/serin_fate",
+        "developer": "Vethergen",
+        "publisher": "Crytivo",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1701778767",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_serin_fate_1.0.22_(50515).exe",
+                    "size": "405240328"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F3DAACD5FC",
+                            "link": "https://filecrypt.cc/Container/F3DAACD5FC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1C6505797D",
+                            "link": "https://filecrypt.cc/Container/1C6505797D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8B83581D92",
+                            "link": "https://filecrypt.cc/Container/8B83581D92"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BFD671E5F9",
+                            "link": "https://filecrypt.cc/Container/BFD671E5F9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/44677CEDAA",
+                            "link": "https://filecrypt.cc/Container/44677CEDAA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/37745326D4",
+                            "link": "https://filecrypt.cc/Container/37745326D4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

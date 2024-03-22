@@ -1,0 +1,76 @@
+{
+    "href": "/game/winter_memories",
+    "MSG": {
+        "id": "1720794248",
+        "title": "Winter Memories",
+        "slug": "winter_memories",
+        "thumb_id": "81321bdecc377a04a44209f8f0bd5b3d6ab2a86480c7915080482068d34bf4e3",
+        "bg_id": "5aeea05082f4d30386b7edcf83f4f62e151f56e5ffeeb1fd10518b9ec5a926e5",
+        "url": "https://www.gog.com/en/game/winter_memories",
+        "developer": "Dojin Otome",
+        "publisher": "Kagura Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708993567",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_winter_memories_unrated_v7_(en_1.06_cn_1.04)_(70386).exe",
+                    "size": "783831928"
+                },
+                {
+                    "name": "setup_winter_memories_v7_(en_1.06_cn_1.04)_(70386)-1.bin",
+                    "size": "963488025"
+                },
+                {
+                    "name": "setup_winter_memories_v7_(en_1.06_cn_1.04)_(70386).exe",
+                    "size": "1783152"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ADC1753FC2",
+                            "link": "https://filecrypt.cc/Container/ADC1753FC2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7C7CB2F834",
+                            "link": "https://filecrypt.cc/Container/7C7CB2F834"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/14B20BE58B",
+                            "link": "https://filecrypt.cc/Container/14B20BE58B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

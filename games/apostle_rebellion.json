@@ -1,0 +1,80 @@
+{
+    "href": "/game/apostle_rebellion",
+    "MSG": {
+        "id": "1731798766",
+        "title": "Apostle: Rebellion",
+        "slug": "apostle_rebellion",
+        "thumb_id": "b5330648082a1e177b554f92fa215c66831335f55d6d36ff4ba959252b78b5a9",
+        "bg_id": "d309b78d6279f2e5b5cb55e0d744baacda7c1a47727fceba1cdb73813a013b94",
+        "url": "https://www.gog.com/en/game/apostle_rebellion",
+        "developer": "kamichichi",
+        "publisher": "Kagura Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1708890399",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_apostle_rebellion_unrated_v4_(en_1.05_cn_1.01)_(57719)-1.bin",
+                    "size": "2909073883"
+                },
+                {
+                    "name": "setup_apostle_rebellion_unrated_v4_(en_1.05_cn_1.01)_(57719).exe",
+                    "size": "2200488"
+                },
+                {
+                    "name": "setup_apostle_rebellion_v4_(en_1.05_cn_1.01)_(57719)-1.bin",
+                    "size": "1961621499"
+                },
+                {
+                    "name": "setup_apostle_rebellion_v4_(en_1.05_cn_1.01)_(57719).exe",
+                    "size": "1962304"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7DD49A8E4D",
+                            "link": "https://filecrypt.cc/Container/7DD49A8E4D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B65FF3ACB9",
+                            "link": "https://filecrypt.cc/Container/B65FF3ACB9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9D842592D4",
+                            "link": "https://filecrypt.cc/Container/9D842592D4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

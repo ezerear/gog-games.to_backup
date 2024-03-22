@@ -1,0 +1,68 @@
+{
+    "href": "/game/goetia_2",
+    "MSG": {
+        "id": "1237168477",
+        "title": "Goetia 2",
+        "slug": "goetia_2",
+        "thumb_id": "f277c34c0fb7278c822fcf70e340fcd4d6c17dbfc3193e1be1e7e477f902affe",
+        "bg_id": "aa55fbc8a020543acac37cc6ca749e96aa1e04ce1b62a51d7276f7d3148e6e01",
+        "url": "https://www.gog.com/en/game/goetia_2",
+        "developer": "Moeity",
+        "publisher": "Forever Entertainment S. A.",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709266679",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_goetia_2_1.1.3_(64bit)_(56575).exe",
+                    "size": "893029464"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1CFC1F0DC0",
+                            "link": "https://filecrypt.cc/Container/1CFC1F0DC0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4552BA135E",
+                            "link": "https://filecrypt.cc/Container/4552BA135E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/11EC5E95AE",
+                            "link": "https://filecrypt.cc/Container/11EC5E95AE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

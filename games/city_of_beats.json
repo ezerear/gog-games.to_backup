@@ -1,0 +1,79 @@
+{
+    "href": "/game/city_of_beats",
+    "MSG": {
+        "id": "1310553369",
+        "title": "City of Beats",
+        "slug": "city_of_beats",
+        "thumb_id": "d72dd5e3d249f4af3952296eb5ab56fb167e58300fa94b42a45bc4aac6b4f3c2",
+        "bg_id": "19aca8f1c401d3c4734c5c003ec23b94f06e3a7a096a40365339210534c24a5a",
+        "url": "https://www.gog.com/en/game/city_of_beats",
+        "developer": "Torched Hill",
+        "publisher": "Freedom Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1702157271",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_city_of_beats_20230427_(64bit)_(64207).exe",
+                    "size": "1180138992"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4361780D8B",
+                            "link": "https://filecrypt.cc/Container/4361780D8B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FEAD100B9C",
+                            "link": "https://filecrypt.cc/Container/FEAD100B9C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DE249D54E0",
+                            "link": "https://filecrypt.cc/Container/DE249D54E0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/96934C86AB",
+                            "link": "https://filecrypt.cc/Container/96934C86AB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

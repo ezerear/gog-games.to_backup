@@ -1,0 +1,76 @@
+{
+    "href": "/game/just_cause_2_complete_edition",
+    "MSG": {
+        "id": "1833855510",
+        "title": "Just Cause 2 - Complete Edition",
+        "slug": "just_cause_2_complete_edition",
+        "thumb_id": "96e6f2caf36956248deb6bab6bd096b8a971b663fb817fc9ea60a78a2fd45fd9",
+        "bg_id": "472193106dfa4ee9f5568c584aa3f5c6794385ff1860e7975a2085fec097f420",
+        "url": "https://www.gog.com/game/just_cause_2_complete_edition",
+        "developer": "Avalanche Studios",
+        "publisher": "Square Enix",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710505154",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_just_cause_2_-_complete_edition_1.0.0.2_(50335)-1.bin",
+                    "size": "4294104574"
+                },
+                {
+                    "name": "setup_just_cause_2_-_complete_edition_1.0.0.2_(50335)-2.bin",
+                    "size": "69989865"
+                },
+                {
+                    "name": "setup_just_cause_2_-_complete_edition_1.0.0.2_(50335).exe",
+                    "size": "868936"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B5D9B09142",
+                            "link": "https://filecrypt.cc/Container/B5D9B09142"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ECB5254D39",
+                            "link": "https://filecrypt.cc/Container/ECB5254D39"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/276B58AD5D",
+                            "link": "https://filecrypt.cc/Container/276B58AD5D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,94 @@
+{
+    "href": "/game/this_is_the_president",
+    "MSG": {
+        "id": "1346542028",
+        "title": "This is the President",
+        "slug": "this_is_the_president",
+        "thumb_id": "39db1078bf582b09a6532a29d1a39b67fcdc803d050a7d2e19af0bad31f8fc4e",
+        "bg_id": "4c312ebd8b11ac05b852555fd79be6f2edf805196d511abfbcc6e6cef5a2f9c6",
+        "url": "https://www.gog.com/game/this_is_the_president",
+        "developer": "SuperPAC",
+        "publisher": "THQ Nordic GmbH",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1705233865",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_this_is_the_president_1.0c_(51913)-1.bin",
+                    "size": "2255738758"
+                },
+                {
+                    "name": "setup_this_is_the_president_1.0c_(51913).exe",
+                    "size": "936744"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E45C340EEE",
+                            "link": "https://filecrypt.cc/Container/E45C340EEE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FDA098EFA5",
+                            "link": "https://filecrypt.cc/Container/FDA098EFA5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/76D5AD97FA",
+                            "link": "https://filecrypt.cc/Container/76D5AD97FA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0DE193528D",
+                            "link": "https://filecrypt.cc/Container/0DE193528D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/521FA8F4E9",
+                            "link": "https://filecrypt.cc/Container/521FA8F4E9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

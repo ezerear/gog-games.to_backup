@@ -1,0 +1,76 @@
+{
+    "href": "/game/dungeons_of_edera",
+    "MSG": {
+        "id": "1185441576",
+        "title": "Dungeons of Edera",
+        "slug": "dungeons_of_edera",
+        "thumb_id": "1c62dc44972eae89da99b32802ce2f4800125cb6fba3388193cd6e6cd1bc8219",
+        "bg_id": "0cf62de5b1b87262f606249314e8581bc39e29deb0bfd52818aa74f2be495dfd",
+        "url": "https://www.gog.com/en/game/dungeons_of_edera",
+        "developer": "Monster Tooth Studios",
+        "publisher": "Monster Tooth Studios",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1703199813",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dungeons_of_edera_1.06_(64bit)_(57871)-1.bin",
+                    "size": "4294102014"
+                },
+                {
+                    "name": "setup_dungeons_of_edera_1.06_(64bit)_(57871)-2.bin",
+                    "size": "2401348803"
+                },
+                {
+                    "name": "setup_dungeons_of_edera_1.06_(64bit)_(57871).exe",
+                    "size": "875576"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8389CCCC58",
+                            "link": "https://filecrypt.cc/Container/8389CCCC58"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/372B2B3F2D",
+                            "link": "https://filecrypt.cc/Container/372B2B3F2D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FD3D7122AD",
+                            "link": "https://filecrypt.cc/Container/FD3D7122AD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

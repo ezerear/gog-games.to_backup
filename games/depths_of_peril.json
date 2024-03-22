@@ -1,0 +1,111 @@
+{
+    "href": "/game/depths_of_peril",
+    "MSG": {
+        "id": "1207660593",
+        "title": "Depths of Peril",
+        "slug": "depths_of_peril",
+        "thumb_id": "16aa324aeb2473869b26b05bc9af5b92dce75190b6306954773c9a8f7d1ea82b",
+        "bg_id": "9bb2148aa0ff43c59ba49783130c4cd406e00b9d48e5c30d44e92c4e75114a7f",
+        "url": "https://www.gog.com/game/depths_of_peril",
+        "developer": "Soldak Entertainment",
+        "publisher": "Soldak Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709501927",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_depths_of_peril_1.019_(20799).exe",
+                    "size": "99340752"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "dop_manual.zip",
+                    "size": "45514"
+                },
+                {
+                    "name": "dop_music_theme.zip",
+                    "size": "3200713"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E259C89290",
+                            "link": "https://filecrypt.cc/Container/E259C89290"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AC9C1736B6",
+                            "link": "https://filecrypt.cc/Container/AC9C1736B6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7FD0B15CD5",
+                            "link": "https://filecrypt.cc/Container/7FD0B15CD5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E1C8AF70BB",
+                            "link": "https://filecrypt.cc/Container/E1C8AF70BB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/02DFE7E737",
+                            "link": "https://filecrypt.cc/Container/02DFE7E737"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/24A714BD5B",
+                            "link": "https://filecrypt.cc/Container/24A714BD5B"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

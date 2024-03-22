@@ -1,0 +1,111 @@
+{
+    "href": "/game/timberborn",
+    "MSG": {
+        "id": "1711765822",
+        "title": "Timberborn",
+        "slug": "timberborn",
+        "thumb_id": "327a595871aef027f4977b33048fc476084f896934e71bcc4187cf78522b4273",
+        "bg_id": "8c0462e29121cb16f7e4d4ffe439cf06b068cc372ed1d985db704bcb4d4f5312",
+        "url": "https://www.gog.com/game/timberborn",
+        "developer": "Mechanistry",
+        "publisher": "Mechanistry",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710684399",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_timberborn_0.5.9.1-33dabbc-gw_(64bit)_(71051).exe",
+                    "size": "1326480280"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "timberborn_soundtrack_flac.zip",
+                    "size": "309829086"
+                },
+                {
+                    "name": "timberborn_soundtrack_mp3.zip",
+                    "size": "72804311"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/71CFFC5808",
+                            "link": "https://filecrypt.cc/Container/71CFFC5808"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9EF9ACDC9A",
+                            "link": "https://filecrypt.cc/Container/9EF9ACDC9A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3007C670C9",
+                            "link": "https://filecrypt.cc/Container/3007C670C9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D495D8C6C7",
+                            "link": "https://filecrypt.cc/Container/D495D8C6C7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4E31E638C6",
+                            "link": "https://filecrypt.cc/Container/4E31E638C6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/289045B69B",
+                            "link": "https://filecrypt.cc/Container/289045B69B"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

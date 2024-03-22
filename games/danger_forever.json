@@ -1,0 +1,68 @@
+{
+    "href": "/game/danger_forever",
+    "MSG": {
+        "id": "1675483515",
+        "title": "Danger Forever",
+        "slug": "danger_forever",
+        "thumb_id": "4bd21ed3f7856461574c6365f91799f792f2f05ccef1b55a160b8e1ec7803350",
+        "bg_id": "6b57946f83526b84d07c1b0a535f91827baede47f7a7fcd9d0328aa7c75d9007",
+        "url": "https://www.gog.com/en/game/danger_forever",
+        "developer": "FireVector LLC",
+        "publisher": "Meridian4",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709699605",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_danger_forever_build845_(59867).exe",
+                    "size": "1286970592"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8B996ECB02",
+                            "link": "https://filecrypt.cc/Container/8B996ECB02"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3B015BCEDB",
+                            "link": "https://filecrypt.cc/Container/3B015BCEDB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/977B20381C",
+                            "link": "https://filecrypt.cc/Container/977B20381C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

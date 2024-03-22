@@ -1,0 +1,96 @@
+{
+    "href": "/game/caesar",
+    "MSG": {
+        "id": "1469336312",
+        "title": "Caesar",
+        "slug": "caesar",
+        "thumb_id": "f7789e6e94f03b242a85a7d5c778cfb991bfff7ad34ff73b1407db63704ae481",
+        "bg_id": "f1ce21545de98706472b5e48440fa34f3fe40309c92cf665509982c0f378b03e",
+        "url": "https://www.gog.com/game/caesar",
+        "developer": "Impressions Games",
+        "publisher": "Activision",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1709055211",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_caesar_1.1_cs_(28043).exe",
+                    "size": "15110712"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "caesar_manual.zip",
+                    "size": "681283"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/68CDB97465",
+                            "link": "https://filecrypt.cc/Container/68CDB97465"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/113D06F571",
+                            "link": "https://filecrypt.cc/Container/113D06F571"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1F02CCBC22",
+                            "link": "https://filecrypt.cc/Container/1F02CCBC22"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9177789CC7",
+                            "link": "https://filecrypt.cc/Container/9177789CC7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0B1E4F51C0",
+                            "link": "https://filecrypt.cc/Container/0B1E4F51C0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

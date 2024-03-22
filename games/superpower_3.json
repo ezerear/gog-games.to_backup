@@ -1,0 +1,76 @@
+{
+    "href": "/game/superpower_3",
+    "MSG": {
+        "id": "1955819598",
+        "title": "SuperPower 3",
+        "slug": "superpower_3",
+        "thumb_id": "463e717da981a3b7863cfc4e41ceec8e198c599f6a9a73090cb877c9d99ed33b",
+        "bg_id": "2f7b37bbe0c3a20e029c76ebe4432bfedc2e749a28516f1c7354517f52c2a2d0",
+        "url": "https://www.gog.com/en/game/superpower_3",
+        "developer": "GolemLabs",
+        "publisher": "THQ Nordic GmbH",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1708383425",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_superpower_3_1.0b_(59373)-1.bin",
+                    "size": "4290821118"
+                },
+                {
+                    "name": "setup_superpower_3_1.0b_(59373)-2.bin",
+                    "size": "3169205962"
+                },
+                {
+                    "name": "setup_superpower_3_1.0b_(59373).exe",
+                    "size": "4156072"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/NZFYnSp",
+                            "link": "https://safelinking.net/NZFYnSp"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/lAUf2Zg",
+                            "link": "https://safelinking.net/lAUf2Zg"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/fp5QNxl",
+                            "link": "https://safelinking.net/fp5QNxl"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

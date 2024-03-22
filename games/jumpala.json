@@ -1,0 +1,68 @@
+{
+    "href": "/game/jumpala",
+    "MSG": {
+        "id": "1527016770",
+        "title": "Jumpala",
+        "slug": "jumpala",
+        "thumb_id": "ddb0b42e152758ec6f4ea58e50a745853da5723649de04a06498e618b3e2a48b",
+        "bg_id": "7c0c06318e07e258d0f120f2b2323bfd7e08d3e6e03b4a1e1e99e1daac5720d4",
+        "url": "https://www.gog.com/game/jumpala",
+        "developer": "Yokereba Games",
+        "publisher": "Versus Evil",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1682715549",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_jumpala_1.1.2_(44895).exe",
+                    "size": "247324896"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F6051B54E2",
+                            "link": "https://filecrypt.cc/Container/F6051B54E2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/dBsSkcz",
+                            "link": "https://safelinking.net/dBsSkcz"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/19A73ED6B4",
+                            "link": "https://filecrypt.cc/Container/19A73ED6B4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

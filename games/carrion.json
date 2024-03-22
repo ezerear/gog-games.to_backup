@@ -1,0 +1,111 @@
+{
+    "href": "/game/carrion",
+    "MSG": {
+        "id": "1785384169",
+        "title": "CARRION",
+        "slug": "carrion",
+        "thumb_id": "fbb450bb1c6db10a6680dcbf4ceea307b0ab9c83c7f32ab52cc2e6c51d6c3f78",
+        "bg_id": "77b058909cf17f0aa662e5e798e4a54a88f23aed14cfa3d829ce43f9487bad71",
+        "url": "https://www.gog.com/game/carrion",
+        "developer": "Phobia Game Studio",
+        "publisher": "Devolver Digital",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708798551",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_carrion_1.0.5_gog_3c3da2a95d3611ed80e8342eb79e7a9f_(64bit)_(60018).exe",
+                    "size": "129380088"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "Carrion_OST.zip",
+                    "size": "191549986"
+                },
+                {
+                    "name": "Carrion_OST_Flac.zip",
+                    "size": "619773110"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8091DE06DC",
+                            "link": "https://filecrypt.cc/Container/8091DE06DC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D5EF701755",
+                            "link": "https://filecrypt.cc/Container/D5EF701755"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/61169BE417",
+                            "link": "https://filecrypt.cc/Container/61169BE417"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F7E805FCA4",
+                            "link": "https://filecrypt.cc/Container/F7E805FCA4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D680F52750",
+                            "link": "https://filecrypt.cc/Container/D680F52750"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D6033EC138",
+                            "link": "https://filecrypt.cc/Container/D6033EC138"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

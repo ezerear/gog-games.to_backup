@@ -1,0 +1,131 @@
+{
+    "href": "/game/oddworld_abes_oddysee",
+    "MSG": {
+        "id": "1207658705",
+        "title": "Oddworld: Abe's Oddysee",
+        "slug": "oddworld_abes_oddysee",
+        "thumb_id": "ce9e579b57077b3c86ae73db8d1aa6634b523a72fed5d574369e9ce43d4ad0d9",
+        "bg_id": "dcbccdad7b713338536704b7dff58297b4203a66881173b234de35939b468a97",
+        "url": "https://www.gog.com/game/oddworld_abes_oddysee",
+        "developer": "Oddworld Inhabitants",
+        "publisher": "Oddworld Inhabitants",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709614894",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_abes_oddysee_1.0_(19071).exe",
+                    "size": "385546400"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "oddworld_abes_map.zip",
+                    "size": "14827581"
+                },
+                {
+                    "name": "oddworld_abes_oddysee_manual.zip",
+                    "size": "2684978"
+                },
+                {
+                    "name": "oddworld_abes_oddysee_soundtrack.zip",
+                    "size": "25880130"
+                },
+                {
+                    "name": "oddworld_abes_oddysee_theme.zip",
+                    "size": "818427"
+                },
+                {
+                    "name": "oddworld_abes_oddysee_wallpapers.zip",
+                    "size": "5181757"
+                },
+                {
+                    "name": "oddworld_abes_serie_avatars.zip",
+                    "size": "311702"
+                },
+                {
+                    "name": "oddworld_abes_serie_wallpapers_pack.zip",
+                    "size": "105168604"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1EEAC89204",
+                            "link": "https://filecrypt.cc/Container/1EEAC89204"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/735A2AC994",
+                            "link": "https://filecrypt.cc/Container/735A2AC994"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FFBFC34BE1",
+                            "link": "https://filecrypt.cc/Container/FFBFC34BE1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/33DC6A10CF",
+                            "link": "https://filecrypt.cc/Container/33DC6A10CF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FFEED5D7A4",
+                            "link": "https://filecrypt.cc/Container/FFEED5D7A4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/06F910BB79",
+                            "link": "https://filecrypt.cc/Container/06F910BB79"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

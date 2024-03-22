@@ -1,0 +1,79 @@
+{
+    "href": "/game/wildfire",
+    "MSG": {
+        "id": "2028180108",
+        "title": "Wildfire",
+        "slug": "wildfire",
+        "thumb_id": "0754674651049b03e25613c7d0415eb295945769648f0a6603b72d5e199de9c7",
+        "bg_id": "63becd53e190362946b0828ff060a8066034015d32d583b2a1838dee3faccb4b",
+        "url": "https://www.gog.com/game/wildfire",
+        "developer": "Sneaky Bastards",
+        "publisher": "Sneaky Bastards",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707997057",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_wildfire_1.04.06_(52109).exe",
+                    "size": "362570952"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D5548A3761",
+                            "link": "https://filecrypt.cc/Container/D5548A3761"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/839C724C6D",
+                            "link": "https://filecrypt.cc/Container/839C724C6D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/04FDAEC2BB",
+                            "link": "https://filecrypt.cc/Container/04FDAEC2BB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/34C4074638",
+                            "link": "https://filecrypt.cc/Container/34C4074638"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

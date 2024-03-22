@@ -1,0 +1,93 @@
+{
+    "href": "/game/red_baron_3d",
+    "MSG": {
+        "id": "1207663983",
+        "title": "Red Baron 3D",
+        "slug": "red_baron_3d",
+        "thumb_id": "331308dd80480a191d13503e62101da01d4504bd05dbc1294b036f12ef5d3a03",
+        "bg_id": "07d720ac3c8d2b227f5579053d16e56ef40ea642ac37330c0dff052282600ea2",
+        "url": "https://www.gog.com/game/red_baron_pack",
+        "developer": "Dynamix",
+        "publisher": "Mad Otter Games",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710163038",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_red_baron3d_2.1.0.24.exe",
+                    "size": "221108952"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "red_baron_pack_manuals.zip",
+                    "size": "107714303"
+                },
+                {
+                    "name": "red_baron_pack_maps.zip",
+                    "size": "23543541"
+                },
+                {
+                    "name": "red_baron_pack_reference_cards.zip",
+                    "size": "3222479"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/17BE25AF89",
+                            "link": "https://filecrypt.cc/Container/17BE25AF89"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EA42CE04CE",
+                            "link": "https://filecrypt.cc/Container/EA42CE04CE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3F2A14CC4A",
+                            "link": "https://filecrypt.cc/Container/3F2A14CC4A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2C1C270321",
+                            "link": "https://filecrypt.cc/Container/2C1C270321"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

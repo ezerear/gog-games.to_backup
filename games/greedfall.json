@@ -1,0 +1,96 @@
+{
+    "href": "/game/greedfall",
+    "MSG": {
+        "id": "1635210189",
+        "title": "GreedFall",
+        "slug": "greedfall",
+        "thumb_id": "c069ce7b58dd63d6fe363aca4efa7105b6c7b182015c2f01042b56ef504cf869",
+        "bg_id": "5581e3e5513b1c604d306d61bf660580245b9fd14ff0f5de68da0c05fe385c8f",
+        "url": "https://www.gog.com/game/greedfall",
+        "developer": "Spiders",
+        "publisher": "Focus Home Interactive",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709565847",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_greedfall_-_adventurers_gear_1.0_(5686)_(64bit)_(48899).exe",
+                    "size": "6190496"
+                },
+                {
+                    "name": "setup_greedfall_-_de_vespe_conspiracy_1.0_(5686)_(64bit)_(48899).exe",
+                    "size": "1136206080"
+                },
+                {
+                    "name": "setup_greedfall_1.0_(5686)_(64bit)_(48899)-1.bin",
+                    "size": "4293850622"
+                },
+                {
+                    "name": "setup_greedfall_1.0_(5686)_(64bit)_(48899)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_greedfall_1.0_(5686)_(64bit)_(48899)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_greedfall_1.0_(5686)_(64bit)_(48899)-4.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_greedfall_1.0_(5686)_(64bit)_(48899)-5.bin",
+                    "size": "3542627480"
+                },
+                {
+                    "name": "setup_greedfall_1.0_(5686)_(64bit)_(48899).exe",
+                    "size": "1122920"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/60F3114FF4",
+                            "link": "https://filecrypt.cc/Container/60F3114FF4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C6E9B52A2E",
+                            "link": "https://filecrypt.cc/Container/C6E9B52A2E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1FBB557B9E",
+                            "link": "https://filecrypt.cc/Container/1FBB557B9E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

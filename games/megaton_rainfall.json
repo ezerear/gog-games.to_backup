@@ -1,0 +1,68 @@
+{
+    "href": "/game/megaton_rainfall",
+    "MSG": {
+        "id": "1822672814",
+        "title": "Megaton Rainfall",
+        "slug": "megaton_rainfall",
+        "thumb_id": "4d103132dd42b4fcc639a63f7f97ef2f204ec726290bd7eaa93c187cb882a639",
+        "bg_id": "20431cc7feccdd9fab35e3de8233e24da3a81c627dd6fc509bf44dd0367b3d8e",
+        "url": "https://www.gog.com/game/megaton_rainfall",
+        "developer": "Pentadimensional Games",
+        "publisher": "Pentadimensional Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709470683",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_megaton_rainfall_1.10_(23360).exe",
+                    "size": "912531128"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/70C270D42A",
+                            "link": "https://filecrypt.cc/Container/70C270D42A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FED01AA043",
+                            "link": "https://filecrypt.cc/Container/FED01AA043"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AAE5EAA698",
+                            "link": "https://filecrypt.cc/Container/AAE5EAA698"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/overland",
+    "MSG": {
+        "id": "1429928925",
+        "title": "Overland",
+        "slug": "overland",
+        "thumb_id": "fee4616448aa85d6e106af06944f64d2f8e66d0dc8af5b736bf5071fe7ffe819",
+        "bg_id": "3271bdbcd88e0553c96e8734078465111449e7ecf3fddb071aa2bf5b4d96b068",
+        "url": "https://www.gog.com/game/overland",
+        "developer": "Finji",
+        "publisher": "Finji",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710845087",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_overland_849_(64bit)_(42330).exe",
+                    "size": "739427216"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7AF44C42B8",
+                            "link": "https://filecrypt.cc/Container/7AF44C42B8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5FFCFD1CE8",
+                            "link": "https://filecrypt.cc/Container/5FFCFD1CE8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A725FBC39B",
+                            "link": "https://filecrypt.cc/Container/A725FBC39B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,119 @@
+{
+    "href": "/game/battle_chess",
+    "MSG": {
+        "id": "1207663033",
+        "title": "Battle Chess",
+        "slug": "battle_chess",
+        "thumb_id": "1ef4c6492ea8f7743f107d15928048f4b75691034c863acfe41f159478c4e2ea",
+        "bg_id": "0214c488a3b9c98e0a68fcae44c79761e84fed12db8fc3ac2de33c55390e5984",
+        "url": "https://www.gog.com/game/battle_chess_special_edition",
+        "developer": "Interplay",
+        "publisher": "Interplay",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1709672566",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_battle_chess_1.0_(28043).exe",
+                    "size": "13809976"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "battle_chess_avatars.zip",
+                    "size": "55782"
+                },
+                {
+                    "name": "battle_chess_gameplay.zip",
+                    "size": "26942617"
+                },
+                {
+                    "name": "battle_chess_manual.zip",
+                    "size": "4213921"
+                },
+                {
+                    "name": "battle_chess_reference_card.zip",
+                    "size": "519323"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6BDDD04315",
+                            "link": "https://filecrypt.cc/Container/6BDDD04315"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CA21599220",
+                            "link": "https://filecrypt.cc/Container/CA21599220"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/45D033285A",
+                            "link": "https://filecrypt.cc/Container/45D033285A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7661D142B1",
+                            "link": "https://filecrypt.cc/Container/7661D142B1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/070F32280D",
+                            "link": "https://filecrypt.cc/Container/070F32280D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D954E6B4F1",
+                            "link": "https://filecrypt.cc/Container/D954E6B4F1"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

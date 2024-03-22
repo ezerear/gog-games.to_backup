@@ -1,0 +1,90 @@
+{
+    "href": "/game/flotsam",
+    "MSG": {
+        "id": "2052553067",
+        "title": "Flotsam",
+        "slug": "flotsam",
+        "thumb_id": "0a95f71d18dbbaff9de715e787d37ce2c5f4e802e523e7d6e3dbb0e51384d72b",
+        "bg_id": "f75656029d14c511e505dced4df20cb98e40af272440ad705f663da276ca8b58",
+        "url": "https://www.gog.com/game/flotsam",
+        "developer": "Pajama Llama Games",
+        "publisher": "Kongregate",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1703748260",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_flotsam_0.7.5_(67787).exe",
+                    "size": "381227504"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/89BDC6E1F2",
+                            "link": "https://filecrypt.cc/Container/89BDC6E1F2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0DDDF4EA50",
+                            "link": "https://filecrypt.cc/Container/0DDDF4EA50"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CC6C984FC1",
+                            "link": "https://filecrypt.cc/Container/CC6C984FC1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2F9670BB6D",
+                            "link": "https://filecrypt.cc/Container/2F9670BB6D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/51CD2C1032",
+                            "link": "https://filecrypt.cc/Container/51CD2C1032"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

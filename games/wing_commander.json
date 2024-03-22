@@ -1,0 +1,101 @@
+{
+    "href": "/game/wing_commander",
+    "MSG": {
+        "id": "1207662643",
+        "title": "Wing Commander",
+        "slug": "wing_commander",
+        "thumb_id": "517aa71a8215ce0f784b15556cf35fe11c44aa38a2b0d9acdbb556d6dc14a86f",
+        "bg_id": "2082480d812ba92587b7530adc88e679409449f85f6c1561df0f077b2faca633",
+        "url": "https://www.gog.com/game/wing_commander_1_2",
+        "developer": "Origin Systems",
+        "publisher": "Electronic Arts",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1709412602",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_wing_commander_1.0_(28045).exe",
+                    "size": "36831328"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "wings_commander_product_proposal.zip",
+                    "size": "4732670"
+                },
+                {
+                    "name": "wing_commander_bible.zip",
+                    "size": "44888371"
+                },
+                {
+                    "name": "wing_commander_blueprints.zip",
+                    "size": "14100102"
+                },
+                {
+                    "name": "wing_commander_manual.zip",
+                    "size": "2735435"
+                },
+                {
+                    "name": "wing_commander_reference_cards.zip",
+                    "size": "9998094"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E6ABF6B625",
+                            "link": "https://filecrypt.cc/Container/E6ABF6B625"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8136B80395",
+                            "link": "https://filecrypt.cc/Container/8136B80395"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ADA7A4D07B",
+                            "link": "https://filecrypt.cc/Container/ADA7A4D07B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/24727A8108",
+                            "link": "https://filecrypt.cc/Container/24727A8108"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

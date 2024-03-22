@@ -1,0 +1,83 @@
+{
+    "href": "/game/magical_valkyrie_lyristia",
+    "MSG": {
+        "id": "1637500306",
+        "title": "Magical Valkyrie Lyristia",
+        "slug": "magical_valkyrie_lyristia",
+        "thumb_id": "b8ebfebf46204fc79b3a72c77b440f360de65bebd175516c1a090a3a6e644fd2",
+        "bg_id": "2dab33323fd4d4bf599dc747fadd245fc49ac107ed8676ae77ff9a3b7629ed7e",
+        "url": "https://www.gog.com/en/game/magical_valkyrie_lyristia",
+        "developer": "ShiBoo!",
+        "publisher": "Kagura Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1702669695",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_magical_valkyrie_lyristia_unrated_v1_(60094).exe",
+                    "size": "108879304"
+                },
+                {
+                    "name": "setup_magical_valkyrie_lyristia_v1_(60094).exe",
+                    "size": "625417688"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DE40917F6F",
+                            "link": "https://filecrypt.cc/Container/DE40917F6F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/92A595CD90",
+                            "link": "https://filecrypt.cc/Container/92A595CD90"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AF857FD115",
+                            "link": "https://filecrypt.cc/Container/AF857FD115"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/436B16C6F0",
+                            "link": "https://filecrypt.cc/Container/436B16C6F0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

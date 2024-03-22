@@ -1,0 +1,68 @@
+{
+    "href": "/game/keeperrl",
+    "MSG": {
+        "id": "2126401274",
+        "title": "KeeperRL",
+        "slug": "keeperrl",
+        "thumb_id": "5e820f1a786388f7052ffcacaeab03323c4b0ba51784a6ec4a2bad4196584cd4",
+        "bg_id": "4c341f90c0c1c3d8a2ac0960afa2397c7c1924369d5e6a1bc936df17f260ea85",
+        "url": "https://www.gog.com/en/game/keeperrl",
+        "developer": "Electric Succubi",
+        "publisher": "Electric Succubi",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710746184",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_keeperrl_hotfix10_(64bit)_(71897).exe",
+                    "size": "193321120"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/79A3C24C45",
+                            "link": "https://filecrypt.cc/Container/79A3C24C45"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EE049745E4",
+                            "link": "https://filecrypt.cc/Container/EE049745E4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2686CD0FC6",
+                            "link": "https://filecrypt.cc/Container/2686CD0FC6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,111 @@
+{
+    "href": "/game/influx",
+    "MSG": {
+        "id": "1207659256",
+        "title": "InFlux",
+        "slug": "influx",
+        "thumb_id": "f397ae817c3b359ae81bea86f86e4fba7a46d49c8bfcb7b9a01372e552177c8b",
+        "bg_id": "38afd7f8044c236d44905dc12fee286f9415c4e29da2db259c73d971905fabb7",
+        "url": "https://www.gog.com/game/influx",
+        "developer": "Impromptu Games",
+        "publisher": "Impromptu Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710073436",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_influx_2.0.0.5.exe",
+                    "size": "1219748152"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "influx_soundtrack.zip",
+                    "size": "68056299"
+                },
+                {
+                    "name": "influx_wallpapers.zip",
+                    "size": "5452329"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AA584CCD45",
+                            "link": "https://filecrypt.cc/Container/AA584CCD45"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/73277C4C72",
+                            "link": "https://filecrypt.cc/Container/73277C4C72"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/38EDDBB636",
+                            "link": "https://filecrypt.cc/Container/38EDDBB636"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FC6080C16D",
+                            "link": "https://filecrypt.cc/Container/FC6080C16D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/82D5912986",
+                            "link": "https://filecrypt.cc/Container/82D5912986"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0AC805419A",
+                            "link": "https://filecrypt.cc/Container/0AC805419A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

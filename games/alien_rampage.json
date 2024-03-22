@@ -1,0 +1,68 @@
+{
+    "href": "/game/alien_rampage",
+    "MSG": {
+        "id": "1991056046",
+        "title": "Alien Rampage",
+        "slug": "alien_rampage",
+        "thumb_id": "94c393452da3af847843ec05dad8f5d307eceb84e1f36ae7c42719c69081ea05",
+        "bg_id": "44a98f00faed31e0774e01b9ba7603404662e5a7859739d1be5dd2c90534ffda",
+        "url": "https://www.gog.com/game/alien_rampage",
+        "developer": "Inner Circle Creations",
+        "publisher": "Piko Interactive",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709101309",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_alien_rampage_1.13_cs_(28162).exe",
+                    "size": "33949144"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9956AF4B30",
+                            "link": "https://filecrypt.cc/Container/9956AF4B30"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E3D8340FE8",
+                            "link": "https://filecrypt.cc/Container/E3D8340FE8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/76A6D473D6",
+                            "link": "https://filecrypt.cc/Container/76A6D473D6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

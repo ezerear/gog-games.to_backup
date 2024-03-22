@@ -1,0 +1,107 @@
+{
+    "href": "/game/lightspeed",
+    "MSG": {
+        "id": "1782104001",
+        "title": "Lightspeed",
+        "slug": "lightspeed",
+        "thumb_id": "088edc47b64e3aa224a8a74ae2b287c5e57a7d09e6f069e2bd638194f4f3f08e",
+        "bg_id": "b1ed8ba9f54e565b539108f6cb6fea3113dad8117f8f956593760ccff7fb0da7",
+        "url": "https://www.gog.com/en/game/lightspeed",
+        "developer": "MPS Labs",
+        "publisher": "Atari",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708814375",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_lightspeed_lightspeed_2024-02-14__181046_(64bit)_(71208).exe",
+                    "size": "308805096"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "Lightspeed_Manual.zip",
+                    "size": "161001557"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/71B99B80EE",
+                            "link": "https://filecrypt.cc/Container/71B99B80EE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/786E8465EC",
+                            "link": "https://filecrypt.cc/Container/786E8465EC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2F18D1040F",
+                            "link": "https://filecrypt.cc/Container/2F18D1040F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/943A366992",
+                            "link": "https://filecrypt.cc/Container/943A366992"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C605BA60AF",
+                            "link": "https://filecrypt.cc/Container/C605BA60AF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/72BFB2B824",
+                            "link": "https://filecrypt.cc/Container/72BFB2B824"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

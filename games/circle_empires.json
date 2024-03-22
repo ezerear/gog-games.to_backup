@@ -1,0 +1,72 @@
+{
+    "href": "/game/circle_empires",
+    "MSG": {
+        "id": "1625340469",
+        "title": "Circle Empires",
+        "slug": "circle_empires",
+        "thumb_id": "669488b4dde28b7b866ba292b61a28b4c87bc8e65f26fcfcc251da26cde68b4a",
+        "bg_id": "238504accc685fc867c09efb50a1f7aa113e02efa95e49566292b44019f9a145",
+        "url": "https://www.gog.com/game/circle_empires",
+        "developer": "Luminous",
+        "publisher": "Iceberg Interactive",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710024805",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_circle_empires_1.3.3_(33904).exe",
+                    "size": "227149240"
+                },
+                {
+                    "name": "setup_circle_empires_apex_monsters_1.3.3_(33904).exe",
+                    "size": "6455864"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3E03C97FAD",
+                            "link": "https://filecrypt.cc/Container/3E03C97FAD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CB73068B1D",
+                            "link": "https://filecrypt.cc/Container/CB73068B1D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/26D43C1795",
+                            "link": "https://filecrypt.cc/Container/26D43C1795"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

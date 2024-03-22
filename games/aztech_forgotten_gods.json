@@ -1,0 +1,72 @@
+{
+    "href": "/game/aztech_forgotten_gods",
+    "MSG": {
+        "id": "1844318817",
+        "title": "Aztech Forgotten Gods",
+        "slug": "aztech_forgotten_gods",
+        "thumb_id": "2669dde3fcb3ee8acf3bd286b7be1d0208bb110d278856fa2f73ec45c9516842",
+        "bg_id": "0ceb11f9db6ff1344ffb709461b7674cea3fb83b88ba6c09a724b0788aedbeca",
+        "url": "https://www.gog.com/en/game/aztech_forgotten_gods",
+        "developer": "Lienzo",
+        "publisher": "Lienzo",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708995556",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_aztech_forgotten_gods_1.0.8.1_(64bit)_(54608)-1.bin",
+                    "size": "1747202279"
+                },
+                {
+                    "name": "setup_aztech_forgotten_gods_1.0.8.1_(64bit)_(54608).exe",
+                    "size": "893152"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/807A172FEC",
+                            "link": "https://filecrypt.cc/Container/807A172FEC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F8911E6EE4",
+                            "link": "https://filecrypt.cc/Container/F8911E6EE4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D07C7536DD",
+                            "link": "https://filecrypt.cc/Container/D07C7536DD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

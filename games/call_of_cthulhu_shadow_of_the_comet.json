@@ -1,0 +1,131 @@
+{
+    "href": "/game/call_of_cthulhu_shadow_of_the_comet",
+    "MSG": {
+        "id": "1431942210",
+        "title": "Call of Cthulhu: Shadow of the Comet",
+        "slug": "call_of_cthulhu_shadow_of_the_comet",
+        "thumb_id": "97e1ba60ad31dfb65475aa3794393596f573a531cf938868d337a0c556864a4a",
+        "bg_id": "f488d42e6f3720b8345f2af824308aba58f0252aad00abdb185d55172ca6a058",
+        "url": "https://www.gog.com/game/call_of_cthulhu_shadow_of_the_comet",
+        "developer": "Infogrames Europe SA",
+        "publisher": "Atari",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709023615",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_shadow_of_the_comet_1.0_(28045).exe",
+                    "size": "102281984"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "setup_shadow_of_the_comet_floppy_2.0.0.3.exe",
+                    "size": "23174704"
+                },
+                {
+                    "name": "sotc_capt_robins.zip",
+                    "size": "490690"
+                },
+                {
+                    "name": "sotc_death_certificate.zip",
+                    "size": "110951"
+                },
+                {
+                    "name": "sotc_forester_note.zip",
+                    "size": "138050"
+                },
+                {
+                    "name": "sotc_handbuch.zip",
+                    "size": "5994631"
+                },
+                {
+                    "name": "sotc_jack_reeves.zip",
+                    "size": "732653"
+                },
+                {
+                    "name": "sotc_manual_eng.zip",
+                    "size": "2516604"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2F830F101B",
+                            "link": "https://filecrypt.cc/Container/2F830F101B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B771192340",
+                            "link": "https://filecrypt.cc/Container/B771192340"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8BEC4B626D",
+                            "link": "https://filecrypt.cc/Container/8BEC4B626D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E884E90E67",
+                            "link": "https://filecrypt.cc/Container/E884E90E67"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3AED03D0AA",
+                            "link": "https://filecrypt.cc/Container/3AED03D0AA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B0F6ED0B01",
+                            "link": "https://filecrypt.cc/Container/B0F6ED0B01"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

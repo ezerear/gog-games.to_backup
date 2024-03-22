@@ -1,0 +1,76 @@
+{
+    "href": "/game/double_kick_heroes",
+    "MSG": {
+        "id": "1333227204",
+        "title": "Double Kick Heroes",
+        "slug": "double_kick_heroes",
+        "thumb_id": "4f88b8cc5f28ec87fb2515fe84fc77fc2045a6a3556ca8dc5c679e3aedea7b0f",
+        "bg_id": "f5b3a1b78b92215e07869061baf337226f71e0f7466e2c7b17cdbe2ec8176f8f",
+        "url": "https://www.gog.com/game/double_kick_heroes",
+        "developer": "Headbang Club",
+        "publisher": "Headbang Club",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1704087475",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_double_kick_heroes_1.66.6032_(54538)-1.bin",
+                    "size": "4293931006"
+                },
+                {
+                    "name": "setup_double_kick_heroes_1.66.6032_(54538)-2.bin",
+                    "size": "1440037610"
+                },
+                {
+                    "name": "setup_double_kick_heroes_1.66.6032_(54538).exe",
+                    "size": "1044088"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DF186E5775",
+                            "link": "https://filecrypt.cc/Container/DF186E5775"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C476FF4731",
+                            "link": "https://filecrypt.cc/Container/C476FF4731"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/57D4B7CFBC",
+                            "link": "https://filecrypt.cc/Container/57D4B7CFBC"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,107 @@
+{
+    "href": "/game/imperium_galactica",
+    "MSG": {
+        "id": "1860790509",
+        "title": "Imperium Galactica",
+        "slug": "imperium_galactica",
+        "thumb_id": "ac2e1755bf8d11a8f100c2e32b672132567241cf4e14452d91335e4721b43503",
+        "bg_id": "ff1b923e9287a6977ecdd0b3bf120d23c9c437e365d4f039070f03fdd0e0d503",
+        "url": "https://www.gog.com/game/imperium_galactica",
+        "developer": "Digital Reality Software",
+        "publisher": "THQ Nordic GmbH",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1708807877",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_imperium_galactica_2.0.0.5.exe",
+                    "size": "982165608"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "imperium_galactica_manual.zip",
+                    "size": "3682311"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/580A029848",
+                            "link": "https://filecrypt.cc/Container/580A029848"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CE400A5779",
+                            "link": "https://filecrypt.cc/Container/CE400A5779"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1AEDDDE67D",
+                            "link": "https://filecrypt.cc/Container/1AEDDDE67D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/253743CEA5",
+                            "link": "https://filecrypt.cc/Container/253743CEA5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DBF9926F9D",
+                            "link": "https://filecrypt.cc/Container/DBF9926F9D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8E7971D027",
+                            "link": "https://filecrypt.cc/Container/8E7971D027"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

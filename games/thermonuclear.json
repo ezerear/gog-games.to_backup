@@ -1,0 +1,79 @@
+{
+    "href": "/game/thermonuclear",
+    "MSG": {
+        "id": "1425481106",
+        "title": "Thermonuclear",
+        "slug": "thermonuclear",
+        "thumb_id": "80ae9fe84a5fb403e695c45d50c181a564599138511e99568a2230f3f0efeb72",
+        "bg_id": "8c449328ba1e1cf566abb7226e7403e5c36cf109fbffeebaf0b09dd7e1aa4407",
+        "url": "https://www.gog.com/en/game/thermonuclear",
+        "developer": "Apushev Vitaly",
+        "publisher": "Meridian4",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1684105164",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_thermonuclear_1.0_(61257).exe",
+                    "size": "29838648"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E3DD6CA524",
+                            "link": "https://filecrypt.cc/Container/E3DD6CA524"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/28B1F8A18A",
+                            "link": "https://filecrypt.cc/Container/28B1F8A18A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B9F909BAAB",
+                            "link": "https://filecrypt.cc/Container/B9F909BAAB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/94B6DEEE46",
+                            "link": "https://filecrypt.cc/Container/94B6DEEE46"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

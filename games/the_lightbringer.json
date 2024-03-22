@@ -1,0 +1,90 @@
+{
+    "href": "/game/the_lightbringer",
+    "MSG": {
+        "id": "1704584092",
+        "title": "The Lightbringer",
+        "slug": "the_lightbringer",
+        "thumb_id": "e367b25f4fd3fff34ac9abffba5736f3286c63fa317fae3d87125a8a5cab6f56",
+        "bg_id": "1c213941552e36af8695b2c2dafddb9a03b46dff991d3926461c2d6545387106",
+        "url": "https://www.gog.com/game/the_lightbringer",
+        "developer": "Rock Square Thunder",
+        "publisher": "Zordix Publishing",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707228719",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_lightbringer_1.0_(64bit)_(51060).exe",
+                    "size": "1013279232"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/62F161F32E",
+                            "link": "https://filecrypt.cc/Container/62F161F32E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AD44A80679",
+                            "link": "https://filecrypt.cc/Container/AD44A80679"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5163E62EB1",
+                            "link": "https://filecrypt.cc/Container/5163E62EB1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F2B67D0164",
+                            "link": "https://filecrypt.cc/Container/F2B67D0164"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D54F08AD2A",
+                            "link": "https://filecrypt.cc/Container/D54F08AD2A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

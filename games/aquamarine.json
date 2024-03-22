@@ -1,0 +1,79 @@
+{
+    "href": "/game/aquamarine",
+    "MSG": {
+        "id": "1820733314",
+        "title": "Aquamarine",
+        "slug": "aquamarine",
+        "thumb_id": "470938a18b142ec1e74e4ec7b82e93bd3266e42900f5cf3720cb9042e00b3bb5",
+        "bg_id": "9cfa2e09459265eee8d2189be71c9a313b1bc90ac9595efb402ff53ab8f0905f",
+        "url": "https://www.gog.com/game/aquamarine",
+        "developer": "Moebial Studios",
+        "publisher": "Hitcents",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1684757478",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_aquamarine_2.0.0_(64bit)_(60426).exe",
+                    "size": "672762136"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/035E010BAA",
+                            "link": "https://filecrypt.cc/Container/035E010BAA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CC0088AA82",
+                            "link": "https://filecrypt.cc/Container/CC0088AA82"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3ACDD53726",
+                            "link": "https://filecrypt.cc/Container/3ACDD53726"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/503B78B54E",
+                            "link": "https://filecrypt.cc/Container/503B78B54E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

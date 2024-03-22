@@ -1,0 +1,68 @@
+{
+    "href": "/game/the_flame_in_the_flood",
+    "MSG": {
+        "id": "1452692111",
+        "title": "The Flame in the Flood",
+        "slug": "the_flame_in_the_flood",
+        "thumb_id": "3f83c9857515c4c685c0d9378c4ff4d3fcd8de0802204e69693ed7a408bd1e7a",
+        "bg_id": "4c7aef70729a5c5673798e32869a22caff712d3bfef36fc7005ddd27b06e0879",
+        "url": "https://www.gog.com/game/the_flame_in_the_flood",
+        "developer": "The Molasses Flood",
+        "publisher": "Curve Digital",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710398726",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_flame_in_the_flood_1.3.003_(31352).exe",
+                    "size": "1824886880"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1AC0EFDE53",
+                            "link": "https://filecrypt.cc/Container/1AC0EFDE53"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3908D8233A",
+                            "link": "https://filecrypt.cc/Container/3908D8233A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/99498AEB69",
+                            "link": "https://filecrypt.cc/Container/99498AEB69"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

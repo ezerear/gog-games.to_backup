@@ -1,0 +1,68 @@
+{
+    "href": "/game/mondealy",
+    "MSG": {
+        "id": "1225756822",
+        "title": "Mondealy",
+        "slug": "mondealy",
+        "thumb_id": "14a95157d5a958953d626bb274d72da777767bbaaa4b8896077f946d2f45081e",
+        "bg_id": "316c45ecf16f70c323f28de165383b8008a3c7c9334c38212daaf6410fc25bb1",
+        "url": "https://www.gog.com/en/game/mondealy",
+        "developer": "uglycoal",
+        "publisher": "Valkyrie Initiative",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709956752",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_mondealy_1.0.4_(64bit)_(67500).exe",
+                    "size": "275123304"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7F5CFD4CF3",
+                            "link": "https://filecrypt.cc/Container/7F5CFD4CF3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E85C6FE2E3",
+                            "link": "https://filecrypt.cc/Container/E85C6FE2E3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1A48B8E955",
+                            "link": "https://filecrypt.cc/Container/1A48B8E955"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

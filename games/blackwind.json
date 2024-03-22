@@ -1,0 +1,83 @@
+{
+    "href": "/game/blackwind",
+    "MSG": {
+        "id": "1082086381",
+        "title": "Blackwind",
+        "slug": "blackwind",
+        "thumb_id": "7d61962c57afea7283d6acdc4095a5bbe75a95e897fe5e8d89db00f3ee0a3249",
+        "bg_id": "dc16a9737f91b48222152983f8d4c5a35acbafb56e3ba87372646a2091560985",
+        "url": "https://www.gog.com/game/blackwind",
+        "developer": "Drakkar Dev",
+        "publisher": "Blowfish Studios",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1684139218",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_blackwind_release_1.0.2.8_e64ad590_(55275)-1.bin",
+                    "size": "2596472484"
+                },
+                {
+                    "name": "setup_blackwind_release_1.0.2.8_e64ad590_(55275).exe",
+                    "size": "819624"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/71BB686E69",
+                            "link": "https://filecrypt.cc/Container/71BB686E69"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/79C95F54B7",
+                            "link": "https://filecrypt.cc/Container/79C95F54B7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2AD1DBF07C",
+                            "link": "https://filecrypt.cc/Container/2AD1DBF07C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EF87E7D802",
+                            "link": "https://filecrypt.cc/Container/EF87E7D802"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

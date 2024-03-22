@@ -1,0 +1,68 @@
+{
+    "href": "/game/yokus_island_express",
+    "MSG": {
+        "id": "1576137547",
+        "title": "Yoku's Island Express",
+        "slug": "yokus_island_express",
+        "thumb_id": "a8551f70913f96c52ec575ef5bb07bbe4ab9d7c28015efedc6f31bee415561ed",
+        "bg_id": "4bbd0bab2eb675d89965398ada5373aaa75a96f6698b521ac459389585b2180a",
+        "url": "https://www.gog.com/game/yokus_island_express",
+        "developer": "Villa Gorilla",
+        "publisher": "Team17 Digital LTD.",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708524648",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_gog_yoku_latest_drm_free_210927_(50319).exe",
+                    "size": "1130143304"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CD18208E96",
+                            "link": "https://filecrypt.cc/Container/CD18208E96"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/157A7D1030",
+                            "link": "https://filecrypt.cc/Container/157A7D1030"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EF444F7276",
+                            "link": "https://filecrypt.cc/Container/EF444F7276"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

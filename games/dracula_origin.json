@@ -1,0 +1,72 @@
+{
+    "href": "/game/dracula_origin",
+    "MSG": {
+        "id": "1714446439",
+        "title": "Dracula Origin",
+        "slug": "dracula_origin",
+        "thumb_id": "867b38057ea61daadc9bfea7fcbca37c7c0a65fae85d807fbeae8b726a3e20e6",
+        "bg_id": "32f73b16c60e5fc494b48587c92c7d05e7018890d072120824050dd2107a60c4",
+        "url": "https://www.gog.com/game/dracula_origin",
+        "developer": "Frogwares",
+        "publisher": "Frogwares",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710487237",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dracula_origin_1.0_(32916)-1.bin",
+                    "size": "1992422825"
+                },
+                {
+                    "name": "setup_dracula_origin_1.0_(32916).exe",
+                    "size": "822416"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/59CA126A31",
+                            "link": "https://filecrypt.cc/Container/59CA126A31"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ED1D985598",
+                            "link": "https://filecrypt.cc/Container/ED1D985598"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7B3E5E5538",
+                            "link": "https://filecrypt.cc/Container/7B3E5E5538"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

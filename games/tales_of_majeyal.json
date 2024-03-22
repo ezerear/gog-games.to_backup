@@ -1,0 +1,80 @@
+{
+    "href": "/game/tales_of_majeyal",
+    "MSG": {
+        "id": "1207666523",
+        "title": "Tales of Maj'Eyal",
+        "slug": "tales_of_majeyal",
+        "thumb_id": "99cdc5d3e0e6fb0bb96ef28dd9ed11f648c25e0967946cb30b62160dfea3dd6e",
+        "bg_id": "9d64d01726af3499298ce8035e748e12c87d93c7b89f7af4a0d60263604bd907",
+        "url": "https://www.gog.com/game/tales_of_majeyal",
+        "developer": "Netcore",
+        "publisher": "Netcore",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710215031",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tales_of_majeyal_1.7.6_(65702).exe",
+                    "size": "546195912"
+                },
+                {
+                    "name": "setup_tales_of_majeyal_ashes_of_urhrok_1.7.6_(65702).exe",
+                    "size": "37894952"
+                },
+                {
+                    "name": "setup_tales_of_majeyal_embers_of_rage_1.7.6_(65702).exe",
+                    "size": "138836352"
+                },
+                {
+                    "name": "setup_tales_of_majeyal_forbidden_cults_1.7.6_(65702).exe",
+                    "size": "128445024"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5AD4900662",
+                            "link": "https://filecrypt.cc/Container/5AD4900662"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B8917FC176",
+                            "link": "https://filecrypt.cc/Container/B8917FC176"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7326D2E831",
+                            "link": "https://filecrypt.cc/Container/7326D2E831"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

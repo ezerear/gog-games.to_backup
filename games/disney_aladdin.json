@@ -1,0 +1,107 @@
+{
+    "href": "/game/disney_aladdin",
+    "MSG": {
+        "id": "1364995551",
+        "title": "Disney Aladdin",
+        "slug": "disney_aladdin",
+        "thumb_id": "535891167e26a00c98739a2ffe9bd7589fcde746c17f35008c276e9ae43955db",
+        "bg_id": "af4e5b10fe6d7f77e4d8a162555bfedef31f95099b93e31b41b19eb63433a330",
+        "url": "https://web.archive.org/web/20190202075216/https://www.gog.com/game/disney_aladdin",
+        "developer": "Virgin Games",
+        "publisher": "Disney",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709101395",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_disneys_aladdin_2.0.0.4.exe",
+                    "size": "18786096"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "aladdin_16-bit_poster_jpg.zip",
+                    "size": "385698"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8C4430972F",
+                            "link": "https://filecrypt.cc/Container/8C4430972F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4CA6640EAC",
+                            "link": "https://filecrypt.cc/Container/4CA6640EAC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8D67110642",
+                            "link": "https://filecrypt.cc/Container/8D67110642"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3BC54C4F1E",
+                            "link": "https://filecrypt.cc/Container/3BC54C4F1E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/32A6726E27",
+                            "link": "https://filecrypt.cc/Container/32A6726E27"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/09FAD212E3",
+                            "link": "https://filecrypt.cc/Container/09FAD212E3"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

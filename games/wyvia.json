@@ -1,0 +1,79 @@
+{
+    "href": "/game/wyvia",
+    "MSG": {
+        "id": "2028980810",
+        "title": "Wyvia",
+        "slug": "wyvia",
+        "thumb_id": "b804f2f9fb4f48a79df12a454b5ea54033e58f365a95a4f50fe0a602724ff5b4",
+        "bg_id": "22897d81b3d904386b9aabe749f1a6b17e5b4806fbb74c0d48367f6d6405e444",
+        "url": "https://www.gog.com/en/game/wyvia",
+        "developer": "Blast Programming",
+        "publisher": "GIGATANK 3000",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1703470745",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_wyvia_v1.0.5_(68639).exe",
+                    "size": "171493264"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C7A759EEA4",
+                            "link": "https://filecrypt.cc/Container/C7A759EEA4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/533BC0E928",
+                            "link": "https://filecrypt.cc/Container/533BC0E928"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F575F06B47",
+                            "link": "https://filecrypt.cc/Container/F575F06B47"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/394EA33154",
+                            "link": "https://filecrypt.cc/Container/394EA33154"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

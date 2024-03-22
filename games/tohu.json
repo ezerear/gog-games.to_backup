@@ -1,0 +1,72 @@
+{
+    "href": "/game/tohu",
+    "MSG": {
+        "id": "1454839069",
+        "title": "TOHU",
+        "slug": "tohu",
+        "thumb_id": "ceefeb507f5700027fd7397aeb394ac167d0414f7b602c9c06454a85ccc22c8b",
+        "bg_id": "a00b39aa483e0a81751e96562a2c7d870c188939279e6922c3e0f812ef6e2c20",
+        "url": "https://www.gog.com/game/tohu",
+        "developer": "Fireart Games",
+        "publisher": "The Irregular Corporation",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708793120",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tohu_1.02_(45468)-1.bin",
+                    "size": "1971478515"
+                },
+                {
+                    "name": "setup_tohu_1.02_(45468).exe",
+                    "size": "962648"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/288460EE7C",
+                            "link": "https://filecrypt.cc/Container/288460EE7C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D6E997DB8D",
+                            "link": "https://filecrypt.cc/Container/D6E997DB8D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CC0F4DDFDB",
+                            "link": "https://filecrypt.cc/Container/CC0F4DDFDB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

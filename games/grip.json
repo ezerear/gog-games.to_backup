@@ -1,0 +1,119 @@
+{
+    "href": "/game/grip",
+    "MSG": {
+        "id": "1342466874",
+        "title": "GRIP",
+        "slug": "grip",
+        "thumb_id": "dc021a1d14c25002ea4eaae039810aa48ce4f6626bd562b939e1cdbb28c8cbd2",
+        "bg_id": "5b790244d2efaa259d40eb0ae11b5f973c0778e832c969beb01a08fa0d5a6862",
+        "url": "https://www.gog.com/game/grip",
+        "developer": "Caged Element Inc.",
+        "publisher": "Wired Productions",
+        "category": "Racing",
+        "uploading": "0",
+        "last_upload": "1709755059",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_grip_1.5.3_v2_(50529)-1.bin",
+                    "size": "4294065150"
+                },
+                {
+                    "name": "setup_grip_1.5.3_v2_(50529)-2.bin",
+                    "size": "892056419"
+                },
+                {
+                    "name": "setup_grip_1.5.3_v2_(50529).exe",
+                    "size": "908384"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "grip_manual_en.zip",
+                    "size": "2609261"
+                },
+                {
+                    "name": "grip_soundtrack.zip",
+                    "size": "254601122"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/47ECB141CE",
+                            "link": "https://filecrypt.cc/Container/47ECB141CE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/93139F44A8",
+                            "link": "https://filecrypt.cc/Container/93139F44A8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/57BC243CB3",
+                            "link": "https://filecrypt.cc/Container/57BC243CB3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DA446CD899",
+                            "link": "https://filecrypt.cc/Container/DA446CD899"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1663EE6007",
+                            "link": "https://filecrypt.cc/Container/1663EE6007"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5FE0F45407",
+                            "link": "https://filecrypt.cc/Container/5FE0F45407"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

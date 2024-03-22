@@ -1,0 +1,115 @@
+{
+    "href": "/game/street_fighter_alpha_2",
+    "MSG": {
+        "id": "1207659134",
+        "title": "Street Fighter Alpha 2",
+        "slug": "street_fighter_alpha_2",
+        "thumb_id": "f23a0ebcdfd3e43c82444f1c2864818fb7d78eebc0fe6bb352259804ae9c4cc5",
+        "bg_id": "10ca90dd2c09b7016c03de4d0a120c3808ecc0ee48c6ddc7e37497d102f1fa0a",
+        "url": "https://www.gog.com/game/street_fighter_alpha_2",
+        "developer": "Capcom",
+        "publisher": "Capcom",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710954446",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sfa2_2.0.0.11.exe",
+                    "size": "264183208"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "sfa2_artworks.zip",
+                    "size": "6453497"
+                },
+                {
+                    "name": "sfa2_avatars.zip",
+                    "size": "927820"
+                },
+                {
+                    "name": "sfa2_soundtrack.zip",
+                    "size": "39778937"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DB12C1C483",
+                            "link": "https://filecrypt.cc/Container/DB12C1C483"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/072B50F549",
+                            "link": "https://filecrypt.cc/Container/072B50F549"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DEA26DCF1D",
+                            "link": "https://filecrypt.cc/Container/DEA26DCF1D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/66B0CF5B90",
+                            "link": "https://filecrypt.cc/Container/66B0CF5B90"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7B911B2B68",
+                            "link": "https://filecrypt.cc/Container/7B911B2B68"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DEB839FB70",
+                            "link": "https://filecrypt.cc/Container/DEB839FB70"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

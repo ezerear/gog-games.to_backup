@@ -1,0 +1,80 @@
+{
+    "href": "/game/ashen",
+    "MSG": {
+        "id": "1117352613",
+        "title": "Ashen",
+        "slug": "ashen",
+        "thumb_id": "a1e8d83b4f9855cdb2cbcdd5133895a3459aaf01cfb9788d491262f233e42de5",
+        "bg_id": "9ebbcdbf1fdbe3fdafe21a984f0488a2abc9c0e93961338b2b54d755d419d434",
+        "url": "https://www.gog.com/game/ashen",
+        "developer": "A44",
+        "publisher": "Annapurna Interactive",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709102972",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_ashen_1.0.2_(64bit)_(34414)-1.bin",
+                    "size": "4294094334"
+                },
+                {
+                    "name": "setup_ashen_1.0.2_(64bit)_(34414)-2.bin",
+                    "size": "3820643386"
+                },
+                {
+                    "name": "setup_ashen_1.0.2_(64bit)_(34414).exe",
+                    "size": "880104"
+                },
+                {
+                    "name": "setup_ashen_nightstorm_isle_1.0.2_(64bit)_(34414).exe",
+                    "size": "747977816"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CAE9E9A91E",
+                            "link": "https://filecrypt.cc/Container/CAE9E9A91E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D72BC7259E",
+                            "link": "https://filecrypt.cc/Container/D72BC7259E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EED88339C9",
+                            "link": "https://filecrypt.cc/Container/EED88339C9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

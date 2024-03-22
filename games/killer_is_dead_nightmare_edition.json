@@ -1,0 +1,80 @@
+{
+    "href": "/game/killer_is_dead_nightmare_edition",
+    "MSG": {
+        "id": "1408399958",
+        "title": "Killer is Dead: Nightmare Edition",
+        "slug": "killer_is_dead_nightmare_edition",
+        "thumb_id": "522bdad548039d81937db1c78742bcbb52ec066b3d71d0532352a3160e80bab4",
+        "bg_id": "7d76e06444ef84651a39e781b03f9c7426fcf906bc76e30e3ec707d0192ef2cd",
+        "url": "https://www.gog.com/game/killer_is_dead_nightmare_edition",
+        "developer": "KADOKAWA GAMES / GRASSHOPPER MANUFACTURE",
+        "publisher": "Deep Silver",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708956810",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_killer_is_dead_nightmare_edition_1.0_(33373)-1.bin",
+                    "size": "4293758974"
+                },
+                {
+                    "name": "setup_killer_is_dead_nightmare_edition_1.0_(33373)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_killer_is_dead_nightmare_edition_1.0_(33373)-3.bin",
+                    "size": "4019655740"
+                },
+                {
+                    "name": "setup_killer_is_dead_nightmare_edition_1.0_(33373).exe",
+                    "size": "1215672"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8E0E3E8723",
+                            "link": "https://filecrypt.cc/Container/8E0E3E8723"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D962011A91",
+                            "link": "https://filecrypt.cc/Container/D962011A91"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/46AF49C250",
+                            "link": "https://filecrypt.cc/Container/46AF49C250"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

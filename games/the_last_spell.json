@@ -1,0 +1,68 @@
+{
+    "href": "/game/the_last_spell",
+    "MSG": {
+        "id": "2081410845",
+        "title": "The Last Spell",
+        "slug": "the_last_spell",
+        "thumb_id": "f647c8876dd970c4c051922637f542b8df7e577698d599a05a7f50bd765e13f2",
+        "bg_id": "c0deb8a09c5b4e17efcc58aad23b50f2610213bfd83706bdbf26276d7f0d793d",
+        "url": "https://www.gog.com/en/game/the_last_spell",
+        "developer": "Ishtar Games",
+        "publisher": "The Arcade Crew",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709475724",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_last_spell_1.0.2.21_(66466).exe",
+                    "size": "1448452224"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/961B130E75",
+                            "link": "https://filecrypt.cc/Container/961B130E75"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/01B0D77561",
+                            "link": "https://filecrypt.cc/Container/01B0D77561"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8D82F2E781",
+                            "link": "https://filecrypt.cc/Container/8D82F2E781"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,76 @@
+{
+    "href": "/game/metro_2033_redux",
+    "MSG": {
+        "id": "1436434037",
+        "title": "Metro 2033 Redux",
+        "slug": "metro_2033_redux",
+        "thumb_id": "5ce02a450ed46472f85e171fe3f8f6b09addb5c8b10e09cbe2e80a5ae9e5172b",
+        "bg_id": "e945e464cff5491ec16257545a8b3d0632b2e57e836cb1d9c2edfc9387dcb4f5",
+        "url": "https://www.gog.com/game/metro_2033_redux",
+        "developer": "4A Games",
+        "publisher": "Deep Silver",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710077273",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_metro_2033_redux_1.03_(33180)-1.bin",
+                    "size": "4294072318"
+                },
+                {
+                    "name": "setup_metro_2033_redux_1.03_(33180)-2.bin",
+                    "size": "3382473759"
+                },
+                {
+                    "name": "setup_metro_2033_redux_1.03_(33180).exe",
+                    "size": "901976"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4367AF2F37",
+                            "link": "https://filecrypt.cc/Container/4367AF2F37"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E2DCF53DEF",
+                            "link": "https://filecrypt.cc/Container/E2DCF53DEF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/132F377D45",
+                            "link": "https://filecrypt.cc/Container/132F377D45"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

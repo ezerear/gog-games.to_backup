@@ -1,0 +1,84 @@
+{
+    "href": "/game/senren_banka",
+    "MSG": {
+        "id": "1453911006",
+        "title": "Senren * Banka",
+        "slug": "senren_banka",
+        "thumb_id": "ec03027896f4e381e5ce0f6c9c95768b3d195cf3e581ec8fdde0163fdcf1cb68",
+        "bg_id": "bb1655aba2ad28a77c94d42933b1f4b3e53f6ce0af095bc823e5497280322152",
+        "url": "https://www.gog.com/en/game/senren_banka",
+        "developer": "Yuzusoft",
+        "publisher": "NekoNyan Ltd., HIKARI FIELD",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707791101",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_senren__banka_gog_1.0_(55931)-1.bin",
+                    "size": "4294095870"
+                },
+                {
+                    "name": "setup_senren__banka_gog_1.0_(55931)-2.bin",
+                    "size": "2982888130"
+                },
+                {
+                    "name": "setup_senren__banka_gog_1.0_(55931).exe",
+                    "size": "880328"
+                },
+                {
+                    "name": "setup_senren__banka_unrated_gog_1.0_(55931)-1.bin",
+                    "size": "2133210123"
+                },
+                {
+                    "name": "setup_senren__banka_unrated_gog_1.0_(55931).exe",
+                    "size": "802480"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/85491F545C",
+                            "link": "https://filecrypt.cc/Container/85491F545C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D24BB513F8",
+                            "link": "https://filecrypt.cc/Container/D24BB513F8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5E0053F8C1",
+                            "link": "https://filecrypt.cc/Container/5E0053F8C1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

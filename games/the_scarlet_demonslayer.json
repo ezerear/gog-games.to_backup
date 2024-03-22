@@ -1,0 +1,94 @@
+{
+    "href": "/game/the_scarlet_demonslayer",
+    "MSG": {
+        "id": "2104705393",
+        "title": "The Scarlet Demonslayer",
+        "slug": "the_scarlet_demonslayer",
+        "thumb_id": "e4775b32c9b1fa5efad4ec3b9b982b43a3074a493935b74598f1afa4bdf5e614",
+        "bg_id": "220a15c34f9ae26554e2a28480b206e5fb291ba044e7ec7278baa494e53db035",
+        "url": "https://www.gog.com/en/game/the_scarlet_demonslayer",
+        "developer": "Nuko Majin",
+        "publisher": "Kagura Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1703215335",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_scarlet_demonslayer_unrated_v5_(en_1.04_cn_1.04)_(60917).exe",
+                    "size": "156707312"
+                },
+                {
+                    "name": "setup_the_scarlet_demonslayer_v5_(en_1.04_cn_1.04)_(60917).exe",
+                    "size": "673837672"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A712C87D44",
+                            "link": "https://filecrypt.cc/Container/A712C87D44"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BB78F2C547",
+                            "link": "https://filecrypt.cc/Container/BB78F2C547"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ADE1CD041E",
+                            "link": "https://filecrypt.cc/Container/ADE1CD041E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8B1C2931E1",
+                            "link": "https://filecrypt.cc/Container/8B1C2931E1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/08406AABA0",
+                            "link": "https://filecrypt.cc/Container/08406AABA0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

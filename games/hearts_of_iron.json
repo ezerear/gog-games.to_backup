@@ -1,0 +1,107 @@
+{
+    "href": "/game/hearts_of_iron",
+    "MSG": {
+        "id": "1423477291",
+        "title": "Hearts of Iron",
+        "slug": "hearts_of_iron",
+        "thumb_id": "2f12420fe57ce0e7bcdc91dd6e81a208e43fe92bc7fbe73d78b0f73195a98038",
+        "bg_id": "b307047477a8b683e89d87503f8d0dc57b0da2dffec472313601b6f120f7b09c",
+        "url": "https://www.gog.com/game/hearts_of_iron",
+        "developer": "Paradox Development Studio",
+        "publisher": "Paradox Interactive",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1709073780",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hearts_of_iron_2.0.0.3.exe",
+                    "size": "281907552"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "hoi_manual.zip",
+                    "size": "3867634"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AF9BCFCB3B",
+                            "link": "https://filecrypt.cc/Container/AF9BCFCB3B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3807EB218D",
+                            "link": "https://filecrypt.cc/Container/3807EB218D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7AD0E8D6D6",
+                            "link": "https://filecrypt.cc/Container/7AD0E8D6D6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C7AA76678A",
+                            "link": "https://filecrypt.cc/Container/C7AA76678A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FD4F275E63",
+                            "link": "https://filecrypt.cc/Container/FD4F275E63"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/54AAB9786A",
+                            "link": "https://filecrypt.cc/Container/54AAB9786A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

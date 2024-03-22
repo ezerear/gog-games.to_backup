@@ -1,0 +1,119 @@
+{
+    "href": "/game/heart_of_the_woods",
+    "MSG": {
+        "id": "1407126652",
+        "title": "Heart of the Woods",
+        "slug": "heart_of_the_woods",
+        "thumb_id": "78db2a1fe44e718f35925aac792f5d6798b185d09613c87c0547eb674ff68c4c",
+        "bg_id": "905fae246e06499b429e146061a83a49e4d47059bad3163daebc2fce7883f149",
+        "url": "https://www.gog.com/game/heart_of_the_woods",
+        "developer": "Studio Élan",
+        "publisher": "Sekai Project",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709724836",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_heart_of_the_woods_2.1_(53013).exe",
+                    "size": "1492052496"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "hotw_moonlight_mp3.zip",
+                    "size": "169353089"
+                },
+                {
+                    "name": "hotw_moonlight_wav.zip",
+                    "size": "512593736"
+                },
+                {
+                    "name": "hotw_snowfall_mp3.zip",
+                    "size": "94211166"
+                },
+                {
+                    "name": "hotw_snowfall_wav.zip",
+                    "size": "272359503"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A12CB828F3",
+                            "link": "https://filecrypt.cc/Container/A12CB828F3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/92778CC73C",
+                            "link": "https://filecrypt.cc/Container/92778CC73C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/09731C3764",
+                            "link": "https://filecrypt.cc/Container/09731C3764"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/382E493C90",
+                            "link": "https://filecrypt.cc/Container/382E493C90"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AD3C9667A7",
+                            "link": "https://filecrypt.cc/Container/AD3C9667A7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/462808B3E4",
+                            "link": "https://filecrypt.cc/Container/462808B3E4"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

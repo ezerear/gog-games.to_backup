@@ -1,0 +1,68 @@
+{
+    "href": "/game/mortal_kombat_1",
+    "MSG": {
+        "id": "1207667043",
+        "title": "Mortal Kombat 1",
+        "slug": "mortal_kombat_1",
+        "thumb_id": "627675954ac575d24f87b22d4dd0fc536c8218a8abcc163350e2e204318477bf",
+        "bg_id": "85bc500fa4fb31b65d18c8845b079cdf105fe2d591fa930e965affc6a85eb5d3",
+        "url": "https://www.gog.com/game/mortal_kombat_123",
+        "developer": "Midway Games",
+        "publisher": "Warner Bros. Interactive Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709766687",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_mortal_kombat_2.0.0.2.exe",
+                    "size": "22568616"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2F84AE8833",
+                            "link": "https://filecrypt.cc/Container/2F84AE8833"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7A408DDC66",
+                            "link": "https://filecrypt.cc/Container/7A408DDC66"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6D6E83AEB6",
+                            "link": "https://filecrypt.cc/Container/6D6E83AEB6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

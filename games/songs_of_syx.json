@@ -1,0 +1,68 @@
+{
+    "href": "/game/songs_of_syx",
+    "MSG": {
+        "id": "2000476666",
+        "title": "Songs of Syx",
+        "slug": "songs_of_syx",
+        "thumb_id": "5bcff19fc60fc48d410f8704fcf0f388e4453e7bd65d5873e74f7aa41c03670b",
+        "bg_id": "74988aa7876cac229dd92150c783e3096efa1374e09a739680d2211605389b42",
+        "url": "https://www.gog.com/game/songs_of_syx",
+        "developer": " Gamatron AB",
+        "publisher": " Gamatron AB",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1709380308",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_songs_of_syx_0.64.65_(64bit)_(70667).exe",
+                    "size": "347326288"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BA486A97C6",
+                            "link": "https://filecrypt.cc/Container/BA486A97C6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/52DBEE2102",
+                            "link": "https://filecrypt.cc/Container/52DBEE2102"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/12B464B9CB",
+                            "link": "https://filecrypt.cc/Container/12B464B9CB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

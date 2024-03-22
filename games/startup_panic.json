@@ -1,0 +1,68 @@
+{
+    "href": "/game/startup_panic",
+    "MSG": {
+        "id": "1635548170",
+        "title": "Startup Panic",
+        "slug": "startup_panic",
+        "thumb_id": "3c0fbef3d057542048c0c5375060e3a945a32798538e86ae77e917718fb94c44",
+        "bg_id": "47a050f5831f5e87acc5c9ee4db9133c41682818dca8e3cda09153fd20ee7cc2",
+        "url": "https://www.gog.com/game/startup_panic",
+        "developer": "Algo.Rocks",
+        "publisher": "tinyBuild",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1708316157",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_startup_panic_3.15_(52858).exe",
+                    "size": "305808376"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/8pFE88r",
+                            "link": "https://safelinking.net/8pFE88r"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/ii4djKi",
+                            "link": "https://safelinking.net/ii4djKi"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/luWefb6",
+                            "link": "https://safelinking.net/luWefb6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

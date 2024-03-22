@@ -1,0 +1,72 @@
+{
+    "href": "/game/yesterday",
+    "MSG": {
+        "id": "1455500057",
+        "title": "Yesterday",
+        "slug": "yesterday",
+        "thumb_id": "8a3ea501a538a0264af417798cbdda388d93230aea116038f9032c9b06f8a7e4",
+        "bg_id": "68a9e6297219d3f0ae4279c2c53d8fcd4770c6a2c8e3543fab5d156fba978c00",
+        "url": "https://www.gog.com/game/yesterday",
+        "developer": "Pendulo Studios",
+        "publisher": "Focus Home Interactive",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710409194",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_yesterday_1.0.1_(34047)-1.bin",
+                    "size": "3791071360"
+                },
+                {
+                    "name": "setup_yesterday_1.0.1_(34047).exe",
+                    "size": "865448"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/538B0BDAA1",
+                            "link": "https://filecrypt.cc/Container/538B0BDAA1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/05059252C2",
+                            "link": "https://filecrypt.cc/Container/05059252C2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/138D8890CC",
+                            "link": "https://filecrypt.cc/Container/138D8890CC"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

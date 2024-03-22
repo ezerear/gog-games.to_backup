@@ -1,0 +1,94 @@
+{
+    "href": "/game/diluvian_ultra",
+    "MSG": {
+        "id": "1517047613",
+        "title": "Diluvian Ultra",
+        "slug": "diluvian_ultra",
+        "thumb_id": "2f874362eec19d49d8bf2236728a07d863a880dc346fe96de95f9c3962542bdd",
+        "bg_id": "479c63c353f615a61988553ad0751022f1a6c21dab7bfb3542e3a6a94c25b9bb",
+        "url": "https://www.gog.com/en/game/diluvian_ultra",
+        "developer": "Crest Helm Studios",
+        "publisher": "Fulqrum Publishing",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1707873612",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_diluvian_ultra_3.4.06_(64bit)_(71030)-1.bin",
+                    "size": "1904682324"
+                },
+                {
+                    "name": "setup_diluvian_ultra_3.4.06_(64bit)_(71030).exe",
+                    "size": "858584"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0AB67D1A7B",
+                            "link": "https://filecrypt.cc/Container/0AB67D1A7B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F726365D51",
+                            "link": "https://filecrypt.cc/Container/F726365D51"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C7A2CEEB16",
+                            "link": "https://filecrypt.cc/Container/C7A2CEEB16"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/59868D35F7",
+                            "link": "https://filecrypt.cc/Container/59868D35F7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D135A48056",
+                            "link": "https://filecrypt.cc/Container/D135A48056"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,90 @@
+{
+    "href": "/game/lonesome_village",
+    "MSG": {
+        "id": "2003531195",
+        "title": "Lonesome Village",
+        "slug": "lonesome_village",
+        "thumb_id": "8bb7ed58867fb356b16cba832ecefa04de5b9ff9037a8e6f7ad37d86b2cd85a0",
+        "bg_id": "0c07cc36921ff7476ac4f3eaec204b49da7d8483bfbc63ce6a5f872b0eb227df",
+        "url": "https://www.gog.com/en/game/lonesome_village",
+        "developer": "Ogre Pixel",
+        "publisher": "Ogre Pixel",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707903511",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_lonesome_village_1.0_(59798).exe",
+                    "size": "873069512"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DA3AF5EA8C",
+                            "link": "https://filecrypt.cc/Container/DA3AF5EA8C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/226E3B73F7",
+                            "link": "https://filecrypt.cc/Container/226E3B73F7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F8A6D54FCA",
+                            "link": "https://filecrypt.cc/Container/F8A6D54FCA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/49C3CAE1DA",
+                            "link": "https://filecrypt.cc/Container/49C3CAE1DA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/902C873BE6",
+                            "link": "https://filecrypt.cc/Container/902C873BE6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

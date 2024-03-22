@@ -1,0 +1,83 @@
+{
+    "href": "/game/unbound_worlds_apart",
+    "MSG": {
+        "id": "1090025519",
+        "title": "Unbound: Worlds Apart",
+        "slug": "unbound_worlds_apart",
+        "thumb_id": "18614c716c58c767e844b10009f12082128589ba1c5cd74e1abfe05bb633cb3b",
+        "bg_id": "b00a26225b83b534d6c2c81f9cfe9ac6e2a0e838ee0dbbb9d9d35ae1286ec48f",
+        "url": "https://www.gog.com/game/unbound_worlds_apart",
+        "developer": "Alien Pixel Studios",
+        "publisher": "Alien Pixel Studios",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1706514565",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_unbound_worlds_apart_1.0.3_(64bit)_(49145)-1.bin",
+                    "size": "1926848312"
+                },
+                {
+                    "name": "setup_unbound_worlds_apart_1.0.3_(64bit)_(49145).exe",
+                    "size": "862672"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7A3C28E144",
+                            "link": "https://filecrypt.cc/Container/7A3C28E144"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3E3F6F40A9",
+                            "link": "https://filecrypt.cc/Container/3E3F6F40A9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/218F50CE32",
+                            "link": "https://filecrypt.cc/Container/218F50CE32"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C4DC9AD560",
+                            "link": "https://filecrypt.cc/Container/C4DC9AD560"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

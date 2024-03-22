@@ -1,0 +1,68 @@
+{
+    "href": "/game/pandemonium",
+    "MSG": {
+        "id": "1207659054",
+        "title": "Pandemonium!",
+        "slug": "pandemonium",
+        "thumb_id": "6cd2e06b5d401273e0ba898884823c3e3e5724d17bd870f38276f14eb1b4e25b",
+        "bg_id": "9b650265d16f0ff3d52719ee3f688b141951a8f6544bc82de39afb29a952b33e",
+        "url": "https://www.gog.com/game/pandemonium",
+        "developer": "Crystal Dynamics",
+        "publisher": "Square Enix",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710491714",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_pandemonium_2.0.0.15.exe",
+                    "size": "127194528"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/17D808DAF7",
+                            "link": "https://filecrypt.cc/Container/17D808DAF7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E363287F03",
+                            "link": "https://filecrypt.cc/Container/E363287F03"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FE8225A8ED",
+                            "link": "https://filecrypt.cc/Container/FE8225A8ED"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

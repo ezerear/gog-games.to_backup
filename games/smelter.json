@@ -1,0 +1,111 @@
+{
+    "href": "/game/smelter",
+    "MSG": {
+        "id": "1804464869",
+        "title": "Smelter",
+        "slug": "smelter",
+        "thumb_id": "32ea8469ff929e6a14efe96461f13dec7d1bca4e9e699172f13de9ad9de3d7bb",
+        "bg_id": "a47b1540866ac9c56c5b6903ecc1b90f275ccd59aabe6138652eebdad5b0be8e",
+        "url": "https://www.gog.com/game/smelter",
+        "developer": "X PLUS",
+        "publisher": "DANGEN Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710493033",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_smelter_2.0.0_(64bit)_(56064).exe",
+                    "size": "387205728"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "smelters_mix_tape_the_official_soundtrack_flac.zip",
+                    "size": "952118338"
+                },
+                {
+                    "name": "smelters_mix_tape_the_official_soundtrack_mp3.zip",
+                    "size": "350599878"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A52BA5C345",
+                            "link": "https://filecrypt.cc/Container/A52BA5C345"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F23D078087",
+                            "link": "https://filecrypt.cc/Container/F23D078087"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C0EAD96649",
+                            "link": "https://filecrypt.cc/Container/C0EAD96649"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9D9B5B0314",
+                            "link": "https://filecrypt.cc/Container/9D9B5B0314"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/08C86A7731",
+                            "link": "https://filecrypt.cc/Container/08C86A7731"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D3284E119D",
+                            "link": "https://filecrypt.cc/Container/D3284E119D"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

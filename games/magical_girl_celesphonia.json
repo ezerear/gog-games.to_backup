@@ -1,0 +1,102 @@
+{
+    "href": "/game/magical_girl_celesphonia",
+    "MSG": {
+        "id": "1417825557",
+        "title": "Magical Girl Celesphonia",
+        "slug": "magical_girl_celesphonia",
+        "thumb_id": "22fb58b4b597764926fe7af0817f611fae184fb97577a4a03021b459643c2397",
+        "bg_id": "0817e80887464c5f108f014a459a93b191c85c713d164b86ffee0adb40f6919f",
+        "url": "https://www.gog.com/en/game/magical_girl_celesphonia",
+        "developer": "Shimobashira Workshop",
+        "publisher": "Kagura Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1707244260",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_magical_girl_celesphonia_unrated_v5_(en_1.07_cn_1.05)_(59151)-1.bin",
+                    "size": "1363022593"
+                },
+                {
+                    "name": "setup_magical_girl_celesphonia_unrated_v5_(en_1.07_cn_1.05)_(59151).exe",
+                    "size": "1176224"
+                },
+                {
+                    "name": "setup_magical_girl_celesphonia_v5_(en_1.07_cn_1.05)_(59151)-1.bin",
+                    "size": "863889552"
+                },
+                {
+                    "name": "setup_magical_girl_celesphonia_v5_(en_1.07_cn_1.05)_(59151).exe",
+                    "size": "1127456"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/621DA6F879",
+                            "link": "https://filecrypt.cc/Container/621DA6F879"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5431A7E7E3",
+                            "link": "https://filecrypt.cc/Container/5431A7E7E3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F0A2C3E02A",
+                            "link": "https://filecrypt.cc/Container/F0A2C3E02A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5B2F231BE0",
+                            "link": "https://filecrypt.cc/Container/5B2F231BE0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/18497D4622",
+                            "link": "https://filecrypt.cc/Container/18497D4622"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

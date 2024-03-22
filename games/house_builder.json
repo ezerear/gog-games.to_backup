@@ -1,0 +1,84 @@
+{
+    "href": "/game/house_builder",
+    "MSG": {
+        "id": "1161953168",
+        "title": "House Builder",
+        "slug": "house_builder",
+        "thumb_id": "89fdb1d93efb03d47c273ddad4adcfa21d0867f4495b2cd7e796bafb724ef1e0",
+        "bg_id": "7e7250ce85bef27eee84b5691c00e9611de8023545e6e21330af4479932a6a6d",
+        "url": "https://www.gog.com/en/game/house_builder",
+        "developer": "FreeMind S.A.",
+        "publisher": "FreeMind S.A.",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1706327080",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_house_builder_full_release__languages_(70478)-1.bin",
+                    "size": "4293565950"
+                },
+                {
+                    "name": "setup_house_builder_full_release__languages_(70478)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_house_builder_full_release__languages_(70478)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_house_builder_full_release__languages_(70478)-4.bin",
+                    "size": "1889435790"
+                },
+                {
+                    "name": "setup_house_builder_full_release__languages_(70478).exe",
+                    "size": "1408728"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FBF6D7870C",
+                            "link": "https://filecrypt.cc/Container/FBF6D7870C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8EF374A88D",
+                            "link": "https://filecrypt.cc/Container/8EF374A88D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E2F42113E4",
+                            "link": "https://filecrypt.cc/Container/E2F42113E4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

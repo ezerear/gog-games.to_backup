@@ -1,0 +1,111 @@
+{
+    "href": "/game/unreal_gold",
+    "MSG": {
+        "id": "1207658679",
+        "title": "Unreal Gold",
+        "slug": "unreal_gold",
+        "thumb_id": "f5d47eca37a7097368fa4652740853f5967a41c88fbc15775e1aad12a03d4a80",
+        "bg_id": "152c5e33436fbff4226665b69eed6d7ef65533d56b74a1c21d70f264dc7dbd5e",
+        "url": "https://www.gog.com/game/unreal_gold",
+        "developer": "Epic Games",
+        "publisher": "Epic Games",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710530677",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_unreal_gold_2.0.0.6.exe",
+                    "size": "233997336"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "unreal_avatars.zip",
+                    "size": "241683"
+                },
+                {
+                    "name": "unreal_manual.zip",
+                    "size": "9475071"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B360EE7E72",
+                            "link": "https://filecrypt.cc/Container/B360EE7E72"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E5881B5788",
+                            "link": "https://filecrypt.cc/Container/E5881B5788"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7D1BF6E639",
+                            "link": "https://filecrypt.cc/Container/7D1BF6E639"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FA30B05A35",
+                            "link": "https://filecrypt.cc/Container/FA30B05A35"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C6E473020E",
+                            "link": "https://filecrypt.cc/Container/C6E473020E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E4016D3CB0",
+                            "link": "https://filecrypt.cc/Container/E4016D3CB0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

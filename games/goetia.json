@@ -1,0 +1,104 @@
+{
+    "href": "/game/goetia",
+    "MSG": {
+        "id": "1661984551",
+        "title": "Goetia",
+        "slug": "goetia",
+        "thumb_id": "15aa557cee7e1141d879396cbc83ced3d6703ab62f474c15c25471be5a028e4e",
+        "bg_id": "d809f02007cc03f15c037371038e962f009c3daa2068a37bb83bf7d52731f5a0",
+        "url": "https://www.gog.com/game/goetia",
+        "developer": "Sushee",
+        "publisher": "Square Enix / Forever Entertainment S. A.",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709271403",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_goetia_gog-1_(18324)-1.bin",
+                    "size": "820733329"
+                },
+                {
+                    "name": "setup_goetia_gog-1_(18324).exe",
+                    "size": "764216"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "artbook_goetia.zip",
+                    "size": "4971952"
+                },
+                {
+                    "name": "goetia_ost_mp3.zip",
+                    "size": "142776643"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/197E4E2A9C",
+                            "link": "https://filecrypt.cc/Container/197E4E2A9C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/22A8B2297F",
+                            "link": "https://filecrypt.cc/Container/22A8B2297F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8F3EF465F7",
+                            "link": "https://filecrypt.cc/Container/8F3EF465F7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D32E7061C8",
+                            "link": "https://filecrypt.cc/Container/D32E7061C8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7228C38C25",
+                            "link": "https://filecrypt.cc/Container/7228C38C25"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

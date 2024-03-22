@@ -1,0 +1,111 @@
+{
+    "href": "/game/nox",
+    "MSG": {
+        "id": "1207658964",
+        "title": "Nox™",
+        "slug": "nox",
+        "thumb_id": "a3b79647df9e84ff6cfee59a7fbe100976c25cf9e7d3889ec3a3237336c283d7",
+        "bg_id": "0dcc7acc68597d8aecb9f0c6460a5faec5ae5366cd7ce2078923c2b0674575ed",
+        "url": "https://www.gog.com/game/nox",
+        "developer": "Westwood Studios",
+        "publisher": "Electronic Arts",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1708976980",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_nox_2.0.0.20.exe",
+                    "size": "486800944"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "Nox_manual.zip",
+                    "size": "1868352"
+                },
+                {
+                    "name": "Nox_QRC.zip",
+                    "size": "693903"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4E585B0A76",
+                            "link": "https://filecrypt.cc/Container/4E585B0A76"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0AC0CA5EFA",
+                            "link": "https://filecrypt.cc/Container/0AC0CA5EFA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D9CDC17756",
+                            "link": "https://filecrypt.cc/Container/D9CDC17756"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6D9504A228",
+                            "link": "https://filecrypt.cc/Container/6D9504A228"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/463F472D7C",
+                            "link": "https://filecrypt.cc/Container/463F472D7C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/42C244354E",
+                            "link": "https://filecrypt.cc/Container/42C244354E"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

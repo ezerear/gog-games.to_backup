@@ -1,0 +1,68 @@
+{
+    "href": "/game/shadowhand",
+    "MSG": {
+        "id": "1389096948",
+        "title": "Shadowhand",
+        "slug": "shadowhand",
+        "thumb_id": "d51f2f20a4c4cde26358b0a1a5d2749292bda5aa6b98a38b194d24c329464aa0",
+        "bg_id": "11cb03e23719faae6b9f1bc7777e9416ecfd04b7cad090c49066b906df71dff5",
+        "url": "https://www.gog.com/game/shadowhand",
+        "developer": "Grey Alien Games",
+        "publisher": "Positech Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709958943",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_shadowhand_1.09_(21948).exe",
+                    "size": "269785720"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F9E1D3FDCA",
+                            "link": "https://filecrypt.cc/Container/F9E1D3FDCA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9FED9B2A22",
+                            "link": "https://filecrypt.cc/Container/9FED9B2A22"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/37BB75D1C7",
+                            "link": "https://filecrypt.cc/Container/37BB75D1C7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

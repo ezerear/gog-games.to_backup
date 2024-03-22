@@ -1,0 +1,68 @@
+{
+    "href": "/game/otherwar",
+    "MSG": {
+        "id": "2024971321",
+        "title": "Otherwar",
+        "slug": "otherwar",
+        "thumb_id": "c66ab932a87e9e82df71f42a22d252913943f6b9b3bfdbd715ed96a76555be0d",
+        "bg_id": "85f1f6b270b3ef716eeb23266a2344b41dc92ae91976339d34b8640d35805a2a",
+        "url": "https://www.gog.com/en/game/otherwar",
+        "developer": "kantal collective",
+        "publisher": "Untold Tales, Hyperstrange",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710460860",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_otherwar_1.07rc5_-_06.03.2024_(71702).exe",
+                    "size": "163189688"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4D6E4C0AE4",
+                            "link": "https://filecrypt.cc/Container/4D6E4C0AE4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A573450E5D",
+                            "link": "https://filecrypt.cc/Container/A573450E5D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D700411EC6",
+                            "link": "https://filecrypt.cc/Container/D700411EC6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

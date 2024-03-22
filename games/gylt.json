@@ -1,0 +1,135 @@
+{
+    "href": "/game/gylt",
+    "MSG": {
+        "id": "1185763446",
+        "title": "GYLT",
+        "slug": "gylt",
+        "thumb_id": "4ecdc030a0b13d8813baecd4da0fb860f892f732d24835b4edeae467110d8bda",
+        "bg_id": "4539b162ec557d7364571e3714e861e68b8fd2c90352bcb0c27da7a0a72a58bc",
+        "url": "https://www.gog.com/en/game/gylt",
+        "developer": "Tequila Works, Parallel Circles",
+        "publisher": "Tequila Works",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708644312",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_gylt_1.05_(64bit)_(66007)-1.bin",
+                    "size": "4294098942"
+                },
+                {
+                    "name": "setup_gylt_1.05_(64bit)_(66007)-2.bin",
+                    "size": "1959727478"
+                },
+                {
+                    "name": "setup_gylt_1.05_(64bit)_(66007).exe",
+                    "size": "878480"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "gylt_soundtrack.zip",
+                    "size": "118455400"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EA4493046B",
+                            "link": "https://filecrypt.cc/Container/EA4493046B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4389DF8819",
+                            "link": "https://filecrypt.cc/Container/4389DF8819"
+                        },
+                        {
+                            "name": "https://filecrypt.cc/Container/B702C82985",
+                            "link": "https://filecrypt.cc/Container/B702C82985"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CFB103815C",
+                            "link": "https://filecrypt.cc/Container/CFB103815C"
+                        },
+                        {
+                            "name": "https://filecrypt.cc/Container/F7A67A3439",
+                            "link": "https://filecrypt.cc/Container/F7A67A3439"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/06F190B5D9",
+                            "link": "https://filecrypt.cc/Container/06F190B5D9"
+                        },
+                        {
+                            "name": "https://filecrypt.cc/Container/D9B8B4ACE0",
+                            "link": "https://filecrypt.cc/Container/D9B8B4ACE0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/16CB8806BD",
+                            "link": "https://filecrypt.cc/Container/16CB8806BD"
+                        },
+                        {
+                            "name": "https://filecrypt.cc/Container/4771997E5A",
+                            "link": "https://filecrypt.cc/Container/4771997E5A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2868C06B2C",
+                            "link": "https://filecrypt.cc/Container/2868C06B2C"
+                        },
+                        {
+                            "name": "https://filecrypt.cc/Container/7557D05C58",
+                            "link": "https://filecrypt.cc/Container/7557D05C58"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

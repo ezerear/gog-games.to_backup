@@ -1,0 +1,90 @@
+{
+    "href": "/game/airborne_kingdom",
+    "MSG": {
+        "id": "2108217780",
+        "title": "Airborne Kingdom",
+        "slug": "airborne_kingdom",
+        "thumb_id": "ee200c67606c8dc51591ed301ae9fc426d8033761733306f4731c209d2b83acb",
+        "bg_id": "7953c0e24fa4fabb2fc624c1d459cd4db50f41906ba1134bc9d28547f8f994b1",
+        "url": "https://www.gog.com/en/game/airborne_kingdom",
+        "developer": "The Wandering Band LLC",
+        "publisher": "Freedom Games",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1707768161",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_airborne_kingdom_1.10.3-win_(65389).exe",
+                    "size": "1269212344"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BE87D7D748",
+                            "link": "https://filecrypt.cc/Container/BE87D7D748"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/78F2AC57BB",
+                            "link": "https://filecrypt.cc/Container/78F2AC57BB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/846F69546B",
+                            "link": "https://filecrypt.cc/Container/846F69546B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F5AF460A55",
+                            "link": "https://filecrypt.cc/Container/F5AF460A55"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ED6A3B46D3",
+                            "link": "https://filecrypt.cc/Container/ED6A3B46D3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

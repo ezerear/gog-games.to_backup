@@ -1,0 +1,76 @@
+{
+    "href": "/game/under_the_witch",
+    "MSG": {
+        "id": "1358404037",
+        "title": "Under the Witch",
+        "slug": "under_the_witch",
+        "thumb_id": "d667c02ebaafd93fbdacd3058ea75dd08816b7b016fdcdfa49358994f63d228d",
+        "bg_id": "dd636cf39323ee0d3f88129f1465565e7980a54c2f1a2d875c5a4796edac6c38",
+        "url": "https://www.gog.com/en/game/under_the_witch",
+        "developer": "NumericGazer",
+        "publisher": "Shady Corner Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710543152",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_under_the_witch_1.5a_(67473)-1.bin",
+                    "size": "4294089214"
+                },
+                {
+                    "name": "setup_under_the_witch_1.5a_(67473)-2.bin",
+                    "size": "3296088414"
+                },
+                {
+                    "name": "setup_under_the_witch_1.5a_(67473).exe",
+                    "size": "887968"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/269A10661E",
+                            "link": "https://filecrypt.cc/Container/269A10661E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CFA91EAF4C",
+                            "link": "https://filecrypt.cc/Container/CFA91EAF4C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9A5214988A",
+                            "link": "https://filecrypt.cc/Container/9A5214988A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

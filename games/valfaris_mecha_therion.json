@@ -1,0 +1,72 @@
+{
+    "href": "/game/valfaris_mecha_therion",
+    "MSG": {
+        "id": "1889332257",
+        "title": "Valfaris: Mecha Therion",
+        "slug": "valfaris_mecha_therion",
+        "thumb_id": "c033a3b44b659b44410b02fe24210e7db2ad5c30e001c36be7109c6e1a15fef8",
+        "bg_id": "5b8e5c0988ed5249a89e9b748bc7121fb65eb07d3a653a535ead6a9f19a71ebd",
+        "url": "https://www.gog.com/en/game/valfaris_mecha_therion",
+        "developer": "Steel Mantis",
+        "publisher": "Big Sugar, East2West Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709703880",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_valfaris_mecha_therion_1.02_(69065)-1.bin",
+                    "size": "751276107"
+                },
+                {
+                    "name": "setup_valfaris_mecha_therion_1.02_(69065).exe",
+                    "size": "817744"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5F92963DC6",
+                            "link": "https://filecrypt.cc/Container/5F92963DC6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/66F90513F3",
+                            "link": "https://filecrypt.cc/Container/66F90513F3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DC78C8C84B",
+                            "link": "https://filecrypt.cc/Container/DC78C8C84B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

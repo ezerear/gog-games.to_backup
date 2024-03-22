@@ -1,0 +1,79 @@
+{
+    "href": "/game/soulless_ray_of_hope",
+    "MSG": {
+        "id": "1899751691",
+        "title": "Soulless: Ray of Hope",
+        "slug": "soulless_ray_of_hope",
+        "thumb_id": "8b6bff78de064b7cc2ae6805992042d1a70e5b382793de4329f95759cd50216d",
+        "bg_id": "317a6708f04b0a96b2a94e62156e5b9ee3c784ed4542c5746acae5b8b4c2f6b3",
+        "url": "https://www.gog.com/en/game/soulless_ray_of_hope",
+        "developer": "Frisky Fatal Games",
+        "publisher": "Meridian4",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708136319",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_soulless_ray_of_hope_1.0.0_(57057).exe",
+                    "size": "213005968"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2496C3395F",
+                            "link": "https://filecrypt.cc/Container/2496C3395F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/07A05760BF",
+                            "link": "https://filecrypt.cc/Container/07A05760BF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A2141CE9A6",
+                            "link": "https://filecrypt.cc/Container/A2141CE9A6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/427D4DF88B",
+                            "link": "https://filecrypt.cc/Container/427D4DF88B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

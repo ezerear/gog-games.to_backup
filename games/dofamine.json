@@ -1,0 +1,79 @@
+{
+    "href": "/game/dofamine",
+    "MSG": {
+        "id": "1902697614",
+        "title": "Dofamine",
+        "slug": "dofamine",
+        "thumb_id": "cb98c1b8cd4f0bdcc6f5188d1d06accd5beae585804ed10389c37d9572123fb5",
+        "bg_id": "bef1f2568b1fd5ae7144093df8e18dffae816989aeddf45614db75ba7ed9b676",
+        "url": "https://www.gog.com/en/game/dofamine",
+        "developer": "Whale Rock Games",
+        "publisher": "Whale Rock Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1684649513",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dofamine_update_1_(64bit)_(64665).exe",
+                    "size": "806427192"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D24B23A9E3",
+                            "link": "https://filecrypt.cc/Container/D24B23A9E3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/07B5B27929",
+                            "link": "https://filecrypt.cc/Container/07B5B27929"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/86818A1919",
+                            "link": "https://filecrypt.cc/Container/86818A1919"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4E7AE36A04",
+                            "link": "https://filecrypt.cc/Container/4E7AE36A04"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

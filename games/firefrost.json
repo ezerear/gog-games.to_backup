@@ -1,0 +1,68 @@
+{
+    "href": "/game/firefrost",
+    "MSG": {
+        "id": "1745808442",
+        "title": "Firefrost",
+        "slug": "firefrost",
+        "thumb_id": "b5d62e7b3aebeb0d4cb9496f798341201df2f48c923cba7e439512b2b72ad3fb",
+        "bg_id": "9851a76448b1585d0581c1c1f3b3b12ea9d94273bc42d5d81651a68202f1a684",
+        "url": "https://www.gog.com/en/game/firefrost",
+        "developer": "Isabelle Fougner Axrup",
+        "publisher": "Studio Hemvist",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1708394915",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_firefrost_1.0_(64bit)_(71220).exe",
+                    "size": "7652008"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/Xm47DD7",
+                            "link": "https://safelinking.net/Xm47DD7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/3EgYQ61",
+                            "link": "https://safelinking.net/3EgYQ61"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/j2HCZKE",
+                            "link": "https://safelinking.net/j2HCZKE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

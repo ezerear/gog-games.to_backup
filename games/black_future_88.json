@@ -1,0 +1,97 @@
+{
+    "href": "/game/black_future_88",
+    "MSG": {
+        "id": "1159243973",
+        "title": "Black Future '88",
+        "slug": "black_future_88",
+        "thumb_id": "348b313ec0abef2b70f6a2c458fd75052362131aa806328fe58d9cb3f5987b78",
+        "bg_id": "821c794dbe3ce68d87df09748dec3f1b74b08348cd71053d890effa59aa05cda",
+        "url": "https://www.gog.com/game/black_future_88",
+        "developer": "SUPERSCARYSNAKES",
+        "publisher": "Good Shepherd Entertainment\t",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710141800",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_black_future_88_0.45.8_(64bit)_(38467).exe",
+                    "size": "1038153976"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "black_future_88_ost_flac.zip",
+                    "size": "477825104"
+                },
+                {
+                    "name": "black_future_88_ost_mp3.zip",
+                    "size": "89349667"
+                },
+                {
+                    "name": "black_future_88_ost_wav.zip",
+                    "size": "596857583"
+                },
+                {
+                    "name": "black_future_88_wallpapers.zip",
+                    "size": "19538050"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7EF2E96E55",
+                            "link": "https://filecrypt.cc/Container/7EF2E96E55"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9E26BA06A7",
+                            "link": "https://filecrypt.cc/Container/9E26BA06A7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9DF5DF39EE",
+                            "link": "https://filecrypt.cc/Container/9DF5DF39EE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/22D335676C",
+                            "link": "https://filecrypt.cc/Container/22D335676C"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

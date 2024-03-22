@@ -1,0 +1,155 @@
+{
+    "href": "/game/elex",
+    "MSG": {
+        "id": "1885888793",
+        "title": "ELEX",
+        "slug": "elex",
+        "thumb_id": "35b99cb55028791624d4a980d7c055eec81eaeb8c1e1b27a1cf3f483867b7b42",
+        "bg_id": "57e6d1a7ee30caf05b8031c3492726e00af81c69e11af5093377b9b639c7bde2",
+        "url": "https://www.gog.com/game/elex",
+        "developer": "Piranha Bytes",
+        "publisher": "THQ Nordic GmbH",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709982212",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_elex_1.0.2955.0_(17769)-1.bin",
+                    "size": "4294151166"
+                },
+                {
+                    "name": "setup_elex_1.0.2955.0_(17769)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_elex_1.0.2955.0_(17769)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_elex_1.0.2955.0_(17769)-4.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_elex_1.0.2955.0_(17769)-5.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_elex_1.0.2955.0_(17769)-6.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_elex_1.0.2955.0_(17769)-7.bin",
+                    "size": "3050150292"
+                },
+                {
+                    "name": "setup_elex_1.0.2955.0_(17769).exe",
+                    "size": "823176"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "elex_artbook.zip",
+                    "size": "18527280"
+                },
+                {
+                    "name": "elex_avatars.zip",
+                    "size": "4066367"
+                },
+                {
+                    "name": "elex_making_of_video.zip",
+                    "size": "1931814567"
+                },
+                {
+                    "name": "elex_soundtrack_flac.zip",
+                    "size": "413813071"
+                },
+                {
+                    "name": "elex_soundtrack_mp3.zip",
+                    "size": "187322977"
+                },
+                {
+                    "name": "elex_wallpapers.zip",
+                    "size": "14863905"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3430010F7C",
+                            "link": "https://filecrypt.cc/Container/3430010F7C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4ED3B0186F",
+                            "link": "https://filecrypt.cc/Container/4ED3B0186F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D7BCE6ECAE",
+                            "link": "https://filecrypt.cc/Container/D7BCE6ECAE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B079D43946",
+                            "link": "https://filecrypt.cc/Container/B079D43946"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/83B07BA6F4",
+                            "link": "https://filecrypt.cc/Container/83B07BA6F4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4FF859F908",
+                            "link": "https://filecrypt.cc/Container/4FF859F908"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

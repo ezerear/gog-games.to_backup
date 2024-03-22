@@ -1,0 +1,83 @@
+{
+    "href": "/game/sky_cannoneer",
+    "MSG": {
+        "id": "1738023096",
+        "title": "Sky Cannoneer",
+        "slug": "sky_cannoneer",
+        "thumb_id": "17de97535007e484778febe6952233682829b0ff495b2c912c94636a231f3059",
+        "bg_id": "e70a52d2ab10c5f2b074f584fe7050f04947a29a08cdb462afd1cb73afa06798",
+        "url": "https://www.gog.com/game/sky_cannoneer",
+        "developer": "Element Games, LLC",
+        "publisher": "Element Games, LLC",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1684631960",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sky_cannoneer_1.2.0.07_(38322)-1.bin",
+                    "size": "528624270"
+                },
+                {
+                    "name": "setup_sky_cannoneer_1.2.0.07_(38322).exe",
+                    "size": "876016"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7C3E89145B",
+                            "link": "https://filecrypt.cc/Container/7C3E89145B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5671D60CF5",
+                            "link": "https://filecrypt.cc/Container/5671D60CF5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/59F0D5F927",
+                            "link": "https://filecrypt.cc/Container/59F0D5F927"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8BA3DA7421",
+                            "link": "https://filecrypt.cc/Container/8BA3DA7421"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,107 @@
+{
+    "href": "/game/sally_face",
+    "MSG": {
+        "id": "1158284393",
+        "title": "Sally Face",
+        "slug": "sally_face",
+        "thumb_id": "43ee463b699804cb53fbd44cd890396ef8eb897953b2fc04aa91409143226018",
+        "bg_id": "6b73af888c176ade90d640420ed1eb1f667c68363fe9adef6848f859e40ea521",
+        "url": "https://www.gog.com/game/sally_face",
+        "developer": "Steve Gabry",
+        "publisher": "Portable Moose",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710257732",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sally_face_1.5.42_(57309).exe",
+                    "size": "519677008"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "soundtracks.zip",
+                    "size": "112094887"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/02C5F65F00",
+                            "link": "https://filecrypt.cc/Container/02C5F65F00"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D355BDC0EE",
+                            "link": "https://filecrypt.cc/Container/D355BDC0EE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F17DEE3971",
+                            "link": "https://filecrypt.cc/Container/F17DEE3971"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A967DD0B9F",
+                            "link": "https://filecrypt.cc/Container/A967DD0B9F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/48AD099CA6",
+                            "link": "https://filecrypt.cc/Container/48AD099CA6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BC33BFDF25",
+                            "link": "https://filecrypt.cc/Container/BC33BFDF25"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

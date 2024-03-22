@@ -1,0 +1,76 @@
+{
+    "href": "/game/noob_the_factionless",
+    "MSG": {
+        "id": "1217873336",
+        "title": "Noob - The Factionless",
+        "slug": "noob_the_factionless",
+        "thumb_id": "16c17c07a9fac0ff6d1258063bf0ca210a3074f57a18d3b9a44130d6d8c81646",
+        "bg_id": "5cb68a0e0a18eca52deac5dd11e781be7bd478a5206731ff166a5098c52f168c",
+        "url": "https://www.gog.com/en/game/noob_the_factionless",
+        "developer": "BlackPixel Studio, Olydri Games",
+        "publisher": "Olydri Studio, Microids",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1688010797",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_noob_-_the_factionless_1.00_(65508)-1.bin",
+                    "size": "4294056958"
+                },
+                {
+                    "name": "setup_noob_-_the_factionless_1.00_(65508)-2.bin",
+                    "size": "3043610990"
+                },
+                {
+                    "name": "setup_noob_-_the_factionless_1.00_(65508).exe",
+                    "size": "920504"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CF8DA3B61A",
+                            "link": "https://filecrypt.cc/Container/CF8DA3B61A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0B00300322",
+                            "link": "https://filecrypt.cc/Container/0B00300322"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/142DC33DCF",
+                            "link": "https://filecrypt.cc/Container/142DC33DCF"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

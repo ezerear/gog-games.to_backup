@@ -1,0 +1,119 @@
+{
+    "href": "/game/silence",
+    "MSG": {
+        "id": "1452682147",
+        "title": "Silence",
+        "slug": "silence",
+        "thumb_id": "d52232cd694349166ac529cd8527d95b1e245d440bfcb47e222d46668b7a3338",
+        "bg_id": "7f325205d2220e3dd2c4b2f614645da38a80701b398533d397d053d46ae1590c",
+        "url": "https://www.gog.com/game/silence",
+        "developer": "Daedalic Entertainment",
+        "publisher": "Daedalic Entertainment",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709211822",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_silence_1.2.2a_(12082)-1.bin",
+                    "size": "4294183934"
+                },
+                {
+                    "name": "setup_silence_1.2.2a_(12082)-2.bin",
+                    "size": "18643899"
+                },
+                {
+                    "name": "setup_silence_1.2.2a_(12082).exe",
+                    "size": "790432"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "silence_artbook.zip",
+                    "size": "78421291"
+                },
+                {
+                    "name": "silence_ost_mp3.zip",
+                    "size": "129285037"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2C4937D3BF",
+                            "link": "https://filecrypt.cc/Container/2C4937D3BF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2050E77883",
+                            "link": "https://filecrypt.cc/Container/2050E77883"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1AFC772116",
+                            "link": "https://filecrypt.cc/Container/1AFC772116"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BA15AD3C5B",
+                            "link": "https://filecrypt.cc/Container/BA15AD3C5B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CA755A7C75",
+                            "link": "https://filecrypt.cc/Container/CA755A7C75"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4D69CC37AC",
+                            "link": "https://filecrypt.cc/Container/4D69CC37AC"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

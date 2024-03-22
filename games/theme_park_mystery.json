@@ -1,0 +1,79 @@
+{
+    "href": "/game/theme_park_mystery",
+    "MSG": {
+        "id": "1852729690",
+        "title": "Theme Park Mystery",
+        "slug": "theme_park_mystery",
+        "thumb_id": "a43ad3928ddf8176d91e29d8e8926bb282f9cb35e6fa804c443b6de1ebc55a86",
+        "bg_id": "cafdb87d0e8c459995015b5e550c5ee2cf4cb5665b59fd8b507b06aa0e9b4e02",
+        "url": "https://www.gog.com/en/game/theme_park_mystery",
+        "developer": "Image Works",
+        "publisher": "Mirrorsoft",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1684098236",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_theme_park_mystery_v1.0_(60286).exe",
+                    "size": "9401000"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/33CF3E082B",
+                            "link": "https://filecrypt.cc/Container/33CF3E082B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/159875DE0D",
+                            "link": "https://filecrypt.cc/Container/159875DE0D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9F70BC5792",
+                            "link": "https://filecrypt.cc/Container/9F70BC5792"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/853AD8AF32",
+                            "link": "https://filecrypt.cc/Container/853AD8AF32"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

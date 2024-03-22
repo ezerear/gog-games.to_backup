@@ -1,0 +1,123 @@
+{
+    "href": "/game/black_mirror",
+    "MSG": {
+        "id": "1569429547",
+        "title": "Black Mirror",
+        "slug": "black_mirror",
+        "thumb_id": "05ec7bfca2179f0eb6e58b2bc65827967320aeacdbfc064ec87cdbb79fcdcec3",
+        "bg_id": "a410342d219566d75ec8ba3e56c87b89e55052826fb33af6d555f5d0419b6dba",
+        "url": "https://www.gog.com/game/black_mirror",
+        "developer": "KING Art",
+        "publisher": "THQ Nordic GmbH",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709155003",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_black_mirror_1.0_(16216)-1.bin",
+                    "size": "4293809150"
+                },
+                {
+                    "name": "setup_black_mirror_1.0_(16216)-2.bin",
+                    "size": "1039427849"
+                },
+                {
+                    "name": "setup_black_mirror_1.0_(16216).exe",
+                    "size": "1165424"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "black_mirror_2017_making_of_eng.zip",
+                    "size": "2087017713"
+                },
+                {
+                    "name": "black_mirror_2017_making_of_ger.zip",
+                    "size": "2304742594"
+                },
+                {
+                    "name": "black_mirror_2017_ost_mp3.zip",
+                    "size": "53898079"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/43C6BA78AF",
+                            "link": "https://filecrypt.cc/Container/43C6BA78AF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AF911ECAD1",
+                            "link": "https://filecrypt.cc/Container/AF911ECAD1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5AFF71F61B",
+                            "link": "https://filecrypt.cc/Container/5AFF71F61B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6980B571AD",
+                            "link": "https://filecrypt.cc/Container/6980B571AD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2E69852D28",
+                            "link": "https://filecrypt.cc/Container/2E69852D28"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E68B7B74CE",
+                            "link": "https://filecrypt.cc/Container/E68B7B74CE"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

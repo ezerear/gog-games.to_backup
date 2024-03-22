@@ -1,0 +1,72 @@
+{
+    "href": "/game/star_dynasties",
+    "MSG": {
+        "id": "1177048612",
+        "title": "Star Dynasties",
+        "slug": "star_dynasties",
+        "thumb_id": "69399b86674953279c1cc804f0c39c7cefb3ca65cd4595ae5bf33b2ff992461f",
+        "bg_id": "e624b878d200766e0b2196af1c4e70ffab483e5211bdd691f2b1361ba81aa422",
+        "url": "https://www.gog.com/game/star_dynasties",
+        "developer": "Pawley Games",
+        "publisher": "Iceberg Interactive",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1708317181",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_star_dynasties_bloodlines_v1.0.4.0-gog_(64bit)_(60924).exe",
+                    "size": "10007712"
+                },
+                {
+                    "name": "setup_star_dynasties_v1.0.4.0-gog_(64bit)_(60924).exe",
+                    "size": "365240384"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/5B31UmZ",
+                            "link": "https://safelinking.net/5B31UmZ"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/SBMpCMq",
+                            "link": "https://safelinking.net/SBMpCMq"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/z8SFN4X",
+                            "link": "https://safelinking.net/z8SFN4X"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

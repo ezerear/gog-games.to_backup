@@ -1,0 +1,166 @@
+{
+    "href": "/game/graven",
+    "MSG": {
+        "id": "1884696426",
+        "title": "GRAVEN",
+        "slug": "graven",
+        "thumb_id": "07d566ed7acfbbc61852e17cd76c795fe7124a3dc3736e2b092bd505b629a4a7",
+        "bg_id": "90d9166c5db530f672d1285e872d90a5a346436b62751cc000aa2224c8eaf1ec",
+        "url": "https://www.gog.com/game/graven",
+        "developer": "Slipgate Ironworks™",
+        "publisher": "3D Realms, 1C Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707877120",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_graven_16864_(64bit)_(71053)-1.bin",
+                    "size": "4294121470"
+                },
+                {
+                    "name": "setup_graven_16864_(64bit)_(71053)-2.bin",
+                    "size": "1325158413"
+                },
+                {
+                    "name": "setup_graven_16864_(64bit)_(71053).exe",
+                    "size": "852936"
+                }
+            ],
+            "PATCHES": [
+                {
+                    "name": "patch_graven_16839_(70995)_to_16864_(71053)-1.bin",
+                    "size": "4004978394"
+                },
+                {
+                    "name": "patch_graven_16839_(70995)_to_16864_(71053).exe",
+                    "size": "763088"
+                }
+            ],
+            "GOODIES": [
+                {
+                    "name": "graven_digital_artbook.zip",
+                    "size": "46303762"
+                },
+                {
+                    "name": "graven_soundtrack_mp3.zip",
+                    "size": "203539715"
+                },
+                {
+                    "name": "graven_soundtrack_wav.zip",
+                    "size": "1430408086"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/05B0415C43",
+                            "link": "https://filecrypt.cc/Container/05B0415C43"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9331B88DDA",
+                            "link": "https://filecrypt.cc/Container/9331B88DDA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/22DDD20B5E",
+                            "link": "https://filecrypt.cc/Container/22DDD20B5E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6482D53D44",
+                            "link": "https://filecrypt.cc/Container/6482D53D44"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F673C0E33B",
+                            "link": "https://filecrypt.cc/Container/F673C0E33B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/16F8288112",
+                            "link": "https://filecrypt.cc/Container/16F8288112"
+                        }
+                    ]
+                }
+            ],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/69A3C56087",
+                            "link": "https://filecrypt.cc/Container/69A3C56087"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B34143B92A",
+                            "link": "https://filecrypt.cc/Container/B34143B92A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B3AD4C07CB",
+                            "link": "https://filecrypt.cc/Container/B3AD4C07CB"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

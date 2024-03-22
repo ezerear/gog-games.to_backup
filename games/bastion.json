@@ -1,0 +1,115 @@
+{
+    "href": "/game/bastion",
+    "MSG": {
+        "id": "1423058311",
+        "title": "Bastion",
+        "slug": "bastion",
+        "thumb_id": "173419362b2b23c35bf5d8098c4a825508e5c1612abef9330cb985cb84a1a454",
+        "bg_id": "ff3dc181836af109e9dc83dca70ebdeb07c620719cda83c963fc8650e3712c2d",
+        "url": "https://www.gog.com/game/bastion",
+        "developer": "Supergiant Games",
+        "publisher": "Warner Bros. Interactive Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709220664",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_bastion_1.50436_(23291).exe",
+                    "size": "1440751992"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "bastion_ost.zip",
+                    "size": "147332042"
+                },
+                {
+                    "name": "bastion_ost_wallpaper.zip",
+                    "size": "1119343"
+                },
+                {
+                    "name": "bastion_wallpaper.zip",
+                    "size": "658055"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B81170299C",
+                            "link": "https://filecrypt.cc/Container/B81170299C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D3F8C1A690",
+                            "link": "https://filecrypt.cc/Container/D3F8C1A690"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4FD7EAE5B8",
+                            "link": "https://filecrypt.cc/Container/4FD7EAE5B8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A057036568",
+                            "link": "https://filecrypt.cc/Container/A057036568"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4C506BF482",
+                            "link": "https://filecrypt.cc/Container/4C506BF482"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B6BAE00AC0",
+                            "link": "https://filecrypt.cc/Container/B6BAE00AC0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

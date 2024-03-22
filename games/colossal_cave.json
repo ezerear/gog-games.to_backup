@@ -1,0 +1,76 @@
+{
+    "href": "/game/colossal_cave",
+    "MSG": {
+        "id": "2090725880",
+        "title": "Colossal Cave",
+        "slug": "colossal_cave",
+        "thumb_id": "f30f07ce47d42c34f788d22b4a4f10db025b1fcb5bf70be3b9b53ecc0a553be9",
+        "bg_id": "f09d70700a0c950d90b7aac0b1e6a08baf2a1d8d77b5f78baca4487fb596f3ba",
+        "url": "https://www.gog.com/en/game/colossal_cave",
+        "developer": "Cygnus Entertainment",
+        "publisher": "Cygnus Entertainment",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708167548",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_colossal_cave_2.0.24024_(64bit)_(70075)-1.bin",
+                    "size": "4294007294"
+                },
+                {
+                    "name": "setup_colossal_cave_2.0.24024_(64bit)_(70075)-2.bin",
+                    "size": "433306645"
+                },
+                {
+                    "name": "setup_colossal_cave_2.0.24024_(64bit)_(70075).exe",
+                    "size": "970112"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/81696507F7",
+                            "link": "https://filecrypt.cc/Container/81696507F7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7F01C0BCA3",
+                            "link": "https://filecrypt.cc/Container/7F01C0BCA3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A43209B05D",
+                            "link": "https://filecrypt.cc/Container/A43209B05D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

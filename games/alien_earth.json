@@ -1,0 +1,79 @@
+{
+    "href": "/game/alien_earth",
+    "MSG": {
+        "id": "1133833550",
+        "title": "Alien Earth",
+        "slug": "alien_earth",
+        "thumb_id": "65313809f3a41e6b778508c0b98fb01f8247014bc6162c94e1d643b77e09a2d0",
+        "bg_id": "a66011ae668cde5ec4e88f7a6d100d0ebb78a333cba41d4dcb9b76df3d3be87b",
+        "url": "https://www.gog.com/game/alien_earth",
+        "developer": "Beam Software Pty., Ltd.",
+        "publisher": "Throwback Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708068077",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_alien_earth_1.0_hotfix_(44694).exe",
+                    "size": "458206384"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4B1EE61BC3",
+                            "link": "https://filecrypt.cc/Container/4B1EE61BC3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C92E1887EF",
+                            "link": "https://filecrypt.cc/Container/C92E1887EF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2B2B4C1A87",
+                            "link": "https://filecrypt.cc/Container/2B2B4C1A87"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F4430FF859",
+                            "link": "https://filecrypt.cc/Container/F4430FF859"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

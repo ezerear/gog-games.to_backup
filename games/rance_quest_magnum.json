@@ -1,0 +1,72 @@
+{
+    "href": "/game/rance_quest_magnum",
+    "MSG": {
+        "id": "1876962070",
+        "title": "Rance Quest Magnum",
+        "slug": "rance_quest_magnum",
+        "thumb_id": "7491d6b53a2c7074d362a67d5ccf91d26c478b433c2c326027cda9f5a4f6e4df",
+        "bg_id": "2dd66f8297e005c0fdfe057d301f6adbb40c67c9a179900e41711628567d6475",
+        "url": "https://www.gog.com/en/game/rance_quest_magnum",
+        "developer": "Alicesoft",
+        "publisher": "MangaGamer",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709496866",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_rance_quest_magnum_v1.0_gog_(60469)-1.bin",
+                    "size": "1714293632"
+                },
+                {
+                    "name": "setup_rance_quest_magnum_v1.0_gog_(60469).exe",
+                    "size": "801608"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C7E626839F",
+                            "link": "https://filecrypt.cc/Container/C7E626839F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/00BB08991F",
+                            "link": "https://filecrypt.cc/Container/00BB08991F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2AA968D1B8",
+                            "link": "https://filecrypt.cc/Container/2AA968D1B8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

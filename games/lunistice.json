@@ -1,0 +1,68 @@
+{
+    "href": "/game/lunistice",
+    "MSG": {
+        "id": "1499721915",
+        "title": "Lunistice",
+        "slug": "lunistice",
+        "thumb_id": "877dfc62a704ad91ae6b3bfab16073a04819ddb80a336b66ef7b1f4ca470808a",
+        "bg_id": "b105571b221583a324e8d5f78416bd43132f751200c2d0391e34d2e70699ca93",
+        "url": "https://www.gog.com/game/lunistice",
+        "developer": "A Grumpy Fox",
+        "publisher": "Deck13",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710376583",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_lunistice_1.05b_(64bit)_(71749).exe",
+                    "size": "278147872"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BD8B51F356",
+                            "link": "https://filecrypt.cc/Container/BD8B51F356"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/51B7F44C5C",
+                            "link": "https://filecrypt.cc/Container/51B7F44C5C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2C3855C807",
+                            "link": "https://filecrypt.cc/Container/2C3855C807"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

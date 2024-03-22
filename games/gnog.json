@@ -1,0 +1,68 @@
+{
+    "href": "/game/gnog",
+    "MSG": {
+        "id": "1901611678",
+        "title": "GNOG",
+        "slug": "gnog",
+        "thumb_id": "51b0ce9c8e53b5740a531fd173edd3b78701ce42d4c58707135729f2177744f8",
+        "bg_id": "39a6070fe4132082ca92dfd8ad557e3d378696381e93f9ff62ffa66bd8d943e7",
+        "url": "https://www.gog.com/game/gnog",
+        "developer": "KO_OP",
+        "publisher": "Double Fine Presents",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1689835923",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_gnog_1.0.6_(31552).exe",
+                    "size": "434225296"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1BB6AB94BE",
+                            "link": "https://filecrypt.cc/Container/1BB6AB94BE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9873F764E4",
+                            "link": "https://filecrypt.cc/Container/9873F764E4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B398EEE2B8",
+                            "link": "https://filecrypt.cc/Container/B398EEE2B8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

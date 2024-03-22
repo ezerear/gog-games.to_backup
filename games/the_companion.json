@@ -1,0 +1,123 @@
+{
+    "href": "/game/the_companion",
+    "MSG": {
+        "id": "1976524578",
+        "title": "The Companion",
+        "slug": "the_companion",
+        "thumb_id": "5a1de78f828c26dba06177dbf2ed1bda2e5e9b0912a92383a3947e656f54c337",
+        "bg_id": "33514d59d8fd7a9ed3fa3cf08ca55a1965a619397381307b21ce0464fe714ca9",
+        "url": "https://www.gog.com/en/game/the_companion",
+        "developer": "David Fazzio, Studio 46",
+        "publisher": "Studio 46",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1702154108",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_companion_1.23_(63113)-1.bin",
+                    "size": "4294113790"
+                },
+                {
+                    "name": "setup_the_companion_1.23_(63113)-2.bin",
+                    "size": "233194438"
+                },
+                {
+                    "name": "setup_the_companion_1.23_(63113).exe",
+                    "size": "863792"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "the_companion_soundtrack_flac.zip",
+                    "size": "801490482"
+                },
+                {
+                    "name": "the_companion_soundtrack_mp3.zip",
+                    "size": "189494534"
+                },
+                {
+                    "name": "the_companion_soundtrack_wav.zip",
+                    "size": "1277858622"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EDE2D17670",
+                            "link": "https://filecrypt.cc/Container/EDE2D17670"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7C2B1B22F5",
+                            "link": "https://filecrypt.cc/Container/7C2B1B22F5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/06F3A21D4D",
+                            "link": "https://filecrypt.cc/Container/06F3A21D4D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/43BF2B4D42",
+                            "link": "https://filecrypt.cc/Container/43BF2B4D42"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4ED0EC4CE5",
+                            "link": "https://filecrypt.cc/Container/4ED0EC4CE5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D479FC2962",
+                            "link": "https://filecrypt.cc/Container/D479FC2962"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

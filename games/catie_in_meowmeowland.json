@@ -1,0 +1,72 @@
+{
+    "href": "/game/catie_in_meowmeowland",
+    "MSG": {
+        "id": "1281243693",
+        "title": "Catie in MeowmeowLand",
+        "slug": "catie_in_meowmeowland",
+        "thumb_id": "fc247d813911e5f4ac4ca10478756da4e2f6a62aac9cdf1e609fc5e9cebffb74",
+        "bg_id": "2722e002175dd3d1de9f023ea5d22c5f60e9e1aa0ec1b4c16e1f0aa892754adb",
+        "url": "https://www.gog.com/game/catie_in_meowmeowland",
+        "developer": "ARTillery",
+        "publisher": "Blowfish Studios",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708282519",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_catieinmeowmeowland_release_0.1.0.3_fd5d1972_(55224)-1.bin",
+                    "size": "1644623686"
+                },
+                {
+                    "name": "setup_catieinmeowmeowland_release_0.1.0.3_fd5d1972_(55224).exe",
+                    "size": "795448"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8AB6FB8094",
+                            "link": "https://filecrypt.cc/Container/8AB6FB8094"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9B9F7BB8A3",
+                            "link": "https://filecrypt.cc/Container/9B9F7BB8A3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/54FEA6A83E",
+                            "link": "https://filecrypt.cc/Container/54FEA6A83E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

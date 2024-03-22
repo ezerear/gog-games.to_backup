@@ -1,0 +1,68 @@
+{
+    "href": "/game/impossamole",
+    "MSG": {
+        "id": "2060633340",
+        "title": "Impossamole",
+        "slug": "impossamole",
+        "thumb_id": "068f9f942a2ee246ef063d07762b8bdc53635392a75b5706d685e402d8fbad4f",
+        "bg_id": "df7e372835130290afc633dfcbfee36fcaf4859605b223daec3fed928f3ef11e",
+        "url": "https://www.gog.com/en/game/impossamole",
+        "developer": "Gremlin Interactive",
+        "publisher": "Piko Interactive",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708623252",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_impossamole_1.0_(60661).exe",
+                    "size": "18620288"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FA85F0E87F",
+                            "link": "https://filecrypt.cc/Container/FA85F0E87F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6339717E28",
+                            "link": "https://filecrypt.cc/Container/6339717E28"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3F7EAD12E6",
+                            "link": "https://filecrypt.cc/Container/3F7EAD12E6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

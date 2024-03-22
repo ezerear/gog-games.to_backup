@@ -1,0 +1,80 @@
+{
+    "href": "/game/voodolls",
+    "MSG": {
+        "id": "1265630839",
+        "title": "Voodolls",
+        "slug": "voodolls",
+        "thumb_id": "2e3ad4c354d33c7e4504320e9bcdc381dacf27e012160a6c498db1ac87055689",
+        "bg_id": "6fc2c196d7749738d072a7e9bbe0c744ae39b96e42737c7f08f656b7ffb4fdcf",
+        "url": "https://www.gog.com/en/game/voodolls",
+        "developer": "SideRift",
+        "publisher": "Tate Multimedia",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1698813226",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_voodolls_release_1.0.5_(67712)-1.bin",
+                    "size": "4293872638"
+                },
+                {
+                    "name": "setup_voodolls_release_1.0.5_(67712)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_voodolls_release_1.0.5_(67712)-3.bin",
+                    "size": "2814011194"
+                },
+                {
+                    "name": "setup_voodolls_release_1.0.5_(67712).exe",
+                    "size": "1104576"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A141DEC12E",
+                            "link": "https://filecrypt.cc/Container/A141DEC12E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DF36951D27",
+                            "link": "https://filecrypt.cc/Container/DF36951D27"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5DFE330949",
+                            "link": "https://filecrypt.cc/Container/5DFE330949"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,79 @@
+{
+    "href": "/game/void_prison",
+    "MSG": {
+        "id": "1599780201",
+        "title": "Void Prison",
+        "slug": "void_prison",
+        "thumb_id": "c060bb6d664b8b0da5d393700e41e341f941f3b21af6772e21ccca16d9d66fac",
+        "bg_id": "670a564365949cef17a23ea24b25c5adc6d275e38e0db16b5af466891e349619",
+        "url": "https://www.gog.com/en/game/void_prison",
+        "developer": "Voidrock Studios, SneakyBox",
+        "publisher": "Voidrock Studios, SneakyBox",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1707905570",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_void_prison_1.0.0_(63492).exe",
+                    "size": "51413360"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/94D64E3D0F",
+                            "link": "https://filecrypt.cc/Container/94D64E3D0F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/430585B189",
+                            "link": "https://filecrypt.cc/Container/430585B189"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B18F951E75",
+                            "link": "https://filecrypt.cc/Container/B18F951E75"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8E732992BA",
+                            "link": "https://filecrypt.cc/Container/8E732992BA"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

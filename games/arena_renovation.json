@@ -1,0 +1,98 @@
+{
+    "href": "/game/arena_renovation",
+    "MSG": {
+        "id": "1513645288",
+        "title": "Arena Renovation",
+        "slug": "arena_renovation",
+        "thumb_id": "56d0641a9c5536b8ce42eff6d45bb7fe527be7eadb88a9f044941b3af00dc548",
+        "bg_id": "517dc5207d1127c5a97460c6776da8fca17dac8ffc1def26ca0eaecc3f8d46ad",
+        "url": "https://www.gog.com/en/game/arena_renovation",
+        "developer": "Nesalis Games",
+        "publisher": "PlayWay S.A., FreeMind S.A.",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1706751340",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_arena_renovation_0.6.153_(66995)-1.bin",
+                    "size": "4294066686"
+                },
+                {
+                    "name": "setup_arena_renovation_0.6.153_(66995)-2.bin",
+                    "size": "787590366"
+                },
+                {
+                    "name": "setup_arena_renovation_0.6.153_(66995).exe",
+                    "size": "910728"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0919927F27",
+                            "link": "https://filecrypt.cc/Container/0919927F27"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/15AAC10653",
+                            "link": "https://filecrypt.cc/Container/15AAC10653"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8F65E2BAA4",
+                            "link": "https://filecrypt.cc/Container/8F65E2BAA4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8EDDDA81AE",
+                            "link": "https://filecrypt.cc/Container/8EDDDA81AE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8A6C609ACD",
+                            "link": "https://filecrypt.cc/Container/8A6C609ACD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

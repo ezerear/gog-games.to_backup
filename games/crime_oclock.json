@@ -1,0 +1,68 @@
+{
+    "href": "/game/crime_oclock",
+    "MSG": {
+        "id": "1390367146",
+        "title": "Crime O'Clock",
+        "slug": "crime_oclock",
+        "thumb_id": "1413fc38edde11a7f6c13e6126409b1151f477c6349d530ee3497ef861cdeb4f",
+        "bg_id": "78ffd852ba296567c1a6a88cbb6aad5fe1a3b04bcd3fd40fa266583cafc2c334",
+        "url": "https://www.gog.com/en/game/crime_oclock",
+        "developer": "Bad Seed",
+        "publisher": "Just for Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710352189",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_crime_oclock_1.3.2_(64bit)_(68484).exe",
+                    "size": "329916488"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5EEFEF8981",
+                            "link": "https://filecrypt.cc/Container/5EEFEF8981"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1EE37ED7D3",
+                            "link": "https://filecrypt.cc/Container/1EE37ED7D3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C8532F2935",
+                            "link": "https://filecrypt.cc/Container/C8532F2935"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

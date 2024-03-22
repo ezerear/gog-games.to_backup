@@ -1,0 +1,72 @@
+{
+    "href": "/game/shadow_empire",
+    "MSG": {
+        "id": "1965027070",
+        "title": "Shadow Empire",
+        "slug": "shadow_empire",
+        "thumb_id": "3b749603f88391d00bf79e766e733ee7227ef016b178cda1d5c9dc7f2971f5ce",
+        "bg_id": "b4b0f97f26cccb4a38014adeff9f59c672a33bc78db6c1b692845aa3cb7f5ee9",
+        "url": "https://www.gog.com/game/shadow_empire",
+        "developer": "VR Designs",
+        "publisher": "Slitherine Ltd.",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1708780690",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_shadow_empire_1.21.00_(65270).exe",
+                    "size": "944362472"
+                },
+                {
+                    "name": "setup_shadow_empire_oceania_1.21.00_(65270).exe",
+                    "size": "6095200"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C2AD823B0B",
+                            "link": "https://filecrypt.cc/Container/C2AD823B0B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D289BB33DB",
+                            "link": "https://filecrypt.cc/Container/D289BB33DB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/255FB7C23C",
+                            "link": "https://filecrypt.cc/Container/255FB7C23C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

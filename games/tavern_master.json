@@ -1,0 +1,68 @@
+{
+    "href": "/game/tavern_master",
+    "MSG": {
+        "id": "1958669080",
+        "title": "Tavern Master",
+        "slug": "tavern_master",
+        "thumb_id": "c4565658527e43dfe7ad95ed077057d50b6c4b0b262affa981a55ce825759b20",
+        "bg_id": "a913ca640402e0e55d37110a6326144b97c3e58c6cb4040ee279b8c062379222",
+        "url": "https://www.gog.com/en/game/tavern_master",
+        "developer": "Untitled Studio",
+        "publisher": "Untitled Studio, WhisperGames",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1709072843",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tavern_master_1.6_(62963).exe",
+                    "size": "757577136"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/61811F95BC",
+                            "link": "https://filecrypt.cc/Container/61811F95BC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6C5F35D4E7",
+                            "link": "https://filecrypt.cc/Container/6C5F35D4E7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/64F0EAE80D",
+                            "link": "https://filecrypt.cc/Container/64F0EAE80D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

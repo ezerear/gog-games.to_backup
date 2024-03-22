@@ -1,0 +1,94 @@
+{
+    "href": "/game/broken_lines",
+    "MSG": {
+        "id": "1685581705",
+        "title": "Broken Lines",
+        "slug": "broken_lines",
+        "thumb_id": "c0ad25b7ea79b620286020a711fd6591c85ced56dfa8efc3d15024782efb95b3",
+        "bg_id": "d18f40a09d3ad12fa9b4fac37a68aa2f95a26cdfa585785696c0a551d742b4a7",
+        "url": "https://www.gog.com/game/broken_lines",
+        "developer": "PortaPlay",
+        "publisher": "SUPER.COM",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1707171037",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_broken_lines_1.6.1.0_(64bit)_(43525)-1.bin",
+                    "size": "3313460833"
+                },
+                {
+                    "name": "setup_broken_lines_1.6.1.0_(64bit)_(43525).exe",
+                    "size": "1018920"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A7F7A9CB37",
+                            "link": "https://filecrypt.cc/Container/A7F7A9CB37"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D50D80D913",
+                            "link": "https://filecrypt.cc/Container/D50D80D913"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/27F740DC19",
+                            "link": "https://filecrypt.cc/Container/27F740DC19"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DFFAA13526",
+                            "link": "https://filecrypt.cc/Container/DFFAA13526"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A73C7335BE",
+                            "link": "https://filecrypt.cc/Container/A73C7335BE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

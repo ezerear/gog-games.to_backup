@@ -1,0 +1,72 @@
+{
+    "href": "/game/universe_sandbox",
+    "MSG": {
+        "id": "1322614388",
+        "title": "Universe Sandbox ²",
+        "slug": "universe_sandbox",
+        "thumb_id": "f3be7ecbc3908dfecf7e84d855f2d240ac823daecba4e7ea598a0e68b422256b",
+        "bg_id": "443685f6b7daee7f3e0ecce44c8491f90149f41821e9ab6effb21e9dbcc195db",
+        "url": "https://www.gog.com/game/universe_sandbox",
+        "developer": "Giant Army",
+        "publisher": "Giant Army",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710498244",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_universe_sandbox_34.0.4_(64bit)_(70988)-1.bin",
+                    "size": "1970022895"
+                },
+                {
+                    "name": "setup_universe_sandbox_34.0.4_(64bit)_(70988).exe",
+                    "size": "858760"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7E42597F3C",
+                            "link": "https://filecrypt.cc/Container/7E42597F3C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BBB611D993",
+                            "link": "https://filecrypt.cc/Container/BBB611D993"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AAD6CF18F9",
+                            "link": "https://filecrypt.cc/Container/AAD6CF18F9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

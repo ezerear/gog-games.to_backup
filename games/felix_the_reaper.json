@@ -1,0 +1,127 @@
+{
+    "href": "/game/felix_the_reaper",
+    "MSG": {
+        "id": "1826047914",
+        "title": "Felix The Reaper",
+        "slug": "felix_the_reaper",
+        "thumb_id": "7b784b762b59c7382c8a2f0e94641b841a32cb74b7868b5390f605849f68b701",
+        "bg_id": "921e4f32984e9a89e39ce9934a5a638d477f1d91e04b60616e352d7cd47077dc",
+        "url": "https://www.gog.com/game/felix_the_reaper",
+        "developer": "Kong Orange",
+        "publisher": "Daedalic Entertainment",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708937444",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_felix_the_reaper_1.09_(32772)-1.bin",
+                    "size": "2495938471"
+                },
+                {
+                    "name": "setup_felix_the_reaper_1.09_(32772).exe",
+                    "size": "1375096"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "felix_the_reaper_mask.zip",
+                    "size": "1825113"
+                },
+                {
+                    "name": "felix_the_reaper_ost_flac.zip",
+                    "size": "390776192"
+                },
+                {
+                    "name": "felix_the_reaper_ost_mp3.zip",
+                    "size": "127634593"
+                },
+                {
+                    "name": "felix_the_reaper_wallpapers_desktop.zip",
+                    "size": "155945535"
+                },
+                {
+                    "name": "felix_the_reaper_wallpapers_mobile.zip",
+                    "size": "112502351"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/82EA15EB76",
+                            "link": "https://filecrypt.cc/Container/82EA15EB76"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F1F96B37D1",
+                            "link": "https://filecrypt.cc/Container/F1F96B37D1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/16ED8A4379",
+                            "link": "https://filecrypt.cc/Container/16ED8A4379"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C5600478F5",
+                            "link": "https://filecrypt.cc/Container/C5600478F5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2F8E5ED939",
+                            "link": "https://filecrypt.cc/Container/2F8E5ED939"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/11C058EC65",
+                            "link": "https://filecrypt.cc/Container/11C058EC65"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

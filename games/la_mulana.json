@@ -1,0 +1,119 @@
+{
+    "href": "/game/la_mulana",
+    "MSG": {
+        "id": "1207659117",
+        "title": "La-Mulana",
+        "slug": "la_mulana",
+        "thumb_id": "d2deba2d034f5bb5dfb124e543f101caee00ead80b7d472d2524428316466c6a",
+        "bg_id": "23f63220775effe14b0da4041aafc85eab0c88947d4dff262054904b25d2461d",
+        "url": "https://www.gog.com/game/la_mulana",
+        "developer": "NIGORO",
+        "publisher": "Active Gaming Media",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710492581",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_la-mulana_2.1.0.12.exe",
+                    "size": "210211384"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "la_mulana_avatars.zip",
+                    "size": "376732"
+                },
+                {
+                    "name": "la_mulana_manual.zip",
+                    "size": "11615794"
+                },
+                {
+                    "name": "la_mulana_soundtrack.zip",
+                    "size": "326300647"
+                },
+                {
+                    "name": "la_mulana_wallpaper.zip",
+                    "size": "10844340"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/95640699C7",
+                            "link": "https://filecrypt.cc/Container/95640699C7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2FFF5DA66B",
+                            "link": "https://filecrypt.cc/Container/2FFF5DA66B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8CBCA6040D",
+                            "link": "https://filecrypt.cc/Container/8CBCA6040D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D3BC612846",
+                            "link": "https://filecrypt.cc/Container/D3BC612846"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2836639B77",
+                            "link": "https://filecrypt.cc/Container/2836639B77"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E279915D2D",
+                            "link": "https://filecrypt.cc/Container/E279915D2D"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

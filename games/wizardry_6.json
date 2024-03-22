@@ -1,0 +1,117 @@
+{
+    "href": "/game/wizardry_6",
+    "MSG": {
+        "id": "1207662763",
+        "title": "Wizardry 6",
+        "slug": "wizardry_6",
+        "thumb_id": "79fd6bec71d4b0404f820e839f9ca7c997c607180f0229fbfb75c142a4d572f0",
+        "bg_id": "c88da448268285d9f3fedaa176a753e020f446201d58c3849c82df406343b3f6",
+        "url": "https://www.gog.com/game/wizardry_6_7",
+        "developer": "Sir-Tech Software",
+        "publisher": "Gamepot Inc.",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710174476",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_wizardry6_2.2.0.18.exe",
+                    "size": "42323712"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "setup_wizardry7dos_2.0.0.11.exe",
+                    "size": "16522432"
+                },
+                {
+                    "name": "wizardry67_cluebooks.zip",
+                    "size": "132071951"
+                },
+                {
+                    "name": "wizardry67_manuals.zip",
+                    "size": "25368607"
+                },
+                {
+                    "name": "wizardry67_soundtrack.zip",
+                    "size": "60148897"
+                },
+                {
+                    "name": "wizardry6_character_sheet.zip",
+                    "size": "242924"
+                },
+                {
+                    "name": "wizardry6_icon_list.zip",
+                    "size": "1295288"
+                },
+                {
+                    "name": "wizardry7_map.zip",
+                    "size": "483294"
+                },
+                {
+                    "name": "wizardry7_reference_card.zip",
+                    "size": "657788"
+                },
+                {
+                    "name": "wizardry_7_1.0.0.4.dmg",
+                    "size": "9654399"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C716A46CFF",
+                            "link": "https://filecrypt.cc/Container/C716A46CFF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D88CB2CB52",
+                            "link": "https://filecrypt.cc/Container/D88CB2CB52"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9DF8A69CE8",
+                            "link": "https://filecrypt.cc/Container/9DF8A69CE8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2AC9DD98F1",
+                            "link": "https://filecrypt.cc/Container/2AC9DD98F1"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

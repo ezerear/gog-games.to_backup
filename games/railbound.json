@@ -1,0 +1,90 @@
+{
+    "href": "/game/railbound",
+    "MSG": {
+        "id": "2051719369",
+        "title": "Railbound",
+        "slug": "railbound",
+        "thumb_id": "eceb156b4bd64cd4a61ccba2315d126cff4a532df0f87198f1e9dc2e828566d0",
+        "bg_id": "a996791a15e7ad596cbac538dd125229eb7db8bfe2b009688d9649e560b3131d",
+        "url": "https://www.gog.com/en/game/railbound",
+        "developer": "Afterburn",
+        "publisher": "",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1707397677",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_railbound_3.02_(64bit)_(67980).exe",
+                    "size": "87019720"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/97CD591E49",
+                            "link": "https://filecrypt.cc/Container/97CD591E49"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6A90EF12D8",
+                            "link": "https://filecrypt.cc/Container/6A90EF12D8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D8D60E765F",
+                            "link": "https://filecrypt.cc/Container/D8D60E765F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1CC2EFBDFF",
+                            "link": "https://filecrypt.cc/Container/1CC2EFBDFF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C3C8B7DEC4",
+                            "link": "https://filecrypt.cc/Container/C3C8B7DEC4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

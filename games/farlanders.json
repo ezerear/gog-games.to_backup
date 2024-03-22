@@ -1,0 +1,90 @@
+{
+    "href": "/game/farlanders",
+    "MSG": {
+        "id": "1362721620",
+        "title": "Farlanders",
+        "slug": "farlanders",
+        "thumb_id": "69ffeaef6b26b7715aabc6f9008cc1973af157432eb0e1d2ce718aa003d26f28",
+        "bg_id": "aea29a819103d742d48d8a264e16f7096c3439dd8edef444f0d4d0e97a40d554",
+        "url": "https://www.gog.com/game/farlanders",
+        "developer": "Andriy Bychkovskyi",
+        "publisher": "Crytivo Games",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1695572831",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_farlanders_1.1.1f1_(67628).exe",
+                    "size": "312856776"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/14487959A6",
+                            "link": "https://filecrypt.cc/Container/14487959A6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A028681202",
+                            "link": "https://filecrypt.cc/Container/A028681202"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F60DDE2164",
+                            "link": "https://filecrypt.cc/Container/F60DDE2164"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/15E9FE413B",
+                            "link": "https://filecrypt.cc/Container/15E9FE413B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4E4FDF7B99",
+                            "link": "https://filecrypt.cc/Container/4E4FDF7B99"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,123 @@
+{
+    "href": "/game/toonstruck",
+    "MSG": {
+        "id": "1207666633",
+        "title": "Toonstruck",
+        "slug": "toonstruck",
+        "thumb_id": "ea856a7a7d3e2f6e68e3dff58127424d3404173bf611264d5898450f57f0c360",
+        "bg_id": "4d433578ba5662dfdb2b5ebed5e66b0fea667b56799aecbf281d492fea05fcde",
+        "url": "https://www.gog.com/game/toonstruck",
+        "developer": "Burst",
+        "publisher": "Interplay",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708538352",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_toonstruck_1.0_(20270)-1.bin",
+                    "size": "939072847"
+                },
+                {
+                    "name": "setup_toonstruck_1.0_(20270).exe",
+                    "size": "779088"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "toonstruck_handbuch.zip",
+                    "size": "4002815"
+                },
+                {
+                    "name": "toonstruck_manual.zip",
+                    "size": "3522660"
+                },
+                {
+                    "name": "toonstruck_manual_es.zip",
+                    "size": "7451125"
+                },
+                {
+                    "name": "toonstruck_manuel_fr.zip",
+                    "size": "2839861"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/43A86FEEB8",
+                            "link": "https://filecrypt.cc/Container/43A86FEEB8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/478B47E0D9",
+                            "link": "https://filecrypt.cc/Container/478B47E0D9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E64A4977BA",
+                            "link": "https://filecrypt.cc/Container/E64A4977BA"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/97C5598B65",
+                            "link": "https://filecrypt.cc/Container/97C5598B65"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6FAE86D2F6",
+                            "link": "https://filecrypt.cc/Container/6FAE86D2F6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8140C4C658",
+                            "link": "https://filecrypt.cc/Container/8140C4C658"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,76 @@
+{
+    "href": "/game/treasure_hunter_claire",
+    "MSG": {
+        "id": "1721854850",
+        "title": "Treasure Hunter Claire",
+        "slug": "treasure_hunter_claire",
+        "thumb_id": "537dcce2e073f3ab5e8663902d77e571e7e0bc624abdac780189784f9985b86e",
+        "bg_id": "a4b88c60a7c30e5d1702af5504414e016bd7977e2405e3b51f7e12b57ea3f1d4",
+        "url": "https://www.gog.com/game/treasure_hunter_claire",
+        "developer": "Acerola",
+        "publisher": "Kagura Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709887637",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_treasure_hunter_claire_unrated_v1.1_(51601).exe",
+                    "size": "145014016"
+                },
+                {
+                    "name": "setup_treasure_hunter_claire_v1.1_(51601)-1.bin",
+                    "size": "1255883761"
+                },
+                {
+                    "name": "setup_treasure_hunter_claire_v1.1_(51601).exe",
+                    "size": "782400"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5DE896A444",
+                            "link": "https://filecrypt.cc/Container/5DE896A444"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/80A6306422",
+                            "link": "https://filecrypt.cc/Container/80A6306422"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D6F9952480",
+                            "link": "https://filecrypt.cc/Container/D6F9952480"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

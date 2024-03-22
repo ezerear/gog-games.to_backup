@@ -1,0 +1,107 @@
+{
+    "href": "/game/echelon",
+    "MSG": {
+        "id": "1660643617",
+        "title": "ECHELON",
+        "slug": "echelon",
+        "thumb_id": "fa7c2f1273f147566f6d3f2fbda69d4d106c4a872ee8aac93ec622ad75cc60be",
+        "bg_id": "c37c7676466cdd1c407e9df140880e8d351e11c1630db079d97b1a57f5832197",
+        "url": "https://www.gog.com/game/echelon",
+        "developer": "Access Software",
+        "publisher": "Big Finish Games",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710489968",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_echelon_3.40_(48657).exe",
+                    "size": "22599976"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "echelon_manual.zip",
+                    "size": "7301871"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7DBE0835A7",
+                            "link": "https://filecrypt.cc/Container/7DBE0835A7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ACEF8E44A8",
+                            "link": "https://filecrypt.cc/Container/ACEF8E44A8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CDF6FCAFBD",
+                            "link": "https://filecrypt.cc/Container/CDF6FCAFBD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8412BC918E",
+                            "link": "https://filecrypt.cc/Container/8412BC918E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/558273D870",
+                            "link": "https://filecrypt.cc/Container/558273D870"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2C4485484E",
+                            "link": "https://filecrypt.cc/Container/2C4485484E"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,72 @@
+{
+    "href": "/game/dungeon_siege_ii",
+    "MSG": {
+        "id": "1837106902",
+        "title": "Dungeon Siege II",
+        "slug": "dungeon_siege_ii",
+        "thumb_id": "fff37ad1b912bfa33c5d1797e2349b305b81c7c550e152e8f2775e24a27bd92b",
+        "bg_id": "029c0133d51b1d872099e74b9535dabeb8875841b11220b9fb0824f1bd3d30fb",
+        "url": "https://www.gog.com/game/dungeon_siege_collection",
+        "developer": "Gas Powered Games, Obsidian Entertainment",
+        "publisher": "Square Enix, Eidos Interactive",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1708949718",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dungeon_siege_ii_2.3_(37617)-1.bin",
+                    "size": "2430780557"
+                },
+                {
+                    "name": "setup_dungeon_siege_ii_2.3_(37617).exe",
+                    "size": "826792"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4145089B4B",
+                            "link": "https://filecrypt.cc/Container/4145089B4B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7FFABB69E0",
+                            "link": "https://filecrypt.cc/Container/7FFABB69E0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C25AB369B8",
+                            "link": "https://filecrypt.cc/Container/C25AB369B8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

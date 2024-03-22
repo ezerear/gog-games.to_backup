@@ -1,0 +1,94 @@
+{
+    "href": "/game/oxenfree",
+    "MSG": {
+        "id": "1457519353",
+        "title": "Oxenfree",
+        "slug": "oxenfree",
+        "thumb_id": "321b7922b42e5c88f91b34dbf09d09eedd455bfc3380872d438aff5913a3eb1e",
+        "bg_id": "5bea600d349bd45e7ec93ae7f88a171f1d8eaf043146b72d0df7f0cdf0493556",
+        "url": "https://www.gog.com/game/oxenfree",
+        "developer": "Night School Studios",
+        "publisher": "Night School Studios",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707586848",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_oxenfree_2.7.1_(64bit)_(27661)-1.bin",
+                    "size": "2043549644"
+                },
+                {
+                    "name": "setup_oxenfree_2.7.1_(64bit)_(27661).exe",
+                    "size": "829848"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F7C73E00D4",
+                            "link": "https://filecrypt.cc/Container/F7C73E00D4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C39994C04C",
+                            "link": "https://filecrypt.cc/Container/C39994C04C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B5E5292CBF",
+                            "link": "https://filecrypt.cc/Container/B5E5292CBF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/467A64F300",
+                            "link": "https://filecrypt.cc/Container/467A64F300"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3CC2977F61",
+                            "link": "https://filecrypt.cc/Container/3CC2977F61"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

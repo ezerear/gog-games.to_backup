@@ -1,0 +1,123 @@
+{
+    "href": "/game/shadowrun_dragonfall_directors_cut",
+    "MSG": {
+        "id": "1207660913",
+        "title": "Shadowrun: Dragonfall - Director's Cut",
+        "slug": "shadowrun_dragonfall_directors_cut",
+        "thumb_id": "3151b8deaeff59ad905af2bf37cfca592d615cd1615fbe48d893ac6f797140ad",
+        "bg_id": "ffe7b1ce6b01a8a97d6d343540a469062529416bd88935a0d8f14463ee1b3166",
+        "url": "https://www.gog.com/game/shadowrun_dragonfall_directors_cut",
+        "developer": "Harebrained Schemes",
+        "publisher": "Paradox Interactive",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709201485",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_shadowrun_dragonfall_2.0.9_(9992)-1.bin",
+                    "size": "1649123691"
+                },
+                {
+                    "name": "setup_shadowrun_dragonfall_2.0.9_(9992).exe",
+                    "size": "2614592"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "setup_shadowrun_dragonfall_directors_cut_zog_russian_2.1.1.8.exe",
+                    "size": "1662762360"
+                },
+                {
+                    "name": "sr_df_dc_ost_flac.zip",
+                    "size": "244959957"
+                },
+                {
+                    "name": "sr_df_dc_ost_mp3.zip",
+                    "size": "82354565"
+                },
+                {
+                    "name": "sr_df_dc_wallpaper.zip",
+                    "size": "1073879"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/10263CF829",
+                            "link": "https://filecrypt.cc/Container/10263CF829"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5C3579AC2F",
+                            "link": "https://filecrypt.cc/Container/5C3579AC2F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/86E04C5951",
+                            "link": "https://filecrypt.cc/Container/86E04C5951"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CDBC8AEB88",
+                            "link": "https://filecrypt.cc/Container/CDBC8AEB88"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/729D979F55",
+                            "link": "https://filecrypt.cc/Container/729D979F55"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/443F98C458",
+                            "link": "https://filecrypt.cc/Container/443F98C458"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

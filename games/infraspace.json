@@ -1,0 +1,94 @@
+{
+    "href": "/game/infraspace",
+    "MSG": {
+        "id": "1755618887",
+        "title": "InfraSpace",
+        "slug": "infraspace",
+        "thumb_id": "ab084b770afd0b978cc5599cc844e40ca5035ffb83f35da22d6cff10564027d8",
+        "bg_id": "42e9ab9e18946670e40ba30fd2a76b9aced78bdd7fc8809d52480cbf76977722",
+        "url": "https://www.gog.com/game/infraspace",
+        "developer": "Dionic Software",
+        "publisher": "Dionic Software",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1707527267",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_infraspace_infraspace_1.5.377_(64bit)_(68029)-1.bin",
+                    "size": "3015210105"
+                },
+                {
+                    "name": "setup_infraspace_infraspace_1.5.377_(64bit)_(68029).exe",
+                    "size": "880032"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A72121EE93",
+                            "link": "https://filecrypt.cc/Container/A72121EE93"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3E1DE731E5",
+                            "link": "https://filecrypt.cc/Container/3E1DE731E5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9CE046A5CC",
+                            "link": "https://filecrypt.cc/Container/9CE046A5CC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A6FDAA49DE",
+                            "link": "https://filecrypt.cc/Container/A6FDAA49DE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4BD18CC943",
+                            "link": "https://filecrypt.cc/Container/4BD18CC943"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,72 @@
+{
+    "href": "/game/monster_train",
+    "MSG": {
+        "id": "1304291300",
+        "title": "Monster Train",
+        "slug": "monster_train",
+        "thumb_id": "eca6ef5a77141aef55c5c44806f607aaf614cf552ad6bbcdb4ceaefec1926e8f",
+        "bg_id": "8bec3af4a7f59ea56fe2da832bb74039711603013a8c8272bb7c1bb1aeeca216",
+        "url": "https://www.gog.com/game/monster_train",
+        "developer": "Shiny Shoe",
+        "publisher": "Good Shepherd Entertainment\t",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1709427165",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_monster_train_-_the_last_divinity_build-12924-production_(64bit)_(51215).exe",
+                    "size": "58103448"
+                },
+                {
+                    "name": "setup_monster_train_build-12924-production_(64bit)_(51215).exe",
+                    "size": "683558032"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0029BA71B0",
+                            "link": "https://filecrypt.cc/Container/0029BA71B0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/118F1D7F8F",
+                            "link": "https://filecrypt.cc/Container/118F1D7F8F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C0FD01F6DB",
+                            "link": "https://filecrypt.cc/Container/C0FD01F6DB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

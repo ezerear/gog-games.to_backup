@@ -1,0 +1,101 @@
+{
+    "href": "/game/ira",
+    "MSG": {
+        "id": "1296993619",
+        "title": "IRA",
+        "slug": "ira",
+        "thumb_id": "f5aa806cc76d3448fe9af8694fd985bc192bb5e52f65aa7ed6ae46ede4b33a70",
+        "bg_id": "4fffe7128ccb88527b14200e8ff61e786572911ac82bd3d533cc98336d325c0a",
+        "url": "https://www.gog.com/en/game/ira",
+        "developer": "ABShot",
+        "publisher": "Nicalis, Inc.",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1702222888",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_ira_1.0_(67961).exe",
+                    "size": "1393441632"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/55DC5C4DB2",
+                            "link": "https://filecrypt.cc/Container/55DC5C4DB2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8DC62CAC1F",
+                            "link": "https://filecrypt.cc/Container/8DC62CAC1F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4849DCD1F8",
+                            "link": "https://filecrypt.cc/Container/4849DCD1F8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4BD5578DC3",
+                            "link": "https://filecrypt.cc/Container/4BD5578DC3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E8A3C03F96",
+                            "link": "https://filecrypt.cc/Container/E8A3C03F96"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D5AC94F1BD",
+                            "link": "https://filecrypt.cc/Container/D5AC94F1BD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

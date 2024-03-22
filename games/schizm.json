@@ -1,0 +1,131 @@
+{
+    "href": "/game/schizm",
+    "MSG": {
+        "id": "1471706990",
+        "title": "Schizm: Mysterious Journey",
+        "slug": "schizm",
+        "thumb_id": "aad85f97ed69ab6622fdf3649da8026c66b21ac76dbd326d6c388218e3aa8869",
+        "bg_id": "9091f95aedc452e744ea1dadd69793c11a4eb36f7a201d2f1c1abdcd42bd2880",
+        "url": "https://www.gog.com/game/schizm",
+        "developer": "Detalion",
+        "publisher": "L.K. Avalon",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1706721191",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_schizm_b744_(15806)-1.bin",
+                    "size": "4294092286"
+                },
+                {
+                    "name": "setup_schizm_b744_(15806)-2.bin",
+                    "size": "3330128338"
+                },
+                {
+                    "name": "setup_schizm_b744_(15806).exe",
+                    "size": "882232"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "schizm_manual.zip",
+                    "size": "8032948"
+                },
+                {
+                    "name": "schizm_manual_pl.zip",
+                    "size": "3384304"
+                },
+                {
+                    "name": "schizm_map.zip",
+                    "size": "2134417"
+                },
+                {
+                    "name": "schizm_soundtrack_flac.zip",
+                    "size": "395246035"
+                },
+                {
+                    "name": "schizm_soundtrack_mp3.zip",
+                    "size": "142121490"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F7A12DB582",
+                            "link": "https://filecrypt.cc/Container/F7A12DB582"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F5228B0C4A",
+                            "link": "https://filecrypt.cc/Container/F5228B0C4A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CF7848824A",
+                            "link": "https://filecrypt.cc/Container/CF7848824A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AD9D3C2A69",
+                            "link": "https://filecrypt.cc/Container/AD9D3C2A69"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E02E412EC2",
+                            "link": "https://filecrypt.cc/Container/E02E412EC2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AE631818DB",
+                            "link": "https://filecrypt.cc/Container/AE631818DB"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

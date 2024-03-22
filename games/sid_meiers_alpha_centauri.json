@@ -1,0 +1,115 @@
+{
+    "href": "/game/sid_meiers_alpha_centauri",
+    "MSG": {
+        "id": "1207658936",
+        "title": "Sid Meier's Alpha Centauri™ Planetary Pack",
+        "slug": "sid_meiers_alpha_centauri",
+        "thumb_id": "799e7f0895267fb3ba028fd57380757704f00744676541acafabdb4b2c924ddf",
+        "bg_id": "1f1333bcf476dca8eabd34757a0e2084696f06a3e2d459027e9089ba5ab87b6f",
+        "url": "https://www.gog.com/game/sid_meiers_alpha_centauri",
+        "developer": "Firaxis Games",
+        "publisher": "Electronic Arts",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1709896595",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sid_meiers_alpha_centauri_2.0.2.23.exe",
+                    "size": "526693032"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "ac_avatars.zip",
+                    "size": "198702"
+                },
+                {
+                    "name": "alpha_centauri_manuals.zip",
+                    "size": "2339479"
+                },
+                {
+                    "name": "Alpha_Centauri_reference_card.zip",
+                    "size": "1097046"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8F119DB9D6",
+                            "link": "https://filecrypt.cc/Container/8F119DB9D6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E94F56829F",
+                            "link": "https://filecrypt.cc/Container/E94F56829F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/57807E05D9",
+                            "link": "https://filecrypt.cc/Container/57807E05D9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/00F23DAB78",
+                            "link": "https://filecrypt.cc/Container/00F23DAB78"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BF874C3634",
+                            "link": "https://filecrypt.cc/Container/BF874C3634"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F0B4B713B3",
+                            "link": "https://filecrypt.cc/Container/F0B4B713B3"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

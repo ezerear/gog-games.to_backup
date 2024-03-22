@@ -1,0 +1,79 @@
+{
+    "href": "/game/bound_by_blades",
+    "MSG": {
+        "id": "1221763948",
+        "title": "Bound By Blades",
+        "slug": "bound_by_blades",
+        "thumb_id": "ee4c7f00dbf6c5ec8f356f42842845e5ccb4cd687978b3cf9d0f3527e663f2f5",
+        "bg_id": "0f857573ac5272d81a0c3390b9d9ce6b37dfd67ee00bd0ee3570b024feca2984",
+        "url": "https://www.gog.com/en/game/bound_by_blades",
+        "developer": "Zeth",
+        "publisher": "Assemble Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1703868734",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_bound_by_blades_1.7.3.5_(60630).exe",
+                    "size": "360173664"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6A38873467",
+                            "link": "https://filecrypt.cc/Container/6A38873467"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CB09425E6C",
+                            "link": "https://filecrypt.cc/Container/CB09425E6C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6E0E89CF92",
+                            "link": "https://filecrypt.cc/Container/6E0E89CF92"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/026196EB6A",
+                            "link": "https://filecrypt.cc/Container/026196EB6A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,79 @@
+{
+    "href": "/game/signs_of_the_sojourner",
+    "MSG": {
+        "id": "1453269351",
+        "title": "Signs of the Sojourner",
+        "slug": "signs_of_the_sojourner",
+        "thumb_id": "66cd8216b5fad417cdfb6f6bda3b4b59a9220e330a98878740b51e53fccba66e",
+        "bg_id": "8377abfce4eaa227e93ab18771f556a40246f82909d6d5b1a437d1abdc91a44b",
+        "url": "https://www.gog.com/game/signs_of_the_sojourner",
+        "developer": "Echodog Games",
+        "publisher": "Echodog Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1708241441",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_signs_of_the_sojourner_4_(45601).exe",
+                    "size": "729840696"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/251DD72ECE",
+                            "link": "https://filecrypt.cc/Container/251DD72ECE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D52F8CC030",
+                            "link": "https://filecrypt.cc/Container/D52F8CC030"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/578CFC574E",
+                            "link": "https://filecrypt.cc/Container/578CFC574E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A6ABF416C0",
+                            "link": "https://filecrypt.cc/Container/A6ABF416C0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

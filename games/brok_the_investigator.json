@@ -1,0 +1,123 @@
+{
+    "href": "/game/brok_the_investigator",
+    "MSG": {
+        "id": "1252694989",
+        "title": "BROK The InvestiGator",
+        "slug": "brok_the_investigator",
+        "thumb_id": "5110cb74ef6141fd3efb375898ffa15a65e5e6e3913e89ed57146633d878f627",
+        "bg_id": "a739ccb68f5575c65366160300ccf1de9d942ccdb3625a49e903b0f7f2ef8066",
+        "url": "https://www.gog.com/game/brok_the_investigator",
+        "developer": "COWCAT",
+        "publisher": "COWCAT",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708971467",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_brok_the_investigator_-_soundtrack_1.4.7_(71266).exe",
+                    "size": "6452888"
+                },
+                {
+                    "name": "setup_brok_the_investigator_1.4.7_(71266)-1.bin",
+                    "size": "2258051145"
+                },
+                {
+                    "name": "setup_brok_the_investigator_1.4.7_(71266).exe",
+                    "size": "8879192"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "brok_artbook.zip",
+                    "size": "174816090"
+                },
+                {
+                    "name": "brok_ost_flac.zip",
+                    "size": "1487429570"
+                },
+                {
+                    "name": "brok_ost_mp3.zip",
+                    "size": "850996341"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9BEDEA1AB4",
+                            "link": "https://filecrypt.cc/Container/9BEDEA1AB4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/715A395BA9",
+                            "link": "https://filecrypt.cc/Container/715A395BA9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7C22804935",
+                            "link": "https://filecrypt.cc/Container/7C22804935"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/71627A4D22",
+                            "link": "https://filecrypt.cc/Container/71627A4D22"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/802F88DC25",
+                            "link": "https://filecrypt.cc/Container/802F88DC25"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CD69A37A35",
+                            "link": "https://filecrypt.cc/Container/CD69A37A35"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

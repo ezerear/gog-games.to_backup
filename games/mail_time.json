@@ -1,0 +1,90 @@
+{
+    "href": "/game/mail_time",
+    "MSG": {
+        "id": "1937407919",
+        "title": "Mail Time",
+        "slug": "mail_time",
+        "thumb_id": "3adfd3fc87a068aa076d9231f8ca03136bcaf449a6299f15b92ae199511c51b8",
+        "bg_id": "af8000987b1a5119d52fcb5f440032e681e51ec09b34ca400226c94761b92e07",
+        "url": "https://www.gog.com/en/game/mail_time",
+        "developer": "Kela van der Deijl",
+        "publisher": "Freedom Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707538542",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_mail_time_v.1.00.19_(64bit)_(65726).exe",
+                    "size": "753513440"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3BB1223062",
+                            "link": "https://filecrypt.cc/Container/3BB1223062"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9788B8EDC9",
+                            "link": "https://filecrypt.cc/Container/9788B8EDC9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5CF70B202E",
+                            "link": "https://filecrypt.cc/Container/5CF70B202E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8092CE7F93",
+                            "link": "https://filecrypt.cc/Container/8092CE7F93"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E200080F2F",
+                            "link": "https://filecrypt.cc/Container/E200080F2F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

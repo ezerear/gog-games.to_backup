@@ -1,0 +1,80 @@
+{
+    "href": "/game/sniper_elite_v2_remastered",
+    "MSG": {
+        "id": "1615328735",
+        "title": "Sniper Elite V2 Remastered",
+        "slug": "sniper_elite_v2_remastered",
+        "thumb_id": "ba41ac0c9e625d6b23bfd8b6951fb1f6eb8c0b70be90d9febfa2841c7d754d10",
+        "bg_id": "c4d18bf52086d53f3dc3f458e0fd7430d70bb61f50d4ccb6cf692b4c42f4f986",
+        "url": "https://www.gog.com/game/sniper_elite_v2_remastered",
+        "developer": "Rebellion",
+        "publisher": "Rebellion",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710563476",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sniper_elite_v2_remastered_svn_2797_pf_85690_(64bit)_(32172)-1.bin",
+                    "size": "4293984254"
+                },
+                {
+                    "name": "setup_sniper_elite_v2_remastered_svn_2797_pf_85690_(64bit)_(32172)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_sniper_elite_v2_remastered_svn_2797_pf_85690_(64bit)_(32172)-3.bin",
+                    "size": "2913922532"
+                },
+                {
+                    "name": "setup_sniper_elite_v2_remastered_svn_2797_pf_85690_(64bit)_(32172).exe",
+                    "size": "990416"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8CBC957FED",
+                            "link": "https://filecrypt.cc/Container/8CBC957FED"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/876230D966",
+                            "link": "https://filecrypt.cc/Container/876230D966"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F31F53A02C",
+                            "link": "https://filecrypt.cc/Container/F31F53A02C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,100 @@
+{
+    "href": "/game/heavy_rain",
+    "MSG": {
+        "id": "2055511884",
+        "title": "Heavy Rain",
+        "slug": "heavy_rain",
+        "thumb_id": "13122da71c5b9e500d76be62924427d9b3a0f09b37d3b53ee298bbe1e0263f7b",
+        "bg_id": "458e88cb3c5f3364558b2547590dd2b375403b603e9c045a0820bae926e3738c",
+        "url": "https://www.gog.com/en/game/heavy_rain",
+        "developer": "Quantic Dream",
+        "publisher": "Quantic Dream",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710398544",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_heavy_rain_1.0_(64468)-1.bin",
+                    "size": "4293647358"
+                },
+                {
+                    "name": "setup_heavy_rain_1.0_(64468)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_heavy_rain_1.0_(64468)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_heavy_rain_1.0_(64468)-4.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_heavy_rain_1.0_(64468)-5.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_heavy_rain_1.0_(64468)-6.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_heavy_rain_1.0_(64468)-7.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_heavy_rain_1.0_(64468)-8.bin",
+                    "size": "2381539282"
+                },
+                {
+                    "name": "setup_heavy_rain_1.0_(64468).exe",
+                    "size": "1330280"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5040F92905",
+                            "link": "https://filecrypt.cc/Container/5040F92905"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/402E71B8E2",
+                            "link": "https://filecrypt.cc/Container/402E71B8E2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A7943CD06F",
+                            "link": "https://filecrypt.cc/Container/A7943CD06F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

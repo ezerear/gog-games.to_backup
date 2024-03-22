@@ -1,0 +1,79 @@
+{
+    "href": "/game/the_final_battle",
+    "MSG": {
+        "id": "1849448908",
+        "title": "The Final Battle",
+        "slug": "the_final_battle",
+        "thumb_id": "9a90ca555ad85275c3bc4fe8b291b736a534b8eb8ca1e0df4995754bb5d95e6e",
+        "bg_id": "235432b2b893119e8f4010268fea5c49ecfbda17b106f97c3bdd387b1cea2f0d",
+        "url": "https://www.gog.com/en/game/the_final_battle",
+        "developer": "PSS",
+        "publisher": "Mirrorsoft",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1684213946",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_final_battle_1.0.1_(54085).exe",
+                    "size": "9538408"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4D4AB88F01",
+                            "link": "https://filecrypt.cc/Container/4D4AB88F01"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F89E13E0C5",
+                            "link": "https://filecrypt.cc/Container/F89E13E0C5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9D1681284C",
+                            "link": "https://filecrypt.cc/Container/9D1681284C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E265AAC48B",
+                            "link": "https://filecrypt.cc/Container/E265AAC48B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

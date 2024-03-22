@@ -1,0 +1,115 @@
+{
+    "href": "/game/reassembly",
+    "MSG": {
+        "id": "1487278562",
+        "title": "Reassembly",
+        "slug": "reassembly",
+        "thumb_id": "2fbffbd1e7366040e692c77e2f9b2ccc17dd0aebac08d92780a48dad48fdecc7",
+        "bg_id": "d5391beb63733b65107558a64c5f6b41778c554720d02d1b9b124e75595f76b0",
+        "url": "https://www.gog.com/game/reassembly",
+        "developer": "Anisoptera Games",
+        "publisher": "Anisoptera Games",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710899472",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_reassembly_2021_07_04_(48286).exe",
+                    "size": "120065040"
+                },
+                {
+                    "name": "setup_reassembly_fields_expansion_2021_07_04_(48286).exe",
+                    "size": "106776128"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "reassembly_fields_ost_mp3.zip",
+                    "size": "153834532"
+                },
+                {
+                    "name": "reassembly_ost_mp3.zip",
+                    "size": "184593949"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D08737C231",
+                            "link": "https://filecrypt.cc/Container/D08737C231"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/97CFFB5494",
+                            "link": "https://filecrypt.cc/Container/97CFFB5494"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/365F65F653",
+                            "link": "https://filecrypt.cc/Container/365F65F653"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F3D6D2D379",
+                            "link": "https://filecrypt.cc/Container/F3D6D2D379"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C4E7A74F1E",
+                            "link": "https://filecrypt.cc/Container/C4E7A74F1E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5935B10CD9",
+                            "link": "https://filecrypt.cc/Container/5935B10CD9"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

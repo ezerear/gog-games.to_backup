@@ -1,0 +1,76 @@
+{
+    "href": "/game/empires_of_the_undergrowth",
+    "MSG": {
+        "id": "1850642020",
+        "title": "Empires of the Undergrowth",
+        "slug": "empires_of_the_undergrowth",
+        "thumb_id": "903973d2e4eaf4c2877b7cd45481299c51517c2e7fcc5ea576d74e4393935a51",
+        "bg_id": "9ed09fa404354f19884483cd36892da1fa99f33cd5921f14404f7ea387cf75f5",
+        "url": "https://www.gog.com/game/empires_of_the_undergrowth",
+        "developer": "Slug Disco Studios",
+        "publisher": "Slug Disco Studios",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1707971767",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_empires_of_the_undergrowth_0.320034_(64bit)_(70355)-1.bin",
+                    "size": "4294107134"
+                },
+                {
+                    "name": "setup_empires_of_the_undergrowth_0.320034_(64bit)_(70355)-2.bin",
+                    "size": "579490127"
+                },
+                {
+                    "name": "setup_empires_of_the_undergrowth_0.320034_(64bit)_(70355).exe",
+                    "size": "870384"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7575361F99",
+                            "link": "https://filecrypt.cc/Container/7575361F99"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9ECD8747F8",
+                            "link": "https://filecrypt.cc/Container/9ECD8747F8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0A13DAFC61",
+                            "link": "https://filecrypt.cc/Container/0A13DAFC61"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

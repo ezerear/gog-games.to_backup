@@ -1,0 +1,104 @@
+{
+    "href": "/game/grim_dawn",
+    "MSG": {
+        "id": "1449651388",
+        "title": "Grim Dawn",
+        "slug": "grim_dawn",
+        "thumb_id": "73b321c80676bbe64152380376ca1693936a28613517aef1714ab308c40e46e8",
+        "bg_id": "a53bdca424fba9621161aaf428a0bc0a95809b4ffa3720056b890543d69ca50d",
+        "url": "https://www.gog.com/game/grim_dawn",
+        "developer": "Crate Entertainment",
+        "publisher": "Crate Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709501894",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_grim_dawn_-_ashes_of_malmouth_1.2.0.5a_(71558)-1.bin",
+                    "size": "2225541149"
+                },
+                {
+                    "name": "setup_grim_dawn_-_ashes_of_malmouth_1.2.0.5a_(71558).exe",
+                    "size": "797560"
+                },
+                {
+                    "name": "setup_grim_dawn_-_crucible_1.2.0.5a_(71558).exe",
+                    "size": "135731912"
+                },
+                {
+                    "name": "setup_grim_dawn_-_forgotten_gods_1.2.0.5a_(71558)-1.bin",
+                    "size": "2862879408"
+                },
+                {
+                    "name": "setup_grim_dawn_-_forgotten_gods_1.2.0.5a_(71558).exe",
+                    "size": "808504"
+                },
+                {
+                    "name": "setup_grim_dawn_-_loyalist_item_pack_1.2.0.5a_(64bit)_(71558).exe",
+                    "size": "6345136"
+                },
+                {
+                    "name": "setup_grim_dawn_-_loyalist_item_pack_2_1.2.0.5a_(64bit)_(71558).exe",
+                    "size": "6219896"
+                },
+                {
+                    "name": "setup_grim_dawn_-_loyalist_pack_3_1.2.0.5a_(64bit)_(71558).exe",
+                    "size": "6636080"
+                },
+                {
+                    "name": "setup_grim_dawn_1.2.0.5a_(64bit)_(71558)-1.bin",
+                    "size": "4219981726"
+                },
+                {
+                    "name": "setup_grim_dawn_1.2.0.5a_(64bit)_(71558).exe",
+                    "size": "874432"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FF12EC2D5A",
+                            "link": "https://filecrypt.cc/Container/FF12EC2D5A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9C503FA9D8",
+                            "link": "https://filecrypt.cc/Container/9C503FA9D8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FFC4C42292",
+                            "link": "https://filecrypt.cc/Container/FFC4C42292"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

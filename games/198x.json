@@ -1,0 +1,90 @@
+{
+    "href": "/game/198x",
+    "MSG": {
+        "id": "2033991040",
+        "title": "198X",
+        "slug": "198x",
+        "thumb_id": "a01e013c08a5c163d9ced824071cb44c1e5bdf3ad073068b73df5c0a2b7db3b8",
+        "bg_id": "bc36ff1bf97a3958df57b83bc2a0288712a1f51d93eecb7c8b7f8d76774d99bf",
+        "url": "https://www.gog.com/game/198x",
+        "developer": "Hi-Bit Studios",
+        "publisher": "Hi-Bit Studios",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707386222",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_198x_1.03_(32240).exe",
+                    "size": "373772816"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E87AA7196D",
+                            "link": "https://filecrypt.cc/Container/E87AA7196D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A747A39572",
+                            "link": "https://filecrypt.cc/Container/A747A39572"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1D47AE191F",
+                            "link": "https://filecrypt.cc/Container/1D47AE191F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/08F5A686AD",
+                            "link": "https://filecrypt.cc/Container/08F5A686AD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7C206964B6",
+                            "link": "https://filecrypt.cc/Container/7C206964B6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

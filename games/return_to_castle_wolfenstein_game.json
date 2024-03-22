@@ -1,0 +1,68 @@
+{
+    "href": "/game/return_to_castle_wolfenstein_game",
+    "MSG": {
+        "id": "1441704976",
+        "title": "Return to Castle Wolfenstein ",
+        "slug": "return_to_castle_wolfenstein_game",
+        "thumb_id": "a76e7f5cbd80d6c6b490657ddcd3fafb40ae3b368dc950ceba23a95f3e2dcd1e",
+        "bg_id": "5612bf8d35883639c0990a97ee758347c2b6c8336340002a1dcee1e72faf85a6",
+        "url": "https://www.gog.com/game/return_to_castle_wolfenstein",
+        "developer": "id Software",
+        "publisher": "Bethesda Softworks LLC",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710426716",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_return_to_castle_wolfenstein_2.0.0.2.exe",
+                    "size": "798673040"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/206682EC18",
+                            "link": "https://filecrypt.cc/Container/206682EC18"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B8BCB58B8B",
+                            "link": "https://filecrypt.cc/Container/B8BCB58B8B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0DC346BAB5",
+                            "link": "https://filecrypt.cc/Container/0DC346BAB5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,90 @@
+{
+    "href": "/game/pinball_fantasies_deluxe",
+    "MSG": {
+        "id": "1207664103",
+        "title": "Pinball Fantasies Deluxe",
+        "slug": "pinball_fantasies_deluxe",
+        "thumb_id": "245b44547884ee83b880fe06d1f71fc24a272541bdef6bd65b619d383dc50ac6",
+        "bg_id": "358e8a7e1571ab23bd1fd9c31f9c902fb56f253d132cdc2eb3e9363a4aacda87",
+        "url": "https://www.gog.com/game/pinball_gold_pack",
+        "developer": "Digital Illusions",
+        "publisher": "Rebellion",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1703397532",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_pinball_fantasies_2.1.0.17.exe",
+                    "size": "39933776"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/601DC1328B",
+                            "link": "https://filecrypt.cc/Container/601DC1328B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A25F67DFE8",
+                            "link": "https://filecrypt.cc/Container/A25F67DFE8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5EFFC9DEC4",
+                            "link": "https://filecrypt.cc/Container/5EFFC9DEC4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F2D859CB4F",
+                            "link": "https://filecrypt.cc/Container/F2D859CB4F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F303454E11",
+                            "link": "https://filecrypt.cc/Container/F303454E11"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

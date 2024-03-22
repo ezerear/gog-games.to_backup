@@ -1,0 +1,68 @@
+{
+    "href": "/game/fixeight",
+    "MSG": {
+        "id": "1187845221",
+        "title": "Fixeight",
+        "slug": "fixeight",
+        "thumb_id": "f5f43d92896f9741eb18cd39aaddf970934bdfa93723bdf122c7d43e40345a41",
+        "bg_id": "a5e367f1cb72981ee122457c7bc8bcdeadbd17e8435f183180aaaa80f55b7d51",
+        "url": "https://www.gog.com/en/game/fixeight",
+        "developer": "Bitwave Games, Toaplan",
+        "publisher": "Bitwave Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710373670",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_fix_eight_12_(64bit)_(71697).exe",
+                    "size": "15053320"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AF9C76B43F",
+                            "link": "https://filecrypt.cc/Container/AF9C76B43F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C03DA7D9E3",
+                            "link": "https://filecrypt.cc/Container/C03DA7D9E3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/612593B95A",
+                            "link": "https://filecrypt.cc/Container/612593B95A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

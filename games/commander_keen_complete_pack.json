@@ -1,0 +1,68 @@
+{
+    "href": "/game/commander_keen_complete_pack",
+    "MSG": {
+        "id": "2070676386",
+        "title": "Commander Keen Complete Pack",
+        "slug": "commander_keen_complete_pack",
+        "thumb_id": "4ea0ed20f38cb0ab4696c219c37fecfe662befd500670fea3921dc865000db58",
+        "bg_id": "d376171d17b7c9ec105d08fa5c769d104168ce453b2940363ff16e56be5697e9",
+        "url": "https://www.gog.com/game/commander_keen_complete_pack",
+        "developer": "id Software",
+        "publisher": "id Software",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708888757",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_commander_keen_1.4_(42493).exe",
+                    "size": "14465576"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/35EA3C8A44",
+                            "link": "https://filecrypt.cc/Container/35EA3C8A44"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E618181AF7",
+                            "link": "https://filecrypt.cc/Container/E618181AF7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F60BD27006",
+                            "link": "https://filecrypt.cc/Container/F60BD27006"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

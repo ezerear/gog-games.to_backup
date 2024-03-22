@@ -1,0 +1,76 @@
+{
+    "href": "/game/supreme_commander",
+    "MSG": {
+        "id": "1158031056",
+        "title": "Supreme Commander",
+        "slug": "supreme_commander",
+        "thumb_id": "9f5c90efb77832defdecfc23ec5834aea4bf65bf83afcf0a2571939d76890a48",
+        "bg_id": "1e982131f302256d7618b54de9d56e553eb822bac4e448512a4dfbf89be9f0f1",
+        "url": "https://www.gog.com/game/supreme_commander_gold_edition",
+        "developer": "Gas Powered Games",
+        "publisher": "Square Enix",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710728603",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_supreme_commander_1.1.3280_(37763)-1.bin",
+                    "size": "4293751806"
+                },
+                {
+                    "name": "setup_supreme_commander_1.1.3280_(37763)-2.bin",
+                    "size": "2823963821"
+                },
+                {
+                    "name": "setup_supreme_commander_1.1.3280_(37763).exe",
+                    "size": "1222408"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/88E2854747",
+                            "link": "https://filecrypt.cc/Container/88E2854747"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6A43D4BE3B",
+                            "link": "https://filecrypt.cc/Container/6A43D4BE3B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B60B6EEBC3",
+                            "link": "https://filecrypt.cc/Container/B60B6EEBC3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

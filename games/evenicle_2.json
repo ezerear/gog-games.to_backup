@@ -1,0 +1,69 @@
+{
+    "href": "/game/evenicle_2",
+    "MSG": {
+        "id": "1828449821",
+        "title": "Evenicle 2",
+        "slug": "evenicle_2",
+        "thumb_id": "93224d16f4f9ac4b6e4e626a52f1cab9536e88c48151da7f158a84da47fb81e5",
+        "bg_id": "4ad7447da2e2aa4dc6dd09abec65e0c418434e9c957a73ad8d3d6a0dbe823466",
+        "url": "https://www.gog.com/en/game/evenicle_2",
+        "developer": "Alicesoft",
+        "publisher": "Alicesoft",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709158568",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_evenicle_2_1.0_(20211214_master)_(56407)-1.bin",
+                    "size": "3382603292"
+                },
+                {
+                    "name": "setup_evenicle_2_1.0_(20211214_master)_(56407)-1.bin",
+                    "size": "3382603292"
+                },
+                {
+                    "name": "setup_evenicle_2_1.0_(20211214_master)_(56407).exe",
+                    "size": "828952"
+                },
+                {
+                    "name": "setup_evenicle_2_1.0_(20211214_master)_(56407).exe",
+                    "size": "828952"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/05D2E3E402",
+                            "link": "https://filecrypt.cc/Container/05D2E3E402"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/068AFBD1BE",
+                            "link": "https://filecrypt.cc/Container/068AFBD1BE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,131 @@
+{
+    "href": "/game/mdk_2",
+    "MSG": {
+        "id": "1207658645",
+        "title": "MDK 2",
+        "slug": "mdk_2",
+        "thumb_id": "727c27ece9944d7873210bee007a94f76783fb68afbb1d1fc33fe5cde826f5cf",
+        "bg_id": "be401be52178d4658950b432cfefe8aa30b0566545316e83227793203082a25e",
+        "url": "https://www.gog.com/game/mdk_2",
+        "developer": "BioWare",
+        "publisher": "Interplay",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710495039",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_mdk_2_1.0003_v2_(33758).exe",
+                    "size": "216348104"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "mdk2_soundtrack.zip",
+                    "size": "96736025"
+                },
+                {
+                    "name": "mdk_2_artworks.zip",
+                    "size": "1478328"
+                },
+                {
+                    "name": "mdk_2_avatar.zip",
+                    "size": "38955"
+                },
+                {
+                    "name": "mdk_2_manual.zip",
+                    "size": "5171939"
+                },
+                {
+                    "name": "mdk_2_storyboard_artwork.zip",
+                    "size": "1115260"
+                },
+                {
+                    "name": "mdk_2_wallpapers.zip",
+                    "size": "8635725"
+                },
+                {
+                    "name": "setup_mdk2_russian_2.1.0.3.exe",
+                    "size": "273403184"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/35D164EC2F",
+                            "link": "https://filecrypt.cc/Container/35D164EC2F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7E000867BF",
+                            "link": "https://filecrypt.cc/Container/7E000867BF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EECCD11883",
+                            "link": "https://filecrypt.cc/Container/EECCD11883"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D6E70B6042",
+                            "link": "https://filecrypt.cc/Container/D6E70B6042"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B7D95EF4A7",
+                            "link": "https://filecrypt.cc/Container/B7D95EF4A7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6C945A40D6",
+                            "link": "https://filecrypt.cc/Container/6C945A40D6"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

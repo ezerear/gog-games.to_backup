@@ -1,0 +1,83 @@
+{
+    "href": "/game/worms_revolution",
+    "MSG": {
+        "id": "1421309312",
+        "title": "Worms Revolution Gold Edition",
+        "slug": "worms_revolution",
+        "thumb_id": "09a3f8b2b384fdaf553d0ef140a1802f89e9f16a567040ca73bd7cb588429634",
+        "bg_id": "705efbe9b86b0d56691f7863f217cbfe799d99cca6bb9d129b02b3c412251cd0",
+        "url": "https://www.gog.com/en/game/worms_revolution",
+        "developer": "Team17 Digital Ltd.",
+        "publisher": "Team17 Digital LTD.",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1707954394",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_worms_revolution_140_(54222)-1.bin",
+                    "size": "1460281511"
+                },
+                {
+                    "name": "setup_worms_revolution_140_(54222).exe",
+                    "size": "969040"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1CD8EB42BA",
+                            "link": "https://filecrypt.cc/Container/1CD8EB42BA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/98B5AC3858",
+                            "link": "https://filecrypt.cc/Container/98B5AC3858"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0E24710AC4",
+                            "link": "https://filecrypt.cc/Container/0E24710AC4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C53AB8CDEA",
+                            "link": "https://filecrypt.cc/Container/C53AB8CDEA"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

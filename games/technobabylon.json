@@ -1,0 +1,131 @@
+{
+    "href": "/game/technobabylon",
+    "MSG": {
+        "id": "1430234218",
+        "title": "Technobabylon",
+        "slug": "technobabylon",
+        "thumb_id": "5cf86ca2335eeed7fbf4846f6ea5dd7e41fea2474f1c27ede25af189eabba564",
+        "bg_id": "26767f8374711b324d48980bb681da0f82ef716bbfd6e5a7f1602485f23fdfeb",
+        "url": "https://www.gog.com/game/technobabylon",
+        "developer": "Technocrat",
+        "publisher": "Wadjet Eye Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708862905",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_technobabylon_3.0.1_(66580).exe",
+                    "size": "1109449512"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "tb_codex.zip",
+                    "size": "2609663"
+                },
+                {
+                    "name": "tb_deluxe_art_gallery.zip",
+                    "size": "22268470"
+                },
+                {
+                    "name": "tb_deluxe_recording_session.zip",
+                    "size": "83193373"
+                },
+                {
+                    "name": "tb_ost_flac.zip",
+                    "size": "512970683"
+                },
+                {
+                    "name": "tb_ost_mp3.zip",
+                    "size": "311054599"
+                },
+                {
+                    "name": "tb_poster.zip",
+                    "size": "2501452"
+                },
+                {
+                    "name": "tb_wallpapers.zip",
+                    "size": "13665329"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/92649C467E",
+                            "link": "https://filecrypt.cc/Container/92649C467E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/42249613FD",
+                            "link": "https://filecrypt.cc/Container/42249613FD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A62053823C",
+                            "link": "https://filecrypt.cc/Container/A62053823C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D1615FA17A",
+                            "link": "https://filecrypt.cc/Container/D1615FA17A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5ECE6C2411",
+                            "link": "https://filecrypt.cc/Container/5ECE6C2411"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AF047C3DA2",
+                            "link": "https://filecrypt.cc/Container/AF047C3DA2"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,79 @@
+{
+    "href": "/game/american_fugitive",
+    "MSG": {
+        "id": "1647285695",
+        "title": "American Fugitive",
+        "slug": "american_fugitive",
+        "thumb_id": "e2f9fb5fb419318c6f17b159a74caa4581d525e10b512486761acaf0c7ca6502",
+        "bg_id": "db8d66c64e3955de0f8ee23f8c9683a816c9b219d0f987d05ef20e5a0525b9f8",
+        "url": "https://www.gog.com/en/game/american_fugitive",
+        "developer": "Fallen Tree Games Ltd",
+        "publisher": "Curve Digital",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708071791",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_american_fugitive_1.1.19095_(60415).exe",
+                    "size": "1138670024"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E274D3C25F",
+                            "link": "https://filecrypt.cc/Container/E274D3C25F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/36241B89F2",
+                            "link": "https://filecrypt.cc/Container/36241B89F2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D83AEB7112",
+                            "link": "https://filecrypt.cc/Container/D83AEB7112"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F84F0B3EA6",
+                            "link": "https://filecrypt.cc/Container/F84F0B3EA6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

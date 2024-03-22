@@ -1,0 +1,96 @@
+{
+    "href": "/game/comanche",
+    "MSG": {
+        "id": "1835921084",
+        "title": "Comanche",
+        "slug": "comanche",
+        "thumb_id": "9fa54af7d148998640ca76eab089aa05ceb86d907cac51e840ce890227021d0b",
+        "bg_id": "cdaa86dfbc29ec6104d2be7f8c48bd4a44dcbbbd55bf1afc7df239c0de5abfe6",
+        "url": "https://www.gog.com/game/comanche",
+        "developer": "NUKKLEAR",
+        "publisher": "THQ Nordic GmbH",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1700712232",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_comanche_1.0_(49558)-1.bin",
+                    "size": "4293478910"
+                },
+                {
+                    "name": "setup_comanche_1.0_(49558)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_comanche_1.0_(49558)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_comanche_1.0_(49558)-4.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_comanche_1.0_(49558)-5.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_comanche_1.0_(49558)-6.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_comanche_1.0_(49558)-7.bin",
+                    "size": "4180202346"
+                },
+                {
+                    "name": "setup_comanche_1.0_(49558).exe",
+                    "size": "1494800"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9EAC1C9BDA",
+                            "link": "https://filecrypt.cc/Container/9EAC1C9BDA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/69DEC4FCE7",
+                            "link": "https://filecrypt.cc/Container/69DEC4FCE7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FFE78EE4D8",
+                            "link": "https://filecrypt.cc/Container/FFE78EE4D8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

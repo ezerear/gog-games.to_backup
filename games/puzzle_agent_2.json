@@ -1,0 +1,68 @@
+{
+    "href": "/game/puzzle_agent_2",
+    "MSG": {
+        "id": "1441715815",
+        "title": "Puzzle Agent 2",
+        "slug": "puzzle_agent_2",
+        "thumb_id": "8aaf6a1240905f7a635aa06d3b3a6e668e78f2a936263e21bfc691412ecc9e91",
+        "bg_id": "3d1d3ec7027b676db0468aae56d97e3551cf35b256b819db1c87d0fecbc579e9",
+        "url": "https://www.gog.com/game/puzzle_agent_2",
+        "developer": "Telltale Games",
+        "publisher": "Telltale Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710448468",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_puzzle_agent_2_1.0_(21444).exe",
+                    "size": "400529776"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B018015A97",
+                            "link": "https://filecrypt.cc/Container/B018015A97"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/891C3A14DC",
+                            "link": "https://filecrypt.cc/Container/891C3A14DC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1D08F6449C",
+                            "link": "https://filecrypt.cc/Container/1D08F6449C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

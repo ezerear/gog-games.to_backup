@@ -1,0 +1,68 @@
+{
+    "href": "/game/overloop",
+    "MSG": {
+        "id": "1784695222",
+        "title": "Overloop",
+        "slug": "overloop",
+        "thumb_id": "21c17965712483ffdf08b2d48d52b346c0004967e3886c453790320cefddecc1",
+        "bg_id": "f85136c5b2512b9830599916fb2b2be321cdafec21a23f46d15eee624bda1fd8",
+        "url": "https://www.gog.com/game/overloop",
+        "developer": " Charge Games",
+        "publisher": "Digerati",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709558846",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_overloop_1.2_(58285).exe",
+                    "size": "251077808"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B5C89CF270",
+                            "link": "https://filecrypt.cc/Container/B5C89CF270"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/906DE1880A",
+                            "link": "https://filecrypt.cc/Container/906DE1880A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/168AD70D0A",
+                            "link": "https://filecrypt.cc/Container/168AD70D0A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

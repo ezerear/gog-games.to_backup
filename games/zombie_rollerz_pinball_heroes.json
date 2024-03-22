@@ -1,0 +1,61 @@
+{
+    "href": "/game/zombie_rollerz_pinball_heroes",
+    "MSG": {
+        "id": "1974363009",
+        "title": "Zombie Rollerz: Pinball Heroes",
+        "slug": "zombie_rollerz_pinball_heroes",
+        "thumb_id": "77e12716b8e6e78b27688bfe37628020a553066b4a04117ac92625195dd6eddb",
+        "bg_id": "8a3c9cfcb1b2f43b32ac2220f947ae86f5d4f0279bed29d15cc260b45510d4d1",
+        "url": "https://www.gog.com/game/zombie_rollerz_pinball_heroes",
+        "developer": "Zing Games Inc.",
+        "publisher": "Daedalic Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710169279",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_zombie_rollerz_pinball_heroes_1.0.6_(64bit)_(53756)-1.bin",
+                    "size": "309139364"
+                },
+                {
+                    "name": "setup_zombie_rollerz_pinball_heroes_1.0.6_(64bit)_(53756).exe",
+                    "size": "843368"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7671C12786",
+                            "link": "https://filecrypt.cc/Container/7671C12786"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6B0783BF9E",
+                            "link": "https://filecrypt.cc/Container/6B0783BF9E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

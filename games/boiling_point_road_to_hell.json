@@ -1,0 +1,72 @@
+{
+    "href": "/game/boiling_point_road_to_hell",
+    "MSG": {
+        "id": "1866033492",
+        "title": "Boiling Point: Road to Hell",
+        "slug": "boiling_point_road_to_hell",
+        "thumb_id": "874723dbbd28bd16e7413c0c3075b58ee11d38f75c2ad210a8de0653783c5e9b",
+        "bg_id": "3b31c94b616dd7c491fa5c1e0ce09b3bb49ceb5ff15a91aeddcb63ac422a1d55",
+        "url": "https://www.gog.com/en/game/boiling_point_road_to_hell",
+        "developer": "Deep Shadows",
+        "publisher": "Ziggurat",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710570859",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_boiling_point_road_to_hell_2023-11-03__130759_(68730)-1.bin",
+                    "size": "2545987927"
+                },
+                {
+                    "name": "setup_boiling_point_road_to_hell_2023-11-03__130759_(68730).exe",
+                    "size": "1803296"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E1638345F9",
+                            "link": "https://filecrypt.cc/Container/E1638345F9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/621454D7F7",
+                            "link": "https://filecrypt.cc/Container/621454D7F7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A35FDEE38C",
+                            "link": "https://filecrypt.cc/Container/A35FDEE38C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

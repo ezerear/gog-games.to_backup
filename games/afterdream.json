@@ -1,0 +1,68 @@
+{
+    "href": "/game/afterdream",
+    "MSG": {
+        "id": "1785658787",
+        "title": "Afterdream",
+        "slug": "afterdream",
+        "thumb_id": "2772b4104109ca733f81889bb460417cce803b84298740c9f954a550bcd8450c",
+        "bg_id": "e7a3768b45030a673c9926ff4f7071a40fc38286583f7800e995aff9f8eea70d",
+        "url": "https://www.gog.com/en/game/afterdream",
+        "developer": "Jesse Makkonen",
+        "publisher": "Gamera Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710251238",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_afterdream_v0.1_(67625).exe",
+                    "size": "362964296"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A68E8FAFE7",
+                            "link": "https://filecrypt.cc/Container/A68E8FAFE7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AB47F9CDE5",
+                            "link": "https://filecrypt.cc/Container/AB47F9CDE5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E280BBFB54",
+                            "link": "https://filecrypt.cc/Container/E280BBFB54"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

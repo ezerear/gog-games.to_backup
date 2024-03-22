@@ -1,0 +1,90 @@
+{
+    "href": "/game/fill_multicolor",
+    "MSG": {
+        "id": "1808562306",
+        "title": "Fill Multicolor",
+        "slug": "fill_multicolor",
+        "thumb_id": "9d44ddc891af9c1fc734a5b097a94b62e3bb987bb434e159070e61eb10720fb7",
+        "bg_id": "fbd4e0e1298cf4f3d07096ae630133f9c5a188ed850fb35078f6c158ba598dc0",
+        "url": "https://www.gog.com/en/game/fill_multicolor",
+        "developer": "Alexis Clemente",
+        "publisher": "AleC Games",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1704840389",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_fill_multicolor_1.0.1_(70326).exe",
+                    "size": "10221512"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0DAB5EF669",
+                            "link": "https://filecrypt.cc/Container/0DAB5EF669"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/02CC7F5947",
+                            "link": "https://filecrypt.cc/Container/02CC7F5947"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C17D2DCB49",
+                            "link": "https://filecrypt.cc/Container/C17D2DCB49"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F782F87276",
+                            "link": "https://filecrypt.cc/Container/F782F87276"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BFD3B21235",
+                            "link": "https://filecrypt.cc/Container/BFD3B21235"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,135 @@
+{
+    "href": "/game/moonshine_inc",
+    "MSG": {
+        "id": "1857037149",
+        "title": "Moonshine Inc.",
+        "slug": "moonshine_inc",
+        "thumb_id": "ddf832064e157700ceb4cfa33fcf63909af3c14404973898d946d2b4774d6c8f",
+        "bg_id": "d71e6b2c5ed457a39c4707210158f595f508edb2c64460c2fb846e00fe569928",
+        "url": "https://www.gog.com/en/game/moonshine_inc",
+        "developer": "Klabater",
+        "publisher": "Klabater",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1704885185",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_moonshine_inc._1.1.0.1_(65478)-1.bin",
+                    "size": "4293989374"
+                },
+                {
+                    "name": "setup_moonshine_inc._1.1.0.1_(65478)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_moonshine_inc._1.1.0.1_(65478)-3.bin",
+                    "size": "2816753556"
+                },
+                {
+                    "name": "setup_moonshine_inc._1.1.0.1_(65478).exe",
+                    "size": "988096"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "moonshine_inc_character_portraits.zip",
+                    "size": "16849586"
+                },
+                {
+                    "name": "moonshine_inc_digital_artbook.zip",
+                    "size": "23797181"
+                },
+                {
+                    "name": "moonshine_inc_original_score_flac.zip",
+                    "size": "569711752"
+                },
+                {
+                    "name": "moonshine_inc_original_score_mp3.zip",
+                    "size": "66458559"
+                },
+                {
+                    "name": "moonshine_inc_wallpapers.zip",
+                    "size": "70789384"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1DD1B03F65",
+                            "link": "https://filecrypt.cc/Container/1DD1B03F65"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1E74884F0B",
+                            "link": "https://filecrypt.cc/Container/1E74884F0B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B4AB3E8ACD",
+                            "link": "https://filecrypt.cc/Container/B4AB3E8ACD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C769A87F27",
+                            "link": "https://filecrypt.cc/Container/C769A87F27"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/222BFEBC8F",
+                            "link": "https://filecrypt.cc/Container/222BFEBC8F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/328C1C40D1",
+                            "link": "https://filecrypt.cc/Container/328C1C40D1"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

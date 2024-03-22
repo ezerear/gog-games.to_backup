@@ -1,0 +1,68 @@
+{
+    "href": "/game/the_killing_cloud",
+    "MSG": {
+        "id": "1121778705",
+        "title": "The Killing Cloud",
+        "slug": "the_killing_cloud",
+        "thumb_id": "84c7f51287e63f9a6a1a730e7e182b56ca3688fb86ffae9890226ca41da9b5f6",
+        "bg_id": "5ff077b8f5c527380c087f1cf031ccca347c11d7ae725a64b2a2ac27f29da5dd",
+        "url": "https://www.gog.com/en/game/the_killing_cloud",
+        "developer": "Image Works",
+        "publisher": "Mirrorsoft",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708972498",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_killing_cloud_v1.0_(60287).exe",
+                    "size": "9824872"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DA6EF28930",
+                            "link": "https://filecrypt.cc/Container/DA6EF28930"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8ED93BB897",
+                            "link": "https://filecrypt.cc/Container/8ED93BB897"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C9A4508EED",
+                            "link": "https://filecrypt.cc/Container/C9A4508EED"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

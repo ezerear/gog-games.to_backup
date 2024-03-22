@@ -1,0 +1,173 @@
+{
+    "href": "/game/frozen_cortex_game",
+    "MSG": {
+        "id": "1439551206",
+        "title": "Frozen Cortex",
+        "slug": "frozen_cortex_game",
+        "thumb_id": "5805fc004a0347be22801144db29e2f17b607a020563df1b7e556b11de28c549",
+        "bg_id": "2db835aa3e16df28d2085db550baac33996d932d3710b98080b85325f5b055bd",
+        "url": "https://www.gog.com/game/frozen_cortex",
+        "developer": "Mode 7",
+        "publisher": "Mode 7",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1703527295",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_frozen_cortex_2.0.0.3.exe",
+                    "size": "1112960312"
+                },
+                {
+                    "name": "setup_frozen_cortex_mega_tier_2.0.0.1.exe",
+                    "size": "7663016"
+                },
+                {
+                    "name": "setup_frozen_cortex_ultimate_tier_2.0.0.1.exe",
+                    "size": "7663360"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "cortex_ost_flac.zip",
+                    "size": "545158660"
+                },
+                {
+                    "name": "cortex_ost_mp3.zip",
+                    "size": "190736312"
+                },
+                {
+                    "name": "determinance_ost_flac.zip",
+                    "size": "480050980"
+                },
+                {
+                    "name": "determinance_ost_mp3.zip",
+                    "size": "170254513"
+                },
+                {
+                    "name": "ensnare_megacompilation_flac.zip",
+                    "size": "822227218"
+                },
+                {
+                    "name": "ensnare_megacompilation_mp3.zip",
+                    "size": "205958315"
+                },
+                {
+                    "name": "frozen_cortex_avatars.zip",
+                    "size": "786988"
+                },
+                {
+                    "name": "frozen_cortex_wallpapers.zip",
+                    "size": "984686"
+                },
+                {
+                    "name": "steel_glass_flac.zip",
+                    "size": "228737291"
+                },
+                {
+                    "name": "steel_glass_mp3.zip",
+                    "size": "43427307"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0D9372C340",
+                            "link": "https://filecrypt.cc/Container/0D9372C340"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9C2C970B4A",
+                            "link": "https://filecrypt.cc/Container/9C2C970B4A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E46855CF0B",
+                            "link": "https://filecrypt.cc/Container/E46855CF0B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/80182E3EEB",
+                            "link": "https://filecrypt.cc/Container/80182E3EEB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/55D724FD9C",
+                            "link": "https://filecrypt.cc/Container/55D724FD9C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FC652B2F0C",
+                            "link": "https://filecrypt.cc/Container/FC652B2F0C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BFDA8EA498",
+                            "link": "https://filecrypt.cc/Container/BFDA8EA498"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/366F080039",
+                            "link": "https://filecrypt.cc/Container/366F080039"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

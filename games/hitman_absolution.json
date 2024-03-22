@@ -1,0 +1,84 @@
+{
+    "href": "/game/hitman_absolution",
+    "MSG": {
+        "id": "1757179626",
+        "title": "Hitman: Absolution",
+        "slug": "hitman_absolution",
+        "thumb_id": "6f11f7a9ddfa5aca0cdbdeaaa4200e691f2560432d6e9ab555007d0125ac8e77",
+        "bg_id": "bc1add71b0bffaddfccd6610b19c7497e45e14a959b5633604bb0bbdfb3aebd9",
+        "url": "https://www.gog.com/game/hitman_absolution",
+        "developer": "Io-Interactive",
+        "publisher": "Io-Interactive",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709360209",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hitman_absolution_1.0.447.0_(28478)-1.bin",
+                    "size": "4292363262"
+                },
+                {
+                    "name": "setup_hitman_absolution_1.0.447.0_(28478)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_hitman_absolution_1.0.447.0_(28478)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_hitman_absolution_1.0.447.0_(28478)-4.bin",
+                    "size": "239882607"
+                },
+                {
+                    "name": "setup_hitman_absolution_1.0.447.0_(28478).exe",
+                    "size": "2611072"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F735139E4A",
+                            "link": "https://filecrypt.cc/Container/F735139E4A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EEA6473B20",
+                            "link": "https://filecrypt.cc/Container/EEA6473B20"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/10BAF2AEC2",
+                            "link": "https://filecrypt.cc/Container/10BAF2AEC2"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

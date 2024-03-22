@@ -1,0 +1,68 @@
+{
+    "href": "/game/ludus_mortis",
+    "MSG": {
+        "id": "1605563385",
+        "title": "Ludus Mortis",
+        "slug": "ludus_mortis",
+        "thumb_id": "c4066af08c33eef061663988c9b6d29eef6e6c6f2c91f0498ae0dd0bd6d3bc4b",
+        "bg_id": "6eef56736d2c465fcb8e31757a9fdcb51c8f3f3047099e7e00053cfe469e0adf",
+        "url": "https://www.gog.com/en/game/ludus_mortis",
+        "developer": "68k Studios",
+        "publisher": "",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710890269",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_ludus_mortis_1.0.2_(64bit)_(71919).exe",
+                    "size": "496230912"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3019A103AD",
+                            "link": "https://filecrypt.cc/Container/3019A103AD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CF47441E5D",
+                            "link": "https://filecrypt.cc/Container/CF47441E5D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3536715E32",
+                            "link": "https://filecrypt.cc/Container/3536715E32"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

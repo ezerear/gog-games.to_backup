@@ -1,0 +1,79 @@
+{
+    "href": "/game/leylines",
+    "MSG": {
+        "id": "1813067232",
+        "title": "Leylines",
+        "slug": "leylines",
+        "thumb_id": "73717972469f7b4f6121ef3043a18b5238d035ed5c0280d8c848d41c547a3c87",
+        "bg_id": "e7d1ec84d2735f4886e0371269666e45db3e22e1a87fee11261799fab87fa1f0",
+        "url": "https://www.gog.com/en/game/leylines",
+        "developer": "Crystal Shard",
+        "publisher": "Crystal Shard",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1707848264",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_leylines_1.5_(69948).exe",
+                    "size": "69699440"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ADBF7E99E4",
+                            "link": "https://filecrypt.cc/Container/ADBF7E99E4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4C266153CD",
+                            "link": "https://filecrypt.cc/Container/4C266153CD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/68B87452AA",
+                            "link": "https://filecrypt.cc/Container/68B87452AA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8F129D56BB",
+                            "link": "https://filecrypt.cc/Container/8F129D56BB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

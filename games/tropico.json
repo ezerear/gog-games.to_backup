@@ -1,0 +1,111 @@
+{
+    "href": "/game/tropico",
+    "MSG": {
+        "id": "1207663953",
+        "title": "Tropico",
+        "slug": "tropico",
+        "thumb_id": "0d63f0e95dd114db651e80935f6e47accdc1af32733ff4a8be8d7eceee3c0d6e",
+        "bg_id": "714153b2aebf3dbc1c1e24f195f87d08d370bba242e30417c1403bcaace5c1a4",
+        "url": "https://www.gog.com/game/tropico_reloaded",
+        "developer": "PopTop",
+        "publisher": "Kalypso Media Digital",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1709104586",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tropico_2.1.0.14.exe",
+                    "size": "859990344"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "tropico_manuals.zip",
+                    "size": "4559362"
+                },
+                {
+                    "name": "Tropico_soundtrack.zip",
+                    "size": "158823212"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/397178B8B9",
+                            "link": "https://filecrypt.cc/Container/397178B8B9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6A8081433D",
+                            "link": "https://filecrypt.cc/Container/6A8081433D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F869003C85",
+                            "link": "https://filecrypt.cc/Container/F869003C85"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/43B5560BD7",
+                            "link": "https://filecrypt.cc/Container/43B5560BD7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/464590AC44",
+                            "link": "https://filecrypt.cc/Container/464590AC44"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/43C4D9151C",
+                            "link": "https://filecrypt.cc/Container/43C4D9151C"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

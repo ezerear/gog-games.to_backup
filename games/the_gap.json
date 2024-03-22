@@ -1,0 +1,83 @@
+{
+    "href": "/game/the_gap",
+    "MSG": {
+        "id": "1881988145",
+        "title": "The Gap",
+        "slug": "the_gap",
+        "thumb_id": "cf2c4a35b2fdbe9f708ad6aa4d20970f20119c552e052575a2696f28430da1d8",
+        "bg_id": "01826713ee7c20de5691303ed9fdef410cf38b1dd08cc19f206b49dd37849f6a",
+        "url": "https://www.gog.com/en/game/the_gap",
+        "developer": "Label This",
+        "publisher": "Crunching Koalas",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1705311120",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_gap_1.0.0_(64bit)_(68196)-1.bin",
+                    "size": "1761716976"
+                },
+                {
+                    "name": "setup_the_gap_1.0.0_(64bit)_(68196).exe",
+                    "size": "824864"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B40612A9C5",
+                            "link": "https://filecrypt.cc/Container/B40612A9C5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/82049BEE1A",
+                            "link": "https://filecrypt.cc/Container/82049BEE1A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F605EA41BD",
+                            "link": "https://filecrypt.cc/Container/F605EA41BD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/72DEDDB31E",
+                            "link": "https://filecrypt.cc/Container/72DEDDB31E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

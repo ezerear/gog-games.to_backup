@@ -1,0 +1,68 @@
+{
+    "href": "/game/factory_town",
+    "MSG": {
+        "id": "1308253461",
+        "title": "Factory Town",
+        "slug": "factory_town",
+        "thumb_id": "be05e95852cbd65737d19510e8c078220d4704c040e3f96ec70b549ad74ccea9",
+        "bg_id": "8dcc3e65a74ee02a848ec2e3de47adfe64e2eb06ce9b51d40445356bb3104a25",
+        "url": "https://www.gog.com/en/game/factory_town",
+        "developer": "Erik Asmussen",
+        "publisher": "Erik Asmussen",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710192657",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_factory_town_2.1.0a_(64bit)_(57163).exe",
+                    "size": "456353472"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EA69293DDA",
+                            "link": "https://filecrypt.cc/Container/EA69293DDA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D99E25A5E8",
+                            "link": "https://filecrypt.cc/Container/D99E25A5E8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0BA9FEC476",
+                            "link": "https://filecrypt.cc/Container/0BA9FEC476"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

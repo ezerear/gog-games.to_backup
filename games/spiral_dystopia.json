@@ -1,0 +1,80 @@
+{
+    "href": "/game/spiral_dystopia",
+    "MSG": {
+        "id": "1776199346",
+        "title": "Spiral Dystopia",
+        "slug": "spiral_dystopia",
+        "thumb_id": "f6cf0ae98ab6c085ed38f3befbd03127dfc65ee468a147ac9e88944e89eadae0",
+        "bg_id": "02193e3a45b9d72fef3acf826ba5d94b513adc3b061e2d7f03d772073c7fde7d",
+        "url": "https://www.gog.com/en/game/spiral_dystopia",
+        "developer": "LiLiM",
+        "publisher": "Kagura Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708809028",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_spiral_dystopia_unrated_v2_(en_1.01_cn_1.01)_(64840)-1.bin",
+                    "size": "1252673283"
+                },
+                {
+                    "name": "setup_spiral_dystopia_unrated_v2_(en_1.01_cn_1.01)_(64840).exe",
+                    "size": "814680"
+                },
+                {
+                    "name": "setup_spiral_dystopia_v2_(en_1.01_cn_1.01)_(64840)-1.bin",
+                    "size": "1552169322"
+                },
+                {
+                    "name": "setup_spiral_dystopia_v2_(en_1.01_cn_1.01)_(64840).exe",
+                    "size": "846496"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0307024E42",
+                            "link": "https://filecrypt.cc/Container/0307024E42"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ED6D8CD7CC",
+                            "link": "https://filecrypt.cc/Container/ED6D8CD7CC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B89B234CBB",
+                            "link": "https://filecrypt.cc/Container/B89B234CBB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

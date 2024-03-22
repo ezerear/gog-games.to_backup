@@ -1,0 +1,115 @@
+{
+    "href": "/game/grimshade",
+    "MSG": {
+        "id": "1576666336",
+        "title": "Grimshade",
+        "slug": "grimshade",
+        "thumb_id": "b9ec94e3e2a261dafe73e3c27a4fff4faad8560d66404e25a4b47fa74602bda5",
+        "bg_id": "ba7aab80f6f6eca7972fc965b939f5722f6f2535efa7d95b9feddb331ee61e7d",
+        "url": "https://www.gog.com/game/grimshade",
+        "developer": "TALEROCK",
+        "publisher": "Asterion Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1694079996",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_grimshade_1.5_(34786)-1.bin",
+                    "size": "4293285886"
+                },
+                {
+                    "name": "setup_grimshade_1.5_(34786)-2.bin",
+                    "size": "1233545054"
+                },
+                {
+                    "name": "setup_grimshade_1.5_(34786).exe",
+                    "size": "1688688"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "grimshade_ost_mp3.zip",
+                    "size": "140380966"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FC457CA923",
+                            "link": "https://filecrypt.cc/Container/FC457CA923"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/513D4396A4",
+                            "link": "https://filecrypt.cc/Container/513D4396A4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5812E3816F",
+                            "link": "https://filecrypt.cc/Container/5812E3816F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/88D16C8F87",
+                            "link": "https://filecrypt.cc/Container/88D16C8F87"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/45F7C6C9D8",
+                            "link": "https://filecrypt.cc/Container/45F7C6C9D8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C084449354",
+                            "link": "https://filecrypt.cc/Container/C084449354"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

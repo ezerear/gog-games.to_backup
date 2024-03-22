@@ -1,0 +1,79 @@
+{
+    "href": "/game/drod_3_the_city_beneath",
+    "MSG": {
+        "id": "1207662023",
+        "title": "DROD 3: The City Beneath",
+        "slug": "drod_3_the_city_beneath",
+        "thumb_id": "197342f31f669de6f0c94f98e723aade16711b45e2f8f51c692f0e6695a8fe42",
+        "bg_id": "08c9d5bef0ef21400c4e217a29886a901d714ff15f36f816502078b80964c5f9",
+        "url": "https://www.gog.com/game/drod_1_2_3",
+        "developer": "Caravel Games",
+        "publisher": "Caravel Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1684759949",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_drod3_2.0.0.5.exe",
+                    "size": "115521056"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3FE6826E3B",
+                            "link": "https://filecrypt.cc/Container/3FE6826E3B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A9762ABCA3",
+                            "link": "https://filecrypt.cc/Container/A9762ABCA3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E6C35DD8ED",
+                            "link": "https://filecrypt.cc/Container/E6C35DD8ED"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/08CA705EBA",
+                            "link": "https://filecrypt.cc/Container/08CA705EBA"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

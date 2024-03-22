@@ -1,0 +1,79 @@
+{
+    "href": "/game/devils_kiss",
+    "MSG": {
+        "id": "1807052519",
+        "title": "Devil's Kiss",
+        "slug": "devils_kiss",
+        "thumb_id": "b0c6db152dddb3db9e07895c2d60b290be8b1c22408851bf1398c7c204c57e4b",
+        "bg_id": "c6db06b153e5e3cd9fda1cfc195c4669cf45e1ab9f822f98a629be469ad20cd7",
+        "url": "https://www.gog.com/game/devils_kiss",
+        "developer": "Size Five Games",
+        "publisher": "Size Five Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1684085958",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_devils_kiss_1.012_(36876).exe",
+                    "size": "97697520"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4C36891DDC",
+                            "link": "https://filecrypt.cc/Container/4C36891DDC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EAC8A464BE",
+                            "link": "https://filecrypt.cc/Container/EAC8A464BE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E8E7143CA3",
+                            "link": "https://filecrypt.cc/Container/E8E7143CA3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/001CD3F802",
+                            "link": "https://filecrypt.cc/Container/001CD3F802"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

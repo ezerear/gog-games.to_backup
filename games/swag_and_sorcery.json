@@ -1,0 +1,68 @@
+{
+    "href": "/game/swag_and_sorcery",
+    "MSG": {
+        "id": "1781942763",
+        "title": "Swag and Sorcery",
+        "slug": "swag_and_sorcery",
+        "thumb_id": "ee652f6015b438a6fb5a61f1749bacc00531d6d5fd4fe745e2f352047191e54f",
+        "bg_id": "d8aa473068005fe92ca17f6af470e50e9c7f65280104ee1267ffd28256e0cf78",
+        "url": "https://www.gog.com/game/swag_and_sorcery",
+        "developer": "Lazy Bear Games",
+        "publisher": "tinyBuild",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1708570090",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_swag_and_sorcery_1.52_(40645).exe",
+                    "size": "227710696"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FC4A105D9E",
+                            "link": "https://filecrypt.cc/Container/FC4A105D9E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D36CCA571E",
+                            "link": "https://filecrypt.cc/Container/D36CCA571E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8753709ED5",
+                            "link": "https://filecrypt.cc/Container/8753709ED5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

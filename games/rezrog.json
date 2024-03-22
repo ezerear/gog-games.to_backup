@@ -1,0 +1,94 @@
+{
+    "href": "/game/rezrog",
+    "MSG": {
+        "id": "1679459761",
+        "title": "Rezrog",
+        "slug": "rezrog",
+        "thumb_id": "5f7d9d9a9639d95836e1e0b7b1d486379dbce88e637ddab494c0d45c6f4b529a",
+        "bg_id": "d4c3950eee1bc0ba8d4e3183466188887d4bafc9977daf570340d6f358284ddf",
+        "url": "https://www.gog.com/game/rezrog",
+        "developer": "Soaphog",
+        "publisher": "Kasedo Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1705538332",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_rezrog_1.1.1_(27734)-1.bin",
+                    "size": "451932793"
+                },
+                {
+                    "name": "setup_rezrog_1.1.1_(27734).exe",
+                    "size": "802232"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B42351581F",
+                            "link": "https://filecrypt.cc/Container/B42351581F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E562A63E94",
+                            "link": "https://filecrypt.cc/Container/E562A63E94"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/45E15A9484",
+                            "link": "https://filecrypt.cc/Container/45E15A9484"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5B01BB58DD",
+                            "link": "https://filecrypt.cc/Container/5B01BB58DD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6C66900D1C",
+                            "link": "https://filecrypt.cc/Container/6C66900D1C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

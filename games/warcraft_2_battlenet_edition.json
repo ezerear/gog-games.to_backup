@@ -1,0 +1,93 @@
+{
+    "href": "/game/warcraft_2_battlenet_edition",
+    "MSG": {
+        "id": "1418669891",
+        "title": "Warcraft II Battle.net Edition",
+        "slug": "warcraft_2_battlenet_edition",
+        "thumb_id": "f3c7299d04f3a32ca4a961eb7cf2ac7248c7ba5499395c296a8fac296a5e1190",
+        "bg_id": "bcdb286fc40c20a7ee28fd8aa9d4d8a7cba71c8df6590cf6d50dc16a75adb43c",
+        "url": "https://www.gog.com/game/warcraft_2_battlenet_edition",
+        "developer": "Blizzard Entertainment, Inc.",
+        "publisher": "Blizzard Entertainment, Inc.",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710125582",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_warcraft_ii_2.02_v4_(28734).exe",
+                    "size": "708870976"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "warcraft_2_battlenet_edition_community_maps.zip",
+                    "size": "2406343"
+                },
+                {
+                    "name": "warcraft_2_battlenet_edition_manual_EN_pdf.zip",
+                    "size": "9641245"
+                },
+                {
+                    "name": "warcraft_2_battlenet_edition_wallpapers_20.zip",
+                    "size": "22362783"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A97932ACF5",
+                            "link": "https://filecrypt.cc/Container/A97932ACF5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/90B426D85B",
+                            "link": "https://filecrypt.cc/Container/90B426D85B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D91CEACA38",
+                            "link": "https://filecrypt.cc/Container/D91CEACA38"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C7E0168AF2",
+                            "link": "https://filecrypt.cc/Container/C7E0168AF2"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

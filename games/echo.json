@@ -1,0 +1,76 @@
+{
+    "href": "/game/echo",
+    "MSG": {
+        "id": "2145436309",
+        "title": "ECHO",
+        "slug": "echo",
+        "thumb_id": "9d56ed1dee538bfa134ac81c6a75d533a3eec0555755fc0646e82ddde8fc9f0d",
+        "bg_id": "08b97f57e5b391d1e063b37d1f87cb9599f93d88a297a5af31ee72a8c416e818",
+        "url": "https://www.gog.com/game/echo",
+        "developer": "ULTRA ULTRA",
+        "publisher": "ULTRA ULTRA",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710470030",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_echo_64_1.05_(17295)-1.bin",
+                    "size": "4294153726"
+                },
+                {
+                    "name": "setup_echo_64_1.05_(17295)-2.bin",
+                    "size": "3146848805"
+                },
+                {
+                    "name": "setup_echo_64_1.05_(17295).exe",
+                    "size": "820664"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5F5CF7DA95",
+                            "link": "https://filecrypt.cc/Container/5F5CF7DA95"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E039BF67EB",
+                            "link": "https://filecrypt.cc/Container/E039BF67EB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1DAB39F055",
+                            "link": "https://filecrypt.cc/Container/1DAB39F055"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

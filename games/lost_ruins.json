@@ -1,0 +1,68 @@
+{
+    "href": "/game/lost_ruins",
+    "MSG": {
+        "id": "1166021990",
+        "title": "Lost Ruins",
+        "slug": "lost_ruins",
+        "thumb_id": "1cd6b7cec9cb3fed89e0b59c585ce6f6550af601d844bbf45d8d765aa2c7ae2a",
+        "bg_id": "2a4ac0014cda2fa4489a4b51a0d587f4a20393bfa5cfa9315e79abe3456194a8",
+        "url": "https://www.gog.com/game/lost_ruins",
+        "developer": "Altari Games",
+        "publisher": "DANGEN Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709814454",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_lost_ruins_1.0.9a_(48363).exe",
+                    "size": "402730312"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6530B1CDD5",
+                            "link": "https://filecrypt.cc/Container/6530B1CDD5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FD0EBAEC82",
+                            "link": "https://filecrypt.cc/Container/FD0EBAEC82"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ED9249367A",
+                            "link": "https://filecrypt.cc/Container/ED9249367A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

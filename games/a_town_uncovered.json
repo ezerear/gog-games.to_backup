@@ -1,0 +1,68 @@
+{
+    "href": "/game/a_town_uncovered",
+    "MSG": {
+        "id": "1202796809",
+        "title": "A Town Uncovered",
+        "slug": "a_town_uncovered",
+        "thumb_id": "7b6a27fd7b73bd521963c774e94eeedfb0ca151646f40f58a13ce81b59a4436e",
+        "bg_id": "a9f2b18186f75a4640d738ee081b63a158fd8f25d3e3ba4c1f5d58f747c650fa",
+        "url": "https://www.gog.com/en/game/a_town_uncovered",
+        "developer": "GeeSeki",
+        "publisher": "TinyHat Studios",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709212090",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_a_town_uncovered_0.48a_(68583).exe",
+                    "size": "1518623080"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2D068D9155",
+                            "link": "https://filecrypt.cc/Container/2D068D9155"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/079EDB734B",
+                            "link": "https://filecrypt.cc/Container/079EDB734B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7AB9C95113",
+                            "link": "https://filecrypt.cc/Container/7AB9C95113"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

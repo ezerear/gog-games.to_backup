@@ -1,0 +1,72 @@
+{
+    "href": "/game/galak_z",
+    "MSG": {
+        "id": "1446111517",
+        "title": "GALAK-Z",
+        "slug": "galak_z",
+        "thumb_id": "73eafc5f841f4ef5606bae52f60d59c4903c701b6b4c7820cf94c49385d95fea",
+        "bg_id": "1b6ab6b267e196ed05a9bb597cd68f1ce4c6770de782404a460c7abb49a49fe0",
+        "url": "https://www.gog.com/game/galak_z",
+        "developer": "17-BIT",
+        "publisher": "17-BIT",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1704241455",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_galak_z_2.3.0.6-1.bin",
+                    "size": "1305318504"
+                },
+                {
+                    "name": "setup_galak_z_2.3.0.6.exe",
+                    "size": "27038056"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/60B121EF18",
+                            "link": "https://filecrypt.cc/Container/60B121EF18"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/33A90C2865",
+                            "link": "https://filecrypt.cc/Container/33A90C2865"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A63711F3C3",
+                            "link": "https://filecrypt.cc/Container/A63711F3C3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

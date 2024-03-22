@@ -1,0 +1,68 @@
+{
+    "href": "/game/hypergun",
+    "MSG": {
+        "id": "1231141443",
+        "title": "HYPERGUN",
+        "slug": "hypergun",
+        "thumb_id": "886e56828ae2d67c8138e6274c7b495a5fc2fec07a3064299d458c9dcf52ddbd",
+        "bg_id": "0b9e27f3eaea12f1d3b69fa2bf989bae47d477931ecd0efdbd19c56a46a516a4",
+        "url": "https://www.gog.com/game/hypergun",
+        "developer": "NVYVE® Studios",
+        "publisher": "NVYVE® Studios",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708883061",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hypergun_1.1.0.7_(24156).exe",
+                    "size": "805086552"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8B5003E99D",
+                            "link": "https://filecrypt.cc/Container/8B5003E99D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DCF11F0918",
+                            "link": "https://filecrypt.cc/Container/DCF11F0918"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4E0FD89791",
+                            "link": "https://filecrypt.cc/Container/4E0FD89791"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,57 @@
+{
+    "href": "/game/dawn_of_man",
+    "MSG": {
+        "id": "1899257943",
+        "title": "Dawn of Man",
+        "slug": "dawn_of_man",
+        "thumb_id": "3aa2bb39fed7932a029f0ed2eb1a83559cbe65d6b556ebec524ba58ca52211a0",
+        "bg_id": "c9aaa91213d0ee0087d5c7c41b7a91e957eae7d48059744baab3635ddb038545",
+        "url": "https://www.gog.com/game/dawn_of_man",
+        "developer": "Madruga Works",
+        "publisher": "Madruga Works",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1709331337",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dawnofman_1.8.1_(64bit)_(68674).exe",
+                    "size": "1268997056"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C1E952B54B",
+                            "link": "https://filecrypt.cc/Container/C1E952B54B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0B08CAF330",
+                            "link": "https://filecrypt.cc/Container/0B08CAF330"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

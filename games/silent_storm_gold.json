@@ -1,0 +1,123 @@
+{
+    "href": "/game/silent_storm_gold",
+    "MSG": {
+        "id": "1207659058",
+        "title": "S2: Silent Storm Gold Edition",
+        "slug": "silent_storm_gold",
+        "thumb_id": "b463930a55e9b9799af0c636834f90562c56a49ddae51fbe37b36d06291b0720",
+        "bg_id": "963b6105edd1d405fc0b0491bbb294f26787b6618820eea870b4e614c1822696",
+        "url": "https://www.gog.com/game/silent_storm_gold",
+        "developer": "Nival Interactive ",
+        "publisher": "Nival Interactive",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1709201024",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_silent_storm_gold_2.0.0.7.exe",
+                    "size": "1273659224"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "silent_storm_artworks.zip",
+                    "size": "2363915"
+                },
+                {
+                    "name": "silent_storm_avatars.zip",
+                    "size": "140469"
+                },
+                {
+                    "name": "silent_storm_manual.zip",
+                    "size": "1752958"
+                },
+                {
+                    "name": "silent_storm_ost.zip",
+                    "size": "122880410"
+                },
+                {
+                    "name": "silent_storm_screensaver.zip",
+                    "size": "1744439"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C857E58802",
+                            "link": "https://filecrypt.cc/Container/C857E58802"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F338DD9EF1",
+                            "link": "https://filecrypt.cc/Container/F338DD9EF1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8F924F23AF",
+                            "link": "https://filecrypt.cc/Container/8F924F23AF"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/43A8266164",
+                            "link": "https://filecrypt.cc/Container/43A8266164"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/00C2A1E469",
+                            "link": "https://filecrypt.cc/Container/00C2A1E469"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/32C95CBBB1",
+                            "link": "https://filecrypt.cc/Container/32C95CBBB1"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

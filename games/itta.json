@@ -1,0 +1,101 @@
+{
+    "href": "/game/itta",
+    "MSG": {
+        "id": "1824443868",
+        "title": "ITTA",
+        "slug": "itta",
+        "thumb_id": "73b405d872d38e5af45b0c2ba8d4baf53751750cfc6f1f058a3bd847fbb97040",
+        "bg_id": "cd1f630e22adc853a3aef5ebd19df70661442c4c7b1b92fa568090ca97b71974",
+        "url": "https://www.gog.com/game/itta",
+        "developer": "Glass Revolver",
+        "publisher": "Armor Games Studios",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1701993751",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_itta_itta_gog_ver.1.579_(38057).exe",
+                    "size": "186945216"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/341B74E60D",
+                            "link": "https://filecrypt.cc/Container/341B74E60D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CEFDAA7D36",
+                            "link": "https://filecrypt.cc/Container/CEFDAA7D36"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F82A578B75",
+                            "link": "https://filecrypt.cc/Container/F82A578B75"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E2DDF55055",
+                            "link": "https://filecrypt.cc/Container/E2DDF55055"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0D2E484081",
+                            "link": "https://filecrypt.cc/Container/0D2E484081"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/07D911081B",
+                            "link": "https://filecrypt.cc/Container/07D911081B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

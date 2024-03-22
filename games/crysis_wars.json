@@ -1,0 +1,76 @@
+{
+    "href": "/game/crysis_wars",
+    "MSG": {
+        "id": "2014921890",
+        "title": "Crysis Wars",
+        "slug": "crysis_wars",
+        "thumb_id": "d05c6e1f4e2eaf6edccf0a5c58cf96f774b4d57d7f47e451fcbec1816837bbc7",
+        "bg_id": "e1a9907c44389e29a0ab62e74e3a93a6806cd4b8496e42b8d51669e109a7af70",
+        "url": "https://www.gog.com/game/crysiswarhead",
+        "developer": "Crytek Studios",
+        "publisher": "Electronic Arts",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710503880",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_crysis_wars_2.0.0.3-1.bin",
+                    "size": "4194304000"
+                },
+                {
+                    "name": "setup_crysis_wars_2.0.0.3-2.bin",
+                    "size": "2075049938"
+                },
+                {
+                    "name": "setup_crysis_wars_2.0.0.3.exe",
+                    "size": "27367176"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EC41A3EE51",
+                            "link": "https://filecrypt.cc/Container/EC41A3EE51"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4B8A1F7D98",
+                            "link": "https://filecrypt.cc/Container/4B8A1F7D98"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C2B00E2C1F",
+                            "link": "https://filecrypt.cc/Container/C2B00E2C1F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

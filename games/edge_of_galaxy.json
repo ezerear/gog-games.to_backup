@@ -1,0 +1,79 @@
+{
+    "href": "/game/edge_of_galaxy",
+    "MSG": {
+        "id": "1605272218",
+        "title": "Edge Of Galaxy",
+        "slug": "edge_of_galaxy",
+        "thumb_id": "13008c2e51aa6170402e71ee20450953babf201625aff99e489212cf9602d813",
+        "bg_id": "48a3b6d3f1f9afd8aa0bf7614504cd247aa47da6f4858d815554f1c8d57832f4",
+        "url": "https://www.gog.com/en/game/edge_of_galaxy",
+        "developer": "Kinderril",
+        "publisher": "Meridian4",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1685835602",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_edge_of_galaxy_1.29_(61574).exe",
+                    "size": "265477088"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/146CF39D7E",
+                            "link": "https://filecrypt.cc/Container/146CF39D7E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4FE9C6DDB6",
+                            "link": "https://filecrypt.cc/Container/4FE9C6DDB6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EEC6179D6E",
+                            "link": "https://filecrypt.cc/Container/EEC6179D6E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DE64514672",
+                            "link": "https://filecrypt.cc/Container/DE64514672"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

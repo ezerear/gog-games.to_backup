@@ -1,0 +1,90 @@
+{
+    "href": "/game/mortal_kombat_2",
+    "MSG": {
+        "id": "1207667053",
+        "title": "Mortal Kombat 2",
+        "slug": "mortal_kombat_2",
+        "thumb_id": "68dca4bf4e144bac0d87c7f597df36a3bd7f9ae8c951a768f82c707581d5c295",
+        "bg_id": "12181a74aafd0c11c6846d2e94707cb5df30a8a7b61b94c20a2b151a9615c937",
+        "url": "https://www.gog.com/game/mortal_kombat_123",
+        "developer": "Midway Games",
+        "publisher": "Warner Bros. Interactive Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707818614",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_mortal_kombat2_2.0.0.2.exe",
+                    "size": "21870736"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/14C32C21D3",
+                            "link": "https://filecrypt.cc/Container/14C32C21D3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/17F53F3DB5",
+                            "link": "https://filecrypt.cc/Container/17F53F3DB5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C58F7BDC63",
+                            "link": "https://filecrypt.cc/Container/C58F7BDC63"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8EBDD51B10",
+                            "link": "https://filecrypt.cc/Container/8EBDD51B10"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B376B65BAA",
+                            "link": "https://filecrypt.cc/Container/B376B65BAA"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

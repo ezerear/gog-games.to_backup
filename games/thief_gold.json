@@ -1,0 +1,123 @@
+{
+    "href": "/game/thief_gold",
+    "MSG": {
+        "id": "1207658997",
+        "title": "Thief™ Gold",
+        "slug": "thief_gold",
+        "thumb_id": "ad68a58a4dcc05edbe97edc0370cc4865ba09327cf47a68e47d214c6e4f4a1d4",
+        "bg_id": "0a511e680f92361d0e4104ff1ae826615d78cb537a69a68e7819d29947cab36d",
+        "url": "https://www.gog.com/game/thief_gold",
+        "developer": "Looking Glass Studios",
+        "publisher": "Square Enix",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708994064",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_thief_gold_1.26_nd_(21948).exe",
+                    "size": "797829192"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "thief_avatars.zip",
+                    "size": "42420"
+                },
+                {
+                    "name": "thief_manual.zip",
+                    "size": "651636"
+                },
+                {
+                    "name": "thief_ost.zip",
+                    "size": "126940190"
+                },
+                {
+                    "name": "thief_reference_card.zip",
+                    "size": "471353"
+                },
+                {
+                    "name": "thief_wallpaper.zip",
+                    "size": "1772752"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BCAC3E8F09",
+                            "link": "https://filecrypt.cc/Container/BCAC3E8F09"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7CD55FC4C2",
+                            "link": "https://filecrypt.cc/Container/7CD55FC4C2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4B23322174",
+                            "link": "https://filecrypt.cc/Container/4B23322174"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9BF1960BFE",
+                            "link": "https://filecrypt.cc/Container/9BF1960BFE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5AF3558CD6",
+                            "link": "https://filecrypt.cc/Container/5AF3558CD6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ACF1F29E0A",
+                            "link": "https://filecrypt.cc/Container/ACF1F29E0A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

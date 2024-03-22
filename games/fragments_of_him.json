@@ -1,0 +1,94 @@
+{
+    "href": "/game/fragments_of_him",
+    "MSG": {
+        "id": "1353780715",
+        "title": "Fragments of Him",
+        "slug": "fragments_of_him",
+        "thumb_id": "7ad0d9c2d0333c01c885494fb0d67a4a97da5cec025ec285c595664f38b64d70",
+        "bg_id": "c9292ce62b99011f7e58f2a27308a6850e0aa7147943c60a662a7046d423269d",
+        "url": "https://www.gog.com/game/fragments_of_him",
+        "developer": "Sassybot",
+        "publisher": "Sassybot",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1706849731",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_fragments_of_him_1.22_(47963)-1.bin",
+                    "size": "2580074464"
+                },
+                {
+                    "name": "setup_fragments_of_him_1.22_(47963).exe",
+                    "size": "995608"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B79D993D8E",
+                            "link": "https://filecrypt.cc/Container/B79D993D8E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F1840EFD5A",
+                            "link": "https://filecrypt.cc/Container/F1840EFD5A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7557C473EC",
+                            "link": "https://filecrypt.cc/Container/7557C473EC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D8DAE37267",
+                            "link": "https://filecrypt.cc/Container/D8DAE37267"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/73679DE087",
+                            "link": "https://filecrypt.cc/Container/73679DE087"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

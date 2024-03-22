@@ -1,0 +1,80 @@
+{
+    "href": "/game/primitive_hearts",
+    "MSG": {
+        "id": "1658248214",
+        "title": "PRIMITIVE HEARTS",
+        "slug": "primitive_hearts",
+        "thumb_id": "e24b1469ff0f3767b86ec7ea1ae3f539b1dcdd5546ff1e95bd533c8beac5a318",
+        "bg_id": "9ccbc1d423732ed6b03e5ba60212e5a6ee49f69fca6f88c2cc61e36340c7d587",
+        "url": "https://www.gog.com/en/game/primitive_hearts",
+        "developer": "DOPPELGESICHT",
+        "publisher": "Kagura Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1688712157",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_primitive_hearts_unrated_v4_(en_1.02_cn_1.02)_(62665)-1.bin",
+                    "size": "1193006329"
+                },
+                {
+                    "name": "setup_primitive_hearts_unrated_v4_(en_1.02_cn_1.02)_(62665).exe",
+                    "size": "1302968"
+                },
+                {
+                    "name": "setup_primitive_hearts_v4_(en_1.02_cn_1.02)_(62665)-1.bin",
+                    "size": "883017166"
+                },
+                {
+                    "name": "setup_primitive_hearts_v4_(en_1.02_cn_1.02)_(62665).exe",
+                    "size": "1180840"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FA1CD2D918",
+                            "link": "https://filecrypt.cc/Container/FA1CD2D918"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/19B310BB37",
+                            "link": "https://filecrypt.cc/Container/19B310BB37"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9052A265F4",
+                            "link": "https://filecrypt.cc/Container/9052A265F4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/bio_menace",
+    "MSG": {
+        "id": "1449569170",
+        "title": "Bio Menace",
+        "slug": "bio_menace",
+        "thumb_id": "2d0cd253f7d22db29fd4c2e411f5ef39c9347771b58f385158a8ac58f198560d",
+        "bg_id": "b9c6ff24b9ff090f13e7ce6d34163f39c071e52b013933c2181e5fcc854629da",
+        "url": "https://www.gog.com/game/bio_menace",
+        "developer": "Apogee Software, Ltd.",
+        "publisher": "3D Realms",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1708512452",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_bio_menace_1.1_(28043).exe",
+                    "size": "14322888"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3F599A58C6",
+                            "link": "https://filecrypt.cc/Container/3F599A58C6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7110FE4BFA",
+                            "link": "https://filecrypt.cc/Container/7110FE4BFA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B54EA40DE4",
+                            "link": "https://filecrypt.cc/Container/B54EA40DE4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

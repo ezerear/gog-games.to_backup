@@ -1,0 +1,90 @@
+{
+    "href": "/game/truxton",
+    "MSG": {
+        "id": "2146267352",
+        "title": "Truxton",
+        "slug": "truxton",
+        "thumb_id": "a86abd13e5ecb7f1af28e74683bcfd929821eb0a8ae052e5eca3a1c485d11a8c",
+        "bg_id": "acf71397f7230ff0c4539e7374e35cf3f6b53f5b772904e270c5c999ec8c4b01",
+        "url": "https://www.gog.com/en/game/truxton",
+        "developer": "Bitwave Games",
+        "publisher": "Bitwave Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707882147",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_truxton_34_(64bit)_(71080).exe",
+                    "size": "12419080"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BE980CAB00",
+                            "link": "https://filecrypt.cc/Container/BE980CAB00"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E859121438",
+                            "link": "https://filecrypt.cc/Container/E859121438"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DB7E779A61",
+                            "link": "https://filecrypt.cc/Container/DB7E779A61"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B401EB5625",
+                            "link": "https://filecrypt.cc/Container/B401EB5625"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3D1A37FCB4",
+                            "link": "https://filecrypt.cc/Container/3D1A37FCB4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

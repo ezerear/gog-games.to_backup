@@ -1,0 +1,61 @@
+{
+    "href": "/game/doom_3_bfg_edition_game",
+    "MSG": {
+        "id": "1135892318",
+        "title": "Doom 3: BFG Edition",
+        "slug": "doom_3_bfg_edition_game",
+        "thumb_id": "7d4e446447a56f19775120ea16fea67dc184394b908149c441fbbc6021e12970",
+        "bg_id": "f69b5ee31cda273579f6a0fbf332b870ff834a17c5783aadcaff8314182a7553",
+        "url": "https://www.gog.com/game/doom_3_bfg_edition",
+        "developer": "id Software",
+        "publisher": "Bethesda Softworks LLC",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1708651913",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_doom_3_bfg_1.14_(13452)-1.bin",
+                    "size": "4221511962"
+                },
+                {
+                    "name": "setup_doom_3_bfg_1.14_(13452).exe",
+                    "size": "759824"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BC61C21CC7",
+                            "link": "https://filecrypt.cc/Container/BC61C21CC7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/64EA3E172E",
+                            "link": "https://filecrypt.cc/Container/64EA3E172E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

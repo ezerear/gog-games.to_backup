@@ -1,0 +1,79 @@
+{
+    "href": "/game/bibots",
+    "MSG": {
+        "id": "1354261689",
+        "title": "Bibots",
+        "slug": "bibots",
+        "thumb_id": "d4423dbf10d2210974eec849ccad39d78c4b805ed0cc18e2fa8143a1d6ee5bb1",
+        "bg_id": "ed8019e7c310c7271e7bf3d8767bb36dd2be946a39d4cd5d40bcc390311f1828",
+        "url": "https://www.gog.com/game/bibots",
+        "developer": "Square Squid",
+        "publisher": "PID Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1702131425",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_bibots_bibots_version_1.052_(60112).exe",
+                    "size": "891229688"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F7DCACB70D",
+                            "link": "https://filecrypt.cc/Container/F7DCACB70D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6E61CF1ABA",
+                            "link": "https://filecrypt.cc/Container/6E61CF1ABA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4F809F5B55",
+                            "link": "https://filecrypt.cc/Container/4F809F5B55"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/88B0CFBE7E",
+                            "link": "https://filecrypt.cc/Container/88B0CFBE7E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,93 @@
+{
+    "href": "/game/tribal_hunter",
+    "MSG": {
+        "id": "1788680213",
+        "title": "Tribal Hunter",
+        "slug": "tribal_hunter",
+        "thumb_id": "61d734a6054fcc8ea8e53ccd66d79d4525a1239b2bc4ba1b608e55d8403a7f53",
+        "bg_id": "e406411e40df8502ac6874a778251ea6620fc8247417287f4d00b9071a286552",
+        "url": "https://www.gog.com/en/game/tribal_hunter",
+        "developer": "Melonsoda Soft",
+        "publisher": "Melonsoda Soft",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710121117",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tribal_hunter_1.0.1.8_(71544).exe",
+                    "size": "729318848"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "tribal_hunter_artbook.zip",
+                    "size": "47283366"
+                },
+                {
+                    "name": "tribal_hunter_soundtrack_mp3.zip",
+                    "size": "330656949"
+                },
+                {
+                    "name": "tribal_hunter_tutorial_cartoon.zip",
+                    "size": "11057988"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4E628B153B",
+                            "link": "https://filecrypt.cc/Container/4E628B153B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2D34574F4B",
+                            "link": "https://filecrypt.cc/Container/2D34574F4B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/203B439BA7",
+                            "link": "https://filecrypt.cc/Container/203B439BA7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/941A2F2371",
+                            "link": "https://filecrypt.cc/Container/941A2F2371"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,94 @@
+{
+    "href": "/game/angerforce_reloaded",
+    "MSG": {
+        "id": "1924930564",
+        "title": "AngerForce: Reloaded",
+        "slug": "angerforce_reloaded",
+        "thumb_id": "d38f2ce0dbff62cd91bad98f991102ca0d818d2c036f2a30a73169b7374db748",
+        "bg_id": "e4a87893ededcdbecf0601345a7a45b2b5a16d36695dcca46edc32a048a2eef1",
+        "url": "https://www.gog.com/game/angerforce_reloaded",
+        "developer": "Screambox Studio",
+        "publisher": " Zodiac Interactive",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1698183004",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_angerforce_reloaded_1.0_(32073)-1.bin",
+                    "size": "2612586008"
+                },
+                {
+                    "name": "setup_angerforce_reloaded_1.0_(32073).exe",
+                    "size": "877472"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6CBDF3C909",
+                            "link": "https://filecrypt.cc/Container/6CBDF3C909"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DAC8042771",
+                            "link": "https://filecrypt.cc/Container/DAC8042771"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3458C52763",
+                            "link": "https://filecrypt.cc/Container/3458C52763"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/39A1DD3217",
+                            "link": "https://filecrypt.cc/Container/39A1DD3217"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/75589497D9",
+                            "link": "https://filecrypt.cc/Container/75589497D9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

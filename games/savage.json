@@ -1,0 +1,90 @@
+{
+    "href": "/game/savage",
+    "MSG": {
+        "id": "1737559136",
+        "title": "Savage",
+        "slug": "savage",
+        "thumb_id": "d8c4b830fb26e426625ce2b1c3cb60bee6a952bd7815424c15fabc034824b53f",
+        "bg_id": "6de8feb587ea328fccbee42621b934c70e15fcbc7f08bfdd946e35d13f7c6118",
+        "url": "https://www.gog.com/en/game/savage",
+        "developer": "Image Works",
+        "publisher": "Mirrorsoft",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1706756595",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_savage_v1.0_(60286).exe",
+                    "size": "9853320"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0E8B2361DA",
+                            "link": "https://filecrypt.cc/Container/0E8B2361DA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B1993A1DD5",
+                            "link": "https://filecrypt.cc/Container/B1993A1DD5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DFB81DA3AC",
+                            "link": "https://filecrypt.cc/Container/DFB81DA3AC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A3A3120217",
+                            "link": "https://filecrypt.cc/Container/A3A3120217"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BF616FD866",
+                            "link": "https://filecrypt.cc/Container/BF616FD866"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

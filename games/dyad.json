@@ -1,0 +1,85 @@
+{
+    "href": "/game/dyad",
+    "MSG": {
+        "id": "1207659213",
+        "title": "Dyad",
+        "slug": "dyad",
+        "thumb_id": "ba37f61f554ca119dca27e31dc1a124c6c4a17588fb9935f480bdf281eca5041",
+        "bg_id": "f625e6605e091e76d34bc8af08b9e93d1ab466eb49a6a3078f632d502f001e3d",
+        "url": "https://web.archive.org/web/20150703161401/http://www.gog.com/game/dyad",
+        "developer": "][ Games Inc",
+        "publisher": "][ Games Inc",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710150279",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dyad_1.0_(21109).exe",
+                    "size": "1169120648"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "dydad_sample_ost.zip",
+                    "size": "5953631"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/55C1EF3BFA",
+                            "link": "https://filecrypt.cc/Container/55C1EF3BFA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/825678778F",
+                            "link": "https://filecrypt.cc/Container/825678778F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C7611EFF58",
+                            "link": "https://filecrypt.cc/Container/C7611EFF58"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C8925CD04E",
+                            "link": "https://filecrypt.cc/Container/C8925CD04E"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

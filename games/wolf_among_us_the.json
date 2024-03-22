@@ -1,0 +1,76 @@
+{
+    "href": "/game/wolf_among_us_the",
+    "MSG": {
+        "id": "1432213513",
+        "title": "The Wolf Among Us",
+        "slug": "wolf_among_us_the",
+        "thumb_id": "96b43bf80a3c9c65b7a2b98545b11406fd405cd37c3d488a5305f5f2ba0a3676",
+        "bg_id": "97263d9a6e0bf0549afa95a4eeca403c9ac99e72dbf31bc8f4799c260f95a303",
+        "url": "https://www.gog.com/game/wolf_among_us_the",
+        "developer": "Telltale Games",
+        "publisher": "Telltale Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709586260",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_wolf_among_us_1.0_(17820)-1.bin",
+                    "size": "4294232062"
+                },
+                {
+                    "name": "setup_the_wolf_among_us_1.0_(17820)-2.bin",
+                    "size": "851087521"
+                },
+                {
+                    "name": "setup_the_wolf_among_us_1.0_(17820).exe",
+                    "size": "742408"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F3630D450B",
+                            "link": "https://filecrypt.cc/Container/F3630D450B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5B53228A4E",
+                            "link": "https://filecrypt.cc/Container/5B53228A4E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/78AC0C9FCB",
+                            "link": "https://filecrypt.cc/Container/78AC0C9FCB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

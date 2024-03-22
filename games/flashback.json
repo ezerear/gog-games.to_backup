@@ -1,0 +1,90 @@
+{
+    "href": "/game/flashback",
+    "MSG": {
+        "id": "1486529526",
+        "title": "Flashback™",
+        "slug": "flashback",
+        "thumb_id": "cfbb26f44012638c90b9649bda0359292cca1e04dd889b862614c232384eacfa",
+        "bg_id": "62b797928d09ff1a6005f79088347d15a1fed37ebda7dad3572924bd671f5cf5",
+        "url": "https://www.gog.com/game/flashback",
+        "developer": "Paul Cuisset",
+        "publisher": "Anuman Interactive",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1705152105",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_flashbacktm_1.0.0_(25550).exe",
+                    "size": "176420496"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/132A605E7F",
+                            "link": "https://filecrypt.cc/Container/132A605E7F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/260573EB18",
+                            "link": "https://filecrypt.cc/Container/260573EB18"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9714A98E72",
+                            "link": "https://filecrypt.cc/Container/9714A98E72"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1FCC1C586E",
+                            "link": "https://filecrypt.cc/Container/1FCC1C586E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A27B31D715",
+                            "link": "https://filecrypt.cc/Container/A27B31D715"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

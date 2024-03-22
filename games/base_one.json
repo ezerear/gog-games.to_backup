@@ -1,0 +1,76 @@
+{
+    "href": "/game/base_one",
+    "MSG": {
+        "id": "1879726525",
+        "title": "Base One",
+        "slug": "base_one",
+        "thumb_id": "88b14989964235eb2cb31a7dc8b8df3a4ed777d686ed8236d516465e5f7f920b",
+        "bg_id": "c0c30b65b2257af12ac90eaac753a33d81491d56cb4c41fb017e043a8fe3c6a5",
+        "url": "https://www.gog.com/game/base_one",
+        "developer": "Pixfroze",
+        "publisher": "Blowfish Studios",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1704062093",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_baseone_release_1.4.0.8_e41965c41_(53424)-1.bin",
+                    "size": "4294073854"
+                },
+                {
+                    "name": "setup_baseone_release_1.4.0.8_e41965c41_(53424)-2.bin",
+                    "size": "1934495177"
+                },
+                {
+                    "name": "setup_baseone_release_1.4.0.8_e41965c41_(53424).exe",
+                    "size": "899776"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4F9A4E8EAD",
+                            "link": "https://filecrypt.cc/Container/4F9A4E8EAD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FB34E3CFBF",
+                            "link": "https://filecrypt.cc/Container/FB34E3CFBF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E6F8F0592C",
+                            "link": "https://filecrypt.cc/Container/E6F8F0592C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

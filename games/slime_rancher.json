@@ -1,0 +1,111 @@
+{
+    "href": "/game/slime_rancher",
+    "MSG": {
+        "id": "1459259227",
+        "title": "Slime Rancher",
+        "slug": "slime_rancher",
+        "thumb_id": "7b379c67f964c72ce151226fbc3d5a5dcabfde89575a338996b0da82b19c0a78",
+        "bg_id": "97a7c909dd48568c26529d6113c64f3d500a01e9fff9034b2f02efe98ec98f1c",
+        "url": "https://www.gog.com/game/slime_rancher",
+        "developer": "Monomi Park",
+        "publisher": "Monomi Park",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710492848",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_slime_rancher_1.4.4-win_(64bit)_(51882).exe",
+                    "size": "650396136"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "slime_rancher_avatars.zip",
+                    "size": "381095"
+                },
+                {
+                    "name": "slime_rancher_wallpaper.zip",
+                    "size": "3486444"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2BEA5ECE3D",
+                            "link": "https://filecrypt.cc/Container/2BEA5ECE3D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0EE69E21BE",
+                            "link": "https://filecrypt.cc/Container/0EE69E21BE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/71C94CE1D2",
+                            "link": "https://filecrypt.cc/Container/71C94CE1D2"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5D448DF455",
+                            "link": "https://filecrypt.cc/Container/5D448DF455"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/478D7A1135",
+                            "link": "https://filecrypt.cc/Container/478D7A1135"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/550C0C5222",
+                            "link": "https://filecrypt.cc/Container/550C0C5222"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

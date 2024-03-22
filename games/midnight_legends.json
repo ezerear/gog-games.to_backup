@@ -1,0 +1,83 @@
+{
+    "href": "/game/midnight_legends",
+    "MSG": {
+        "id": "1599646646",
+        "title": "Midnight Legends",
+        "slug": "midnight_legends",
+        "thumb_id": "913f2003a86789e1d386d06f200cd0515d7cbceda19db21310c6065a531ef486",
+        "bg_id": "29019c58163d08e8f33bfded6d394c484df0dca6cb505d51e64bf1e8960bcdbb",
+        "url": "https://www.gog.com/en/game/midnight_legends",
+        "developer": "Mihanikus Games",
+        "publisher": "Mihanikus Games",
+        "category": "Racing",
+        "uploading": "0",
+        "last_upload": "1691653337",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_midnight_legends_1.0_(58642)-1.bin",
+                    "size": "3177778593"
+                },
+                {
+                    "name": "setup_midnight_legends_1.0_(58642).exe",
+                    "size": "1744856"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FB1754C163",
+                            "link": "https://filecrypt.cc/Container/FB1754C163"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/22B2BDD3D2",
+                            "link": "https://filecrypt.cc/Container/22B2BDD3D2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/24EE876188",
+                            "link": "https://filecrypt.cc/Container/24EE876188"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C5251B8588",
+                            "link": "https://filecrypt.cc/Container/C5251B8588"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

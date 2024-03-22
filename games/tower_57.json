@@ -1,0 +1,79 @@
+{
+    "href": "/game/tower_57",
+    "MSG": {
+        "id": "1823963095",
+        "title": "Tower 57",
+        "slug": "tower_57",
+        "thumb_id": "70be499d30f691530881a893a1827cff02758ad11fdaa03bbd66169cb5471709",
+        "bg_id": "45989e33abaf730f133f2715aafb88593fafe2d74e3905d2c813480a6f7f4499",
+        "url": "https://www.gog.com/game/tower_57",
+        "developer": "Pixwerk",
+        "publisher": "11 bit studios",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1708059240",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tower_57_21.19_(22473).exe",
+                    "size": "243053912"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/472D3F6CB1",
+                            "link": "https://filecrypt.cc/Container/472D3F6CB1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DB3FE93921",
+                            "link": "https://filecrypt.cc/Container/DB3FE93921"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2F1BB43BC3",
+                            "link": "https://filecrypt.cc/Container/2F1BB43BC3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C5ACA5E992",
+                            "link": "https://filecrypt.cc/Container/C5ACA5E992"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

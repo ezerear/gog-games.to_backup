@@ -1,0 +1,68 @@
+{
+    "href": "/game/exapunks",
+    "MSG": {
+        "id": "2070729622",
+        "title": "EXAPUNKS",
+        "slug": "exapunks",
+        "thumb_id": "2a6029c976f582e71ca7ee811bf68d97daae16d0a056de4641a1c4e47702eb0b",
+        "bg_id": "c8ff34a1a1e12cf2b6e9d0d93bc909f63de98aba93488c976b67817710d009e9",
+        "url": "https://www.gog.com/game/exapunks",
+        "developer": "Zachtronics",
+        "publisher": "Zachtronics",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710354188",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_exapunks_gog-26.03.2023_(63464).exe",
+                    "size": "597375440"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0328BEA803",
+                            "link": "https://filecrypt.cc/Container/0328BEA803"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9B6270D8B2",
+                            "link": "https://filecrypt.cc/Container/9B6270D8B2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A75225F6F0",
+                            "link": "https://filecrypt.cc/Container/A75225F6F0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

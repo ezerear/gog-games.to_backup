@@ -1,0 +1,72 @@
+{
+    "href": "/game/bright_memory",
+    "MSG": {
+        "id": "1394309375",
+        "title": "Bright Memory",
+        "slug": "bright_memory",
+        "thumb_id": "1912979a6d82a1b57e77596b607f359cdf4985ac211823be03c4ca3e8a47ace1",
+        "bg_id": "c814a174848f0a963e8cca1897120cfa728aff44d9329a09c16969cc77f3aa87",
+        "url": "https://www.gog.com/game/bright_memory",
+        "developer": " FYQD-Studio",
+        "publisher": " FYQD-Studio",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708478318",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_bright_memory_1.0.0.2_(51416)-1.bin",
+                    "size": "4118516741"
+                },
+                {
+                    "name": "setup_bright_memory_1.0.0.2_(51416).exe",
+                    "size": "828936"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/73F3F88B90",
+                            "link": "https://filecrypt.cc/Container/73F3F88B90"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/636B52DB27",
+                            "link": "https://filecrypt.cc/Container/636B52DB27"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/61C89DDC45",
+                            "link": "https://filecrypt.cc/Container/61C89DDC45"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,76 @@
+{
+    "href": "/game/occupy_mars_the_game",
+    "MSG": {
+        "id": "1857547443",
+        "title": "Occupy Mars The Game",
+        "slug": "occupy_mars_the_game",
+        "thumb_id": "45cc3d392cfa987c8eedb01dd46951631b7d1879b6710837d18579bf094a1621",
+        "bg_id": "5e1c29675beeeff94f9b1a724a8a17dfd4112c52fa8cf2680b849414997dd365",
+        "url": "https://www.gog.com/game/occupy_mars_the_game",
+        "developer": "Pyramid Games",
+        "publisher": "Pyramid Games S.A.",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1708479037",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_occupy_mars_the_game_0.142.8_(64bit)_(69298)-1.bin",
+                    "size": "4293971454"
+                },
+                {
+                    "name": "setup_occupy_mars_the_game_0.142.8_(64bit)_(69298)-2.bin",
+                    "size": "1001172775"
+                },
+                {
+                    "name": "setup_occupy_mars_the_game_0.142.8_(64bit)_(69298).exe",
+                    "size": "1005720"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2B35D9CB35",
+                            "link": "https://filecrypt.cc/Container/2B35D9CB35"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0995AEB7BB",
+                            "link": "https://filecrypt.cc/Container/0995AEB7BB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7680B0EA0D",
+                            "link": "https://filecrypt.cc/Container/7680B0EA0D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

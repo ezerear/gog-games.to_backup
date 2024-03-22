@@ -1,0 +1,68 @@
+{
+    "href": "/game/blazing_chrome",
+    "MSG": {
+        "id": "1725796924",
+        "title": "Blazing Chrome",
+        "slug": "blazing_chrome",
+        "thumb_id": "a7264a09a83a98bb70ec777a40d8cc012b7dbb3d86ba136796755c7372837b02",
+        "bg_id": "37f7cf1356a95f63e67d2128b879006e87bc0fe2d736c495aa9b5ec304b98d8b",
+        "url": "https://www.gog.com/game/blazing_chrome",
+        "developer": "JoyMasher",
+        "publisher": "The Arcade Crew",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710450603",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_blazing_chrome_0.0.7.a_(32006).exe",
+                    "size": "83088128"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A9F19C38D9",
+                            "link": "https://filecrypt.cc/Container/A9F19C38D9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4224FDD6E3",
+                            "link": "https://filecrypt.cc/Container/4224FDD6E3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BEC7622FBB",
+                            "link": "https://filecrypt.cc/Container/BEC7622FBB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

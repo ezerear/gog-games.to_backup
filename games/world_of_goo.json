@@ -1,0 +1,111 @@
+{
+    "href": "/game/world_of_goo",
+    "MSG": {
+        "id": "1421855536",
+        "title": "World of Goo",
+        "slug": "world_of_goo",
+        "thumb_id": "fddb2b2639c4d4f7900f2626bc1da3f3e2cbd9c0ca704bc29b2e9c2cbebdd634",
+        "bg_id": "f3bbbbf38e44ee04642a40460835b700f008cb50864b4fb5b06ec67d9c5e36e2",
+        "url": "https://www.gog.com/game/world_of_goo",
+        "developer": "2D BOY",
+        "publisher": "2D BOY",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1708733662",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_world_of_goo_1.53(a)_(29822)-1.bin",
+                    "size": "195553527"
+                },
+                {
+                    "name": "setup_world_of_goo_1.53(a)_(29822).exe",
+                    "size": "1300088"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "world_of_goo_wallpapers.zip",
+                    "size": "2209266"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/83262E238C",
+                            "link": "https://filecrypt.cc/Container/83262E238C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FF390F73FF",
+                            "link": "https://filecrypt.cc/Container/FF390F73FF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/23AB25901E",
+                            "link": "https://filecrypt.cc/Container/23AB25901E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8B1705E332",
+                            "link": "https://filecrypt.cc/Container/8B1705E332"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FCC3C035F7",
+                            "link": "https://filecrypt.cc/Container/FCC3C035F7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3DF5371B8A",
+                            "link": "https://filecrypt.cc/Container/3DF5371B8A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

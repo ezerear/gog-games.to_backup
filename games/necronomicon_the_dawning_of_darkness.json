@@ -1,0 +1,83 @@
+{
+    "href": "/game/necronomicon_the_dawning_of_darkness",
+    "MSG": {
+        "id": "1606010486",
+        "title": "Necronomicon: The Dawning of Darkness",
+        "slug": "necronomicon_the_dawning_of_darkness",
+        "thumb_id": "543ad6f206e59271e2f0064bfd4f32a089e4a1d84bf924062ffe36845e5cb80d",
+        "bg_id": "09ca80461fc9498ba9afb594fef8b5bdc21864316396ee48ebe3f1c25d19e954",
+        "url": "https://www.gog.com/en/game/necronomicon_the_dawning_of_darkness",
+        "developer": "Cryo Interactive",
+        "publisher": "Microids",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1684283135",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_necronomicon_the_dawning_of_darkness_1.26_(57244)-1.bin",
+                    "size": "1193907588"
+                },
+                {
+                    "name": "setup_necronomicon_the_dawning_of_darkness_1.26_(57244).exe",
+                    "size": "1251040"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4EACE5EC8E",
+                            "link": "https://filecrypt.cc/Container/4EACE5EC8E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ED5CD8FB72",
+                            "link": "https://filecrypt.cc/Container/ED5CD8FB72"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0887A80E44",
+                            "link": "https://filecrypt.cc/Container/0887A80E44"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FE63EBE852",
+                            "link": "https://filecrypt.cc/Container/FE63EBE852"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

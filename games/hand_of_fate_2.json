@@ -1,0 +1,95 @@
+{
+    "href": "/game/hand_of_fate_2",
+    "MSG": {
+        "id": "1819469826",
+        "title": "Hand of Fate 2",
+        "slug": "hand_of_fate_2",
+        "thumb_id": "52fc717228a2ed4a38974db33aa807816fdb5dc171bc3cef8eaf67df88059d82",
+        "bg_id": "3b37b185917ddf79e20e646498aa9c4b12e362fabf14157b58bbf1820c91dd12",
+        "url": "https://www.gog.com/game/hand_of_fate_2",
+        "developer": "Defiant Development",
+        "publisher": "Defiant Development",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1707841922",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hand_of_fate_2_1.9.8_(32363)-1.bin",
+                    "size": "4127440868"
+                },
+                {
+                    "name": "setup_hand_of_fate_2_1.9.8_(32363).exe",
+                    "size": "1027072"
+                },
+                {
+                    "name": "setup_hand_of_fate_2_a_cold_hearth_1.9.8_(32363).exe",
+                    "size": "7309200"
+                },
+                {
+                    "name": "setup_hand_of_fate_2_outlands_and_outsiders_1.9.8_(32363).exe",
+                    "size": "6856864"
+                },
+                {
+                    "name": "setup_hand_of_fate_2_the_servant_and_the_beast_1.9.8_(32363).exe",
+                    "size": "7162736"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ABFA8A41CF",
+                            "link": "https://filecrypt.cc/Container/ABFA8A41CF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4321C991AE",
+                            "link": "https://filecrypt.cc/Container/4321C991AE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7E0365E26C",
+                            "link": "https://filecrypt.cc/Container/7E0365E26C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7457E0A63B",
+                            "link": "https://filecrypt.cc/Container/7457E0A63B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

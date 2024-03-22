@@ -1,0 +1,68 @@
+{
+    "href": "/game/lil_guardsman",
+    "MSG": {
+        "id": "1664513602",
+        "title": "Lil' Guardsman",
+        "slug": "lil_guardsman",
+        "thumb_id": "cadc400f84699b42103fb60408c07f8cd22abab4f093cc8a408b2e1fee8fa9c2",
+        "bg_id": "6c95b1b254c3e6bd193dbea9496e44168bb7f1d0570fd83aae1b0c4c4b31c89e",
+        "url": "https://www.gog.com/en/game/lil_guardsman",
+        "developer": "Hilltop Studios",
+        "publisher": "Versus Evil",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708452917",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_lil_guardsman_1.0.5.2_(64bit)_(69569).exe",
+                    "size": "919290968"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7222CECB9D",
+                            "link": "https://filecrypt.cc/Container/7222CECB9D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5EE7B8F6CE",
+                            "link": "https://filecrypt.cc/Container/5EE7B8F6CE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F944046E5A",
+                            "link": "https://filecrypt.cc/Container/F944046E5A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

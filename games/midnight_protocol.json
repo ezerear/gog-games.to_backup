@@ -1,0 +1,68 @@
+{
+    "href": "/game/midnight_protocol",
+    "MSG": {
+        "id": "1691217616",
+        "title": "Midnight Protocol",
+        "slug": "midnight_protocol",
+        "thumb_id": "dafb0053fcb377bf80c748e233a9a39e9ca8235d6e08b5973b861f7504a13151",
+        "bg_id": "a95bf5433be65b943c09470b13875220a02cafa03b562303792ccab0bd013962",
+        "url": "https://www.gog.com/game/midnight_protocol",
+        "developer": "LuGus Studios",
+        "publisher": "Iceberg Interactive",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1707999799",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_midnight_protocol_1.3.1_(64bit)_(57689).exe",
+                    "size": "712293704"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/74025F821C",
+                            "link": "https://filecrypt.cc/Container/74025F821C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F147B961F6",
+                            "link": "https://filecrypt.cc/Container/F147B961F6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A2EF44606F",
+                            "link": "https://filecrypt.cc/Container/A2EF44606F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

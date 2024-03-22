@@ -1,0 +1,84 @@
+{
+    "href": "/game/destroy_all_humans_clone_carnage",
+    "MSG": {
+        "id": "1159146122",
+        "title": "Destroy All Humans! Clone Carnage",
+        "slug": "destroy_all_humans_clone_carnage",
+        "thumb_id": "f754949194b349a717f2c02085acb27105fd2548813b910900ee4e10071adc32",
+        "bg_id": "6b6310f14bd3af4189595023244dd34add6857a145bda441b0297c199309feb9",
+        "url": "https://www.gog.com/en/game/destroy_all_humans_clone_carnage",
+        "developer": "THQ Nordic GmbH",
+        "publisher": "THQ Nordic GmbH",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709339392",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_destroy_all_humans_clone_carnage_1.0a_(56216)-1.bin",
+                    "size": "4294019070"
+                },
+                {
+                    "name": "setup_destroy_all_humans_clone_carnage_1.0a_(56216)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_destroy_all_humans_clone_carnage_1.0a_(56216)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_destroy_all_humans_clone_carnage_1.0a_(56216)-4.bin",
+                    "size": "1870291159"
+                },
+                {
+                    "name": "setup_destroy_all_humans_clone_carnage_1.0a_(56216).exe",
+                    "size": "956752"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F90227327C",
+                            "link": "https://filecrypt.cc/Container/F90227327C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/746C892764",
+                            "link": "https://filecrypt.cc/Container/746C892764"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3CA65C9187",
+                            "link": "https://filecrypt.cc/Container/3CA65C9187"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

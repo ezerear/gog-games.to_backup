@@ -1,0 +1,94 @@
+{
+    "href": "/game/spellcaster_university",
+    "MSG": {
+        "id": "1178128112",
+        "title": "Spellcaster University",
+        "slug": "spellcaster_university",
+        "thumb_id": "a23271a10878f924f1ad7fb1639e14a441c1a54d918ca4cf4db0e9fc246a7ca3",
+        "bg_id": "eb612681e01aed387c5e70e9eb0182c67d4a59f80946451a358d3c178353813f",
+        "url": "https://www.gog.com/game/spellcaster_university",
+        "developer": "Sneaky Yak Studio",
+        "publisher": "Sneaky Yak Studio",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1706765867",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_spellcaster_university_1.04_(64bit)_(65526)-1.bin",
+                    "size": "1992784502"
+                },
+                {
+                    "name": "setup_spellcaster_university_1.04_(64bit)_(65526).exe",
+                    "size": "887952"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E172EDEC7D",
+                            "link": "https://filecrypt.cc/Container/E172EDEC7D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A2D4894E47",
+                            "link": "https://filecrypt.cc/Container/A2D4894E47"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0E0C0D0A99",
+                            "link": "https://filecrypt.cc/Container/0E0C0D0A99"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/97ECF13BBD",
+                            "link": "https://filecrypt.cc/Container/97ECF13BBD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0E05D30884",
+                            "link": "https://filecrypt.cc/Container/0E05D30884"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

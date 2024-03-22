@@ -1,0 +1,80 @@
+{
+    "href": "/game/lego_batman_3_beyond_gotham",
+    "MSG": {
+        "id": "1597568554",
+        "title": "LEGO® Batman™ 3: Beyond Gotham",
+        "slug": "lego_batman_3_beyond_gotham",
+        "thumb_id": "e8ce78fa0624ad00417d6397380283e5541f6413e2bfd93262c293c4f835f845",
+        "bg_id": "b568d590a97510acab6842f7d62aaf4fc873dd9e48f7e7bbb7af50c396a9976d",
+        "url": "https://www.gog.com/game/lego_batman_3_beyond_gotham",
+        "developer": "TT Games",
+        "publisher": "WB Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708508060",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_lego_batmantm_3_beyond_gotham_1.6_(37309)-1.bin",
+                    "size": "4294079998"
+                },
+                {
+                    "name": "setup_lego_batmantm_3_beyond_gotham_1.6_(37309)-2.bin",
+                    "size": "3300393040"
+                },
+                {
+                    "name": "setup_lego_batmantm_3_beyond_gotham_1.6_(37309).exe",
+                    "size": "894296"
+                },
+                {
+                    "name": "setup_lego_batman_3_beyond_gotham_season_pass_1.6_(37309).exe",
+                    "size": "897247728"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4D0727E215",
+                            "link": "https://filecrypt.cc/Container/4D0727E215"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AEC57FB4F6",
+                            "link": "https://filecrypt.cc/Container/AEC57FB4F6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EFB24A6C5B",
+                            "link": "https://filecrypt.cc/Container/EFB24A6C5B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

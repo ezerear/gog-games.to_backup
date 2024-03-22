@@ -1,0 +1,83 @@
+{
+    "href": "/game/flat_eye",
+    "MSG": {
+        "id": "1155745275",
+        "title": "Flat Eye",
+        "slug": "flat_eye",
+        "thumb_id": "87bc4ffa5aee0d6a3ecc5a0cdf3a0fabbb6275faf090d34b6570fa7ba3c6d88c",
+        "bg_id": "7554c187187f9afa3d90bd84be4f9bbaf06c5be694b66e767ff4f56abca1b30d",
+        "url": "https://www.gog.com/en/game/flat_eye",
+        "developer": "Monkey Moon",
+        "publisher": "Raw Fury",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1684351120",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_flat_eye_1.2.1_v2_(61623)-1.bin",
+                    "size": "3516276582"
+                },
+                {
+                    "name": "setup_flat_eye_1.2.1_v2_(61623).exe",
+                    "size": "878344"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A4C34882BB",
+                            "link": "https://filecrypt.cc/Container/A4C34882BB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/780DC9A512",
+                            "link": "https://filecrypt.cc/Container/780DC9A512"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B11797326E",
+                            "link": "https://filecrypt.cc/Container/B11797326E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CA354F3AA5",
+                            "link": "https://filecrypt.cc/Container/CA354F3AA5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

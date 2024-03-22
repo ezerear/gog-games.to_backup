@@ -1,0 +1,68 @@
+{
+    "href": "/game/smushi_come_home",
+    "MSG": {
+        "id": "1083297705",
+        "title": "Smushi Come Home",
+        "slug": "smushi_come_home",
+        "thumb_id": "b843ed3f8ea82c65de3a7fa6ad055e116f379b80bb9d0041cb95208af7b52cc0",
+        "bg_id": "b8160808061930b7910f822df1ae04fd88ad63fc30e38bc7ca45ec17b15b5ddc",
+        "url": "https://www.gog.com/en/game/smushi_come_home",
+        "developer": "SomeHumbleOnion",
+        "publisher": "Mooneye Studios",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710646549",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_smushi_come_home_1.0.9.1_(67878).exe",
+                    "size": "215444768"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/17A3299519",
+                            "link": "https://filecrypt.cc/Container/17A3299519"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A2F22D8123",
+                            "link": "https://filecrypt.cc/Container/A2F22D8123"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/54134EB8A7",
+                            "link": "https://filecrypt.cc/Container/54134EB8A7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

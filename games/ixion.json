@@ -1,0 +1,76 @@
+{
+    "href": "/game/ixion",
+    "MSG": {
+        "id": "2014295976",
+        "title": "IXION",
+        "slug": "ixion",
+        "thumb_id": "bd1a17ce21209fc17304de7ae445a55873b9419dcf668b8fdd83ce8ee1031569",
+        "bg_id": "742c533faaa17d05a3150be6d00ed8752dbd277e3259a2f1a10259281aec64eb",
+        "url": "https://www.gog.com/en/game/ixion",
+        "developer": "Bulwark Studios",
+        "publisher": "Kasedo Games",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1709471085",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_ixion_1.0.6.5_(64bit)_(69670)-1.bin",
+                    "size": "4294036478"
+                },
+                {
+                    "name": "setup_ixion_1.0.6.5_(64bit)_(69670)-2.bin",
+                    "size": "76701971"
+                },
+                {
+                    "name": "setup_ixion_1.0.6.5_(64bit)_(69670).exe",
+                    "size": "940872"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F0F6796988",
+                            "link": "https://filecrypt.cc/Container/F0F6796988"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C0E5E02355",
+                            "link": "https://filecrypt.cc/Container/C0E5E02355"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BD136295E2",
+                            "link": "https://filecrypt.cc/Container/BD136295E2"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

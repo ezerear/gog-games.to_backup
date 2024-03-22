@@ -1,0 +1,79 @@
+{
+    "href": "/game/warforwards",
+    "MSG": {
+        "id": "1656387819",
+        "title": "WarForwards",
+        "slug": "warforwards",
+        "thumb_id": "c17341809673d0ffdf10b71c10a06f048d2ed9678b797a189826abe99d7fad37",
+        "bg_id": "2927896d54c84054e04f4231d4e13f57ffb2b2d3a35525046195ace31b90d18a",
+        "url": "https://www.gog.com/en/game/warforwards",
+        "developer": "Roman Pak",
+        "publisher": "Meridian4",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1684205376",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_warforwards_1.0_(60397).exe",
+                    "size": "142372432"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/166325E28D",
+                            "link": "https://filecrypt.cc/Container/166325E28D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/593ECBF3FE",
+                            "link": "https://filecrypt.cc/Container/593ECBF3FE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6ADAE1AD7D",
+                            "link": "https://filecrypt.cc/Container/6ADAE1AD7D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D36CBE7C38",
+                            "link": "https://filecrypt.cc/Container/D36CBE7C38"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

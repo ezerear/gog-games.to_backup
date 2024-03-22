@@ -1,0 +1,68 @@
+{
+    "href": "/game/theme_park",
+    "MSG": {
+        "id": "1207660423",
+        "title": "Theme Park",
+        "slug": "theme_park",
+        "thumb_id": "589e922d519d450f5fa876426dcc93a5727d23b92acd353ec63a52a89db233af",
+        "bg_id": "f4a715ef18b11a4aa4c2c48daf113b1814ee4d86c737e4af74bfbb7803d08b5e",
+        "url": "https://www.gog.com/game/theme_park",
+        "developer": "Bullfrog Productions",
+        "publisher": "Electronic Arts",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710449124",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_theme_park_1.0_(28235).exe",
+                    "size": "107876144"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4077425AFB",
+                            "link": "https://filecrypt.cc/Container/4077425AFB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B34C302E59",
+                            "link": "https://filecrypt.cc/Container/B34C302E59"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/38A4648FC5",
+                            "link": "https://filecrypt.cc/Container/38A4648FC5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

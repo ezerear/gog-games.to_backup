@@ -1,0 +1,65 @@
+{
+    "href": "/game/fire_commander",
+    "MSG": {
+        "id": "1789795376",
+        "title": "Fire Commander",
+        "slug": "fire_commander",
+        "thumb_id": "c8e6acebd9ba280a571b995034cf6da615d69aefa95fe99ca039f35158943888",
+        "bg_id": "4072e8e97a4570ddcd073371d06e7320ba5dbe1032f5038dca032eae00c17d49",
+        "url": "https://www.gog.com/game/fire_commander",
+        "developer": "Atomic Wolf, Pixel Crow",
+        "publisher": "Movie Games S.A.",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1695815424",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_fire_commander_1.1_(58277)-1.bin",
+                    "size": "4293985278"
+                },
+                {
+                    "name": "setup_fire_commander_1.1_(58277)-2.bin",
+                    "size": "3561287608"
+                },
+                {
+                    "name": "setup_fire_commander_1.1_(58277).exe",
+                    "size": "992296"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CEC90DCAC6",
+                            "link": "https://filecrypt.cc/Container/CEC90DCAC6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3502A3846A",
+                            "link": "https://filecrypt.cc/Container/3502A3846A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

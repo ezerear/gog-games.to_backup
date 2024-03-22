@@ -1,0 +1,114 @@
+{
+    "href": "/game/concordia_digital_edition",
+    "MSG": {
+        "id": "1503947102",
+        "title": "Concordia: Digital Edition",
+        "slug": "concordia_digital_edition",
+        "thumb_id": "d3b1b4f343aa0b16a2eda94cb4b363404a4ee5a2c3f25bd803b9be9517bb122f",
+        "bg_id": "6c0af8d0bbd8811951ae24f17ce1a6d1cfbe14b0ea1d0d4cd1ab761add75c4b0",
+        "url": "https://www.gog.com/game/concordia_digital_edition",
+        "developer": "Acram Digital",
+        "publisher": "Acram Digital",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1707802500",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_concordia_digital_edition_-_aegyptus__creta_1.3.2_(64617).exe",
+                    "size": "6922264"
+                },
+                {
+                    "name": "setup_concordia_digital_edition_-_britannia__germania_1.3.2_(64617).exe",
+                    "size": "6465272"
+                },
+                {
+                    "name": "setup_concordia_digital_edition_-_fish_market_1.3.2_(64617).exe",
+                    "size": "6210992"
+                },
+                {
+                    "name": "setup_concordia_digital_edition_-_gallia__corsica_1.3.2_(64617).exe",
+                    "size": "6527688"
+                },
+                {
+                    "name": "setup_concordia_digital_edition_-_salsa_1.3.2_(64617).exe",
+                    "size": "6269552"
+                },
+                {
+                    "name": "setup_concordia_digital_edition_-_venus_1.3.2_(64617).exe",
+                    "size": "6614536"
+                },
+                {
+                    "name": "setup_concordia_digital_edition_1.3.2_(64617).exe",
+                    "size": "366332720"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/75D46A3567",
+                            "link": "https://filecrypt.cc/Container/75D46A3567"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/39E288EC02",
+                            "link": "https://filecrypt.cc/Container/39E288EC02"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0B1C48EBE5",
+                            "link": "https://filecrypt.cc/Container/0B1C48EBE5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/43EBE029D4",
+                            "link": "https://filecrypt.cc/Container/43EBE029D4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5A161A4719",
+                            "link": "https://filecrypt.cc/Container/5A161A4719"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

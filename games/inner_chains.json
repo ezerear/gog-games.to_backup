@@ -1,0 +1,123 @@
+{
+    "href": "/game/inner_chains",
+    "MSG": {
+        "id": "1944046260",
+        "title": "Inner Chains",
+        "slug": "inner_chains",
+        "thumb_id": "f41c9652f808dc4937c0e97bf1bf45a65574723225a9c85c2dc34ec204150fa6",
+        "bg_id": "d6ea12045bdd5a52f9b59cbc44caf05ea02cf82adfa6a7b658071fe8bd26bc37",
+        "url": "https://www.gog.com/game/inner_chains",
+        "developer": "Telepaths Tree",
+        "publisher": "IMGN.PRO",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710075146",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_inner_chains_2.2_(13859)-1.bin",
+                    "size": "4294011390"
+                },
+                {
+                    "name": "setup_inner_chains_2.2_(13859)-2.bin",
+                    "size": "1839544275"
+                },
+                {
+                    "name": "setup_inner_chains_2.2_(13859).exe",
+                    "size": "962808"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "innerchains_artbook.zip",
+                    "size": "14354307"
+                },
+                {
+                    "name": "innerchains_poster.zip",
+                    "size": "26277062"
+                },
+                {
+                    "name": "innerchains_warp.zip",
+                    "size": "7911511"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9F9C47BD08",
+                            "link": "https://filecrypt.cc/Container/9F9C47BD08"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E5AAB05D73",
+                            "link": "https://filecrypt.cc/Container/E5AAB05D73"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4431F41AAA",
+                            "link": "https://filecrypt.cc/Container/4431F41AAA"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/38F6405778",
+                            "link": "https://filecrypt.cc/Container/38F6405778"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DDF4CC566F",
+                            "link": "https://filecrypt.cc/Container/DDF4CC566F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/810FF76005",
+                            "link": "https://filecrypt.cc/Container/810FF76005"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

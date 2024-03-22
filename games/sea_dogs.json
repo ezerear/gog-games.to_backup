@@ -1,0 +1,111 @@
+{
+    "href": "/game/sea_dogs",
+    "MSG": {
+        "id": "1426251705",
+        "title": "Sea Dogs",
+        "slug": "sea_dogs",
+        "thumb_id": "6cbc783732ffb1b440c1b28f7bba7f1b00c0c6d43bc50eaf3a04ab16cc4910ec",
+        "bg_id": "c01eab832583c29d8056f6567353b18e72d706ca1689bb48995ef9233291b879",
+        "url": "https://www.gog.com/game/sea_dogs",
+        "developer": "Akella",
+        "publisher": "Akella",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709426241",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sea_dogs_1.06_(22191).exe",
+                    "size": "532384168"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "sea_dogs_ost_flac.zip",
+                    "size": "300784532"
+                },
+                {
+                    "name": "sea_dogs_ost_mp3.zip",
+                    "size": "144239363"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3C44CAFB5D",
+                            "link": "https://filecrypt.cc/Container/3C44CAFB5D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DC75BA3B2F",
+                            "link": "https://filecrypt.cc/Container/DC75BA3B2F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/50FF6DDDD5",
+                            "link": "https://filecrypt.cc/Container/50FF6DDDD5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8D22A035A4",
+                            "link": "https://filecrypt.cc/Container/8D22A035A4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9F1A5C3B3D",
+                            "link": "https://filecrypt.cc/Container/9F1A5C3B3D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/121A4F1B4A",
+                            "link": "https://filecrypt.cc/Container/121A4F1B4A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

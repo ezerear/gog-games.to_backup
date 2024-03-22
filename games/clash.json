@@ -1,0 +1,79 @@
+{
+    "href": "/game/clash",
+    "MSG": {
+        "id": "2056790662",
+        "title": "Clash",
+        "slug": "clash",
+        "thumb_id": "30db557826ab4dea3cc63bb32436502c26d9e01ac8f068a09124e56b7abc8220",
+        "bg_id": "3e598997900d0e80727d94fbaf73b7fc0dc66722336e7df20251b6eac407809c",
+        "url": "https://www.gog.com/game/clash",
+        "developer": "Leryx Longsoft",
+        "publisher": "Jarosław Modrzejewski",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1685104253",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_clash_1.0_(32003).exe",
+                    "size": "479029728"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0152145CB8",
+                            "link": "https://filecrypt.cc/Container/0152145CB8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8E4A23B53A",
+                            "link": "https://filecrypt.cc/Container/8E4A23B53A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BD1EC90E21",
+                            "link": "https://filecrypt.cc/Container/BD1EC90E21"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/84568005C6",
+                            "link": "https://filecrypt.cc/Container/84568005C6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

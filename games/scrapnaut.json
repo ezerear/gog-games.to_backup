@@ -1,0 +1,68 @@
+{
+    "href": "/game/scrapnaut",
+    "MSG": {
+        "id": "1942380107",
+        "title": "Scrapnaut",
+        "slug": "scrapnaut",
+        "thumb_id": "0f11106cd9b79f8dc783e6b0c2eb0fcc12f1dfb05926e1bade1a18a75848a626",
+        "bg_id": "24b11903b1e8311324c3aa8984be26682ccb75d420123effed4528f76c65301e",
+        "url": "https://www.gog.com/game/scrapnaut",
+        "developer": " SpiffyBit",
+        "publisher": " RockGame S.A.",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710022247",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_scrapnaut_1.6.14_(57851).exe",
+                    "size": "984222088"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/656B26DE4D",
+                            "link": "https://filecrypt.cc/Container/656B26DE4D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6CDAA43919",
+                            "link": "https://filecrypt.cc/Container/6CDAA43919"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EC943B3B6A",
+                            "link": "https://filecrypt.cc/Container/EC943B3B6A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

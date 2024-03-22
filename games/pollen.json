@@ -1,0 +1,131 @@
+{
+    "href": "/game/pollen",
+    "MSG": {
+        "id": "1460628458",
+        "title": "P·O·L·L·E·N",
+        "slug": "pollen",
+        "thumb_id": "4713de5ceafe8bd637c6d34d0692f3abdf23734b58ae1736b64a44e95849d22a",
+        "bg_id": "e257751b9ff59e3f0227ac0b7a8fdd459b952be23ff3d358e5f9f9f2f5bb4641",
+        "url": "https://www.gog.com/game/pollen",
+        "developer": "Mindfield Games",
+        "publisher": "Mindfield Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709616050",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_pollen_2.1.0.2-1.bin",
+                    "size": "3072409904"
+                },
+                {
+                    "name": "setup_pollen_2.1.0.2.exe",
+                    "size": "33825600"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "pollen_artworks.zip",
+                    "size": "24964543"
+                },
+                {
+                    "name": "pollen_base_blueprint.zip",
+                    "size": "1005780"
+                },
+                {
+                    "name": "pollen_concept_art.zip",
+                    "size": "20217229"
+                },
+                {
+                    "name": "pollen_ep.zip",
+                    "size": "15333266"
+                },
+                {
+                    "name": "pollen_making_of.zip",
+                    "size": "2122531451"
+                },
+                {
+                    "name": "pollen_poster.zip",
+                    "size": "10869307"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4D5C19CF6D",
+                            "link": "https://filecrypt.cc/Container/4D5C19CF6D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C38161D770",
+                            "link": "https://filecrypt.cc/Container/C38161D770"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EE1FDB2A37",
+                            "link": "https://filecrypt.cc/Container/EE1FDB2A37"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0D3DBF4C5B",
+                            "link": "https://filecrypt.cc/Container/0D3DBF4C5B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F1E7960AF1",
+                            "link": "https://filecrypt.cc/Container/F1E7960AF1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E176F4DD2E",
+                            "link": "https://filecrypt.cc/Container/E176F4DD2E"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,79 @@
+{
+    "href": "/game/red_dust",
+    "MSG": {
+        "id": "2095409490",
+        "title": "Red Dust",
+        "slug": "red_dust",
+        "thumb_id": "f56789d78b4107f6e626b5c78db78ae17dea63517672956165cc574b46a3668e",
+        "bg_id": "20d401cc1d85df18c94938076fe619c27efcb5863d358a617769e03dc7a47496",
+        "url": "https://www.gog.com/en/game/red_dust",
+        "developer": "Mukorka",
+        "publisher": "Meridian4",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1684104345",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_red_dust_1.11_(61963).exe",
+                    "size": "286264568"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D1CD90F8CA",
+                            "link": "https://filecrypt.cc/Container/D1CD90F8CA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B4181ACD6C",
+                            "link": "https://filecrypt.cc/Container/B4181ACD6C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8A0E34F12A",
+                            "link": "https://filecrypt.cc/Container/8A0E34F12A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A1EC52471F",
+                            "link": "https://filecrypt.cc/Container/A1EC52471F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

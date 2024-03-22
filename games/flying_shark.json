@@ -1,0 +1,90 @@
+{
+    "href": "/game/flying_shark",
+    "MSG": {
+        "id": "1288049794",
+        "title": "Flying Shark",
+        "slug": "flying_shark",
+        "thumb_id": "decd2750ca7aeddc3e7741c48abcd92f64c7931aa16af6fc7ba7a0acb4ab1dc8",
+        "bg_id": "ffbf682bde52b7c2a0d9afb309a15bede7f41686da5ae6a79dbd25aab9301006",
+        "url": "https://www.gog.com/en/game/flying_shark",
+        "developer": "Bitwave Games, Toaplan",
+        "publisher": "Bitwave Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707775307",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_flying_shark_9_(64bit)_(67544).exe",
+                    "size": "12184640"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7CB95C7A61",
+                            "link": "https://filecrypt.cc/Container/7CB95C7A61"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6CC1138B71",
+                            "link": "https://filecrypt.cc/Container/6CC1138B71"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/54CAB71EC2",
+                            "link": "https://filecrypt.cc/Container/54CAB71EC2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B8F3AF0EA1",
+                            "link": "https://filecrypt.cc/Container/B8F3AF0EA1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6024C63712",
+                            "link": "https://filecrypt.cc/Container/6024C63712"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

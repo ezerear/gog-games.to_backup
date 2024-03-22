@@ -1,0 +1,68 @@
+{
+    "href": "/game/the_last_leviathan",
+    "MSG": {
+        "id": "1272721020",
+        "title": "The Last Leviathan",
+        "slug": "the_last_leviathan",
+        "thumb_id": "55a6359bb7c6558c366dba84bb814b181e3eb944ed7c70fa800ee2751b8e06ef",
+        "bg_id": "8f06047e2d5b26c16009fa7c4eeeb98c0cc64536432dc368cf249774cdffe1c6",
+        "url": "https://www.gog.com/game/the_last_leviathan",
+        "developer": "Super Punk Games",
+        "publisher": "Super Punk Games",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710281686",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_last_leviathan_0.3.2(build_317g)_(25002).exe",
+                    "size": "487911000"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D9FD3A912C",
+                            "link": "https://filecrypt.cc/Container/D9FD3A912C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B78961A573",
+                            "link": "https://filecrypt.cc/Container/B78961A573"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/61A6A60617",
+                            "link": "https://filecrypt.cc/Container/61A6A60617"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

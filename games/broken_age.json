@@ -1,0 +1,115 @@
+{
+    "href": "/game/broken_age",
+    "MSG": {
+        "id": "1207662943",
+        "title": "Broken Age: The Complete Adventure",
+        "slug": "broken_age",
+        "thumb_id": "1873ab30ec891ad3ba17bf98a6d9ca10d51952dbf0d2f4966d899d5a83c9f5fc",
+        "bg_id": "97d1d12f956e02bf573922c8fd9b423b167357479d800853781c3905a9da9827",
+        "url": "https://www.gog.com/game/broken_age",
+        "developer": "Double Fine Productions",
+        "publisher": "Double Fine Productions",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709550216",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_broken_age_2.4.800398_(12443)-1.bin",
+                    "size": "2175674568"
+                },
+                {
+                    "name": "setup_broken_age_2.4.800398_(12443).exe",
+                    "size": "712288"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "broken_age_avatars.zip",
+                    "size": "188438"
+                },
+                {
+                    "name": "broken_age_wallpaper.zip",
+                    "size": "720606"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B386FDB04B",
+                            "link": "https://filecrypt.cc/Container/B386FDB04B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/03A6217F30",
+                            "link": "https://filecrypt.cc/Container/03A6217F30"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/533D693A8A",
+                            "link": "https://filecrypt.cc/Container/533D693A8A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CBFC23C6CE",
+                            "link": "https://filecrypt.cc/Container/CBFC23C6CE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/64459A2A06",
+                            "link": "https://filecrypt.cc/Container/64459A2A06"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FAC9735E4B",
+                            "link": "https://filecrypt.cc/Container/FAC9735E4B"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

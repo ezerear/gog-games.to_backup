@@ -1,0 +1,101 @@
+{
+    "href": "/game/witchaven",
+    "MSG": {
+        "id": "1315510047",
+        "title": "Witchaven",
+        "slug": "witchaven",
+        "thumb_id": "8967d3c8092266168e0831be2c9fe916efce982b6ca5255a20e8e8cf6f21ea4b",
+        "bg_id": "e58550eec02a46d670487bdc9e1a150b9705b0307d777ed66d1d96419b3d1847",
+        "url": "https://www.gog.com/game/witchaven",
+        "developer": "Capstone Software",
+        "publisher": "SNEG",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1700766586",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_witchaven_1.0_(47551).exe",
+                    "size": "84069728"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6711B7FBC0",
+                            "link": "https://filecrypt.cc/Container/6711B7FBC0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7EA3916A00",
+                            "link": "https://filecrypt.cc/Container/7EA3916A00"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E367EA0175",
+                            "link": "https://filecrypt.cc/Container/E367EA0175"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6756FEFAEC",
+                            "link": "https://filecrypt.cc/Container/6756FEFAEC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D7985A1A2D",
+                            "link": "https://filecrypt.cc/Container/D7985A1A2D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/629D6A74A3",
+                            "link": "https://filecrypt.cc/Container/629D6A74A3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

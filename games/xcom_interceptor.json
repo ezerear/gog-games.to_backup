@@ -1,0 +1,111 @@
+{
+    "href": "/game/xcom_interceptor",
+    "MSG": {
+        "id": "1445249671",
+        "title": "X-Com: Interceptor",
+        "slug": "xcom_interceptor",
+        "thumb_id": "5b29939afa2375d7b71959f53abe504dd3b0b03c8b3851440a1207e9fc024c61",
+        "bg_id": "048dc9ff1f429367e7f48e0b786cb5bf0362247078e9fdc1d0669822b5e9dfd9",
+        "url": "https://www.gog.com/game/xcom_interceptor",
+        "developer": "MicroProse",
+        "publisher": "2K Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710261445",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_xcom_interceptor_2.0.0.11.exe",
+                    "size": "390474376"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "xcom_interceptor_frontier_informant.zip",
+                    "size": "1073168"
+                },
+                {
+                    "name": "xcom_interceptor_manual.zip",
+                    "size": "9962408"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7F8419EC7B",
+                            "link": "https://filecrypt.cc/Container/7F8419EC7B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A388DBD10D",
+                            "link": "https://filecrypt.cc/Container/A388DBD10D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5A76E3AC32",
+                            "link": "https://filecrypt.cc/Container/5A76E3AC32"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/20CF452A2D",
+                            "link": "https://filecrypt.cc/Container/20CF452A2D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A36CA834C1",
+                            "link": "https://filecrypt.cc/Container/A36CA834C1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3BD9B3C555",
+                            "link": "https://filecrypt.cc/Container/3BD9B3C555"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

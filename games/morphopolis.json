@@ -1,0 +1,90 @@
+{
+    "href": "/game/morphopolis",
+    "MSG": {
+        "id": "1559432711",
+        "title": "Morphopolis",
+        "slug": "morphopolis",
+        "thumb_id": "87e46c3ee97de33ef88ba153c2f4d3a14c4a3c8a1c8e6b2ffc67ba1daa04fd76",
+        "bg_id": "e94c4016493890382634039a9e2a3185bf780a5638e2d7765ccf8e9e08352479",
+        "url": "https://www.gog.com/game/morphopolis",
+        "developer": "Dan Walters, Ceri Williams",
+        "publisher": "Dan Walters",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1704836715",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_morphopolis_1.0_(22453).exe",
+                    "size": "386994888"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C22AA3BCDF",
+                            "link": "https://filecrypt.cc/Container/C22AA3BCDF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4564AFB496",
+                            "link": "https://filecrypt.cc/Container/4564AFB496"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8CFFD899FA",
+                            "link": "https://filecrypt.cc/Container/8CFFD899FA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7B773F5975",
+                            "link": "https://filecrypt.cc/Container/7B773F5975"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5AC2AF32B2",
+                            "link": "https://filecrypt.cc/Container/5AC2AF32B2"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

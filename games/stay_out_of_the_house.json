@@ -1,0 +1,68 @@
+{
+    "href": "/game/stay_out_of_the_house",
+    "MSG": {
+        "id": "1900177217",
+        "title": "Stay Out of the House",
+        "slug": "stay_out_of_the_house",
+        "thumb_id": "b16ba475e499591c85ada02a18775323f9b42b1ca55cbd856ddcf30f4bf939a5",
+        "bg_id": "53d245df87439ae55b853596b321ef7a873f0ce1e66d0d72776e2d274802536d",
+        "url": "https://www.gog.com/en/game/stay_out_of_the_house",
+        "developer": "Puppet Combo",
+        "publisher": "Puppet Combo",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709988515",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_stay_out_of_the_house_1.1.7_(65774).exe",
+                    "size": "582332280"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DCDEEAA6EF",
+                            "link": "https://filecrypt.cc/Container/DCDEEAA6EF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2F9EE549D3",
+                            "link": "https://filecrypt.cc/Container/2F9EE549D3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DB6EE5887C",
+                            "link": "https://filecrypt.cc/Container/DB6EE5887C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

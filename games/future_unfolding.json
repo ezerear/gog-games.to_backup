@@ -1,0 +1,90 @@
+{
+    "href": "/game/future_unfolding",
+    "MSG": {
+        "id": "1453378371",
+        "title": "Future Unfolding",
+        "slug": "future_unfolding",
+        "thumb_id": "3b679795a1168c527e39c9adadb62318ce5fb362099a7f512aecc3087793f2cb",
+        "bg_id": "5c663e37f94fd4e43140c79a0e239cbb7a384bbae91bcd2d30562f27debbb52a",
+        "url": "https://www.gog.com/game/future_unfolding",
+        "developer": "Spaces of Play UG",
+        "publisher": "Spaces of Play UG",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1704325630",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_future_unfolding_1.3_(20480).exe",
+                    "size": "146187088"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9B9079E5CE",
+                            "link": "https://filecrypt.cc/Container/9B9079E5CE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F125EB8002",
+                            "link": "https://filecrypt.cc/Container/F125EB8002"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/95EC52FE8F",
+                            "link": "https://filecrypt.cc/Container/95EC52FE8F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/89F052C639",
+                            "link": "https://filecrypt.cc/Container/89F052C639"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/01FA5D9A4B",
+                            "link": "https://filecrypt.cc/Container/01FA5D9A4B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

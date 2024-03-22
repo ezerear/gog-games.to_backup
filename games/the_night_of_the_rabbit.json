@@ -1,0 +1,123 @@
+{
+    "href": "/game/the_night_of_the_rabbit",
+    "MSG": {
+        "id": "1207659218",
+        "title": "The Night of the Rabbit",
+        "slug": "the_night_of_the_rabbit",
+        "thumb_id": "f56d3261eac9291076d63afea4f246957f23a80c8d257813d2b17bb0e6fcf286",
+        "bg_id": "c614e9acf2f791cc63c084686f9e760c3a5824107ff622d587a48fd938b4a0e1",
+        "url": "https://www.gog.com/game/the_night_of_the_rabbit",
+        "developer": "Daedalic Entertainment",
+        "publisher": "Daedalic Entertainment",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707946581",
+        "votes": "2",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_night_of_the_rabbit_1.2.3.0389_(18473)-1.bin",
+                    "size": "4294223870"
+                },
+                {
+                    "name": "setup_the_night_of_the_rabbit_1.2.3.0389_(18473)-2.bin",
+                    "size": "1852106837"
+                },
+                {
+                    "name": "setup_the_night_of_the_rabbit_1.2.3.0389_(18473).exe",
+                    "size": "750720"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "notr_wallpaper.zip",
+                    "size": "6708084"
+                },
+                {
+                    "name": "tnotr_artworks.zip",
+                    "size": "8451412"
+                },
+                {
+                    "name": "tnotr_avatars.zip",
+                    "size": "235019"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/09EA695AEC",
+                            "link": "https://filecrypt.cc/Container/09EA695AEC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/918D0B1C75",
+                            "link": "https://filecrypt.cc/Container/918D0B1C75"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5905C6A96F",
+                            "link": "https://filecrypt.cc/Container/5905C6A96F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AB729FE8A6",
+                            "link": "https://filecrypt.cc/Container/AB729FE8A6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DFEBFB87A6",
+                            "link": "https://filecrypt.cc/Container/DFEBFB87A6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AA0D2D7469",
+                            "link": "https://filecrypt.cc/Container/AA0D2D7469"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

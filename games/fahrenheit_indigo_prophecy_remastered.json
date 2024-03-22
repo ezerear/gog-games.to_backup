@@ -1,0 +1,76 @@
+{
+    "href": "/game/fahrenheit_indigo_prophecy_remastered",
+    "MSG": {
+        "id": "1103453760",
+        "title": "Fahrenheit: Indigo Prophecy Remastered",
+        "slug": "fahrenheit_indigo_prophecy_remastered",
+        "thumb_id": "723c64fd4e602cb01d0a8f4f938c830d6857b47d5633460c74b41a9aad417b0f",
+        "bg_id": "208fa7df1af931f3d2b7a2267f40fbfc6c8526ec773c2d6a60009dce2078873d",
+        "url": "https://www.gog.com/en/game/fahrenheit_indigo_prophecy_remastered",
+        "developer": "Aspyr, Quantic Dream",
+        "publisher": "Aspyr",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710460016",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_fahrenheit_indigo_prophecy_remastered_1.0.4_(64475)-1.bin",
+                    "size": "4293527038"
+                },
+                {
+                    "name": "setup_fahrenheit_indigo_prophecy_remastered_1.0.4_(64475)-2.bin",
+                    "size": "262236252"
+                },
+                {
+                    "name": "setup_fahrenheit_indigo_prophecy_remastered_1.0.4_(64475).exe",
+                    "size": "1450200"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E29526362A",
+                            "link": "https://filecrypt.cc/Container/E29526362A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CBE5390ADE",
+                            "link": "https://filecrypt.cc/Container/CBE5390ADE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/91914D1C32",
+                            "link": "https://filecrypt.cc/Container/91914D1C32"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

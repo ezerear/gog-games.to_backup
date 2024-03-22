@@ -1,0 +1,88 @@
+{
+    "href": "/game/dragons_dogma_dark_arisen",
+    "MSG": {
+        "id": "1242384383",
+        "title": "Dragon's Dogma: Dark Arisen",
+        "slug": "dragons_dogma_dark_arisen",
+        "thumb_id": "584f5d8883c707f2c1c8a0e47c91174b4269b1c2748e2241d3df42739339d5af",
+        "bg_id": "c75d43d1ca6bbf8ee02addf8e4434c5622c64f0b28d75c2416413cf323055868",
+        "url": "https://www.gog.com/game/dragons_dogma_dark_arisen",
+        "developer": "Capcom",
+        "publisher": "Capcom",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709886748",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_ddda_1.0.0.18_(12573)-1.bin",
+                    "size": "4293526014"
+                },
+                {
+                    "name": "setup_ddda_1.0.0.18_(12573)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_ddda_1.0.0.18_(12573)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_ddda_1.0.0.18_(12573)-4.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_ddda_1.0.0.18_(12573)-5.bin",
+                    "size": "3616148077"
+                },
+                {
+                    "name": "setup_ddda_1.0.0.18_(12573).exe",
+                    "size": "1448352"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4BE2F877B4",
+                            "link": "https://filecrypt.cc/Container/4BE2F877B4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F14CB318F3",
+                            "link": "https://filecrypt.cc/Container/F14CB318F3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4F132B364A",
+                            "link": "https://filecrypt.cc/Container/4F132B364A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

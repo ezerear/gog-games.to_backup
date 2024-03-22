@@ -1,0 +1,68 @@
+{
+    "href": "/game/in_the_shadows",
+    "MSG": {
+        "id": "1605197332",
+        "title": "In the Shadows",
+        "slug": "in_the_shadows",
+        "thumb_id": "b7e5c9269f6aba9a308077f6b4fa818dd11d4182b69121e4682632ae4deb85f7",
+        "bg_id": "17fd535bf76c19af052e2fa889cc04cf58d8a83a8d2501a4ae20375d476e78ca",
+        "url": "https://www.gog.com/game/in_the_shadows",
+        "developer": "Colorspace Studio",
+        "publisher": "Colorspace Studio",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709984326",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_in_the_shadows_1.1.1.1061_(64bit)_(33641).exe",
+                    "size": "299223640"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3171CCD85B",
+                            "link": "https://filecrypt.cc/Container/3171CCD85B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F1A3E950EC",
+                            "link": "https://filecrypt.cc/Container/F1A3E950EC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/771F64B8A4",
+                            "link": "https://filecrypt.cc/Container/771F64B8A4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

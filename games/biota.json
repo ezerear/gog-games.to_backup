@@ -1,0 +1,72 @@
+{
+    "href": "/game/biota",
+    "MSG": {
+        "id": "1321782603",
+        "title": "B.I.O.T.A.",
+        "slug": "biota",
+        "thumb_id": "dc9a84172ec7fc7a86ba0b06c6c9828db170827f84fcaf348dc4991af691e6b4",
+        "bg_id": "9b04d42e52c2253713a797f8f6451aa04177df2044ac4af97f06634dbdacdaf2",
+        "url": "https://www.gog.com/game/biota",
+        "developer": "Small bros",
+        "publisher": "Retrovibe",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709699707",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_b.i.o.t.a._1.0.37_(64bit)_(63948).exe",
+                    "size": "142517064"
+                },
+                {
+                    "name": "setup_warlock_character_for_b.i.o.t.a._1.0.37_(64bit)_(63948).exe",
+                    "size": "142240064"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BE2FDD43ED",
+                            "link": "https://filecrypt.cc/Container/BE2FDD43ED"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1D50BC5757",
+                            "link": "https://filecrypt.cc/Container/1D50BC5757"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DDACE3A64D",
+                            "link": "https://filecrypt.cc/Container/DDACE3A64D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

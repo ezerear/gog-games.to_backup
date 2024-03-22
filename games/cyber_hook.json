@@ -1,0 +1,68 @@
+{
+    "href": "/game/cyber_hook",
+    "MSG": {
+        "id": "1393042458",
+        "title": "Cyber Hook",
+        "slug": "cyber_hook",
+        "thumb_id": "a34d1c50824a209717bb0c101a2658bb32520f8351faca247fe1ed8f162efc4c",
+        "bg_id": "549f7e5392803b94f8db477cfa0878e45deee678ba53c2da234e42e13b19b70d",
+        "url": "https://www.gog.com/game/cyber_hook",
+        "developer": "Blazing Stick",
+        "publisher": "Graffiti Games ",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708798822",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_cyber_hook_1.2.1_(59798).exe",
+                    "size": "832061040"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/49A587E85E",
+                            "link": "https://filecrypt.cc/Container/49A587E85E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/031693A296",
+                            "link": "https://filecrypt.cc/Container/031693A296"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5D76952B2F",
+                            "link": "https://filecrypt.cc/Container/5D76952B2F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

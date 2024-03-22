@@ -1,0 +1,79 @@
+{
+    "href": "/game/perfect_tides",
+    "MSG": {
+        "id": "1321012195",
+        "title": "Perfect Tides",
+        "slug": "perfect_tides",
+        "thumb_id": "69a00e78b6598e5439c31c1e4b193fd18850de89cbe8532344435fb2afa657c6",
+        "bg_id": "95eda64b5b8973048044aa765e9a6da246799e7aca4d0836d05298fff2c21942",
+        "url": "https://www.gog.com/en/game/perfect_tides",
+        "developer": "Three Bees",
+        "publisher": "Three Bees",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707161984",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_perfect_tides_2.0.11_(68847).exe",
+                    "size": "725297816"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/130744C685",
+                            "link": "https://filecrypt.cc/Container/130744C685"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DF4FF6572C",
+                            "link": "https://filecrypt.cc/Container/DF4FF6572C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/097FD800F4",
+                            "link": "https://filecrypt.cc/Container/097FD800F4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4923AA6900",
+                            "link": "https://filecrypt.cc/Container/4923AA6900"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

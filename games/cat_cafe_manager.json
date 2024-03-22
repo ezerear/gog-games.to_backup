@@ -1,0 +1,72 @@
+{
+    "href": "/game/cat_cafe_manager",
+    "MSG": {
+        "id": "1218859479",
+        "title": "Cat Cafe Manager",
+        "slug": "cat_cafe_manager",
+        "thumb_id": "0b44b61d55e8bc85ef40ccfe2d2b3519904df5dbb813c6989f7ca1c82bfa77c8",
+        "bg_id": "31b03b13a753cae93e7927aadf61061dbaaeb295d63781d598306d822576bbee",
+        "url": "https://www.gog.com/en/game/cat_cafe_manager",
+        "developer": "Roost Games",
+        "publisher": "Freedom Games",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1709406090",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_cat_cafe_manager_1.2.490-windows_(64bit)_(64857).exe",
+                    "size": "502358128"
+                },
+                {
+                    "name": "setup_cat_cafe_manager_1.2.490-windows_(64bit)_(64857).exe",
+                    "size": "502358128"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8DFD1E86DB",
+                            "link": "https://filecrypt.cc/Container/8DFD1E86DB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A1AF854C3C",
+                            "link": "https://filecrypt.cc/Container/A1AF854C3C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C6B613235F",
+                            "link": "https://filecrypt.cc/Container/C6B613235F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

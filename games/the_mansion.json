@@ -1,0 +1,76 @@
+{
+    "href": "/game/the_mansion",
+    "MSG": {
+        "id": "1239409002",
+        "title": "The Mansion",
+        "slug": "the_mansion",
+        "thumb_id": "b546aeaa0b1c04c2c77006cb77d0f17f97556064dd3eafed35c1190f154bf560",
+        "bg_id": "7664c1087dab89f92123ff003376cdc959840a14ddf6abbf78b190ef319a60a3",
+        "url": "https://www.gog.com/game/the_mansion",
+        "developer": "Forever Entertainment S. A.",
+        "publisher": "Forever Entertainment S. A.",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1697745588",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_mansion_0.5.280_(64bit)_(51926)-1.bin",
+                    "size": "4294044670"
+                },
+                {
+                    "name": "setup_the_mansion_0.5.280_(64bit)_(51926)-2.bin",
+                    "size": "935706091"
+                },
+                {
+                    "name": "setup_the_mansion_0.5.280_(64bit)_(51926).exe",
+                    "size": "928952"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/30F421B459",
+                            "link": "https://filecrypt.cc/Container/30F421B459"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0CFC8B678E",
+                            "link": "https://filecrypt.cc/Container/0CFC8B678E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CA923E5879",
+                            "link": "https://filecrypt.cc/Container/CA923E5879"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,153 @@
+{
+    "href": "/game/cryostasis",
+    "MSG": {
+        "id": "1207659011",
+        "title": "Cryostasis",
+        "slug": "cryostasis",
+        "thumb_id": "432db389b1055265e1cb282fdae969978e1b3002a47c5a98cbbe0b9c9a0c0302",
+        "bg_id": "df6639873a673d9ad85b97ba16e490c94d8e4945aa9bf7b6c842a6351cfcd5f5",
+        "url": "https://web.archive.org/web/20120329193401/http://www.gog.com/gamecard/cryostasis",
+        "developer": "Action Forms",
+        "publisher": "1C Publishing",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1702662154",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_cryostasis_2.0.0.13-1.bin",
+                    "size": "1564468608"
+                },
+                {
+                    "name": "setup_cryostasis_2.0.0.13-2.bin",
+                    "size": "976259789"
+                },
+                {
+                    "name": "setup_cryostasis_2.0.0.13.exe",
+                    "size": "1539232"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "cryostasis_artworks.zip",
+                    "size": "5371575"
+                },
+                {
+                    "name": "cryostasis_avatars.zip",
+                    "size": "115379"
+                },
+                {
+                    "name": "cryostasis_main_theme_m.zip",
+                    "size": "2939002"
+                },
+                {
+                    "name": "cryostasis_manual.zip",
+                    "size": "1572758"
+                },
+                {
+                    "name": "cryostasis_wallpapers.zip",
+                    "size": "10638643"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/75CABA3156",
+                            "link": "https://filecrypt.cc/Container/75CABA3156"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CF1295A9AC",
+                            "link": "https://filecrypt.cc/Container/CF1295A9AC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DAC49AF9D0",
+                            "link": "https://filecrypt.cc/Container/DAC49AF9D0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/547067A1B5",
+                            "link": "https://filecrypt.cc/Container/547067A1B5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8B73BD7264",
+                            "link": "https://filecrypt.cc/Container/8B73BD7264"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CC7749B3CA",
+                            "link": "https://filecrypt.cc/Container/CC7749B3CA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F06193FCD8",
+                            "link": "https://filecrypt.cc/Container/F06193FCD8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9BDE2EF9CD",
+                            "link": "https://filecrypt.cc/Container/9BDE2EF9CD"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

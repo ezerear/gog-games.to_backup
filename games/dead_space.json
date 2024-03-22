@@ -1,0 +1,127 @@
+{
+    "href": "/game/dead_space",
+    "MSG": {
+        "id": "1312818781",
+        "title": "Dead Space™",
+        "slug": "dead_space",
+        "thumb_id": "f6a6cf23a00f92de03a4a47b7aab46ee06b81d9287703eb71faf7a152f515a62",
+        "bg_id": "37bedec8b82daf8c104cde87774fa357f92cf063f029ad5b6b0bb147272c31cb",
+        "url": "https://www.gog.com/game/dead_space",
+        "developer": "Visceral Games",
+        "publisher": "Electronic Arts",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1709701553",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dead_space_2.0.0.2-1.bin",
+                    "size": "4194304000"
+                },
+                {
+                    "name": "setup_dead_space_2.0.0.2-2.bin",
+                    "size": "4194304000"
+                },
+                {
+                    "name": "setup_dead_space_2.0.0.2-3.bin",
+                    "size": "307801166"
+                },
+                {
+                    "name": "setup_dead_space_2.0.0.2.exe",
+                    "size": "29391968"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "deadspace_avatars.zip",
+                    "size": "340232"
+                },
+                {
+                    "name": "deadspace_manual.zip",
+                    "size": "1054988"
+                },
+                {
+                    "name": "deadspace_wallpapers.zip",
+                    "size": "1361971"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/184AC85D4E",
+                            "link": "https://filecrypt.cc/Container/184AC85D4E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6EC22982CF",
+                            "link": "https://filecrypt.cc/Container/6EC22982CF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FE1D6BAAD5",
+                            "link": "https://filecrypt.cc/Container/FE1D6BAAD5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6C09E4DD11",
+                            "link": "https://filecrypt.cc/Container/6C09E4DD11"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/18A241A08C",
+                            "link": "https://filecrypt.cc/Container/18A241A08C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/34034D3B60",
+                            "link": "https://filecrypt.cc/Container/34034D3B60"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

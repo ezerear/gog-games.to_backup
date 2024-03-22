@@ -1,0 +1,76 @@
+{
+    "href": "/game/lelie_navigation",
+    "MSG": {
+        "id": "1326480940",
+        "title": "Lelie Navigation!",
+        "slug": "lelie_navigation",
+        "thumb_id": "fd316b0a6fe2c98abb232dcfd3192882de2184041a90de6e26a6f120bd894119",
+        "bg_id": "9de1666ed70c29663223310fc34a70158b4a7a669d9bd45a3c46d9bffb81d57e",
+        "url": "https://www.gog.com/game/lelie_navigation",
+        "developer": "Atelier Choice",
+        "publisher": "Kagura Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710053695",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_lelie_navigation_unrated_dlc__v2_(en_1.02_cn_1.04)_(52080).exe",
+                    "size": "189330864"
+                },
+                {
+                    "name": "setup_lelie_navigation_v2_(en_1.02_cn_1.04)_(52080)-1.bin",
+                    "size": "899277448"
+                },
+                {
+                    "name": "setup_lelie_navigation_v2_(en_1.02_cn_1.04)_(52080).exe",
+                    "size": "1090392"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5F90D6A91B",
+                            "link": "https://filecrypt.cc/Container/5F90D6A91B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/34A3DADF30",
+                            "link": "https://filecrypt.cc/Container/34A3DADF30"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B5C079FEAB",
+                            "link": "https://filecrypt.cc/Container/B5C079FEAB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

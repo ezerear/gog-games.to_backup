@@ -1,0 +1,90 @@
+{
+    "href": "/game/mad_games_tycoon",
+    "MSG": {
+        "id": "1814585271",
+        "title": "Mad Games Tycoon",
+        "slug": "mad_games_tycoon",
+        "thumb_id": "ef5e2d5ed4a96e268130adc757d56991df77d5afadf59d8d400d947f39532248",
+        "bg_id": "ece473cf71dcabd70d220d4cbeb5fcdf9e0d7b5b0a36ed499d6c1ad951b1d664",
+        "url": "https://www.gog.com/game/mad_games_tycoon",
+        "developer": "Eggcode",
+        "publisher": "Eggcode",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1704715413",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_mad_games_tycoon_r-1.171020ax_(33392).exe",
+                    "size": "367322040"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FC7EF42F72",
+                            "link": "https://filecrypt.cc/Container/FC7EF42F72"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F841B87AF0",
+                            "link": "https://filecrypt.cc/Container/F841B87AF0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0FEA502D01",
+                            "link": "https://filecrypt.cc/Container/0FEA502D01"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FD3B39446F",
+                            "link": "https://filecrypt.cc/Container/FD3B39446F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/840548FCC9",
+                            "link": "https://filecrypt.cc/Container/840548FCC9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,90 @@
+{
+    "href": "/game/blade_bones",
+    "MSG": {
+        "id": "1733644340",
+        "title": "Blade & Bones",
+        "slug": "blade_bones",
+        "thumb_id": "f8c4aab1c68d8a2a42caced0c4414b75be47fb24320c6809b831b483902b2f6c",
+        "bg_id": "b345fc5e30a87cb6688ce04aa03a0708ac4c1bda469fd6595689880888555e48",
+        "url": "https://www.gog.com/game/blade_bones",
+        "developer": "Coffee Addict Studio",
+        "publisher": "Coffee Addict Studio",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1705976254",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_blade_and_bones_2.3.0.9.exe",
+                    "size": "950439424"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/211CB570AF",
+                            "link": "https://filecrypt.cc/Container/211CB570AF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E59FB3A95E",
+                            "link": "https://filecrypt.cc/Container/E59FB3A95E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1A1B14DFD0",
+                            "link": "https://filecrypt.cc/Container/1A1B14DFD0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/781FAB34EE",
+                            "link": "https://filecrypt.cc/Container/781FAB34EE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/71AFD76D1D",
+                            "link": "https://filecrypt.cc/Container/71AFD76D1D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

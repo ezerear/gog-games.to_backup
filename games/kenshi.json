@@ -1,0 +1,115 @@
+{
+    "href": "/game/kenshi",
+    "MSG": {
+        "id": "1193046833",
+        "title": "Kenshi",
+        "slug": "kenshi",
+        "thumb_id": "d7326fd93a1363257a08464bb6b2f9b691b1b695ca3d7cda13edc5a6d91a9f8c",
+        "bg_id": "e7e9cdc9f044f05ff49a61505dffe575d099a2bc5c26384d3e65240cdd78e022",
+        "url": "https://www.gog.com/game/kenshi",
+        "developer": "Lo-Fi Games",
+        "publisher": "Lo-Fi Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1708923247",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_kenshi_1.0.65_(71369)-1.bin",
+                    "size": "4291990014"
+                },
+                {
+                    "name": "setup_kenshi_1.0.65_(71369)-2.bin",
+                    "size": "3234492862"
+                },
+                {
+                    "name": "setup_kenshi_1.0.65_(71369).exe",
+                    "size": "2984520"
+                }
+            ],
+            "PATCHES": [
+                {
+                    "name": "patch_kenshi_1.0.64_(63348)_to_1.0.65_(71369).exe",
+                    "size": "14863104"
+                }
+            ],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0687542CB9",
+                            "link": "https://filecrypt.cc/Container/0687542CB9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9EB5DC5526",
+                            "link": "https://filecrypt.cc/Container/9EB5DC5526"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DBD6ECAC10",
+                            "link": "https://filecrypt.cc/Container/DBD6ECAC10"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/697C7945B7",
+                            "link": "https://filecrypt.cc/Container/697C7945B7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2513911ABA",
+                            "link": "https://filecrypt.cc/Container/2513911ABA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E4BB51970C",
+                            "link": "https://filecrypt.cc/Container/E4BB51970C"
+                        }
+                    ]
+                }
+            ],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

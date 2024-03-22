@@ -1,0 +1,108 @@
+{
+    "href": "/game/blue_fire",
+    "MSG": {
+        "id": "1280776741",
+        "title": "Blue Fire",
+        "slug": "blue_fire",
+        "thumb_id": "a1936e9e9b6ac00bff69cd5f43fb26f5051c376a535e95dd5eeec9f9b935132f",
+        "bg_id": "266bd45d178768cefe31762b74243406b9008a1c7cbfe6d07c59d341136c3d65",
+        "url": "https://www.gog.com/game/blue_fire",
+        "developer": "Robi Studios",
+        "publisher": "Graffiti Games ",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709377668",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_blue_fire_6.0.4_(64bit)_(55696)-1.bin",
+                    "size": "4294097406"
+                },
+                {
+                    "name": "setup_blue_fire_6.0.4_(64bit)_(55696)-2.bin",
+                    "size": "132993219"
+                },
+                {
+                    "name": "setup_blue_fire_6.0.4_(64bit)_(55696).exe",
+                    "size": "878728"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "blue_fire_ost_mp3.zip",
+                    "size": "66077136"
+                },
+                {
+                    "name": "blue_fire_ost_wav.zip",
+                    "size": "828268455"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2CB9DAAADD",
+                            "link": "https://filecrypt.cc/Container/2CB9DAAADD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/14F7E11979",
+                            "link": "https://filecrypt.cc/Container/14F7E11979"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/02904DA835",
+                            "link": "https://filecrypt.cc/Container/02904DA835"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AE9407C00E",
+                            "link": "https://filecrypt.cc/Container/AE9407C00E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/998984C2F5",
+                            "link": "https://filecrypt.cc/Container/998984C2F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

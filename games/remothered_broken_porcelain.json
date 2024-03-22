@@ -1,0 +1,76 @@
+{
+    "href": "/game/remothered_broken_porcelain",
+    "MSG": {
+        "id": "1272977612",
+        "title": "Remothered: Broken Porcelain",
+        "slug": "remothered_broken_porcelain",
+        "thumb_id": "c44e00de456253ab2fc18f19e8f460b8518677977dea497a7e3e25c2352ffb47",
+        "bg_id": "de5726390a2507ec827e1c5b88653d62eb922d2bd06536a46235e3083a0c428d",
+        "url": "https://www.gog.com/game/remothered_broken_porcelain",
+        "developer": "Stormind Games",
+        "publisher": "Modus Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1705558404",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_remothered_broken_porcelain_2.0.0_(64bit)_(46001)-1.bin",
+                    "size": "4294092798"
+                },
+                {
+                    "name": "setup_remothered_broken_porcelain_2.0.0_(64bit)_(46001)-2.bin",
+                    "size": "3625195716"
+                },
+                {
+                    "name": "setup_remothered_broken_porcelain_2.0.0_(64bit)_(46001).exe",
+                    "size": "880952"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6BE187D0DA",
+                            "link": "https://filecrypt.cc/Container/6BE187D0DA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/042AC124D0",
+                            "link": "https://filecrypt.cc/Container/042AC124D0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F91C8D7F2D",
+                            "link": "https://filecrypt.cc/Container/F91C8D7F2D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

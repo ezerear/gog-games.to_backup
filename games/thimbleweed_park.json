@@ -1,0 +1,105 @@
+{
+    "href": "/game/thimbleweed_park",
+    "MSG": {
+        "id": "1325604411",
+        "title": "Thimbleweed Park",
+        "slug": "thimbleweed_park",
+        "thumb_id": "31e65bb51db85cdf0415a350eab784240a8490c7c0857aeba2a35c2f269c646f",
+        "bg_id": "27246c40117d2beb0fd4fd40293408935c4a55e3a666a5e3542e3021fcc2b19c",
+        "url": "https://www.gog.com/game/thimbleweed_park",
+        "developer": "Terrible Toybox",
+        "publisher": "Terrible Toybox",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1700374591",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_ransome_unbeeped_1.0.958_(19287).exe",
+                    "size": "75697976"
+                },
+                {
+                    "name": "setup_thimbleweed_park_1.0.958_(19287).exe",
+                    "size": "985728456"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D4FB7F1F7D",
+                            "link": "https://filecrypt.cc/Container/D4FB7F1F7D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/328EECEA8D",
+                            "link": "https://filecrypt.cc/Container/328EECEA8D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/208E9ED7BE",
+                            "link": "https://filecrypt.cc/Container/208E9ED7BE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0CCA50D234",
+                            "link": "https://filecrypt.cc/Container/0CCA50D234"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6083A30F28",
+                            "link": "https://filecrypt.cc/Container/6083A30F28"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9721DAEC57",
+                            "link": "https://filecrypt.cc/Container/9721DAEC57"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

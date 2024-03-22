@@ -1,0 +1,72 @@
+{
+    "href": "/game/the_imperial_gatekeeper",
+    "MSG": {
+        "id": "1648087301",
+        "title": "The Imperial Gatekeeper",
+        "slug": "the_imperial_gatekeeper",
+        "thumb_id": "edbc4af488f18dd4f1d3e91967392a1e9b123239d05af7ef025b3d0d81712c7e",
+        "bg_id": "e8f0477b8b4d511a61229d79a4409efc287ed192bb6a65523b15c1fc2b9ae02b",
+        "url": "https://www.gog.com/en/game/the_imperial_gatekeeper",
+        "developer": "Tengsten",
+        "publisher": "Kagura Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709550790",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_imperial_gatekeeper_unrated_v3_(en_1.05_cn_1.03)_(58732).exe",
+                    "size": "70734816"
+                },
+                {
+                    "name": "setup_the_imperial_gatekeeper_v3_(en_1.05_cn_1.03)_(58732).exe",
+                    "size": "72399128"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0EC0E06AF8",
+                            "link": "https://filecrypt.cc/Container/0EC0E06AF8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BEAE9F2E84",
+                            "link": "https://filecrypt.cc/Container/BEAE9F2E84"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DF8CAF12C4",
+                            "link": "https://filecrypt.cc/Container/DF8CAF12C4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

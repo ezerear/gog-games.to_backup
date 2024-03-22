@@ -1,0 +1,68 @@
+{
+    "href": "/game/mcpixel_3",
+    "MSG": {
+        "id": "1669555675",
+        "title": "McPixel 3",
+        "slug": "mcpixel_3",
+        "thumb_id": "789dd6f2a7e147e86ea01e120a275ba5caedcf44c1c9aec00afd6ce7bb363505",
+        "bg_id": "23752357b350efcbd75c93445b270a894b0e56c0f030777b5e18741122cc9c31",
+        "url": "https://www.gog.com/en/game/mcpixel_3",
+        "developer": "Sos Sosowski",
+        "publisher": "Devolver Digital",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708693967",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_mcpixel_3_1.0.38_(64bit)_(63158).exe",
+                    "size": "146323400"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/70B421EC34",
+                            "link": "https://filecrypt.cc/Container/70B421EC34"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7AE80CA018",
+                            "link": "https://filecrypt.cc/Container/7AE80CA018"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0CC9DA4683",
+                            "link": "https://filecrypt.cc/Container/0CC9DA4683"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

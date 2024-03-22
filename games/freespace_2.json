@@ -1,0 +1,123 @@
+{
+    "href": "/game/freespace_2",
+    "MSG": {
+        "id": "5",
+        "title": "Freespace 2",
+        "slug": "freespace_2",
+        "thumb_id": "d73f470c34ac19b3f35638d177689507d2663d9974c0b3ff4e5c6e733f916e2d",
+        "bg_id": "b48edf201cc0417576e2c792c200e4cc43c6556e2bdf0b987e141026c9e933d5",
+        "url": "https://www.gog.com/game/freespace_2",
+        "developer": "Volition",
+        "publisher": "Interplay",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1709789837",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_freespace_2_1.20_v2_(33372)-1.bin",
+                    "size": "1520150187"
+                },
+                {
+                    "name": "setup_freespace_2_1.20_v2_(33372).exe",
+                    "size": "816160"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "freespace_2_manual.zip",
+                    "size": "6574026"
+                },
+                {
+                    "name": "freespace_2_refcard.zip",
+                    "size": "58801"
+                },
+                {
+                    "name": "freespace_2_soundtrack.zip",
+                    "size": "19907115"
+                },
+                {
+                    "name": "freespace_2_wallpaper.zip",
+                    "size": "6321363"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9ABFC14700",
+                            "link": "https://filecrypt.cc/Container/9ABFC14700"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2E50BD495B",
+                            "link": "https://filecrypt.cc/Container/2E50BD495B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A6767655E2",
+                            "link": "https://filecrypt.cc/Container/A6767655E2"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7A14041E13",
+                            "link": "https://filecrypt.cc/Container/7A14041E13"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F4BB87FD13",
+                            "link": "https://filecrypt.cc/Container/F4BB87FD13"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C11883AE22",
+                            "link": "https://filecrypt.cc/Container/C11883AE22"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

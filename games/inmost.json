@@ -1,0 +1,68 @@
+{
+    "href": "/game/inmost",
+    "MSG": {
+        "id": "1410008631",
+        "title": "INMOST",
+        "slug": "inmost",
+        "thumb_id": "73035cac320eddfbba9dba17fc0569d54c4d517297582b271ea192f0e5967e5d",
+        "bg_id": "d482d8db3246cd184a4f1d994fb6ffba9a051862f82b6077c3b8d9540ef74705",
+        "url": "https://www.gog.com/game/inmost",
+        "developer": "Hidden Layer Games",
+        "publisher": "Chucklefish",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710393994",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_inmost_1.0.4_(64bit)_(43336).exe",
+                    "size": "735586376"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FC9FC34234",
+                            "link": "https://filecrypt.cc/Container/FC9FC34234"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/004AEC924F",
+                            "link": "https://filecrypt.cc/Container/004AEC924F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/237C3C5AB5",
+                            "link": "https://filecrypt.cc/Container/237C3C5AB5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

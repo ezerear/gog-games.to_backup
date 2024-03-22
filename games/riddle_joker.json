@@ -1,0 +1,84 @@
+{
+    "href": "/game/riddle_joker",
+    "MSG": {
+        "id": "1606830592",
+        "title": "Riddle Joker",
+        "slug": "riddle_joker",
+        "thumb_id": "18826a8e2a54f9fd1547799a6beb6428aa0395fd3e7ac4f8faf1b8d9535d7067",
+        "bg_id": "59fd87ac6246505fb8b66fd4c49aeb489a0244427e77558fb0e9f5d1940bb5ec",
+        "url": "https://www.gog.com/en/game/riddle_joker",
+        "developer": "Yuzusoft",
+        "publisher": "NekoNyan Ltd., HIKARI FIELD",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709215267",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_riddle_joker_gog_1.0_(55932)-1.bin",
+                    "size": "4294107646"
+                },
+                {
+                    "name": "setup_riddle_joker_gog_1.0_(55932)-2.bin",
+                    "size": "2834495419"
+                },
+                {
+                    "name": "setup_riddle_joker_gog_1.0_(55932).exe",
+                    "size": "868424"
+                },
+                {
+                    "name": "setup_riddle_joker_unrated_gog_1.0_(55932)-1.bin",
+                    "size": "2022348006"
+                },
+                {
+                    "name": "setup_riddle_joker_unrated_gog_1.0_(55932).exe",
+                    "size": "793824"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E0D85ACA46",
+                            "link": "https://filecrypt.cc/Container/E0D85ACA46"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/661DFA3972",
+                            "link": "https://filecrypt.cc/Container/661DFA3972"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E893FD650D",
+                            "link": "https://filecrypt.cc/Container/E893FD650D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,126 @@
+{
+    "href": "/game/barrow_hill_the_dark_path",
+    "MSG": {
+        "id": "1840673966",
+        "title": "Barrow Hill: The Dark Path",
+        "slug": "barrow_hill_the_dark_path",
+        "thumb_id": "6b8a489d2b10242a50938dc38cd458c347b3f8112987e7df584138eed0847c46",
+        "bg_id": "61ea38a1870fe40c51c230d3861b16eccb2f486b898afb08d043d74f085c8431",
+        "url": "https://www.gog.com/game/barrow_hill_the_dark_path",
+        "developer": "Shadow Tor Studios",
+        "publisher": "Shadow Tor Studios",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708281567",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_barrow_hill_the_dark_path_bh2-gog1_(36924)-1.bin",
+                    "size": "3600375673"
+                },
+                {
+                    "name": "setup_barrow_hill_the_dark_path_bh2-gog1_(36924).exe",
+                    "size": "845928"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "barrow_hill_the_dark_path_soundtrack_wav.zip",
+                    "size": "644509436"
+                },
+                {
+                    "name": "barrow_hill_the_dark_path_walkthrough.zip",
+                    "size": "1326605"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A8485025B7",
+                            "link": "https://filecrypt.cc/Container/A8485025B7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A83E08851A",
+                            "link": "https://filecrypt.cc/Container/A83E08851A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/581AE529ED",
+                            "link": "https://filecrypt.cc/Container/581AE529ED"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6495BC2C43",
+                            "link": "https://filecrypt.cc/Container/6495BC2C43"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FB57D3306F",
+                            "link": "https://filecrypt.cc/Container/FB57D3306F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F1C33F6595",
+                            "link": "https://filecrypt.cc/Container/F1C33F6595"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EF3776A2D9",
+                            "link": "https://filecrypt.cc/Container/EF3776A2D9"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

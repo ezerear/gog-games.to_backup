@@ -1,0 +1,84 @@
+{
+    "href": "/game/the_beast_inside",
+    "MSG": {
+        "id": "1341028548",
+        "title": "The Beast Inside",
+        "slug": "the_beast_inside",
+        "thumb_id": "9d7844741c2e98d156d9c0b8b2b7b90e21a9c743fd962b4c00ea53b023dc221b",
+        "bg_id": "c9ce9ecef403f14ab65acec1ca18fe163aa33d3d78bfa1a929c314855864a93e",
+        "url": "https://www.gog.com/game/the_beast_inside",
+        "developer": "Illusion Ray Studio",
+        "publisher": "Movie Games S.A., PlayWay S.A.",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710777882",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_beast_inside_1.05_(68318)-1.bin",
+                    "size": "4293843454"
+                },
+                {
+                    "name": "setup_the_beast_inside_1.05_(68318)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_the_beast_inside_1.05_(68318)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_the_beast_inside_1.05_(68318)-4.bin",
+                    "size": "2598341681"
+                },
+                {
+                    "name": "setup_the_beast_inside_1.05_(68318).exe",
+                    "size": "1133800"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8BBED61AFC",
+                            "link": "https://filecrypt.cc/Container/8BBED61AFC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2D535600C8",
+                            "link": "https://filecrypt.cc/Container/2D535600C8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C38182B452",
+                            "link": "https://filecrypt.cc/Container/C38182B452"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

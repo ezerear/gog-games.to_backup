@@ -1,0 +1,94 @@
+{
+    "href": "/game/tower_of_ardia",
+    "MSG": {
+        "id": "2062139739",
+        "title": "Tower of Ardia",
+        "slug": "tower_of_ardia",
+        "thumb_id": "16a57f9220466989f6d90385ba69e19f4d56ac0d2d0b1e457a7deb055a800140",
+        "bg_id": "79a2e804d9614e8f78fcb114eb4377b1d9070ddc93f51a068215c04427190819",
+        "url": "https://www.gog.com/en/game/tower_of_ardia",
+        "developer": "o_m",
+        "publisher": "Kagura Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1697512192",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tower_of_ardia_unrated_v3_(en_1.02_cn_1.01)_(59013).exe",
+                    "size": "769153120"
+                },
+                {
+                    "name": "setup_tower_of_ardia_v3_(en_1.02_cn_1.01)_(59013).exe",
+                    "size": "305322952"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D11ED5FC4E",
+                            "link": "https://filecrypt.cc/Container/D11ED5FC4E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5426EC0C65",
+                            "link": "https://filecrypt.cc/Container/5426EC0C65"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A8808CCC0F",
+                            "link": "https://filecrypt.cc/Container/A8808CCC0F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AFA150CD27",
+                            "link": "https://filecrypt.cc/Container/AFA150CD27"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/56B2DA2216",
+                            "link": "https://filecrypt.cc/Container/56B2DA2216"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

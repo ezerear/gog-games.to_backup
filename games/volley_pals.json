@@ -1,0 +1,79 @@
+{
+    "href": "/game/volley_pals",
+    "MSG": {
+        "id": "1229617105",
+        "title": "Volley Pals",
+        "slug": "volley_pals",
+        "thumb_id": "ab03f4a3109a3f578e559f14d85abcc28995a78ddf7bc0beb8f9a44d1b6e902d",
+        "bg_id": "2a32e7bad94b1cfdf361d513cc6be9e502e37393bb7d4f0f84b9bac56251d38e",
+        "url": "https://www.gog.com/en/game/volley_pals",
+        "developer": "NAISU",
+        "publisher": "MediBang Inc.",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708164596",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_volley_pals_1.0_(64bit)_(69559).exe",
+                    "size": "137155944"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2513BDD539",
+                            "link": "https://filecrypt.cc/Container/2513BDD539"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C31BE6A8C6",
+                            "link": "https://filecrypt.cc/Container/C31BE6A8C6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/931BA554CC",
+                            "link": "https://filecrypt.cc/Container/931BA554CC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/226FAFCE1F",
+                            "link": "https://filecrypt.cc/Container/226FAFCE1F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

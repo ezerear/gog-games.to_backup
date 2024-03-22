@@ -1,0 +1,68 @@
+{
+    "href": "/game/caves_of_lore",
+    "MSG": {
+        "id": "1731366259",
+        "title": "Caves of Lore",
+        "slug": "caves_of_lore",
+        "thumb_id": "b16f60a5c7cfe4730ed66e00b1e5daa78c6c7cf98a0537611dafac1bcf09b649",
+        "bg_id": "8564c3dbae2b5867e20e8bb0476fa06195895c57a130153624b8ba83bf2dd49e",
+        "url": "https://www.gog.com/en/game/caves_of_lore",
+        "developer": "by Mike Robins",
+        "publisher": "by Mike Robins",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710742640",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_caves_of_lore_1.5.5.0_(71829).exe",
+                    "size": "168206872"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6CCA76333F",
+                            "link": "https://filecrypt.cc/Container/6CCA76333F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EE88DF5E52",
+                            "link": "https://filecrypt.cc/Container/EE88DF5E52"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5B1372C9BF",
+                            "link": "https://filecrypt.cc/Container/5B1372C9BF"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

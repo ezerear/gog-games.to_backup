@@ -1,0 +1,90 @@
+{
+    "href": "/game/battle_axe",
+    "MSG": {
+        "id": "1402891706",
+        "title": "Battle Axe",
+        "slug": "battle_axe",
+        "thumb_id": "f5035150d140ed3b941287e33dc51ed313bea555a0f773c94ea472c61d10e04b",
+        "bg_id": "1a3a2a2b29fa6874ac83fb4bfc1544ad45159319f693306debb1d3d03e1058b6",
+        "url": "https://www.gog.com/game/battle_axe",
+        "developer": "Bitmap Bureau",
+        "publisher": "Numskull Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1698931722",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_battle_axe_1.0.4_(64bit)_(61964).exe",
+                    "size": "124167960"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A74A1DD733",
+                            "link": "https://filecrypt.cc/Container/A74A1DD733"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4364E3E3F0",
+                            "link": "https://filecrypt.cc/Container/4364E3E3F0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F3CCAF7216",
+                            "link": "https://filecrypt.cc/Container/F3CCAF7216"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B1190D774D",
+                            "link": "https://filecrypt.cc/Container/B1190D774D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/70D5AF7EEC",
+                            "link": "https://filecrypt.cc/Container/70D5AF7EEC"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

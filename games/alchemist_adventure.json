@@ -1,0 +1,119 @@
+{
+    "href": "/game/alchemist_adventure",
+    "MSG": {
+        "id": "1920790978",
+        "title": "Alchemist Adventure",
+        "slug": "alchemist_adventure",
+        "thumb_id": "37c23fd0d1a1586fad5cfbe31695dc01d87c50d22de389a370cd45f6841bc04e",
+        "bg_id": "0e13424538ef8f41a95b3ae2491d7184988341d7dfec84fb9c7d1e6e908c9546",
+        "url": "https://www.gog.com/game/alchemist_adventure",
+        "developer": "Bad Minions",
+        "publisher": "SUPER.COM",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709716469",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_alchemist_adventure_1.211021_(50901)-1.bin",
+                    "size": "2327713587"
+                },
+                {
+                    "name": "setup_alchemist_adventure_1.211021_(50901).exe",
+                    "size": "2830056"
+                },
+                {
+                    "name": "setup_alchemist_adventure_ost_1.211021_(50901).exe",
+                    "size": "6140896"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "alchemist_adventure_ost_mp3.zip",
+                    "size": "177524695"
+                },
+                {
+                    "name": "alchemist_adventure_ost_wav.zip",
+                    "size": "796683744"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/756C459B66",
+                            "link": "https://filecrypt.cc/Container/756C459B66"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EAA70C5715",
+                            "link": "https://filecrypt.cc/Container/EAA70C5715"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/96596A132C",
+                            "link": "https://filecrypt.cc/Container/96596A132C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/31740C03CC",
+                            "link": "https://filecrypt.cc/Container/31740C03CC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0159B05849",
+                            "link": "https://filecrypt.cc/Container/0159B05849"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0949A3A76A",
+                            "link": "https://filecrypt.cc/Container/0949A3A76A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

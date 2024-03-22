@@ -1,0 +1,94 @@
+{
+    "href": "/game/metro_simulator",
+    "MSG": {
+        "id": "1675376502",
+        "title": "Metro Simulator",
+        "slug": "metro_simulator",
+        "thumb_id": "733e46a12d24485d5ab55e56f188e14f709368fe441f07981310ca4cab3d69c4",
+        "bg_id": "4eea9ebea14131307fce8b996605b6a56c46cc65fcf3e15ecd387c90b7710e77",
+        "url": "https://www.gog.com/en/game/metro_simulator",
+        "developer": "KishMish Games",
+        "publisher": "",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1704790319",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_metro_simulator_5.1c_(64bit)_(65116)-1.bin",
+                    "size": "2768886269"
+                },
+                {
+                    "name": "setup_metro_simulator_5.1c_(64bit)_(65116).exe",
+                    "size": "889328"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C165577552",
+                            "link": "https://filecrypt.cc/Container/C165577552"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/34B7F7E36B",
+                            "link": "https://filecrypt.cc/Container/34B7F7E36B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9A0510B52B",
+                            "link": "https://filecrypt.cc/Container/9A0510B52B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2C502CA577",
+                            "link": "https://filecrypt.cc/Container/2C502CA577"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/87FA364731",
+                            "link": "https://filecrypt.cc/Container/87FA364731"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

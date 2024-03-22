@@ -1,0 +1,135 @@
+{
+    "href": "/game/hellpoint",
+    "MSG": {
+        "id": "1503950763",
+        "title": "Hellpoint",
+        "slug": "hellpoint",
+        "thumb_id": "48d663a17cd97b2eba06e0d23fb1ecc51c6a4d38c64189bbd92d7321547525d5",
+        "bg_id": "04b59f3d15456bb382ca1a3db09a4ba0c4b197c12b2a9bdb4eddd9e5684c0e66",
+        "url": "https://www.gog.com/game/hellpoint",
+        "developer": "Cradle Games",
+        "publisher": "tinyBuild",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710238113",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hellpoint_-_blue_sun_v495_(58000)-1.bin",
+                    "size": "4294132734"
+                },
+                {
+                    "name": "setup_hellpoint_-_blue_sun_v495_(58000)-2.bin",
+                    "size": "426074532"
+                },
+                {
+                    "name": "setup_hellpoint_-_blue_sun_v495_(58000).exe",
+                    "size": "844400"
+                },
+                {
+                    "name": "setup_hellpoint_v495_(58000)-1.bin",
+                    "size": "4293871614"
+                },
+                {
+                    "name": "setup_hellpoint_v495_(58000)-2.bin",
+                    "size": "1530388790"
+                },
+                {
+                    "name": "setup_hellpoint_v495_(58000).exe",
+                    "size": "1105776"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "artbook.zip",
+                    "size": "22555207"
+                },
+                {
+                    "name": "helllpoint_ost_wav.zip",
+                    "size": "731576546"
+                },
+                {
+                    "name": "hellpoint_ost_mp3.zip",
+                    "size": "158565358"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5227BB3B41",
+                            "link": "https://filecrypt.cc/Container/5227BB3B41"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EA8439F6E8",
+                            "link": "https://filecrypt.cc/Container/EA8439F6E8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/943F489E12",
+                            "link": "https://filecrypt.cc/Container/943F489E12"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6BB16D7825",
+                            "link": "https://filecrypt.cc/Container/6BB16D7825"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E56418B978",
+                            "link": "https://filecrypt.cc/Container/E56418B978"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/432005284F",
+                            "link": "https://filecrypt.cc/Container/432005284F"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

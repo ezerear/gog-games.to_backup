@@ -1,0 +1,68 @@
+{
+    "href": "/game/chained_echoes",
+    "MSG": {
+        "id": "2067731250",
+        "title": "Chained Echoes",
+        "slug": "chained_echoes",
+        "thumb_id": "d2ad227cba173e4d5c962d41558fbd979102f97656912491c54d2bbe195fae2a",
+        "bg_id": "186e4080862bf59bb68bb915d2477b28684bb6d78a54a5d5e6613a79431cbcaf",
+        "url": "https://www.gog.com/game/chained_echoes",
+        "developer": "Matthias Linda",
+        "publisher": "Deck13",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709266589",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_chained_echoes_1.322_(71538).exe",
+                    "size": "671047872"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/922AC03719",
+                            "link": "https://filecrypt.cc/Container/922AC03719"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/87E9C862AB",
+                            "link": "https://filecrypt.cc/Container/87E9C862AB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1E4C4EBA3C",
+                            "link": "https://filecrypt.cc/Container/1E4C4EBA3C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

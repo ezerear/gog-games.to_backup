@@ -1,0 +1,137 @@
+{
+    "href": "/game/ronin",
+    "MSG": {
+        "id": "1435570424",
+        "title": "Ronin",
+        "slug": "ronin",
+        "thumb_id": "4194eed945446fa8889d0b141e15a076e0c4ffc80efc53bf1ecd2efc03333617",
+        "bg_id": "c7bd037cc1ee25f0e076de49fb5caa679c7d395d5e023859582e489db2223fe4",
+        "url": "https://www.gog.com/game/ronin",
+        "developer": "Tomasz Wacławek",
+        "publisher": "Devolver Digital",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708178147",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_ronin_9_(22166).exe",
+                    "size": "166253376"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "ronin_comic.zip",
+                    "size": "29084070"
+                },
+                {
+                    "name": "ronin_ost_flac.zip",
+                    "size": "466918041"
+                },
+                {
+                    "name": "ronin_ost_mp3.zip",
+                    "size": "79437775"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D0E85B0A7E",
+                            "link": "https://filecrypt.cc/Container/D0E85B0A7E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2C66B9D484",
+                            "link": "https://filecrypt.cc/Container/2C66B9D484"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D66B2C26B1",
+                            "link": "https://filecrypt.cc/Container/D66B2C26B1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A56310126B",
+                            "link": "https://filecrypt.cc/Container/A56310126B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CF9DE39544",
+                            "link": "https://filecrypt.cc/Container/CF9DE39544"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A31AA09DF6",
+                            "link": "https://filecrypt.cc/Container/A31AA09DF6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A766E5CCBE",
+                            "link": "https://filecrypt.cc/Container/A766E5CCBE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/44466A7DB5",
+                            "link": "https://filecrypt.cc/Container/44466A7DB5"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/dust_fleet",
+    "MSG": {
+        "id": "1776938573",
+        "title": "Dust Fleet",
+        "slug": "dust_fleet",
+        "thumb_id": "3b4424d611a4d3202a5be7c8f6765720d5aa508f3fa051a95f23366ca0404825",
+        "bg_id": "685baab0d03bde48405bae2a80eefac2b5c6568bea902f1576546afcce3b2ddd",
+        "url": "https://www.gog.com/en/game/dust_fleet",
+        "developer": "Orbiting Disco",
+        "publisher": "Freedom Games",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710891383",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dust_fleet_4.4_(64bit)_(71943).exe",
+                    "size": "1558500488"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D5E8F52A29",
+                            "link": "https://filecrypt.cc/Container/D5E8F52A29"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D19C51F6C9",
+                            "link": "https://filecrypt.cc/Container/D19C51F6C9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F3E250EA8E",
+                            "link": "https://filecrypt.cc/Container/F3E250EA8E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

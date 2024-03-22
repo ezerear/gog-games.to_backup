@@ -1,0 +1,119 @@
+{
+    "href": "/game/penumbra_black_plague",
+    "MSG": {
+        "id": "1207662743",
+        "title": "Penumbra - Black Plague",
+        "slug": "penumbra_black_plague",
+        "thumb_id": "71162241c2bddcb26e2014d9699ee025ee4ac01f17870c005b2ac294a69c1af4",
+        "bg_id": "908e37e3284e1bb79203cccb55c48aebc96a8d3961743e07302a994ecff55753",
+        "url": "https://www.gog.com/game/the_penumbra_collection",
+        "developer": "Frictional Games",
+        "publisher": "Frictional Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710522565",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_penumbra_-_black_plague_1.0_(20339).exe",
+                    "size": "640131560"
+                },
+                {
+                    "name": "setup_penumbra_-_requiem_1.0_(20339).exe",
+                    "size": "128473384"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "penumbra_collection_artworks.zip",
+                    "size": "3804580"
+                },
+                {
+                    "name": "penumbra_collection_manuals.zip",
+                    "size": "310715"
+                },
+                {
+                    "name": "penumbra_collection_walkthroughs.zip",
+                    "size": "189370"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A9BD39D3CE",
+                            "link": "https://filecrypt.cc/Container/A9BD39D3CE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C29C205583",
+                            "link": "https://filecrypt.cc/Container/C29C205583"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9AA2A38FEE",
+                            "link": "https://filecrypt.cc/Container/9AA2A38FEE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/33D04C1615",
+                            "link": "https://filecrypt.cc/Container/33D04C1615"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/704FBAAD2C",
+                            "link": "https://filecrypt.cc/Container/704FBAAD2C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A7B4DE23EE",
+                            "link": "https://filecrypt.cc/Container/A7B4DE23EE"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/distraint_deluxe_edition",
+    "MSG": {
+        "id": "1180040534",
+        "title": "DISTRAINT: Deluxe Edition",
+        "slug": "distraint_deluxe_edition",
+        "thumb_id": "a1739118aaa0a006e9996bc6ded1306ebc1387643e1f6a4949cff83d2378151d",
+        "bg_id": "8d7d521af885e08cf69fa9a2f172ceb5871c85b4a67185bea8a08e23e1c6ecc9",
+        "url": "https://www.gog.com/game/distraint_deluxe_edition",
+        "developer": "Jesse Makkonen",
+        "publisher": "Jesse Makkonen",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708888782",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_distraint_deluxe_edition_1.1_(45329).exe",
+                    "size": "146283848"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/091488A2A7",
+                            "link": "https://filecrypt.cc/Container/091488A2A7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3D5A72486F",
+                            "link": "https://filecrypt.cc/Container/3D5A72486F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5FBD1FD930",
+                            "link": "https://filecrypt.cc/Container/5FBD1FD930"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

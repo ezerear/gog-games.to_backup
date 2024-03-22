@@ -1,0 +1,123 @@
+{
+    "href": "/game/earthworm_jim_3d",
+    "MSG": {
+        "id": "1207658649",
+        "title": "Earthworm Jim 3D",
+        "slug": "earthworm_jim_3d",
+        "thumb_id": "521f10ac342d0f71a9e4ce3c7dc1ade03065259cbb6d71daad268d4152802e27",
+        "bg_id": "932a1a173241f8d5d57547bb825a64416bcb6947b9413e21b71fc32354cf1cf8",
+        "url": "https://www.gog.com/game/earthworm_jim_3d",
+        "developer": "VIS Entertainment",
+        "publisher": "Interplay",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710494704",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_earthworm_jim_3d_1.0_v2_(33375).exe",
+                    "size": "128522576"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "ewj3d_avatars.zip",
+                    "size": "73804"
+                },
+                {
+                    "name": "ewj3d_icons.zip",
+                    "size": "39635"
+                },
+                {
+                    "name": "ewj3d_manual.zip",
+                    "size": "1594235"
+                },
+                {
+                    "name": "ewj3d_soundtrack.zip",
+                    "size": "103919201"
+                },
+                {
+                    "name": "ewj3d_wallpaper.zip",
+                    "size": "4847330"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/79B7C93B7C",
+                            "link": "https://filecrypt.cc/Container/79B7C93B7C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4BAB4E6642",
+                            "link": "https://filecrypt.cc/Container/4BAB4E6642"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/32824F63A4",
+                            "link": "https://filecrypt.cc/Container/32824F63A4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/79254CA86E",
+                            "link": "https://filecrypt.cc/Container/79254CA86E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/86C272ED84",
+                            "link": "https://filecrypt.cc/Container/86C272ED84"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/613C68037C",
+                            "link": "https://filecrypt.cc/Container/613C68037C"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

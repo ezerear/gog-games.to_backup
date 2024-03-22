@@ -1,0 +1,83 @@
+{
+    "href": "/game/the_kindeman_remedy",
+    "MSG": {
+        "id": "1325759747",
+        "title": "The Kindeman Remedy",
+        "slug": "the_kindeman_remedy",
+        "thumb_id": "16e61cb9bee26e91fdceadb1f0cb83a6a77637527bc39c13e07128fb863a02bd",
+        "bg_id": "06f2f5315c0b92a3aeb4e68068747b736c8619645bc936a2b4cd262c4ac9fdfb",
+        "url": "https://www.gog.com/en/game/the_kindeman_remedy",
+        "developer": "Troglobytes Games",
+        "publisher": "3D Realms",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1707577571",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_kindeman_remedy_1.0_(64bit)_(69059)-1.bin",
+                    "size": "2428593436"
+                },
+                {
+                    "name": "setup_the_kindeman_remedy_1.0_(64bit)_(69059).exe",
+                    "size": "809592"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9B4956453F",
+                            "link": "https://filecrypt.cc/Container/9B4956453F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6C0ADB67F2",
+                            "link": "https://filecrypt.cc/Container/6C0ADB67F2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6F18B1FB03",
+                            "link": "https://filecrypt.cc/Container/6F18B1FB03"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/60DD375608",
+                            "link": "https://filecrypt.cc/Container/60DD375608"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

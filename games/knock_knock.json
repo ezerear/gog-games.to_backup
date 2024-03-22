@@ -1,0 +1,127 @@
+{
+    "href": "/game/knock_knock",
+    "MSG": {
+        "id": "1207659923",
+        "title": "Knock-Knock",
+        "slug": "knock_knock",
+        "thumb_id": "faaa0d24ee4ca73170fde3c590231d91d2a5b9d1a59a8ffe9036da23ac5f75c8",
+        "bg_id": "abb9c0c9e9e6c550fd74b1a97e60ec64f14ad9194ef273858fa8599aaa416c0f",
+        "url": "https://www.gog.com/game/knock_knock",
+        "developer": "Ice-Pick Lodge",
+        "publisher": "Ice-Pick Lodge",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1706086511",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "patch_knock-knock_2.0.1.5.exe",
+                    "size": "1365584"
+                },
+                {
+                    "name": "setup_knock-knock_2.0.0.4.exe",
+                    "size": "429436216"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "knock_knock_artbook.zip",
+                    "size": "11486842"
+                },
+                {
+                    "name": "knock_knock_avatars.zip",
+                    "size": "1056145"
+                },
+                {
+                    "name": "knock_knock_dos_donts.zip",
+                    "size": "2680368"
+                },
+                {
+                    "name": "knock_knock_ost.zip",
+                    "size": "14286874"
+                },
+                {
+                    "name": "knock_knock_wallpapers.zip",
+                    "size": "11435873"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4249DCA48F",
+                            "link": "https://filecrypt.cc/Container/4249DCA48F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6EBAEA7C51",
+                            "link": "https://filecrypt.cc/Container/6EBAEA7C51"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/781A3B429E",
+                            "link": "https://filecrypt.cc/Container/781A3B429E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/99304478B3",
+                            "link": "https://filecrypt.cc/Container/99304478B3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/826EF191E8",
+                            "link": "https://filecrypt.cc/Container/826EF191E8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E1E5602735",
+                            "link": "https://filecrypt.cc/Container/E1E5602735"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

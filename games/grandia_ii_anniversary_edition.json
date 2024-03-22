@@ -1,0 +1,72 @@
+{
+    "href": "/game/grandia_ii_anniversary_edition",
+    "MSG": {
+        "id": "1435140754",
+        "title": "Grandia II Anniversary Edition",
+        "slug": "grandia_ii_anniversary_edition",
+        "thumb_id": "c05c751d25c2e2782271822559bb2145658df3b05012f7081832d91ec26412c6",
+        "bg_id": "c63d6307a93c2f6f776511cf339ac442533f528ac76ddb1f086a0642822dc6ed",
+        "url": "https://web.archive.org/web/20200308222504/https://www.gog.com/game/grandia_ii_anniversary_edition",
+        "developer": "Game Arts, SkyBox Labs",
+        "publisher": "GungHo Online Entertainment",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709221752",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_grandia_ii_anniversary_edition_1.07_(16622)-1.bin",
+                    "size": "1971267955"
+                },
+                {
+                    "name": "setup_grandia_ii_anniversary_edition_1.07_(16622).exe",
+                    "size": "2819768"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8EE5FF2A13",
+                            "link": "https://filecrypt.cc/Container/8EE5FF2A13"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7132FD75DD",
+                            "link": "https://filecrypt.cc/Container/7132FD75DD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FF8E6F2780",
+                            "link": "https://filecrypt.cc/Container/FF8E6F2780"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

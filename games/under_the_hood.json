@@ -1,0 +1,68 @@
+{
+    "href": "/game/under_the_hood",
+    "MSG": {
+        "id": "1418084644",
+        "title": "Under The Hood",
+        "slug": "under_the_hood",
+        "thumb_id": "a08e024380d4940ddeb2b54eb03c310500d3e0514853dc0ed8805579cfe5446c",
+        "bg_id": "3b5878fdd9dd4a766ebb5f4f6e7bed0e1c5f2df06fc3d76f5a57c4364d398059",
+        "url": "https://www.gog.com/en/game/under_the_hood",
+        "developer": "Shady Corner Games",
+        "publisher": "Shady Corner Games",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1708508270",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_under_the_hood_6.0_(68988).exe",
+                    "size": "274773000"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0751FB8355",
+                            "link": "https://filecrypt.cc/Container/0751FB8355"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0641E39DEC",
+                            "link": "https://filecrypt.cc/Container/0641E39DEC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A373AC0370",
+                            "link": "https://filecrypt.cc/Container/A373AC0370"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

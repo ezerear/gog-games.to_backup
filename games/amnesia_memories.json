@@ -1,0 +1,72 @@
+{
+    "href": "/game/amnesia_memories",
+    "MSG": {
+        "id": "1589114519",
+        "title": "Amnesia™: Memories",
+        "slug": "amnesia_memories",
+        "thumb_id": "cccfe0b574b40db5d7e1e02d2cae57ce4b1f3e6acf35ea40c08bb2bc66962ebc",
+        "bg_id": "f582e3d0e928f411ddef6b9422c76c5b68ade2f23db2894f023a6e8df35d1c59",
+        "url": "https://www.gog.com/game/amnesia_memories",
+        "developer": "Idea Factory / Design Factory",
+        "publisher": "Idea Factory International",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708263720",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_amnesiatm_memories_1.02_(33058)-1.bin",
+                    "size": "3027075743"
+                },
+                {
+                    "name": "setup_amnesiatm_memories_1.02_(33058).exe",
+                    "size": "3590280"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A67C5D495E",
+                            "link": "https://filecrypt.cc/Container/A67C5D495E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/51CB3E2B0B",
+                            "link": "https://filecrypt.cc/Container/51CB3E2B0B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2573DFD620",
+                            "link": "https://filecrypt.cc/Container/2573DFD620"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

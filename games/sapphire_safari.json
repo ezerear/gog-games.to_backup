@@ -1,0 +1,94 @@
+{
+    "href": "/game/sapphire_safari",
+    "MSG": {
+        "id": "1804860967",
+        "title": "Sapphire Safari",
+        "slug": "sapphire_safari",
+        "thumb_id": "9124fd4678edcca90f7bbdcd7c63cc71ef9271dbbfdf917bd4c878c296f63537",
+        "bg_id": "61b71b89f3f6cac738ad86d8f9bb620aa63ba2823237cadcbcff10a5c62d7ae0",
+        "url": "https://www.gog.com/en/game/sapphire_safari",
+        "developer": "Kinky Fridays",
+        "publisher": "Kinky Fridays",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707046757",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sapphire_safari_v020_(70768)-1.bin",
+                    "size": "3323011970"
+                },
+                {
+                    "name": "setup_sapphire_safari_v020_(70768).exe",
+                    "size": "811832"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A243BFF874",
+                            "link": "https://filecrypt.cc/Container/A243BFF874"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/304373CC76",
+                            "link": "https://filecrypt.cc/Container/304373CC76"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E703FDEF95",
+                            "link": "https://filecrypt.cc/Container/E703FDEF95"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/75ABC5503F",
+                            "link": "https://filecrypt.cc/Container/75ABC5503F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D91B6BFEA0",
+                            "link": "https://filecrypt.cc/Container/D91B6BFEA0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

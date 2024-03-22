@@ -1,0 +1,89 @@
+{
+    "href": "/game/dracula_5_the_blood_legacy",
+    "MSG": {
+        "id": "1207664283",
+        "title": "Dracula 5: The Blood Legacy",
+        "slug": "dracula_5_the_blood_legacy",
+        "thumb_id": "c7d0a5501ab58ce0e1cbcf0f4a0d952569d1ea87e7718f3fdf2bacbabd69a809",
+        "bg_id": "e3e869ca960ec4aadd56aef3c9ad48df46caa2b6507a6a178a7aa8de12fb750c",
+        "url": "https://www.gog.com/game/dracula_4_5",
+        "developer": "Microids",
+        "publisher": "Anuman Interactive",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710189304",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dracula5_2.1.0.3.exe",
+                    "size": "1201664096"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "dracula_5_avatars.zip",
+                    "size": "110865"
+                },
+                {
+                    "name": "dracula_5_wallpaper.zip",
+                    "size": "918300"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E03F0A4B9F",
+                            "link": "https://filecrypt.cc/Container/E03F0A4B9F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D122EA2E4D",
+                            "link": "https://filecrypt.cc/Container/D122EA2E4D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C02FFAC604",
+                            "link": "https://filecrypt.cc/Container/C02FFAC604"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4CC95AB7AE",
+                            "link": "https://filecrypt.cc/Container/4CC95AB7AE"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

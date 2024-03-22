@@ -1,0 +1,57 @@
+{
+    "href": "/game/lost_sea",
+    "MSG": {
+        "id": "1856044899",
+        "title": "Lost Sea",
+        "slug": "lost_sea",
+        "thumb_id": "f5f0751dd936501833b99defacebdbeed94abb57ed79459e553cbf01a425c941",
+        "bg_id": "7bb4afcd0d138c97960b7791156e8fecc15606ae36b30c5fbb6e76d6e78b342a",
+        "url": "https://www.gog.com/game/lost_sea",
+        "developer": "Eastasiasoft Ltd. ",
+        "publisher": "Eastasiasoft Ltd. ",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708979750",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_lost_sea_1.03l_(12198).exe",
+                    "size": "418678464"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/24D2A9318C",
+                            "link": "https://filecrypt.cc/Container/24D2A9318C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9342792F39",
+                            "link": "https://filecrypt.cc/Container/9342792F39"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

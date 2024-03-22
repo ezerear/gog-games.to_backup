@@ -1,0 +1,68 @@
+{
+    "href": "/game/switchball_hd",
+    "MSG": {
+        "id": "1682732810",
+        "title": "Switchball HD",
+        "slug": "switchball_hd",
+        "thumb_id": "449fbb39e6460584a19bbfdca73e1a3ea263e40a308b230481e80929a3f15df4",
+        "bg_id": "5fe1a3a14bacdc5f44fdb51b63aa2ea9c3f9813860cf9692e799ca09f80a56d9",
+        "url": "https://www.gog.com/en/game/switchball_hd",
+        "developer": "Atomic Elbow",
+        "publisher": "Atomic Elbow",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710624867",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_switchball_hd_370_(64bit)_(63448).exe",
+                    "size": "1389076608"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5E97D07E46",
+                            "link": "https://filecrypt.cc/Container/5E97D07E46"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3B7177511D",
+                            "link": "https://filecrypt.cc/Container/3B7177511D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B170A90F70",
+                            "link": "https://filecrypt.cc/Container/B170A90F70"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

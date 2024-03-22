@@ -1,0 +1,83 @@
+{
+    "href": "/game/the_flower_collectors",
+    "MSG": {
+        "id": "1652114337",
+        "title": "The Flower Collectors",
+        "slug": "the_flower_collectors",
+        "thumb_id": "73cb7a5242f356ef107a003a49d39bc3bb72ad3152ccfe8fd9666e46e03170cc",
+        "bg_id": "a895c832535d38f4ec15c29c193298fd515a0d35defecefae8b7118868f38539",
+        "url": "https://www.gog.com/game/the_flower_collectors",
+        "developer": "Mi'pu'mi Games",
+        "publisher": "Mi'pu'mi Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1684204437",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_flower_collectors_1.0.4.3_(64bit)_(38245)-1.bin",
+                    "size": "512160409"
+                },
+                {
+                    "name": "setup_the_flower_collectors_1.0.4.3_(64bit)_(38245).exe",
+                    "size": "795376"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B47C115A77",
+                            "link": "https://filecrypt.cc/Container/B47C115A77"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0CAD3BE710",
+                            "link": "https://filecrypt.cc/Container/0CAD3BE710"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2219874D1E",
+                            "link": "https://filecrypt.cc/Container/2219874D1E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E3EFEAA3E9",
+                            "link": "https://filecrypt.cc/Container/E3EFEAA3E9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

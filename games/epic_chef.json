@@ -1,0 +1,83 @@
+{
+    "href": "/game/epic_chef",
+    "MSG": {
+        "id": "1956323820",
+        "title": "Epic Chef",
+        "slug": "epic_chef",
+        "thumb_id": "7a1d4e12539c8701b086c3ad5f5401902f250f6dc547f6bf8899cb20c9b401f8",
+        "bg_id": "b7d8ca049b87c160a5d00afb4ad5b80a07e098a0348a24254fd7ee60ca33a5e6",
+        "url": "https://www.gog.com/en/game/epic_chef",
+        "developer": "Infinigon Games",
+        "publisher": "Team17 Digital LTD.",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1706874664",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_epic_chef_20220211_(63275)-1.bin",
+                    "size": "3884412322"
+                },
+                {
+                    "name": "setup_epic_chef_20220211_(63275).exe",
+                    "size": "953440"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6FC8F29419",
+                            "link": "https://filecrypt.cc/Container/6FC8F29419"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/285F50D93A",
+                            "link": "https://filecrypt.cc/Container/285F50D93A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D971276D17",
+                            "link": "https://filecrypt.cc/Container/D971276D17"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2FD9CD1E37",
+                            "link": "https://filecrypt.cc/Container/2FD9CD1E37"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

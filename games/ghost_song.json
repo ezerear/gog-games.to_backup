@@ -1,0 +1,90 @@
+{
+    "href": "/game/ghost_song",
+    "MSG": {
+        "id": "1305299338",
+        "title": "Ghost Song",
+        "slug": "ghost_song",
+        "thumb_id": "066c93d4549feb64bdcb31b8fd59911bb3d4172aabe35569e4ea7aa36e12b5e2",
+        "bg_id": "0280766b236c22f739379d4b11c02a8e1012ffc1b9eb09bc1cd68ece0c533aa9",
+        "url": "https://www.gog.com/en/game/ghost_song",
+        "developer": "Old Moon",
+        "publisher": "Humble Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1706757913",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_ghost_song_1.2.12b_(69123).exe",
+                    "size": "1467404680"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B7B1DAFC2D",
+                            "link": "https://filecrypt.cc/Container/B7B1DAFC2D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C2588D52E5",
+                            "link": "https://filecrypt.cc/Container/C2588D52E5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A50438EDCA",
+                            "link": "https://filecrypt.cc/Container/A50438EDCA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D43CED8073",
+                            "link": "https://filecrypt.cc/Container/D43CED8073"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/16F507E207",
+                            "link": "https://filecrypt.cc/Container/16F507E207"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

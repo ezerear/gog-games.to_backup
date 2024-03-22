@@ -1,0 +1,107 @@
+{
+    "href": "/game/unworthy",
+    "MSG": {
+        "id": "1876401097",
+        "title": "Unworthy",
+        "slug": "unworthy",
+        "thumb_id": "aa99da302d57dfafd11196d8ccc6f4ef7ca84be53c024fc124208e9d59e4ad0f",
+        "bg_id": "72281654d19b37adcf1a93dfdc2a995d6476d05331c419e380478920656192a1",
+        "url": "https://www.gog.com/game/unworthy",
+        "developer": "Aleksandar Kuzmanovic Games Inc.",
+        "publisher": "Aleksandar Kuzmanovic Games Inc.",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710764630",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_unworthy_version_1.0.1.d_(21330).exe",
+                    "size": "1043584112"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "unworthy_soundtrack_mp3.zip",
+                    "size": "228580952"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/77FB2C7409",
+                            "link": "https://filecrypt.cc/Container/77FB2C7409"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/015712201C",
+                            "link": "https://filecrypt.cc/Container/015712201C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5FC565EBB5",
+                            "link": "https://filecrypt.cc/Container/5FC565EBB5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D7C9584178",
+                            "link": "https://filecrypt.cc/Container/D7C9584178"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D334A11020",
+                            "link": "https://filecrypt.cc/Container/D334A11020"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B4C048D8A1",
+                            "link": "https://filecrypt.cc/Container/B4C048D8A1"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

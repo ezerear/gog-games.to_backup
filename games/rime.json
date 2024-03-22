@@ -1,0 +1,76 @@
+{
+    "href": "/game/rime",
+    "MSG": {
+        "id": "1553712069",
+        "title": "RiME",
+        "slug": "rime",
+        "thumb_id": "2406d32663d9ebc02e824e98dc1f1426463f2d871bf75644e39a39e47e243330",
+        "bg_id": "72eca5c95eefc16efeb1910c01b7972525b42a9fc67a2eddb8c40b47222d4643",
+        "url": "https://www.gog.com/game/rime",
+        "developer": "Tequila Works",
+        "publisher": "Grey Box",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707521607",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_rime_1.04_(a)_(40568)-1.bin",
+                    "size": "4294077438"
+                },
+                {
+                    "name": "setup_rime_1.04_(a)_(40568)-2.bin",
+                    "size": "3477270966"
+                },
+                {
+                    "name": "setup_rime_1.04_(a)_(40568).exe",
+                    "size": "896704"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/13D248327C",
+                            "link": "https://filecrypt.cc/Container/13D248327C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AF0387B63D",
+                            "link": "https://filecrypt.cc/Container/AF0387B63D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EFA00F60B1",
+                            "link": "https://filecrypt.cc/Container/EFA00F60B1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,115 @@
+{
+    "href": "/game/abandon_ship",
+    "MSG": {
+        "id": "1809344499",
+        "title": "Abandon Ship",
+        "slug": "abandon_ship",
+        "thumb_id": "6ac4a52a8efb4c534547d5113cfd4f1d42a0c50ae17e24f24d0e03276bfecffa",
+        "bg_id": "9095e3db0fb60b17545028b5af69b2add116b422925878e009d81ea3fb3ba145",
+        "url": "https://www.gog.com/game/abandon_ship",
+        "developer": "Fireblade Software",
+        "publisher": "Fireblade Software",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1706749884",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_abandon_ship_1.3.21340_(64bit)_(66853)-1.bin",
+                    "size": "4293809150"
+                },
+                {
+                    "name": "setup_abandon_ship_1.3.21340_(64bit)_(66853)-2.bin",
+                    "size": "1346992919"
+                },
+                {
+                    "name": "setup_abandon_ship_1.3.21340_(64bit)_(66853).exe",
+                    "size": "1168040"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "abandon_ship_artbook.zip",
+                    "size": "443931145"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2BEC3AC12A",
+                            "link": "https://filecrypt.cc/Container/2BEC3AC12A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B97A923664",
+                            "link": "https://filecrypt.cc/Container/B97A923664"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BDF21F022E",
+                            "link": "https://filecrypt.cc/Container/BDF21F022E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2A42F101A9",
+                            "link": "https://filecrypt.cc/Container/2A42F101A9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3C8F33207E",
+                            "link": "https://filecrypt.cc/Container/3C8F33207E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/235B7C0027",
+                            "link": "https://filecrypt.cc/Container/235B7C0027"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

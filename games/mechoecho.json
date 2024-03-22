@@ -1,0 +1,90 @@
+{
+    "href": "/game/mechoecho",
+    "MSG": {
+        "id": "2023071927",
+        "title": "MechoEcho",
+        "slug": "mechoecho",
+        "thumb_id": "0a4bbbf1ae4dcb9dd43b779a5fffaba21c47a69534d4e0d705f7f458bc06f28d",
+        "bg_id": "bb199eed753c4e5ae4d1b0fb958f3f408f15a60006f900172778bfc9b1bf2977",
+        "url": "https://www.gog.com/game/mechoecho",
+        "developer": "Resilient Games Ltd.",
+        "publisher": "Resilient Games Ltd.",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1706307439",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_mechoecho_2.1.0.3.exe",
+                    "size": "361330872"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/36A550027D",
+                            "link": "https://filecrypt.cc/Container/36A550027D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D27817C053",
+                            "link": "https://filecrypt.cc/Container/D27817C053"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6850B0CDE1",
+                            "link": "https://filecrypt.cc/Container/6850B0CDE1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/13104B42F8",
+                            "link": "https://filecrypt.cc/Container/13104B42F8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/69B44E125B",
+                            "link": "https://filecrypt.cc/Container/69B44E125B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

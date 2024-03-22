@@ -1,0 +1,68 @@
+{
+    "href": "/game/mechajammer",
+    "MSG": {
+        "id": "1313894405",
+        "title": "Mechajammer",
+        "slug": "mechajammer",
+        "thumb_id": "9b0ab1fae332967cbaa082e922603f9f9b86f1f69d877b6160bb503b3ad0f774",
+        "bg_id": "41e797fd75ce7c74be73568aa5cabbda1137966f8c9dd94c2b6119b1c7e986fa",
+        "url": "https://www.gog.com/game/mechajammer",
+        "developer": "Whalenought Studios",
+        "publisher": "Modern Wolf",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1708616380",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_mechajammer_1.11_(64bit)_(54615).exe",
+                    "size": "1430802160"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B3B07526A7",
+                            "link": "https://filecrypt.cc/Container/B3B07526A7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FD8D22F74E",
+                            "link": "https://filecrypt.cc/Container/FD8D22F74E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D3532BCED0",
+                            "link": "https://filecrypt.cc/Container/D3532BCED0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

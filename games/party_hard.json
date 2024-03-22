@@ -1,0 +1,90 @@
+{
+    "href": "/game/party_hard",
+    "MSG": {
+        "id": "1236689966",
+        "title": "Party Hard",
+        "slug": "party_hard",
+        "thumb_id": "62d0c3168f537c6681a1a2ce6f0d2c19ebb5d84369a1017e76310e2c4fa6ce89",
+        "bg_id": "94249e7a895f634a8743d8d802f30a7bd11fce30c5f547b2a473b40b8d640831",
+        "url": "https://www.gog.com/game/party_hard",
+        "developer": "Pinokl Games, Kverta",
+        "publisher": "tinyBuild",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707774006",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_party_hard_1.4.037_hotfix_(26988).exe",
+                    "size": "242197368"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BC2D0EE0DB",
+                            "link": "https://filecrypt.cc/Container/BC2D0EE0DB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5CFFEF83AE",
+                            "link": "https://filecrypt.cc/Container/5CFFEF83AE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B5E3EEAEE7",
+                            "link": "https://filecrypt.cc/Container/B5E3EEAEE7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2A1DEE6534",
+                            "link": "https://filecrypt.cc/Container/2A1DEE6534"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6BFAD197A9",
+                            "link": "https://filecrypt.cc/Container/6BFAD197A9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

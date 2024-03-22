@@ -1,0 +1,68 @@
+{
+    "href": "/game/7days_origins",
+    "MSG": {
+        "id": "1297347714",
+        "title": "7Days Origins",
+        "slug": "7days_origins",
+        "thumb_id": "2a9a6956d16867b917b08028a8052db07c043d00a29d039a045f1bcf57c86c4d",
+        "bg_id": "ef307285ff75a38361533f80e503a5d731540d3c4087c82e84771fc6f0982a83",
+        "url": "https://www.gog.com/en/game/7days_origins",
+        "developer": "Buff Studio",
+        "publisher": "MediBang Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709203082",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_7days_origins_v1.0.9.1_(67488).exe",
+                    "size": "283945760"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9A0D6E1A27",
+                            "link": "https://filecrypt.cc/Container/9A0D6E1A27"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/373C84301A",
+                            "link": "https://filecrypt.cc/Container/373C84301A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AE58E75C78",
+                            "link": "https://filecrypt.cc/Container/AE58E75C78"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

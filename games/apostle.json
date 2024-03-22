@@ -1,0 +1,87 @@
+{
+    "href": "/game/apostle",
+    "MSG": {
+        "id": "1459974775",
+        "title": "Apostle",
+        "slug": "apostle",
+        "thumb_id": "f3a26ef3bd36bc5345bf06618c5fd7333d082e0ce17a11f2ec401c738700a5dc",
+        "bg_id": "8ee504b414b9d1aeab7d940c273c2a7b0f30571e312033546133716dfc9d9cb4",
+        "url": "https://www.gog.com/en/game/apostle",
+        "developer": "kamichichi",
+        "publisher": "Kagura Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1708073018",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_apostle_unrated_v2_(60064).exe",
+                    "size": "395058272"
+                },
+                {
+                    "name": "setup_apostle_v2_(60064)-1.bin",
+                    "size": "801333745"
+                },
+                {
+                    "name": "setup_apostle_v2_(60064).exe",
+                    "size": "1446320"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FBA24DCCFF",
+                            "link": "https://filecrypt.cc/Container/FBA24DCCFF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D26F6890F7",
+                            "link": "https://filecrypt.cc/Container/D26F6890F7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E6AB0BB0AF",
+                            "link": "https://filecrypt.cc/Container/E6AB0BB0AF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8A3337DBF1",
+                            "link": "https://filecrypt.cc/Container/8A3337DBF1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

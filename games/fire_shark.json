@@ -1,0 +1,79 @@
+{
+    "href": "/game/fire_shark",
+    "MSG": {
+        "id": "1492810625",
+        "title": "Fire Shark",
+        "slug": "fire_shark",
+        "thumb_id": "0f6819571cab9e225bfbf5bea7cf7c00e2e2b83ea456951f7dbcc029ac6ec603",
+        "bg_id": "35666db15a8929137b3bda1a6f95f1e74a8b2d73a14212800e117ec1b9e140b5",
+        "url": "https://www.gog.com/en/game/fire_shark",
+        "developer": "Bitwave Games, Toaplan",
+        "publisher": "Bitwave Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708021428",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_fire_shark_9_(64bit)_(67544).exe",
+                    "size": "12706896"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/61ECA0AC3F",
+                            "link": "https://filecrypt.cc/Container/61ECA0AC3F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/71F9C5EC59",
+                            "link": "https://filecrypt.cc/Container/71F9C5EC59"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/72DB622D09",
+                            "link": "https://filecrypt.cc/Container/72DB622D09"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5E77E7E749",
+                            "link": "https://filecrypt.cc/Container/5E77E7E749"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

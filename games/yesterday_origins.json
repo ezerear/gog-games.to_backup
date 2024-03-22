@@ -1,0 +1,72 @@
+{
+    "href": "/game/yesterday_origins",
+    "MSG": {
+        "id": "1576683029",
+        "title": "Yesterday Origins",
+        "slug": "yesterday_origins",
+        "thumb_id": "c9e06f6e9a69fcfe4e47746313c4793f6a03fa35fa92823a4140b5748223d4a2",
+        "bg_id": "403957eeb5d75e3a25cbc04972950136f88c56eb5b44dece7c69117777115e52",
+        "url": "https://www.gog.com/game/yesterday_origins",
+        "developer": "Pendulo Studios",
+        "publisher": "Microids",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710409496",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_yesterday_origins_1.0_(64bit)_(33397)-1.bin",
+                    "size": "3298542611"
+                },
+                {
+                    "name": "setup_yesterday_origins_1.0_(64bit)_(33397).exe",
+                    "size": "925448"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/625F5EABA0",
+                            "link": "https://filecrypt.cc/Container/625F5EABA0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0C2441D725",
+                            "link": "https://filecrypt.cc/Container/0C2441D725"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B07DF3DDBD",
+                            "link": "https://filecrypt.cc/Container/B07DF3DDBD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

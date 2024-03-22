@@ -1,0 +1,68 @@
+{
+    "href": "/game/subterrain",
+    "MSG": {
+        "id": "1458056008",
+        "title": "Subterrain",
+        "slug": "subterrain",
+        "thumb_id": "b79bc751755cd44ccd8d4c93c40acb83885490e9278954d50bd776ed7d5380e4",
+        "bg_id": "b2f229b960f6410ae4b3545631ae71242f56dcbfd3d67efaef3deb2e34e47bfc",
+        "url": "https://www.gog.com/game/subterrain",
+        "developer": "Pixellore",
+        "publisher": "Pixellore",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710687806",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_subterrain_1183_(50151).exe",
+                    "size": "712660616"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4CFFA28517",
+                            "link": "https://filecrypt.cc/Container/4CFFA28517"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EF48165025",
+                            "link": "https://filecrypt.cc/Container/EF48165025"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/46EFC69FDB",
+                            "link": "https://filecrypt.cc/Container/46EFC69FDB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

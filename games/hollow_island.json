@@ -1,0 +1,68 @@
+{
+    "href": "/game/hollow_island",
+    "MSG": {
+        "id": "1273124554",
+        "title": "Hollow Island",
+        "slug": "hollow_island",
+        "thumb_id": "f22df76bf9dfb97b70b465741d6339a330f3a868f0eebf0ac02e1d21227c4276",
+        "bg_id": "1f786a88f8aa1e5bbbd032724b1bd3ac82d9c95df7830a0fca381401e75016ad",
+        "url": "https://www.gog.com/en/game/hollow_island",
+        "developer": "Edym Pixels",
+        "publisher": "Edym Pixels",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708330718",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hollow_island_1.8.2.1_(67545).exe",
+                    "size": "343453680"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/tiL6UBT",
+                            "link": "https://safelinking.net/tiL6UBT"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/mpitQGJ",
+                            "link": "https://safelinking.net/mpitQGJ"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/xTRq3Bc",
+                            "link": "https://safelinking.net/xTRq3Bc"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

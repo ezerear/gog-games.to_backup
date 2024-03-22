@@ -1,0 +1,71 @@
+{
+    "href": "/game/dv_rings_of_saturn",
+    "MSG": {
+        "id": "1168832459",
+        "title": "ΔV: Rings of Saturn",
+        "slug": "dv_rings_of_saturn",
+        "thumb_id": "3e9ecf10bc096d35674fe69db9f9004928266b01b1ed94576fcefeee3c493340",
+        "bg_id": "a7c25564917b340de1c82092341ef50db4bcfcab50900e98789f40ede20ae141",
+        "url": "https://www.gog.com/game/dv_rings_of_saturn",
+        "developer": "Kodera Software",
+        "publisher": "Kodera Software, Kurki.games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708785800",
+        "votes": "1",
+        "files": false,
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C474DAF622",
+                            "link": "https://filecrypt.cc/Container/C474DAF622"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9E9DF05FFA",
+                            "link": "https://filecrypt.cc/Container/9E9DF05FFA"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FCC0D271A4",
+                            "link": "https://filecrypt.cc/Container/FCC0D271A4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5296B09793",
+                            "link": "https://filecrypt.cc/Container/5296B09793"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

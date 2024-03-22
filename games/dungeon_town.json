@@ -1,0 +1,76 @@
+{
+    "href": "/game/dungeon_town",
+    "MSG": {
+        "id": "2063343188",
+        "title": "Dungeon Town",
+        "slug": "dungeon_town",
+        "thumb_id": "883306b42f2015d33a21970b31936151a52f75a1eff23f8c9e85d88cf1d667ce",
+        "bg_id": "338fd19506f1fafc25b82d0de652968661db05a3ede17a55cc941c21e677b5a7",
+        "url": "https://www.gog.com/game/dungeon_town",
+        "developer": "Circle Meimitei",
+        "publisher": "Kagura Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710269877",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dungeon_town_unrated_v6_(51905)-1.bin",
+                    "size": "1297984870"
+                },
+                {
+                    "name": "setup_dungeon_town_unrated_v6_(51905).exe",
+                    "size": "785456"
+                },
+                {
+                    "name": "setup_dungeon_town_v6_(51905).exe",
+                    "size": "546862640"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ECE2E32ABB",
+                            "link": "https://filecrypt.cc/Container/ECE2E32ABB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/112255C9CA",
+                            "link": "https://filecrypt.cc/Container/112255C9CA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/60D6663B36",
+                            "link": "https://filecrypt.cc/Container/60D6663B36"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

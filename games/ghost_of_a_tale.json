@@ -1,0 +1,72 @@
+{
+    "href": "/game/ghost_of_a_tale",
+    "MSG": {
+        "id": "1875167847",
+        "title": "Ghost of a Tale",
+        "slug": "ghost_of_a_tale",
+        "thumb_id": "b3765b77df715ff626d8bb82917561a51bcdbfa3709cf971baf3adbfcf0c6e26",
+        "bg_id": "499e81f037839ebb62c72459301e27e6b9a84856897dffc1ef91fbb7a9649bec",
+        "url": "https://www.gog.com/game/ghost_of_a_tale",
+        "developer": "SeithCG",
+        "publisher": "SeithCG",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708642626",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_ghost_of_a_tale_833(a)_(62775)-1.bin",
+                    "size": "2948400128"
+                },
+                {
+                    "name": "setup_ghost_of_a_tale_833(a)_(62775).exe",
+                    "size": "862728"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9275C1490B",
+                            "link": "https://filecrypt.cc/Container/9275C1490B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/53093B8C0F",
+                            "link": "https://filecrypt.cc/Container/53093B8C0F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B4EFB0FBC8",
+                            "link": "https://filecrypt.cc/Container/B4EFB0FBC8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

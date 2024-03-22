@@ -1,0 +1,83 @@
+{
+    "href": "/game/lost_words_beyond_the_page",
+    "MSG": {
+        "id": "1868051744",
+        "title": "Lost Words: Beyond the Page",
+        "slug": "lost_words_beyond_the_page",
+        "thumb_id": "2c447e29c485899e844dbd13dcad3c35fc17b1cd77bf194ac08c478304d6e274",
+        "bg_id": "d5c97ea361fcbdf2e1f7c5eb0e25cf2c18d1ab36349412fd8665fae721d1b384",
+        "url": "https://www.gog.com/game/lost_words_beyond_the_page",
+        "developer": "Sketchbook Games, Fourth State",
+        "publisher": "Modus Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1706904535",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_lost_words_beyond_the_page_release_2021-04-23_8_(64bit)_(46551)-1.bin",
+                    "size": "1947696574"
+                },
+                {
+                    "name": "setup_lost_words_beyond_the_page_release_2021-04-23_8_(64bit)_(46551).exe",
+                    "size": "1223216"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4165B1664A",
+                            "link": "https://filecrypt.cc/Container/4165B1664A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DAC3B3E2B8",
+                            "link": "https://filecrypt.cc/Container/DAC3B3E2B8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9E641461CC",
+                            "link": "https://filecrypt.cc/Container/9E641461CC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DD3C168469",
+                            "link": "https://filecrypt.cc/Container/DD3C168469"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

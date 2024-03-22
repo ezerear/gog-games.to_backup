@@ -1,0 +1,68 @@
+{
+    "href": "/game/depths_of_sanity",
+    "MSG": {
+        "id": "1495108736",
+        "title": "Depths of Sanity",
+        "slug": "depths_of_sanity",
+        "thumb_id": "7e34ed0dc92c8000981f815252ebf7455399bbb442df779246cd5021ae144bab",
+        "bg_id": "8bcf3c5bec1bfc6451e3e092cca464922149cb40e06d3740717961a554d0c8bc",
+        "url": "https://www.gog.com/en/game/depths_of_sanity",
+        "developer": "Bomb Shelter Games",
+        "publisher": "Bomb Shelter Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710395627",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_depths_of_sanity_1.04_(62878).exe",
+                    "size": "173973464"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C865F73695",
+                            "link": "https://filecrypt.cc/Container/C865F73695"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F81EF12F40",
+                            "link": "https://filecrypt.cc/Container/F81EF12F40"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/288B7DC1BA",
+                            "link": "https://filecrypt.cc/Container/288B7DC1BA"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

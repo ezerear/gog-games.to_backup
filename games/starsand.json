@@ -1,0 +1,142 @@
+{
+    "href": "/game/starsand",
+    "MSG": {
+        "id": "1551994672",
+        "title": "Starsand",
+        "slug": "starsand",
+        "thumb_id": "f73fddd4a2d602a407cd37c04740b24c1297eaac5e5336215b61de102db9a8a7",
+        "bg_id": "b6ed803d05d7b9d909860e5523ff1b375aaa527c56c08aa9241c818ff15c7294",
+        "url": "https://www.gog.com/game/starsand",
+        "developer": "Tunnel Vision Studio",
+        "publisher": "Toplitz Productions",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708151947",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_starsand_1.0.1_(61116)-1.bin",
+                    "size": "3583820653"
+                },
+                {
+                    "name": "setup_starsand_1.0.1_(61116).exe",
+                    "size": "1277200"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "starsand_artbook.zip",
+                    "size": "12322187"
+                },
+                {
+                    "name": "starsand_comic.zip",
+                    "size": "62119329"
+                },
+                {
+                    "name": "starsand_soundtrack_flac.zip",
+                    "size": "135224436"
+                },
+                {
+                    "name": "starsand_soundtrack_mp3.zip",
+                    "size": "83680789"
+                },
+                {
+                    "name": "starsand_video_guides.zip",
+                    "size": "786229811"
+                },
+                {
+                    "name": "starsand_wallpapers.zip",
+                    "size": "23157738"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EA961B0EFD",
+                            "link": "https://filecrypt.cc/Container/EA961B0EFD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E00D49E1BB",
+                            "link": "https://filecrypt.cc/Container/E00D49E1BB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6F21FC66F1",
+                            "link": "https://filecrypt.cc/Container/6F21FC66F1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/03C7577B90",
+                            "link": "https://filecrypt.cc/Container/03C7577B90"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FDE7093BC1",
+                            "link": "https://filecrypt.cc/Container/FDE7093BC1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1555B81F31",
+                            "link": "https://filecrypt.cc/Container/1555B81F31"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3EB1AE3A7A",
+                            "link": "https://filecrypt.cc/Container/3EB1AE3A7A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

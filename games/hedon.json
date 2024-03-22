@@ -1,0 +1,127 @@
+{
+    "href": "/game/hedon",
+    "MSG": {
+        "id": "2067868578",
+        "title": "Hedon Bloodrite",
+        "slug": "hedon",
+        "thumb_id": "6a2ac27c6da3c0ee62146c42aa76e811193ea795ddf1f64f3b9e4e6a9d87c0e5",
+        "bg_id": "922404721fc53ecede917e40bdf28910261dbdf4bd6659635876a30b37020837",
+        "url": "https://www.gog.com/game/hedon",
+        "developer": "Zan",
+        "publisher": "Zan",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709777518",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hedon_-_extra_thicc_edition_upgrade_2.4.2_(64bit)_(70240).exe",
+                    "size": "7788472"
+                },
+                {
+                    "name": "setup_hedon_bloodrite_2.4.2_(64bit)_(70240).exe",
+                    "size": "583438368"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "artworks.zip",
+                    "size": "54996669"
+                },
+                {
+                    "name": "artwork_and_avatars.zip",
+                    "size": "71339943"
+                },
+                {
+                    "name": "avatars.zip",
+                    "size": "1793263"
+                },
+                {
+                    "name": "soundtrack.zip",
+                    "size": "512861231"
+                },
+                {
+                    "name": "wallpapers.zip",
+                    "size": "74943073"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/991A70EB55",
+                            "link": "https://filecrypt.cc/Container/991A70EB55"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/562B6662A2",
+                            "link": "https://filecrypt.cc/Container/562B6662A2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E863B57A05",
+                            "link": "https://filecrypt.cc/Container/E863B57A05"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/13DC07A024",
+                            "link": "https://filecrypt.cc/Container/13DC07A024"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9222726F49",
+                            "link": "https://filecrypt.cc/Container/9222726F49"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3C9369A9A1",
+                            "link": "https://filecrypt.cc/Container/3C9369A9A1"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

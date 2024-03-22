@@ -1,0 +1,111 @@
+{
+    "href": "/game/diluvian_winds",
+    "MSG": {
+        "id": "1203438523",
+        "title": "Diluvian Winds",
+        "slug": "diluvian_winds",
+        "thumb_id": "b98af9ff1beb405ea671e6d212490f9cddf59057579d85e30e993800c759c138",
+        "bg_id": "93db931d06522ccf3f078dc72731686ac7322c9626b5488400b2e39f3e85cb49",
+        "url": "https://www.gog.com/game/diluvian_winds",
+        "developer": "Alambik Studio",
+        "publisher": "Goblinz Studio",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709436615",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_diluvian_winds_0.7.1.2_(69376).exe",
+                    "size": "487928232"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "diluvian_winds_artbook.zip",
+                    "size": "115423450"
+                },
+                {
+                    "name": "diluvian_winds_soundtrack_wip.zip",
+                    "size": "210475207"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/55904800B6",
+                            "link": "https://filecrypt.cc/Container/55904800B6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E41F37FA6B",
+                            "link": "https://filecrypt.cc/Container/E41F37FA6B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/27361D71DE",
+                            "link": "https://filecrypt.cc/Container/27361D71DE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/38595F2BCF",
+                            "link": "https://filecrypt.cc/Container/38595F2BCF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5C687CD2F4",
+                            "link": "https://filecrypt.cc/Container/5C687CD2F4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/08EC9BB136",
+                            "link": "https://filecrypt.cc/Container/08EC9BB136"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

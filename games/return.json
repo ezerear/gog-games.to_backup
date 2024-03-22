@@ -1,0 +1,68 @@
+{
+    "href": "/game/return",
+    "MSG": {
+        "id": "1820542766",
+        "title": "Return",
+        "slug": "return",
+        "thumb_id": "0e11cb37ec2f3046f1581288f5d129726512535e22ace2a0a0242fc45577155c",
+        "bg_id": "2cdc974dbd69112bd23a9ae72b4a2fae74a4ec0cb7d334cd35664dac53d3cbcb",
+        "url": "https://www.gog.com/en/game/return",
+        "developer": "Dead Unicorn",
+        "publisher": "Dead Unicorn",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708641675",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_return_1.2.1.1_(64bit)_(69188).exe",
+                    "size": "1599017904"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/48401C181D",
+                            "link": "https://filecrypt.cc/Container/48401C181D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2B0D24296E",
+                            "link": "https://filecrypt.cc/Container/2B0D24296E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/64C57257BE",
+                            "link": "https://filecrypt.cc/Container/64C57257BE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

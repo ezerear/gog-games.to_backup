@@ -1,0 +1,94 @@
+{
+    "href": "/game/false_myth",
+    "MSG": {
+        "id": "1768848229",
+        "title": "False Myth",
+        "slug": "false_myth",
+        "thumb_id": "dbf47764880ecb65f5655f3a1dd5bd3202185768e60782a8b61527f9ac802196",
+        "bg_id": "cfa1ea2a622c6fc61286c8ede60c276fa6797f88de910aee7521d79012d94ba5",
+        "url": "https://www.gog.com/en/game/false_myth",
+        "developer": "fushidara tei",
+        "publisher": "Kagura Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1700326129",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_false_myth_unrated_v3_(62501).exe",
+                    "size": "156402776"
+                },
+                {
+                    "name": "setup_false_myth_v3_(62501).exe",
+                    "size": "459517728"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DFBDC4B59E",
+                            "link": "https://filecrypt.cc/Container/DFBDC4B59E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6F41990827",
+                            "link": "https://filecrypt.cc/Container/6F41990827"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2DAF9DE3B7",
+                            "link": "https://filecrypt.cc/Container/2DAF9DE3B7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9DF8C5D939",
+                            "link": "https://filecrypt.cc/Container/9DF8C5D939"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AB329C7117",
+                            "link": "https://filecrypt.cc/Container/AB329C7117"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

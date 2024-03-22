@@ -1,0 +1,90 @@
+{
+    "href": "/game/switchblade",
+    "MSG": {
+        "id": "1880203859",
+        "title": "Switchblade",
+        "slug": "switchblade",
+        "thumb_id": "692fe1a91d5b879313dc650b496bc0dd777ba6b0fc484cfc6107d284aed188d6",
+        "bg_id": "4c601abcd0c4b9bbdc500e78665c6dcee1c495d372b416ceb6837307d9d5ad33",
+        "url": "https://www.gog.com/game/switchblade",
+        "developer": "Core Design, Gremlin Interactive",
+        "publisher": "Piko Interactive",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707620451",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_switchblade_1.0_(md)_(53029).exe",
+                    "size": "16823728"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D3D4BA1012",
+                            "link": "https://filecrypt.cc/Container/D3D4BA1012"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/461150B5E0",
+                            "link": "https://filecrypt.cc/Container/461150B5E0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B7C3B33A94",
+                            "link": "https://filecrypt.cc/Container/B7C3B33A94"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A009E28D2F",
+                            "link": "https://filecrypt.cc/Container/A009E28D2F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B9BD63ECB3",
+                            "link": "https://filecrypt.cc/Container/B9BD63ECB3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

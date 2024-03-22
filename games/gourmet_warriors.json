@@ -1,0 +1,68 @@
+{
+    "href": "/game/gourmet_warriors",
+    "MSG": {
+        "id": "1661164714",
+        "title": "Gourmet Warriors",
+        "slug": "gourmet_warriors",
+        "thumb_id": "87a0d575bc68a2bf3e3d7d07e4870398637288eddcd3985ca4f644f08b534486",
+        "bg_id": "954a1d5472c169f4d7bc30216d64e001e4c0ec3a4fc720dbe071a90a3883da04",
+        "url": "https://www.gog.com/en/game/gourmet_warriors",
+        "developer": "Winds",
+        "publisher": "Piko Interactive",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710953532",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_gourmet_warriors_1.0_(60662).exe",
+                    "size": "19605664"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CB63AED65D",
+                            "link": "https://filecrypt.cc/Container/CB63AED65D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AAA16CDD8C",
+                            "link": "https://filecrypt.cc/Container/AAA16CDD8C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/62EA1523FC",
+                            "link": "https://filecrypt.cc/Container/62EA1523FC"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,104 @@
+{
+    "href": "/game/deaths_door",
+    "MSG": {
+        "id": "1948334236",
+        "title": "Death's Door",
+        "slug": "deaths_door",
+        "thumb_id": "1229c4528a17f3b744aaa95bf64d61688317afa3925ddcf8b37eb36a9d1a0391",
+        "bg_id": "561a454b65062661bc9ac5840cf97841d12609765c3077fea82375003fed8eaa",
+        "url": "https://www.gog.com/game/deaths_door",
+        "developer": "Acid Nerve",
+        "publisher": "Devolver Digital",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709376968",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_deaths_door_1.1.5_(50052).exe",
+                    "size": "1075016536"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "Deaths_Door_Art_Booklet.zip",
+                    "size": "177843385"
+                },
+                {
+                    "name": "Deaths_Door_Original_Soundtrack_FLAC.zip",
+                    "size": "1124950499"
+                },
+                {
+                    "name": "Deaths_Door_Original_Soundtrack_MP3.zip",
+                    "size": "258135475"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0FCF936982",
+                            "link": "https://filecrypt.cc/Container/0FCF936982"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2946EF02C1",
+                            "link": "https://filecrypt.cc/Container/2946EF02C1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/610C4DACF3",
+                            "link": "https://filecrypt.cc/Container/610C4DACF3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D33A994217",
+                            "link": "https://filecrypt.cc/Container/D33A994217"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D4DC69FF5C",
+                            "link": "https://filecrypt.cc/Container/D4DC69FF5C"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

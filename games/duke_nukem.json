@@ -1,0 +1,115 @@
+{
+    "href": "/game/duke_nukem",
+    "MSG": {
+        "id": "1207664963",
+        "title": "Duke Nukem",
+        "slug": "duke_nukem",
+        "thumb_id": "0a37df00d104340e700e8b2ab281e884acf515de22a55279e4a789c35d7236b8",
+        "bg_id": "f8f46032b63bd5a953add3b57c47c33c5d0aac15a7dc456cb0998011a1c4542b",
+        "url": "https://web.archive.org/web/20151231054850/http://www.gog.com/game/duke_nukem_12",
+        "developer": "3D Realms Entertainment",
+        "publisher": "3D Realms",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709688869",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_duke_nukem_1.0_(28044).exe",
+                    "size": "13042216"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "duke_nukem_1_hintsheet.zip",
+                    "size": "568472"
+                },
+                {
+                    "name": "duke_nukem_2_manual.zip",
+                    "size": "1932578"
+                },
+                {
+                    "name": "duke_nukem_2_soundtrack.zip",
+                    "size": "80982090"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/03D08B4783",
+                            "link": "https://filecrypt.cc/Container/03D08B4783"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0E558F5028",
+                            "link": "https://filecrypt.cc/Container/0E558F5028"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C698EE42CF",
+                            "link": "https://filecrypt.cc/Container/C698EE42CF"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D516CFD0F1",
+                            "link": "https://filecrypt.cc/Container/D516CFD0F1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/059E6F88EF",
+                            "link": "https://filecrypt.cc/Container/059E6F88EF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E315BF6F8C",
+                            "link": "https://filecrypt.cc/Container/E315BF6F8C"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

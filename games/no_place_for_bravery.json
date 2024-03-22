@@ -1,0 +1,68 @@
+{
+    "href": "/game/no_place_for_bravery",
+    "MSG": {
+        "id": "1612879901",
+        "title": "No Place for Bravery",
+        "slug": "no_place_for_bravery",
+        "thumb_id": "5d79d8283b071a432579a23b0ff85da0997c2b82a8f2274eda2bef0dd0c18352",
+        "bg_id": "3af75fa26eb1edc86d98173f13497026ba0fe01cb024c27b2bb0e5508cf13447",
+        "url": "https://www.gog.com/game/no_place_for_bravery",
+        "developer": "Glitch Factory",
+        "publisher": "Ysbryd Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709769344",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_no_place_for_bravery_1.35.12_(67096).exe",
+                    "size": "573033808"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C44747B01F",
+                            "link": "https://filecrypt.cc/Container/C44747B01F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C267DCC481",
+                            "link": "https://filecrypt.cc/Container/C267DCC481"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E3A85EF1C1",
+                            "link": "https://filecrypt.cc/Container/E3A85EF1C1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,79 @@
+{
+    "href": "/game/overboard",
+    "MSG": {
+        "id": "1338968778",
+        "title": "Overboard!",
+        "slug": "overboard",
+        "thumb_id": "5899f66e95f611ff57a68a2da0a678c52a3c9e155d17ea31398e5d177c9cfa5a",
+        "bg_id": "549f23881c6a48f50ab9d2454603997ae648fdf9c3c95f7407afd8630d78bb82",
+        "url": "https://www.gog.com/game/overboard",
+        "developer": "inkle Ltd",
+        "publisher": "inkle Ltd",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707558510",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_overboard_1.3.1_(64bit)_(48184).exe",
+                    "size": "102437504"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3C00CA9BC3",
+                            "link": "https://filecrypt.cc/Container/3C00CA9BC3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/963060FC3A",
+                            "link": "https://filecrypt.cc/Container/963060FC3A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/98266EAA8F",
+                            "link": "https://filecrypt.cc/Container/98266EAA8F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D3A3D03D5F",
+                            "link": "https://filecrypt.cc/Container/D3A3D03D5F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

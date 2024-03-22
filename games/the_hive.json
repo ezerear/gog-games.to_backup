@@ -1,0 +1,111 @@
+{
+    "href": "/game/the_hive",
+    "MSG": {
+        "id": "1502691388",
+        "title": "The Hive",
+        "slug": "the_hive",
+        "thumb_id": "6fd311279b8d44a97171bbec368c9168e52e0949628f18d147620a6f43f8ef68",
+        "bg_id": "6dc8d17fc675f5f148b5fed35edf20454bd254f90f55bff104b36fc5fb1062a6",
+        "url": "https://www.gog.com/en/game/the_hive",
+        "developer": "Skydome Entertainment",
+        "publisher": "",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710899400",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_hive_1.204_(64bit)_(67281).exe",
+                    "size": "1625813320"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "the_hive_soundtrack_MP3.zip",
+                    "size": "37813300"
+                },
+                {
+                    "name": "the_hive_soundtrack_WAV.zip",
+                    "size": "597890445"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A8664DA7EE",
+                            "link": "https://filecrypt.cc/Container/A8664DA7EE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3F448714F0",
+                            "link": "https://filecrypt.cc/Container/3F448714F0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7B52D65254",
+                            "link": "https://filecrypt.cc/Container/7B52D65254"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A35A5A6750",
+                            "link": "https://filecrypt.cc/Container/A35A5A6750"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8214373E60",
+                            "link": "https://filecrypt.cc/Container/8214373E60"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D2D81043E3",
+                            "link": "https://filecrypt.cc/Container/D2D81043E3"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

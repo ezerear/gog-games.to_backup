@@ -1,0 +1,107 @@
+{
+    "href": "/game/gun",
+    "MSG": {
+        "id": "1460036036",
+        "title": "GUN™",
+        "slug": "gun",
+        "thumb_id": "f6d11c0326457630210bd5d760d97b4efbcf3e4e062d0e05b5b446d1225771fb",
+        "bg_id": "887759776e9b237d002f3c5d77e4c6402d203597a4ab9172c8031a6d99a9a37e",
+        "url": "https://www.gog.com/game/gun",
+        "developer": "Neversoft",
+        "publisher": "Activision",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710669131",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_gun_2.0.0.3.exe",
+                    "size": "1594579832"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "gun_manuals.zip",
+                    "size": "9963773"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/20579133D8",
+                            "link": "https://filecrypt.cc/Container/20579133D8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5E19D3570E",
+                            "link": "https://filecrypt.cc/Container/5E19D3570E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/07BB34FF22",
+                            "link": "https://filecrypt.cc/Container/07BB34FF22"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5A1CE4CCDF",
+                            "link": "https://filecrypt.cc/Container/5A1CE4CCDF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/84A96B6FE9",
+                            "link": "https://filecrypt.cc/Container/84A96B6FE9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9E57066251",
+                            "link": "https://filecrypt.cc/Container/9E57066251"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

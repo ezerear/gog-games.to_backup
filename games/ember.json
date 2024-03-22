@@ -1,0 +1,115 @@
+{
+    "href": "/game/ember",
+    "MSG": {
+        "id": "1359042189",
+        "title": "Ember",
+        "slug": "ember",
+        "thumb_id": "7627f6ac62a3e78a62a41f9ef7a0c7bcdfbb340e5b750909cc21aa943972dc67",
+        "bg_id": "956aee6cf2cc580ebaa077b10af671252c9a24544d740449bc2d9dd238007022",
+        "url": "https://www.gog.com/game/ember",
+        "developer": "N-Fusion Interactive",
+        "publisher": "505 Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708972344",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_ember_1.046_(19087)-1.bin",
+                    "size": "4293446654"
+                },
+                {
+                    "name": "setup_ember_1.046_(19087)-2.bin",
+                    "size": "232954718"
+                },
+                {
+                    "name": "setup_ember_1.046_(19087).exe",
+                    "size": "1527848"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "ember_wallpaper.zip",
+                    "size": "8752615"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BDAF97F9CA",
+                            "link": "https://filecrypt.cc/Container/BDAF97F9CA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/875F2EA006",
+                            "link": "https://filecrypt.cc/Container/875F2EA006"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/18B0C9F571",
+                            "link": "https://filecrypt.cc/Container/18B0C9F571"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/86407ADB4C",
+                            "link": "https://filecrypt.cc/Container/86407ADB4C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/51E3B3BA34",
+                            "link": "https://filecrypt.cc/Container/51E3B3BA34"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/09519A9743",
+                            "link": "https://filecrypt.cc/Container/09519A9743"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

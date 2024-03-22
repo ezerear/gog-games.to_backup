@@ -1,0 +1,119 @@
+{
+    "href": "/game/svoboda_1945_liberation",
+    "MSG": {
+        "id": "1947080977",
+        "title": "Svoboda 1945: Liberation",
+        "slug": "svoboda_1945_liberation",
+        "thumb_id": "6d37a4a7f4a2b1b62a34d61f890139775e1f421d968fc7cc58976ef735e91cd8",
+        "bg_id": "170717b754d4e41f430fd00cc58b226a2c12d7e006957294d1ee3f376fcef8a4",
+        "url": "https://www.gog.com/en/game/svoboda_1945_liberation",
+        "developer": "Charles Games",
+        "publisher": "Charles Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710357917",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_svoboda_1945_liberation_1.1_(60661)-1.bin",
+                    "size": "4294004734"
+                },
+                {
+                    "name": "setup_svoboda_1945_liberation_1.1_(60661)-2.bin",
+                    "size": "2007281763"
+                },
+                {
+                    "name": "setup_svoboda_1945_liberation_1.1_(60661).exe",
+                    "size": "972608"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "svoboda_1945_liberation_soundtrack_mp3.zip",
+                    "size": "74433662"
+                },
+                {
+                    "name": "svoboda_1945_liberation_soundtrack_wav.zip",
+                    "size": "497800264"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D69AACCD78",
+                            "link": "https://filecrypt.cc/Container/D69AACCD78"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B816D4036C",
+                            "link": "https://filecrypt.cc/Container/B816D4036C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1FE33F3048",
+                            "link": "https://filecrypt.cc/Container/1FE33F3048"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B92E3FAD87",
+                            "link": "https://filecrypt.cc/Container/B92E3FAD87"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AB4EA0E943",
+                            "link": "https://filecrypt.cc/Container/AB4EA0E943"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D1B93B0121",
+                            "link": "https://filecrypt.cc/Container/D1B93B0121"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

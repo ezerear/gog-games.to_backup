@@ -1,0 +1,89 @@
+{
+    "href": "/game/wings_classic",
+    "MSG": {
+        "id": "1207666473",
+        "title": "Wings (Emulated Amiga Edition)",
+        "slug": "wings_classic",
+        "thumb_id": "3b4ae08e729089a66c3f7a42481e85070da1ce1861edd75f35533a75cbd0cc01",
+        "bg_id": "b36ee5b9d9a41de919d168bba678be0f1c95715cbca4a119c11c38a5193c0bf7",
+        "url": "https://www.gog.com/game/wings_classic",
+        "developer": "Cinemaware",
+        "publisher": "Cinemaware",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710165384",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_wings_classic_2.1.0.2.exe",
+                    "size": "9702472"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "wings_classic_aviation_manual.zip",
+                    "size": "59747225"
+                },
+                {
+                    "name": "wings_classic_game_manual.zip",
+                    "size": "6015154"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7BC7630E50",
+                            "link": "https://filecrypt.cc/Container/7BC7630E50"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/701B31ABC0",
+                            "link": "https://filecrypt.cc/Container/701B31ABC0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D2A0C7C0A2",
+                            "link": "https://filecrypt.cc/Container/D2A0C7C0A2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1F5291335F",
+                            "link": "https://filecrypt.cc/Container/1F5291335F"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,119 @@
+{
+    "href": "/game/hollow_knight",
+    "MSG": {
+        "id": "1308320804",
+        "title": "Hollow Knight",
+        "slug": "hollow_knight",
+        "thumb_id": "0f8f8798c4512cc9aa1881a1f8672bc9598c7afb523e0e6120223d3dc697ddfe",
+        "bg_id": "262d05c117b6ff642536bfe02dc997a090ca84a1e409d64292d5d8153db63b9a",
+        "url": "https://www.gog.com/game/hollow_knight",
+        "developer": "Team Cherry",
+        "publisher": "Team Cherry",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710701948",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hollow_knight_1.5.78.11833_(64bit)_(50884).exe",
+                    "size": "1411586744"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "hollow_knight_gods_nightmares_flac.zip",
+                    "size": "281303322"
+                },
+                {
+                    "name": "hollow_knight_gods_nightmares_mp3.zip",
+                    "size": "147642763"
+                },
+                {
+                    "name": "hollow_knight_official_ost_flac.zip",
+                    "size": "391008699"
+                },
+                {
+                    "name": "hollow_knight_official_ost_mp3.zip",
+                    "size": "164126505"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/51477BF1F9",
+                            "link": "https://filecrypt.cc/Container/51477BF1F9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2FAB578D8A",
+                            "link": "https://filecrypt.cc/Container/2FAB578D8A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/789E22357B",
+                            "link": "https://filecrypt.cc/Container/789E22357B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F5078D22BC",
+                            "link": "https://filecrypt.cc/Container/F5078D22BC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B997F064B8",
+                            "link": "https://filecrypt.cc/Container/B997F064B8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5CD45591C9",
+                            "link": "https://filecrypt.cc/Container/5CD45591C9"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

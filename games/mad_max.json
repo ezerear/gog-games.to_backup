@@ -1,0 +1,100 @@
+{
+    "href": "/game/mad_max",
+    "MSG": {
+        "id": "1296467424",
+        "title": "Mad Max",
+        "slug": "mad_max",
+        "thumb_id": "0c95b9a655f85c2d73032cc90854dd5a88fabcd5cd313d3f64eae157f14f77c9",
+        "bg_id": "649ff27770243fc496ddfb033f45fa56edd850002342534f3ad5e860b33337eb",
+        "url": "https://www.gog.com/game/mad_max",
+        "developer": "Avalanche Studios",
+        "publisher": "Warner Bros. Interactive Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709172063",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_mad_max_1.0.3_(45175)-1.bin",
+                    "size": "4293757438"
+                },
+                {
+                    "name": "setup_mad_max_1.0.3_(45175)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_mad_max_1.0.3_(45175)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_mad_max_1.0.3_(45175)-4.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_mad_max_1.0.3_(45175)-5.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_mad_max_1.0.3_(45175)-6.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_mad_max_1.0.3_(45175)-7.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_mad_max_1.0.3_(45175)-8.bin",
+                    "size": "4058537976"
+                },
+                {
+                    "name": "setup_mad_max_1.0.3_(45175).exe",
+                    "size": "1216328"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D525328689",
+                            "link": "https://filecrypt.cc/Container/D525328689"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/43A69F4F04",
+                            "link": "https://filecrypt.cc/Container/43A69F4F04"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DC916ED990",
+                            "link": "https://filecrypt.cc/Container/DC916ED990"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

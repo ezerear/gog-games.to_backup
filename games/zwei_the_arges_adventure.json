@@ -1,0 +1,72 @@
+{
+    "href": "/game/zwei_the_arges_adventure",
+    "MSG": {
+        "id": "2049521547",
+        "title": "Zwei: The Arges Adventure",
+        "slug": "zwei_the_arges_adventure",
+        "thumb_id": "44ee3ef8a0048bda5bce57a01823fa1b062c742341bd5d44ae00e92381167796",
+        "bg_id": "7ab3e661232e083eeab830e9d98ec2c0b86c80114ab83ebbb4a2c2ded6034a56",
+        "url": "https://www.gog.com/game/zwei_the_arges_adventure",
+        "developer": "Nihon Falcom Corporation",
+        "publisher": "XSEED Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709119003",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_zwei_the_arges_adventure_1.0.10_(18651)-1.bin",
+                    "size": "1714617954"
+                },
+                {
+                    "name": "setup_zwei_the_arges_adventure_1.0.10_(18651).exe",
+                    "size": "730496"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8D03E3890C",
+                            "link": "https://filecrypt.cc/Container/8D03E3890C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/991E0C62C9",
+                            "link": "https://filecrypt.cc/Container/991E0C62C9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/00B168C4D9",
+                            "link": "https://filecrypt.cc/Container/00B168C4D9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

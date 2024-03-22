@@ -1,0 +1,80 @@
+{
+    "href": "/game/dungeon_siege_iii",
+    "MSG": {
+        "id": "1961257471",
+        "title": "Dungeon Siege III",
+        "slug": "dungeon_siege_iii",
+        "thumb_id": "c5362a64826753cb800fbcfe4d63a2d4a5b106a850f2c1208910c3c08fa3068b",
+        "bg_id": "791b82741caf494ad0f11e0daa3527d53ca4b252098da19ec13c404eb209ae8a",
+        "url": "https://www.gog.com/game/dungeon_siege_collection",
+        "developer": "Gas Powered Games, Obsidian Entertainment",
+        "publisher": "Square Enix, Eidos Interactive",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1708708239",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dungeon_siege_iii_1.0_dlc_fix_(38047)-1.bin",
+                    "size": "3472792061"
+                },
+                {
+                    "name": "setup_dungeon_siege_iii_1.0_dlc_fix_(38047).exe",
+                    "size": "855000"
+                },
+                {
+                    "name": "setup_dungeon_siege_iii_treasures_of_the_sun_1.0_dlc_fix_(38047)-1.bin",
+                    "size": "345620078"
+                },
+                {
+                    "name": "setup_dungeon_siege_iii_treasures_of_the_sun_1.0_dlc_fix_(38047).exe",
+                    "size": "778688"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A415C66226",
+                            "link": "https://filecrypt.cc/Container/A415C66226"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ED644D2CF9",
+                            "link": "https://filecrypt.cc/Container/ED644D2CF9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/94009C31A7",
+                            "link": "https://filecrypt.cc/Container/94009C31A7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

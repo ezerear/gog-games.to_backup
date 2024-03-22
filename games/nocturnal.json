@@ -1,0 +1,79 @@
+{
+    "href": "/game/nocturnal",
+    "MSG": {
+        "id": "1851444356",
+        "title": "Nocturnal",
+        "slug": "nocturnal",
+        "thumb_id": "33dc68d74e1406032dee4201747d9ebfd5cb4cf10932d2664bf27bee66434263",
+        "bg_id": "e9921c3e99fbee13f76ca2ab6b08bc5305062d609f593f260c69edb66bf57eb2",
+        "url": "https://www.gog.com/en/game/nocturnal",
+        "developer": "Sunnyside Games",
+        "publisher": "Dear Villagers",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1700325688",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_nocturnal_1.2.0.740_(68121).exe",
+                    "size": "941050344"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F3A2917AC5",
+                            "link": "https://filecrypt.cc/Container/F3A2917AC5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/29B2128F44",
+                            "link": "https://filecrypt.cc/Container/29B2128F44"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/037ABC436D",
+                            "link": "https://filecrypt.cc/Container/037ABC436D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0E1A35BB68",
+                            "link": "https://filecrypt.cc/Container/0E1A35BB68"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

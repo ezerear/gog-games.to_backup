@@ -1,0 +1,68 @@
+{
+    "href": "/game/hyperspeed",
+    "MSG": {
+        "id": "1286961566",
+        "title": "Hyperspeed",
+        "slug": "hyperspeed",
+        "thumb_id": "8748c80a6e71e557d1b91de9ed6bbb5618737fbdbe37c05a0958982b205eef30",
+        "bg_id": "ad40f77efee2d09847af4af1dd8ae663219994600cb359fc5e69c2fa961d03a9",
+        "url": "https://www.gog.com/game/hyperspeed",
+        "developer": "MicroProse Software, Inc.",
+        "publisher": "Retroism",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1709187676",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hyperspeed_1.0_rc1_(44121).exe",
+                    "size": "59957144"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BB4D89BBF8",
+                            "link": "https://filecrypt.cc/Container/BB4D89BBF8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/25D292A544",
+                            "link": "https://filecrypt.cc/Container/25D292A544"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A53B4FD370",
+                            "link": "https://filecrypt.cc/Container/A53B4FD370"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

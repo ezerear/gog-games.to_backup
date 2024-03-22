@@ -1,0 +1,147 @@
+{
+    "href": "/game/earthworm_jim_2",
+    "MSG": {
+        "id": "1207663113",
+        "title": "Earthworm Jim 2",
+        "slug": "earthworm_jim_2",
+        "thumb_id": "b5fae3bacc1d165614e8bf397047133226d44e6d384f987c3039fa8277db14cf",
+        "bg_id": "dc92eb90ca50bc84fff11b93fe060448680c70e1f813db6206a7e0ce60e41caa",
+        "url": "https://www.gog.com/game/earthworm_jim_1_2",
+        "developer": "Shiny Entertainment",
+        "publisher": "Interplay",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708887482",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_earthworm_jim2_2.1.0.8.exe",
+                    "size": "349936344"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "earthworm_jim_1_ost_flac.zip",
+                    "size": "405854502"
+                },
+                {
+                    "name": "earthworm_jim_2_ost_flac.zip",
+                    "size": "347786718"
+                },
+                {
+                    "name": "ewj_1+2_manual.zip",
+                    "size": "12747814"
+                },
+                {
+                    "name": "ewj_1_2_manual.zip",
+                    "size": "377290"
+                },
+                {
+                    "name": "ewj_1_soundtrack.zip",
+                    "size": "90699463"
+                },
+                {
+                    "name": "ewj_2_soundtrack.zip",
+                    "size": "81257909"
+                },
+                {
+                    "name": "ewj_artworks.zip",
+                    "size": "23708909"
+                },
+                {
+                    "name": "ewj_avatars.zip",
+                    "size": "191004"
+                },
+                {
+                    "name": "ewj_gifs.zip",
+                    "size": "87930"
+                },
+                {
+                    "name": "ewj_gog_guide.zip",
+                    "size": "12130465"
+                },
+                {
+                    "name": "ewj_wallpaper.zip",
+                    "size": "4988336"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6452AB2B14",
+                            "link": "https://filecrypt.cc/Container/6452AB2B14"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A824F2F052",
+                            "link": "https://filecrypt.cc/Container/A824F2F052"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/90725735CF",
+                            "link": "https://filecrypt.cc/Container/90725735CF"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2F6498C79D",
+                            "link": "https://filecrypt.cc/Container/2F6498C79D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7E5D40686C",
+                            "link": "https://filecrypt.cc/Container/7E5D40686C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DCFA3F325F",
+                            "link": "https://filecrypt.cc/Container/DCFA3F325F"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

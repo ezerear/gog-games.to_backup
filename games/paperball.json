@@ -1,0 +1,80 @@
+{
+    "href": "/game/paperball",
+    "MSG": {
+        "id": "2051185065",
+        "title": "Paperball",
+        "slug": "paperball",
+        "thumb_id": "71c5bfe275a4f16484db41beb9e060b7cc27f633c705c09d6b1e4efd7d9ddffc",
+        "bg_id": "4e80528c44ac9aa4abf3d966b04f972a36bb93c7d373bda0a9a8a9b377df03b2",
+        "url": "https://www.gog.com/en/game/paperball",
+        "developer": "Cliax Games",
+        "publisher": "",
+        "category": "Racing",
+        "uploading": "0",
+        "last_upload": "1709067204",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_paperball_-_cherry_sky_pack_1.2_(70557).exe",
+                    "size": "25025056"
+                },
+                {
+                    "name": "setup_paperball_-_deep_sea_pack_1.2_(70557).exe",
+                    "size": "17090504"
+                },
+                {
+                    "name": "setup_paperball_-_secret_spy_pack_1.2_(70557).exe",
+                    "size": "14729080"
+                },
+                {
+                    "name": "setup_paperball_1.2_(70557).exe",
+                    "size": "258481528"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5BEEE8AC3F",
+                            "link": "https://filecrypt.cc/Container/5BEEE8AC3F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/47DE54E4C3",
+                            "link": "https://filecrypt.cc/Container/47DE54E4C3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/129778E9A8",
+                            "link": "https://filecrypt.cc/Container/129778E9A8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

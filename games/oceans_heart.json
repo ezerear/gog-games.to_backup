@@ -1,0 +1,90 @@
+{
+    "href": "/game/oceans_heart",
+    "MSG": {
+        "id": "1819561805",
+        "title": "Ocean's Heart",
+        "slug": "oceans_heart",
+        "thumb_id": "91455855428953f07edba468ce46e46706eca1f2fd95949655d138d89dad2be3",
+        "bg_id": "8a9ea4ddf38f60da130cbfd9f688b4326df0a25a26180e6a0504e07599a8aa32",
+        "url": "https://www.gog.com/game/oceans_heart",
+        "developer": "Max Mraz",
+        "publisher": "Nordcurrent",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707637590",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_oceans_heart_1.0.3(5)_(71004).exe",
+                    "size": "238940736"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6B00AFFF8B",
+                            "link": "https://filecrypt.cc/Container/6B00AFFF8B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FDC5F9ACD5",
+                            "link": "https://filecrypt.cc/Container/FDC5F9ACD5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7EDE7F8DFB",
+                            "link": "https://filecrypt.cc/Container/7EDE7F8DFB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7CCEEE0336",
+                            "link": "https://filecrypt.cc/Container/7CCEEE0336"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/675BC2FD88",
+                            "link": "https://filecrypt.cc/Container/675BC2FD88"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

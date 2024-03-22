@@ -1,0 +1,89 @@
+{
+    "href": "/game/wings_remastered",
+    "MSG": {
+        "id": "1207666423",
+        "title": "Wings!™ Remastered Edition",
+        "slug": "wings_remastered",
+        "thumb_id": "e2e917c4845629cc7f7d1f0fc4665d5ba7c189a1a104de03f77493c639d6d0e0",
+        "bg_id": "cb52b3498fd4067d51e182c29838b0662d408633da0f3786118e5747e9dd29e6",
+        "url": "https://www.gog.com/game/wings_remastered",
+        "developer": "Cinemaware",
+        "publisher": "Kalypso",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710165365",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_wings_remastered_2.1.0.2.exe",
+                    "size": "283551096"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "wings_remastered_artwork.zip",
+                    "size": "56772749"
+                },
+                {
+                    "name": "wings_remastered_wallpaper.zip",
+                    "size": "1212528"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/687867F07A",
+                            "link": "https://filecrypt.cc/Container/687867F07A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7DAEE94398",
+                            "link": "https://filecrypt.cc/Container/7DAEE94398"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5FD17BE41B",
+                            "link": "https://filecrypt.cc/Container/5FD17BE41B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5522EC143A",
+                            "link": "https://filecrypt.cc/Container/5522EC143A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

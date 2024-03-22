@@ -1,0 +1,112 @@
+{
+    "href": "/game/giants_citizen_kabuto",
+    "MSG": {
+        "id": "1207658650",
+        "title": "Giants: Citizen Kabuto",
+        "slug": "giants_citizen_kabuto",
+        "thumb_id": "2c9ef8c238c36930e7c96710dda28bf26dde56b60bea5e43b7a7509d6692df48",
+        "bg_id": "d3d61186c6b3c6bb669128e2a297ddd0314fcc28d997dbe36371af63d9196452",
+        "url": "https://www.gog.com/game/giants_citizen_kabuto",
+        "developer": "Planet Moon Studios",
+        "publisher": "Interplay",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709423385",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_giants_2.1.0.4.exe",
+                    "size": "1147749424"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "giants_artworks.zip",
+                    "size": "7999995"
+                },
+                {
+                    "name": "giants_avatars.zip",
+                    "size": "51598"
+                },
+                {
+                    "name": "giants_manual.zip",
+                    "size": "333049"
+                },
+                {
+                    "name": "giants_soundtrack.zip",
+                    "size": "97281990"
+                },
+                {
+                    "name": "giants_wallpapers.zip",
+                    "size": "12862056"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8342A2B9C7",
+                            "link": "https://filecrypt.cc/Container/8342A2B9C7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C670764114",
+                            "link": "https://filecrypt.cc/Container/C670764114"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/322204070E",
+                            "link": "https://filecrypt.cc/Container/322204070E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5EF2578D3F",
+                            "link": "https://filecrypt.cc/Container/5EF2578D3F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E52EB847CE",
+                            "link": "https://filecrypt.cc/Container/E52EB847CE"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,141 @@
+{
+    "href": "/game/tails_noir",
+    "MSG": {
+        "id": "1666053779",
+        "title": "Tails Noir",
+        "slug": "tails_noir",
+        "thumb_id": "972334ddb7261c4312d6a700fe024179e166b792cd2162e25e023c3845aa0f00",
+        "bg_id": "9d3b36595ff9bd8c1d3ee98f1aebe3e87e07046a768f29dd0ee99d9796061980",
+        "url": "https://www.gog.com/game/tails_noir",
+        "developer": "EggNut",
+        "publisher": "Raw Fury",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1707992844",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tails_noir_1.0.9.7_(64bit)_(67285)-1.bin",
+                    "size": "2166329359"
+                },
+                {
+                    "name": "setup_tails_noir_1.0.9.7_(64bit)_(67285).exe",
+                    "size": "813744"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "backbone_words_dlc_pdf.zip",
+                    "size": "253844"
+                },
+                {
+                    "name": "tails_noir_ost_flac.zip",
+                    "size": "1271839677"
+                },
+                {
+                    "name": "tails_noir_ost_mp3.zip",
+                    "size": "223312685"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/79A95B6D1E",
+                            "link": "https://filecrypt.cc/Container/79A95B6D1E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4AFEE0F80D",
+                            "link": "https://filecrypt.cc/Container/4AFEE0F80D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CD880C63E6",
+                            "link": "https://filecrypt.cc/Container/CD880C63E6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5B45AC782A",
+                            "link": "https://filecrypt.cc/Container/5B45AC782A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4512EA3D45",
+                            "link": "https://filecrypt.cc/Container/4512EA3D45"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0EADA199AF",
+                            "link": "https://filecrypt.cc/Container/0EADA199AF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F92FCE5A31",
+                            "link": "https://filecrypt.cc/Container/F92FCE5A31"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8877DCCEAB",
+                            "link": "https://filecrypt.cc/Container/8877DCCEAB"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

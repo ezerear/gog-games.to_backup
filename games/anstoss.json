@@ -1,0 +1,79 @@
+{
+    "href": "/game/anstoss",
+    "MSG": {
+        "id": "1142670940",
+        "title": "Anstoss",
+        "slug": "anstoss",
+        "thumb_id": "d8c76fc07f10f736ef553278f81820e44a7126a87026af1edf8c65154c4a4bb2",
+        "bg_id": "dc63afcfc7d1d2a3e48395c6b29bee810398583651063dfd18091b711c20ff27",
+        "url": "https://www.gog.com/game/anstoss",
+        "developer": "Ascon",
+        "publisher": "Kalypso Media Digital",
+        "category": "Sports",
+        "uploading": "0",
+        "last_upload": "1684717337",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_anstoss_(on_the_ball)_1.0_(48224).exe",
+                    "size": "113571016"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C8F2FCB9E7",
+                            "link": "https://filecrypt.cc/Container/C8F2FCB9E7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D733BDFE4F",
+                            "link": "https://filecrypt.cc/Container/D733BDFE4F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3063CF64EB",
+                            "link": "https://filecrypt.cc/Container/3063CF64EB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2A015EBDAE",
+                            "link": "https://filecrypt.cc/Container/2A015EBDAE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

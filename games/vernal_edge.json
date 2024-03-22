@@ -1,0 +1,68 @@
+{
+    "href": "/game/vernal_edge",
+    "MSG": {
+        "id": "1169945623",
+        "title": "Vernal Edge",
+        "slug": "vernal_edge",
+        "thumb_id": "5f1582963f0d05bbcaa556ddad88e28fc582090271cb02260d582023715ca262",
+        "bg_id": "bec38b5ba7fdda025ce721b95fab98934ba5f0d9c0949e3fc99282c3bd067014",
+        "url": "https://www.gog.com/en/game/vernal_edge",
+        "developer": "Hello Penguin Team LLC",
+        "publisher": "PID Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709221829",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_vernal_edge_1.5.1_(64bit)_(63641).exe",
+                    "size": "375909072"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D6EB40DC87",
+                            "link": "https://filecrypt.cc/Container/D6EB40DC87"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C1AC5D619E",
+                            "link": "https://filecrypt.cc/Container/C1AC5D619E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0B7221133C",
+                            "link": "https://filecrypt.cc/Container/0B7221133C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

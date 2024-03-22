@@ -1,0 +1,107 @@
+{
+    "href": "/game/clem",
+    "MSG": {
+        "id": "2059815510",
+        "title": "CLeM",
+        "slug": "clem",
+        "thumb_id": "6cfe9efa8b8551ad7115dc3e83d1540401d3a6e4ce2e6f7306ad077b8ebd60af",
+        "bg_id": "da8960d2c35a81cef8772cca5c814f272d4fd7ade4f9d0a7417e36edaaee1473",
+        "url": "https://www.gog.com/en/game/clem",
+        "developer": "Mango Protocol",
+        "publisher": "Iceberg Interactive",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708451538",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_clem_1.0.1_(71222).exe",
+                    "size": "1472251512"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "clem_original_soundtrack_mp3.zip",
+                    "size": "198798647"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BFF65872AE",
+                            "link": "https://filecrypt.cc/Container/BFF65872AE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/7KdXqWN",
+                            "link": "https://safelinking.net/7KdXqWN"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/Z2RbbXf",
+                            "link": "https://safelinking.net/Z2RbbXf"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5B692DF19D",
+                            "link": "https://filecrypt.cc/Container/5B692DF19D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/g5aBPHd",
+                            "link": "https://safelinking.net/g5aBPHd"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/1zBzz6q",
+                            "link": "https://safelinking.net/1zBzz6q"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/mars_base",
+    "MSG": {
+        "id": "1446159370",
+        "title": "Mars Base",
+        "slug": "mars_base",
+        "thumb_id": "650c5abf25d124917f5d83565b8b3c9c0f40c4565c1019f14be1bc9fae04fbf4",
+        "bg_id": "104e3aab9fe8af58bcf6a8b69d667fc3af671359cfd94fa16ec159815210d5db",
+        "url": "https://www.gog.com/en/game/mars_base",
+        "developer": "Khuong Le",
+        "publisher": "Freedom Games",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1709856945",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_mars_base_1.106_(62436).exe",
+                    "size": "54781248"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/805FBD21F0",
+                            "link": "https://filecrypt.cc/Container/805FBD21F0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8BC2B2416A",
+                            "link": "https://filecrypt.cc/Container/8BC2B2416A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CF16D99113",
+                            "link": "https://filecrypt.cc/Container/CF16D99113"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

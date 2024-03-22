@@ -1,0 +1,79 @@
+{
+    "href": "/game/meat_puppet",
+    "MSG": {
+        "id": "1571977582",
+        "title": "Meat Puppet",
+        "slug": "meat_puppet",
+        "thumb_id": "4f9c2f95c1753122a65d4aceb2066cb9c1312b048a3fcc1cd2d786408acc0ca1",
+        "bg_id": "2384e9b9b7f6addfe702c9a7d6d87bd286518b82784f7c3522eb58cd5e549928",
+        "url": "https://www.gog.com/en/game/meat_puppet",
+        "developer": "Kronos Digital Entertainment",
+        "publisher": "Piko Interactive",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1682518687",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_meat_puppet_1.0_(59117).exe",
+                    "size": "477343608"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "uploadbuzz",
+                    "name": "UploadBuzz",
+                    "icon": "<img src=\"/static/img/hoster_logos/uploadbuzz.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/Q93eaZe",
+                            "link": "https://safelinking.net/Q93eaZe"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/488230A16D",
+                            "link": "https://filecrypt.cc/Container/488230A16D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/UnKGbS7",
+                            "link": "https://safelinking.net/UnKGbS7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ECD6B988D9",
+                            "link": "https://filecrypt.cc/Container/ECD6B988D9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

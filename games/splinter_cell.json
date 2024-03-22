@@ -1,0 +1,111 @@
+{
+    "href": "/game/splinter_cell",
+    "MSG": {
+        "id": "1207659034",
+        "title": "Tom Clancy's Splinter Cell®",
+        "slug": "splinter_cell",
+        "thumb_id": "67bdc9c77a58c7a5eadd3a36fd39588a13012422bf7185b0f48b8b9061b4e639",
+        "bg_id": "26082a7a220b77937cd31d4e74764e9fed841b026c68925d29dd5166a8b862b4",
+        "url": "https://www.gog.com/game/splinter_cell",
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709129364",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tom_clancys_splinter_cell_2.0.0.12.exe",
+                    "size": "1184951744"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "splinter_cell_manual.zip",
+                    "size": "1638301"
+                },
+                {
+                    "name": "splinter_cell_reference_card.zip",
+                    "size": "470716"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C4D1EA3E59",
+                            "link": "https://filecrypt.cc/Container/C4D1EA3E59"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1A83667EB3",
+                            "link": "https://filecrypt.cc/Container/1A83667EB3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/84F30DDDBE",
+                            "link": "https://filecrypt.cc/Container/84F30DDDBE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5857A8443F",
+                            "link": "https://filecrypt.cc/Container/5857A8443F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BDA941BADF",
+                            "link": "https://filecrypt.cc/Container/BDA941BADF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BF6DDACF18",
+                            "link": "https://filecrypt.cc/Container/BF6DDACF18"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

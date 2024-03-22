@@ -1,0 +1,101 @@
+{
+    "href": "/game/hexplore",
+    "MSG": {
+        "id": "2084944775",
+        "title": "Hexplore",
+        "slug": "hexplore",
+        "thumb_id": "1fe3decfbd5d9de3b0d06fa6877ab762d5761d4e471a41343931bb25d946e04e",
+        "bg_id": "1cf4a9415f137fa567c2963eb7268c2db71784a5dec17550ac29161c3f6fbecd",
+        "url": "https://www.gog.com/game/hexplore",
+        "developer": "Doki Denki Studio",
+        "publisher": "Piko Interactive",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1700134702",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hexplore_1.0_(34049).exe",
+                    "size": "426342296"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6F188236CE",
+                            "link": "https://filecrypt.cc/Container/6F188236CE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AAA18CCABE",
+                            "link": "https://filecrypt.cc/Container/AAA18CCABE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6A9D5C5714",
+                            "link": "https://filecrypt.cc/Container/6A9D5C5714"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A8F77DAD9B",
+                            "link": "https://filecrypt.cc/Container/A8F77DAD9B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/53FEC58677",
+                            "link": "https://filecrypt.cc/Container/53FEC58677"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/99AFCF4E1E",
+                            "link": "https://filecrypt.cc/Container/99AFCF4E1E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

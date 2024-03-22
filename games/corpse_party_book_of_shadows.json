@@ -1,0 +1,76 @@
+{
+    "href": "/game/corpse_party_book_of_shadows",
+    "MSG": {
+        "id": "1856356886",
+        "title": "Corpse Party: Book of Shadows",
+        "slug": "corpse_party_book_of_shadows",
+        "thumb_id": "fc6c3c395dec79f5646b21c3b60c557cf786a5a75b444e5edcd258a0c0f2d3fa",
+        "bg_id": "0ae1002c2b5f8bdfc20f244410a3fa33d2973866ac674bb754ff417c9182ba54",
+        "url": "https://www.gog.com/game/corpse_party_book_of_shadows",
+        "developer": "MAGES. Inc., 5pb.",
+        "publisher": "XSEED Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707956610",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_corpse_party_book_of_shadows_2019.09.09_(32332)-1.bin",
+                    "size": "4294110206"
+                },
+                {
+                    "name": "setup_corpse_party_book_of_shadows_2019.09.09_(32332)-2.bin",
+                    "size": "1265505057"
+                },
+                {
+                    "name": "setup_corpse_party_book_of_shadows_2019.09.09_(32332).exe",
+                    "size": "864288"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/65D97A45D0",
+                            "link": "https://filecrypt.cc/Container/65D97A45D0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4099BE3DC0",
+                            "link": "https://filecrypt.cc/Container/4099BE3DC0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/87273C2787",
+                            "link": "https://filecrypt.cc/Container/87273C2787"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/varney_lake",
+    "MSG": {
+        "id": "1635902188",
+        "title": "Varney Lake",
+        "slug": "varney_lake",
+        "thumb_id": "8d34ff256d9db49d0de68feefe6f3b356460f8fd8a562cf42cba2de794c9c9f3",
+        "bg_id": "74a661eaec3f450c322c1461f23bffb816b3b806c063a91ebb5580b6c9fc9127",
+        "url": "https://www.gog.com/en/game/varney_lake",
+        "developer": "LCB Game Studio",
+        "publisher": "Chorus Worldwide Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708970935",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_varney_lake_1.0_(64bit)_(69528).exe",
+                    "size": "129601712"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FC469DC930",
+                            "link": "https://filecrypt.cc/Container/FC469DC930"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/90ADB94DD9",
+                            "link": "https://filecrypt.cc/Container/90ADB94DD9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CE7E86C68A",
+                            "link": "https://filecrypt.cc/Container/CE7E86C68A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

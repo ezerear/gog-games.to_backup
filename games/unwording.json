@@ -1,0 +1,101 @@
+{
+    "href": "/game/unwording",
+    "MSG": {
+        "id": "1867504119",
+        "title": "Unwording",
+        "slug": "unwording",
+        "thumb_id": "9500bb8f6ce722d974f1c20c5a5fca606a60b7190748144d3cc3a219d859da6a",
+        "bg_id": "ef770acc776f7898b25a0f53136ecf840ba57a9b1d5fff009e09317fcf4bf69a",
+        "url": "https://www.gog.com/en/game/unwording",
+        "developer": "Frostwood Interactive",
+        "publisher": "Frostwood Interactive, Dino Digital",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1696756744",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_unwording_1.02_(64bit)_(64432).exe",
+                    "size": "609482424"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BD9E9FA3B4",
+                            "link": "https://filecrypt.cc/Container/BD9E9FA3B4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A9D02E0BF0",
+                            "link": "https://filecrypt.cc/Container/A9D02E0BF0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/728E3E7EA5",
+                            "link": "https://filecrypt.cc/Container/728E3E7EA5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AEE8C76D79",
+                            "link": "https://filecrypt.cc/Container/AEE8C76D79"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C1185935BD",
+                            "link": "https://filecrypt.cc/Container/C1185935BD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9348D1D5C3",
+                            "link": "https://filecrypt.cc/Container/9348D1D5C3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

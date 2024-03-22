@@ -1,0 +1,68 @@
+{
+    "href": "/game/furi_demake_the_chain",
+    "MSG": {
+        "id": "2108767284",
+        "title": "Furi Demake - The Chain",
+        "slug": "furi_demake_the_chain",
+        "thumb_id": "e4d70f1cbbaddbf3c693c4f094c59806e82981e1457255111ee38946ee4d8708",
+        "bg_id": "63f58b2cd668daa0c9fceef49bce50ae2571be601d119755ad1191ac70188af2",
+        "url": "https://www.gog.com/en/game/furi_demake_the_chain",
+        "developer": "The Game Bakers",
+        "publisher": "The Game Bakers",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708651447",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_furi_demake_-_the_chain_1.0.131_(64bit)_(69204).exe",
+                    "size": "122966328"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BF302755A4",
+                            "link": "https://filecrypt.cc/Container/BF302755A4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/68B81A94CC",
+                            "link": "https://filecrypt.cc/Container/68B81A94CC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9FFC2468BA",
+                            "link": "https://filecrypt.cc/Container/9FFC2468BA"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

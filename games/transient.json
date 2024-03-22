@@ -1,0 +1,76 @@
+{
+    "href": "/game/transient",
+    "MSG": {
+        "id": "2100029274",
+        "title": "Transient",
+        "slug": "transient",
+        "thumb_id": "e49d68668365018aff5e76f02fa96d913a157f25f7ed6791f4bedd6902b72419",
+        "bg_id": "09971c673d625c1241c2abf00a2bfc168450d21da5c8920170fdf2ffc1190443",
+        "url": "https://www.gog.com/game/transient",
+        "developer": "Stormling Studios",
+        "publisher": "Iceberg Interactive",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1706517148",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_transient_0.170_(52027)-1.bin",
+                    "size": "4290863614"
+                },
+                {
+                    "name": "setup_transient_0.170_(52027)-2.bin",
+                    "size": "2714325220"
+                },
+                {
+                    "name": "setup_transient_0.170_(52027).exe",
+                    "size": "4109792"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9A85E79AF5",
+                            "link": "https://filecrypt.cc/Container/9A85E79AF5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/900444D926",
+                            "link": "https://filecrypt.cc/Container/900444D926"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CFB2A49643",
+                            "link": "https://filecrypt.cc/Container/CFB2A49643"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,72 @@
+{
+    "href": "/game/hordecore",
+    "MSG": {
+        "id": "1802118198",
+        "title": "HordeCore",
+        "slug": "hordecore",
+        "thumb_id": "781ab0fed3d115412e68cca72747f2b95c39c504d04812754e10f0dc46b56303",
+        "bg_id": "913324b087cf5c73a841429b06fe78cb3eedb50f50b67904a483898a8b42f82e",
+        "url": "https://www.gog.com/game/hordecore",
+        "developer": "Digitality Studios",
+        "publisher": "META Publishing",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708258182",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hordecore_1.9_(54344)-1.bin",
+                    "size": "3082888416"
+                },
+                {
+                    "name": "setup_hordecore_1.9_(54344).exe",
+                    "size": "917464"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2EF8CD333D",
+                            "link": "https://filecrypt.cc/Container/2EF8CD333D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1D8A53DCAD",
+                            "link": "https://filecrypt.cc/Container/1D8A53DCAD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CD4978AD7C",
+                            "link": "https://filecrypt.cc/Container/CD4978AD7C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

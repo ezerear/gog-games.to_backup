@@ -1,0 +1,68 @@
+{
+    "href": "/game/altfrequencies",
+    "MSG": {
+        "id": "1313891006",
+        "title": "Alt-Frequencies",
+        "slug": "altfrequencies",
+        "thumb_id": "beb9f3093420695041fa0e1180ee81bb5ca8296bc0e207f6e8b5159237b92c35",
+        "bg_id": "3b9908aa336a9a39ef30c2551350a0822d734d487fa27ebe05a85015d6c4fb43",
+        "url": "https://www.gog.com/en/game/altfrequencies",
+        "developer": "Accidental Queens, ARTE France",
+        "publisher": "PID Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709100042",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_alt-frequencies_1.0_(63250).exe",
+                    "size": "379476832"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BA62613C94",
+                            "link": "https://filecrypt.cc/Container/BA62613C94"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0C7C913976",
+                            "link": "https://filecrypt.cc/Container/0C7C913976"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C31799F66C",
+                            "link": "https://filecrypt.cc/Container/C31799F66C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

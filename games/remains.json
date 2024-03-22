@@ -1,0 +1,90 @@
+{
+    "href": "/game/remains",
+    "MSG": {
+        "id": "1351035918",
+        "title": "Remains",
+        "slug": "remains",
+        "thumb_id": "66731b85a15c6cac9e63a29c95c0b25bfd95b8ce3eaada337646d105b33d7c6b",
+        "bg_id": "14e72effb7360782d1a76747d03318fe605fdb496801aad51d5674cbaa0c14c7",
+        "url": "https://www.gog.com/en/game/remains",
+        "developer": "SoloQ",
+        "publisher": "SoloQ",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1707629164",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_remains_0.50x7933a_(70936).exe",
+                    "size": "559243984"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A44CA57D9F",
+                            "link": "https://filecrypt.cc/Container/A44CA57D9F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E948005174",
+                            "link": "https://filecrypt.cc/Container/E948005174"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/76C8BB151B",
+                            "link": "https://filecrypt.cc/Container/76C8BB151B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/24C1732C5C",
+                            "link": "https://filecrypt.cc/Container/24C1732C5C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9D71CE5DB5",
+                            "link": "https://filecrypt.cc/Container/9D71CE5DB5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

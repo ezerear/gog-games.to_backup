@@ -1,0 +1,127 @@
+{
+    "href": "/game/gothic",
+    "MSG": {
+        "id": "1207658682",
+        "title": "Gothic",
+        "slug": "gothic",
+        "thumb_id": "7a520e68d2f6a50d5e6a5dc45deb33aeddcd58f17dd922123352b677cc357ecd",
+        "bg_id": "9ace6bfc14199ac07ee1f4108c99a7972e6204df33e8c1c10646b0cb2c28dbfc",
+        "url": "https://www.gog.com/game/gothic",
+        "developer": "Piranha Bytes",
+        "publisher": "Piranha Bytes",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710625705",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_gothic_1.08k_hotfix_(26654)-1.bin",
+                    "size": "941888756"
+                },
+                {
+                    "name": "setup_gothic_1.08k_hotfix_(26654).exe",
+                    "size": "920360"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "gothic_artworks.zip",
+                    "size": "8198801"
+                },
+                {
+                    "name": "gothic_avatars.zip",
+                    "size": "74224"
+                },
+                {
+                    "name": "gothic_manual.zip",
+                    "size": "1516732"
+                },
+                {
+                    "name": "gothic_soundtrack.zip",
+                    "size": "35051886"
+                },
+                {
+                    "name": "gothic_wallpapers.zip",
+                    "size": "26950099"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/69498585D8",
+                            "link": "https://filecrypt.cc/Container/69498585D8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B9CEA2F454",
+                            "link": "https://filecrypt.cc/Container/B9CEA2F454"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3F542FBB08",
+                            "link": "https://filecrypt.cc/Container/3F542FBB08"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9AEF18FB83",
+                            "link": "https://filecrypt.cc/Container/9AEF18FB83"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F774978172",
+                            "link": "https://filecrypt.cc/Container/F774978172"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B19C889779",
+                            "link": "https://filecrypt.cc/Container/B19C889779"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

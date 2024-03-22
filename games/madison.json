@@ -1,0 +1,87 @@
+{
+    "href": "/game/madison",
+    "MSG": {
+        "id": "1920689614",
+        "title": "MADiSON",
+        "slug": "madison",
+        "thumb_id": "18ad51d7f5fc84c36fcd8d3760311b1ae56a724dda15eeaf281ca61f4125630c",
+        "bg_id": "d3394bad98c42be7edece07807965475c8007f486d90f9dd1d19dfc38d999c48",
+        "url": "https://www.gog.com/game/madison",
+        "developer": "Nosebleed Games",
+        "publisher": "Nosebleed Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1706241279",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_madison_1.0.0_(57094)-1.bin",
+                    "size": "4294085118"
+                },
+                {
+                    "name": "setup_madison_1.0.0_(57094)-2.bin",
+                    "size": "541541272"
+                },
+                {
+                    "name": "setup_madison_1.0.0_(57094).exe",
+                    "size": "892296"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/092C3E4A6B",
+                            "link": "https://filecrypt.cc/Container/092C3E4A6B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/064D97F7E9",
+                            "link": "https://filecrypt.cc/Container/064D97F7E9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1A3859587F",
+                            "link": "https://filecrypt.cc/Container/1A3859587F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/69044D5116",
+                            "link": "https://filecrypt.cc/Container/69044D5116"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

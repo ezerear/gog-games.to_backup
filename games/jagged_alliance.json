@@ -1,0 +1,115 @@
+{
+    "href": "/game/jagged_alliance",
+    "MSG": {
+        "id": "1207658689",
+        "title": "Jagged Alliance",
+        "slug": "jagged_alliance",
+        "thumb_id": "d02148c6b9c4784d4227b9ecc5786fcb0240c0fcbca7ed95e34bb9d62f48edb0",
+        "bg_id": "582741590637fce3c20d75f4a311f881174b32d6419c7a405cbdda3e99c2abbc",
+        "url": "https://www.gog.com/game/jagged_alliance",
+        "developer": "Madlab Software",
+        "publisher": "Strategy First",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710426212",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_jagged_alliance_1.13_(28044).exe",
+                    "size": "300290448"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "jagged_alliance_manual.zip",
+                    "size": "626379"
+                },
+                {
+                    "name": "jagged_alliance_quickrefcard.zip",
+                    "size": "1282141"
+                },
+                {
+                    "name": "ja_wf_avatars.zip",
+                    "size": "93619"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/99BAA79617",
+                            "link": "https://filecrypt.cc/Container/99BAA79617"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3AF0ACBE6C",
+                            "link": "https://filecrypt.cc/Container/3AF0ACBE6C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/721D567E10",
+                            "link": "https://filecrypt.cc/Container/721D567E10"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/162B137CE6",
+                            "link": "https://filecrypt.cc/Container/162B137CE6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/31F483C080",
+                            "link": "https://filecrypt.cc/Container/31F483C080"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/15FC72F110",
+                            "link": "https://filecrypt.cc/Container/15FC72F110"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

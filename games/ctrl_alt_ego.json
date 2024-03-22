@@ -1,0 +1,115 @@
+{
+    "href": "/game/ctrl_alt_ego",
+    "MSG": {
+        "id": "1422735597",
+        "title": "Ctrl Alt Ego",
+        "slug": "ctrl_alt_ego",
+        "thumb_id": "b706ec95ea14ad33619e8fbd98f33f12f51ed6353788467d9089df67b65db9e6",
+        "bg_id": "bc44b12823bdaa925e7930ebb7e251900ab10f778cec9e63b1bbc44178d202a7",
+        "url": "https://www.gog.com/en/game/ctrl_alt_ego",
+        "developer": "MindThunk",
+        "publisher": "MindThunk",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1708307306",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_ctrl_alt_ego_1.3.14.02.b.german_(64bit)_(71289)-1.bin",
+                    "size": "4293975038"
+                },
+                {
+                    "name": "setup_ctrl_alt_ego_1.3.14.02.b.german_(64bit)_(71289)-2.bin",
+                    "size": "1921397343"
+                },
+                {
+                    "name": "setup_ctrl_alt_ego_1.3.14.02.b.german_(64bit)_(71289).exe",
+                    "size": "999400"
+                }
+            ],
+            "PATCHES": [
+                {
+                    "name": "patch_ctrl_alt_ego_1.3.13.01b_(70833)_to_1.3.14.02.b.german_(71289).exe",
+                    "size": "21313880"
+                }
+            ],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/3bTUdhp",
+                            "link": "https://safelinking.net/3bTUdhp"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/5WXiEXu",
+                            "link": "https://safelinking.net/5WXiEXu"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/jJ9H1UD",
+                            "link": "https://safelinking.net/jJ9H1UD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/ghhHcd9",
+                            "link": "https://safelinking.net/ghhHcd9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/waps4tg",
+                            "link": "https://safelinking.net/waps4tg"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/l7QcUhY",
+                            "link": "https://safelinking.net/l7QcUhY"
+                        }
+                    ]
+                }
+            ],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,102 @@
+{
+    "href": "/game/knights_of_messiah",
+    "MSG": {
+        "id": "2027556931",
+        "title": "Knights of Messiah",
+        "slug": "knights_of_messiah",
+        "thumb_id": "af07a43fa2eeda6925b6fde5ab814c152db0e5484d8662bbbd3adc09683df1e2",
+        "bg_id": "face90c9199e1694625ba4e5f39d47c4f3e73ab5f9e983b287b63f0d89c1a2cf",
+        "url": "https://www.gog.com/en/game/knights_of_messiah",
+        "developer": "Circle Gyu",
+        "publisher": "Kagura Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1702860432",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_knights_of_messiah_unrated_v4_(en_1.04_cn_1.02)_(56471)-1.bin",
+                    "size": "1068933180"
+                },
+                {
+                    "name": "setup_knights_of_messiah_unrated_v4_(en_1.04_cn_1.02)_(56471).exe",
+                    "size": "794976"
+                },
+                {
+                    "name": "setup_knights_of_messiah_v4_(en_1.04_cn_1.02)_(56471)-1.bin",
+                    "size": "1370765464"
+                },
+                {
+                    "name": "setup_knights_of_messiah_v4_(en_1.04_cn_1.02)_(56471).exe",
+                    "size": "966720"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CE1E94AF49",
+                            "link": "https://filecrypt.cc/Container/CE1E94AF49"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/59DB63847D",
+                            "link": "https://filecrypt.cc/Container/59DB63847D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/99A1C05AB2",
+                            "link": "https://filecrypt.cc/Container/99A1C05AB2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2A657CEDAA",
+                            "link": "https://filecrypt.cc/Container/2A657CEDAA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DD138AD980",
+                            "link": "https://filecrypt.cc/Container/DD138AD980"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

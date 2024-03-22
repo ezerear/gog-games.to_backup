@@ -1,0 +1,57 @@
+{
+    "href": "/game/the_colonists",
+    "MSG": {
+        "id": "1282350952",
+        "title": "The Colonists",
+        "slug": "the_colonists",
+        "thumb_id": "9394cd2637dc2e9ff9812b0d03cd97f2780651a396a666f6e09c2ee400787420",
+        "bg_id": "46d1c80af0cfdcdab83f4069a59baffdc12b834810cbcd78cb4f3068e995f84e",
+        "url": "https://www.gog.com/game/the_colonists",
+        "developer": "Codebyfire",
+        "publisher": "Mode 7",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710118446",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_colonists_1.6.14_(64bit)_(71568).exe",
+                    "size": "341975824"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FAEDC42E38",
+                            "link": "https://filecrypt.cc/Container/FAEDC42E38"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C4D70AF7AC",
+                            "link": "https://filecrypt.cc/Container/C4D70AF7AC"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

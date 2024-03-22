@@ -1,0 +1,105 @@
+{
+    "href": "/game/nexus_the_jupiter_incident",
+    "MSG": {
+        "id": "1207659080",
+        "title": "Nexus: The Jupiter Incident",
+        "slug": "nexus_the_jupiter_incident",
+        "thumb_id": "4b6319ff49eebd71f908ff622a83f3c68f28bf80999a53e0224f0678865439f3",
+        "bg_id": "bfdb60cee990ce4bbbdf706ff34b3ce0bf7e248a9c286102ff73d5ba85aabeab",
+        "url": "https://www.gog.com/game/nexus_the_jupiter_incident",
+        "developer": "Mithis Entertainment",
+        "publisher": "HandyGames",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710125904",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_nexus_2.3.0.15-1.bin",
+                    "size": "2704613958"
+                },
+                {
+                    "name": "setup_nexus_2.3.0.15.exe",
+                    "size": "39052776"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "nexus_tji_artworks.zip",
+                    "size": "1890441"
+                },
+                {
+                    "name": "nexus_tji_manual.zip",
+                    "size": "666298"
+                },
+                {
+                    "name": "nexus_tji_soundtrack.zip",
+                    "size": "111428044"
+                },
+                {
+                    "name": "nexus_tji_wallpapers.zip",
+                    "size": "17027245"
+                },
+                {
+                    "name": "Soundtrack_Nexus_the_Jupiter_Incident.zip",
+                    "size": "172361696"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9CC6E2AB9B",
+                            "link": "https://filecrypt.cc/Container/9CC6E2AB9B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EEC3522F03",
+                            "link": "https://filecrypt.cc/Container/EEC3522F03"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/241028F4B7",
+                            "link": "https://filecrypt.cc/Container/241028F4B7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/54D74B0085",
+                            "link": "https://filecrypt.cc/Container/54D74B0085"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

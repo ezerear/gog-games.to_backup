@@ -1,0 +1,123 @@
+{
+    "href": "/game/norco",
+    "MSG": {
+        "id": "1802479463",
+        "title": "NORCO",
+        "slug": "norco",
+        "thumb_id": "7ffb4ca43c3403abc41c9bf4d6b8ded80f6c7bc78a8ac5de26f560f6bf9a8d2e",
+        "bg_id": "85a1350ff723458a7d07b4aa93f7b792641ab7c29532b518e5f79b4794b1c845",
+        "url": "https://www.gog.com/game/norco",
+        "developer": "Geography of Robots",
+        "publisher": "Raw Fury",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710715342",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_norco_v1.4.4_(64bit)_(60635).exe",
+                    "size": "695019360"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "concept_art.zip",
+                    "size": "9439591"
+                },
+                {
+                    "name": "norco_artbook.zip",
+                    "size": "159238289"
+                },
+                {
+                    "name": "norco_soundtrack_mp3.zip",
+                    "size": "269304259"
+                },
+                {
+                    "name": "norco_soundtrack_wav.zip",
+                    "size": "1287560253"
+                },
+                {
+                    "name": "wallpapers.zip",
+                    "size": "132749116"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2885E8A47F",
+                            "link": "https://filecrypt.cc/Container/2885E8A47F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8898C08EB7",
+                            "link": "https://filecrypt.cc/Container/8898C08EB7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E06665424D",
+                            "link": "https://filecrypt.cc/Container/E06665424D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/109D5D85A8",
+                            "link": "https://filecrypt.cc/Container/109D5D85A8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E9CDCF800D",
+                            "link": "https://filecrypt.cc/Container/E9CDCF800D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DC7ED8F073",
+                            "link": "https://filecrypt.cc/Container/DC7ED8F073"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

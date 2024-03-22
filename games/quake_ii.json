@@ -1,0 +1,72 @@
+{
+    "href": "/game/quake_ii",
+    "MSG": {
+        "id": "1947927225",
+        "title": "Quake II",
+        "slug": "quake_ii",
+        "thumb_id": "eaad37826db129a6477669a4fecae58e8507578eda7ede7c775622240f9146be",
+        "bg_id": "7b40e6f1b5e6def354e0a9b6aededd73cd86f0350c1479179b69c02e1fe76589",
+        "url": "https://www.gog.com/game/quake_ii_quad_damage",
+        "developer": "id Software",
+        "publisher": "Bethesda Softworks LLC",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1708128759",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_quake_ii_enhanced_5984_(64bit)_(68677)-1.bin",
+                    "size": "3787310695"
+                },
+                {
+                    "name": "setup_quake_ii_enhanced_5984_(64bit)_(68677).exe",
+                    "size": "862848"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5FDF4C81A8",
+                            "link": "https://filecrypt.cc/Container/5FDF4C81A8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6AC5CA00F4",
+                            "link": "https://filecrypt.cc/Container/6AC5CA00F4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8D7F11B3AF",
+                            "link": "https://filecrypt.cc/Container/8D7F11B3AF"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

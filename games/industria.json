@@ -1,0 +1,80 @@
+{
+    "href": "/game/industria",
+    "MSG": {
+        "id": "1804122723",
+        "title": "INDUSTRIA",
+        "slug": "industria",
+        "thumb_id": "6ef9a9e6b7a7a59dbe48a3ae8f4e7a921a451ec204173eda57f1793563c088cc",
+        "bg_id": "35b7a71c2a415733d5c903876ab453c0adef17822bb7855278ee9af996296f35",
+        "url": "https://www.gog.com/game/industria",
+        "developer": "Bleakmill",
+        "publisher": "Headup",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1707513047",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_industria_1.3.0_(59988)-1.bin",
+                    "size": "4294077950"
+                },
+                {
+                    "name": "setup_industria_1.3.0_(59988)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_industria_1.3.0_(59988)-3.bin",
+                    "size": "708127744"
+                },
+                {
+                    "name": "setup_industria_1.3.0_(59988).exe",
+                    "size": "899448"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/10DEAD07FC",
+                            "link": "https://filecrypt.cc/Container/10DEAD07FC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7531F8C5A5",
+                            "link": "https://filecrypt.cc/Container/7531F8C5A5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E9E931E566",
+                            "link": "https://filecrypt.cc/Container/E9E931E566"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

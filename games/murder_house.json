@@ -1,0 +1,68 @@
+{
+    "href": "/game/murder_house",
+    "MSG": {
+        "id": "1329041524",
+        "title": "Murder House",
+        "slug": "murder_house",
+        "thumb_id": "9c61346f2cfa9ec701a66d30ed26f9586bc0c692860c0ede84b5f6a7b6ec6e50",
+        "bg_id": "93b864b0d0d865ccc5e9a591e311dedcd6b6f570e2fc78f615d533df4c80ef7e",
+        "url": "https://www.gog.com/en/game/murder_house",
+        "developer": "Puppet Combo",
+        "publisher": "Puppet Combo",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709757231",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_murder_house_1.0.2_(59923).exe",
+                    "size": "482095808"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CA94A7B458",
+                            "link": "https://filecrypt.cc/Container/CA94A7B458"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/353C26FD8F",
+                            "link": "https://filecrypt.cc/Container/353C26FD8F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DAD30ADB8B",
+                            "link": "https://filecrypt.cc/Container/DAD30ADB8B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

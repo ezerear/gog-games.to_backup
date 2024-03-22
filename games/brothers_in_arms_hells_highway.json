@@ -1,0 +1,104 @@
+{
+    "href": "/game/brothers_in_arms_hells_highway",
+    "MSG": {
+        "id": "1796017250",
+        "title": "Brothers in Arms: Hell's Highway™",
+        "slug": "brothers_in_arms_hells_highway",
+        "thumb_id": "2c40ed9b5d199396d80153ad8c4e7200cfcfc23c0131650fec948420d6a95bba",
+        "bg_id": "68142abe7d50aeae492ea1949356d3533a83ed08de74ed55a1adcddf06de1e40",
+        "url": "https://www.gog.com/game/brothers_in_arms_hells_highway",
+        "developer": "Gearbox Software",
+        "publisher": "Ubisoft",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1709358755",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_brothers_in_arms_hells_highwaytm_1.0_(26483)-1.bin",
+                    "size": "4293735934"
+                },
+                {
+                    "name": "setup_brothers_in_arms_hells_highwaytm_1.0_(26483)-2.bin",
+                    "size": "2378440880"
+                },
+                {
+                    "name": "setup_brothers_in_arms_hells_highwaytm_1.0_(26483).exe",
+                    "size": "1238216"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "brothers_in_arms_hells_highway_manual.zip",
+                    "size": "1565795"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BB0F3B1282",
+                            "link": "https://filecrypt.cc/Container/BB0F3B1282"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A12E8A1B50",
+                            "link": "https://filecrypt.cc/Container/A12E8A1B50"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FB97C6FE96",
+                            "link": "https://filecrypt.cc/Container/FB97C6FE96"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/96A1B5DEA2",
+                            "link": "https://filecrypt.cc/Container/96A1B5DEA2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F12A8C0E25",
+                            "link": "https://filecrypt.cc/Container/F12A8C0E25"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

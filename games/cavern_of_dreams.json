@@ -1,0 +1,68 @@
+{
+    "href": "/game/cavern_of_dreams",
+    "MSG": {
+        "id": "2091610646",
+        "title": "Cavern of Dreams",
+        "slug": "cavern_of_dreams",
+        "thumb_id": "f953d415ec9096a4b93636671185429f841a13c6c5df28932e7023b217897c6c",
+        "bg_id": "586e642f3e40b048957c54655ed3463153f414e320b7191f066e7cbe008d9b08",
+        "url": "https://www.gog.com/en/game/cavern_of_dreams",
+        "developer": "Bynine Studio",
+        "publisher": "Super Rare Originals",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710619825",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_cavern_of_dreams_7_4_(71864).exe",
+                    "size": "171775368"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F27241E440",
+                            "link": "https://filecrypt.cc/Container/F27241E440"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0FC8AAAB34",
+                            "link": "https://filecrypt.cc/Container/0FC8AAAB34"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A087A50BAB",
+                            "link": "https://filecrypt.cc/Container/A087A50BAB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

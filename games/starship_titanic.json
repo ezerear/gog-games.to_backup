@@ -1,0 +1,111 @@
+{
+    "href": "/game/starship_titanic",
+    "MSG": {
+        "id": "1441102382",
+        "title": "Starship Titanic",
+        "slug": "starship_titanic",
+        "thumb_id": "a8735033f626f5db8a108437e00d7583870fd7109de769079142775674247ec7",
+        "bg_id": "e492ac35c7adc8815ae277c251ac8314f4197c18cfc06b5aeb420646790b94d5",
+        "url": "https://www.gog.com/game/starship_titanic",
+        "developer": "The Digital Village",
+        "publisher": "Completely Unexpected Productions",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708944047",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_starship_titanic_1.00.42c_(a)_(36059)-1.bin",
+                    "size": "1087229772"
+                },
+                {
+                    "name": "setup_starship_titanic_1.00.42c_(a)_(36059).exe",
+                    "size": "839840"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "Starship_Titanic_Manual.zip",
+                    "size": "9138750"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D4232EFA42",
+                            "link": "https://filecrypt.cc/Container/D4232EFA42"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4072ED7605",
+                            "link": "https://filecrypt.cc/Container/4072ED7605"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/629C8AFC20",
+                            "link": "https://filecrypt.cc/Container/629C8AFC20"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1F30764843",
+                            "link": "https://filecrypt.cc/Container/1F30764843"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D367B31BB7",
+                            "link": "https://filecrypt.cc/Container/D367B31BB7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/927D12F330",
+                            "link": "https://filecrypt.cc/Container/927D12F330"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

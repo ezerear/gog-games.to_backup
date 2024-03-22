@@ -1,0 +1,79 @@
+{
+    "href": "/game/doomed_lands",
+    "MSG": {
+        "id": "1887426289",
+        "title": "Doomed Lands",
+        "slug": "doomed_lands",
+        "thumb_id": "74da11525988b64147ab46fe9fd10de5424dfdaec2515cabc52696004420f525",
+        "bg_id": "4d17f97d066767564336e5922540d7d66d482b8e597bc78a1080fac198224996",
+        "url": "https://www.gog.com/en/game/doomed_lands",
+        "developer": "Nibb Games",
+        "publisher": "Freedom Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1685743893",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_doomed_lands_1.0.0.4_(63946).exe",
+                    "size": "155216864"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E734568291",
+                            "link": "https://filecrypt.cc/Container/E734568291"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/53279486BA",
+                            "link": "https://filecrypt.cc/Container/53279486BA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7D2BC2A211",
+                            "link": "https://filecrypt.cc/Container/7D2BC2A211"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4DBDA3FE86",
+                            "link": "https://filecrypt.cc/Container/4DBDA3FE86"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

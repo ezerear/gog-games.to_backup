@@ -1,0 +1,94 @@
+{
+    "href": "/game/mundaun",
+    "MSG": {
+        "id": "1224545978",
+        "title": "Mundaun",
+        "slug": "mundaun",
+        "thumb_id": "0c6752f9fcf1a35236a1b595426071fb06eb77fe65dceebaa92866a4248fcb5a",
+        "bg_id": "f6b8905a9f63ff65e70aaca79f9a61bcf0e70220cf8e5515b6c6e76b6348b35b",
+        "url": "https://www.gog.com/game/mundaun",
+        "developer": "Hidden Fields",
+        "publisher": "MWM Interactive",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707327657",
+        "votes": "3",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_mundaun_1.0.444_(47191)-1.bin",
+                    "size": "1969931704"
+                },
+                {
+                    "name": "setup_mundaun_1.0.444_(47191).exe",
+                    "size": "940032"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EF9F4A40DF",
+                            "link": "https://filecrypt.cc/Container/EF9F4A40DF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/98EAE69525",
+                            "link": "https://filecrypt.cc/Container/98EAE69525"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BBC0C48B93",
+                            "link": "https://filecrypt.cc/Container/BBC0C48B93"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/09A1175307",
+                            "link": "https://filecrypt.cc/Container/09A1175307"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/15AABD9C0F",
+                            "link": "https://filecrypt.cc/Container/15AABD9C0F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

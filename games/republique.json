@@ -1,0 +1,131 @@
+{
+    "href": "/game/republique",
+    "MSG": {
+        "id": "1423080728",
+        "title": "Republique",
+        "slug": "republique",
+        "thumb_id": "9ed1e6c81480fec9662b4501ac9541ca40394c2556aabbbf03c4c59308b26206",
+        "bg_id": "3e8af4b7206955518e0a5756f12a918f0e8498ed8922d6fa62566a3e4c557d2d",
+        "url": "https://web.archive.org/web/20180604080300/https://www.gog.com/game/republique",
+        "developer": "Camouflaj",
+        "publisher": "GungHo America",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710538065",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_republique_remastered_33555_(18824)-1.bin",
+                    "size": "4294097918"
+                },
+                {
+                    "name": "setup_republique_remastered_33555_(18824)-2.bin",
+                    "size": "32216267"
+                },
+                {
+                    "name": "setup_republique_remastered_33555_(18824).exe",
+                    "size": "876648"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "making_of_republique_complete.zip",
+                    "size": "2281500649"
+                },
+                {
+                    "name": "republique_ost_complete_flac.zip",
+                    "size": "1258153548"
+                },
+                {
+                    "name": "republique_ost_complete_mp3.zip",
+                    "size": "790398102"
+                },
+                {
+                    "name": "republique_prototypes_mac.zip",
+                    "size": "111085071"
+                },
+                {
+                    "name": "republique_remastered_prototypes_win.zip",
+                    "size": "107376114"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/68E563F18A",
+                            "link": "https://filecrypt.cc/Container/68E563F18A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D9E9BAD3DF",
+                            "link": "https://filecrypt.cc/Container/D9E9BAD3DF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/07041CDAA3",
+                            "link": "https://filecrypt.cc/Container/07041CDAA3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D2007BF7F9",
+                            "link": "https://filecrypt.cc/Container/D2007BF7F9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C6E2C0169A",
+                            "link": "https://filecrypt.cc/Container/C6E2C0169A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E5EB2174D2",
+                            "link": "https://filecrypt.cc/Container/E5EB2174D2"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

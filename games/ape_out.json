@@ -1,0 +1,90 @@
+{
+    "href": "/game/ape_out",
+    "MSG": {
+        "id": "1517967052",
+        "title": "Ape Out",
+        "slug": "ape_out",
+        "thumb_id": "99279c6824aa0ab746fb594e83f41fba2fd1888317fb546d3a3ded02bebe1aca",
+        "bg_id": "54c2ad781525646618cab05f698ce84c8c5c8b51f56b39a3133582fdcab46403",
+        "url": "https://www.gog.com/game/ape_out",
+        "developer": "Gabe Cuzillo",
+        "publisher": "Devolver Digital",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1704192138",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_ape_out_1.3_(65953).exe",
+                    "size": "789720040"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AE90502243",
+                            "link": "https://filecrypt.cc/Container/AE90502243"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CC59809F2A",
+                            "link": "https://filecrypt.cc/Container/CC59809F2A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A24DE27CC5",
+                            "link": "https://filecrypt.cc/Container/A24DE27CC5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A1C73CA83D",
+                            "link": "https://filecrypt.cc/Container/A1C73CA83D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A763B87705",
+                            "link": "https://filecrypt.cc/Container/A763B87705"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

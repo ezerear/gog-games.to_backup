@@ -1,0 +1,111 @@
+{
+    "href": "/game/qube_directors_cut",
+    "MSG": {
+        "id": "1207665513",
+        "title": "Q.U.B.E.: Director's Cut",
+        "slug": "qube_directors_cut",
+        "thumb_id": "7676d14365344f543257b447691d412054053b28ebcbed687ba257c4974e7c45",
+        "bg_id": "5b39e83cf5bfe2d4c59aae8af9ed0a077a38d172831ed8b98874eddc37e53b15",
+        "url": "https://www.gog.com/game/qube_directors_cut",
+        "developer": "Toxic Games",
+        "publisher": "Toxic Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708464007",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_qube_directors_cut_2.0.0.1.exe",
+                    "size": "772688880"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "qube_dc_avatar.zip",
+                    "size": "190399"
+                },
+                {
+                    "name": "qube_dc_wallpaper.zip",
+                    "size": "1549972"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/632E73A9B3",
+                            "link": "https://filecrypt.cc/Container/632E73A9B3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B8FAC8E510",
+                            "link": "https://filecrypt.cc/Container/B8FAC8E510"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B3BA3FAFAD",
+                            "link": "https://filecrypt.cc/Container/B3BA3FAFAD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/95245ED638",
+                            "link": "https://filecrypt.cc/Container/95245ED638"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1428258BC0",
+                            "link": "https://filecrypt.cc/Container/1428258BC0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7B256CF2A7",
+                            "link": "https://filecrypt.cc/Container/7B256CF2A7"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

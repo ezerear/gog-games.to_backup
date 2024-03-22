@@ -1,0 +1,90 @@
+{
+    "href": "/game/mars_horizon",
+    "MSG": {
+        "id": "1996916790",
+        "title": "Mars Horizon",
+        "slug": "mars_horizon",
+        "thumb_id": "3527922d316ebf8cecafe607281b0869bf6d10dbc6cf9c4c800d2d8a72c55cfc",
+        "bg_id": "9b7cd5248b44ba287f8a3c5394c6f024ce7d06f7f4c3fa9864f069e00baee761",
+        "url": "https://www.gog.com/game/mars_horizon",
+        "developer": "Auroch Digital",
+        "publisher": "The Irregular Corporation",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1707801078",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_mars_horizon_1.4.2.1_(56071).exe",
+                    "size": "1254709248"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D06E453A0B",
+                            "link": "https://filecrypt.cc/Container/D06E453A0B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E59D7F7453",
+                            "link": "https://filecrypt.cc/Container/E59D7F7453"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2AC6D0B186",
+                            "link": "https://filecrypt.cc/Container/2AC6D0B186"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3134AF1E30",
+                            "link": "https://filecrypt.cc/Container/3134AF1E30"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2B4C04F3AB",
+                            "link": "https://filecrypt.cc/Container/2B4C04F3AB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

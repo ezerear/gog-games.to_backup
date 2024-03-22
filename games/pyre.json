@@ -1,0 +1,123 @@
+{
+    "href": "/game/pyre",
+    "MSG": {
+        "id": "1408852789",
+        "title": "Pyre",
+        "slug": "pyre",
+        "thumb_id": "c205a62b2d24dddb2a3ef812ee0eab28df842b279864b8e36039cbdd49f4680f",
+        "bg_id": "b2e0e58d683998d0b0766e9fe76efeef75c3d1b62bea3a0a148c33a287136842",
+        "url": "https://www.gog.com/game/pyre",
+        "developer": "Supergiant Games",
+        "publisher": "Supergiant Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709191366",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_pyre_1.50476.2019-06-10-141854_(64bit)_(30165)-1.bin",
+                    "size": "4293898750"
+                },
+                {
+                    "name": "setup_pyre_1.50476.2019-06-10-141854_(64bit)_(30165)-2.bin",
+                    "size": "3058282744"
+                },
+                {
+                    "name": "setup_pyre_1.50476.2019-06-10-141854_(64bit)_(30165).exe",
+                    "size": "1075560"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "pyre_ost_black_mandolin_mp3.zip",
+                    "size": "79137461"
+                },
+                {
+                    "name": "pyre_ost_mp3.zip",
+                    "size": "272813509"
+                },
+                {
+                    "name": "pyre_ost_white_lute_mp3.zip",
+                    "size": "218922792"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0CBD49E79E",
+                            "link": "https://filecrypt.cc/Container/0CBD49E79E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3D90540743",
+                            "link": "https://filecrypt.cc/Container/3D90540743"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6F8735ACA3",
+                            "link": "https://filecrypt.cc/Container/6F8735ACA3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C685036E76",
+                            "link": "https://filecrypt.cc/Container/C685036E76"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2A742C1EAE",
+                            "link": "https://filecrypt.cc/Container/2A742C1EAE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F43459738B",
+                            "link": "https://filecrypt.cc/Container/F43459738B"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

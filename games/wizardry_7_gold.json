@@ -1,0 +1,125 @@
+{
+    "href": "/game/wizardry_7_gold",
+    "MSG": {
+        "id": "1207662783",
+        "title": "Wizardry 7 Gold",
+        "slug": "wizardry_7_gold",
+        "thumb_id": "64d8309c3c27648a3eafe0ea28d071f2391ffc6236b583c2e6b9b0bc08eea8aa",
+        "bg_id": "3301865075a5e1fc6c4a31e96d9b7cea057443c1ccf6008ae2ab5937041bc1e4",
+        "url": "https://www.gog.com/game/wizardry_6_7",
+        "developer": "Sir-Tech Software",
+        "publisher": "Gamepot Inc.",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710174589",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_wizardry7_2.2.0.17.exe",
+                    "size": "228168024"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "setup_wizardry7dos_2.0.0.11.exe",
+                    "size": "16522432"
+                },
+                {
+                    "name": "setup_wizardry7dos_german_2.2.0.2.exe",
+                    "size": "19314024"
+                },
+                {
+                    "name": "wizardry67_cluebooks.zip",
+                    "size": "132071951"
+                },
+                {
+                    "name": "wizardry67_manuals.zip",
+                    "size": "25368607"
+                },
+                {
+                    "name": "wizardry67_soundtrack.zip",
+                    "size": "60148897"
+                },
+                {
+                    "name": "wizardry6_character_sheet.zip",
+                    "size": "242924"
+                },
+                {
+                    "name": "wizardry6_icon_list.zip",
+                    "size": "1295288"
+                },
+                {
+                    "name": "wizardry7_map.zip",
+                    "size": "483294"
+                },
+                {
+                    "name": "wizardry7_reference_card.zip",
+                    "size": "657788"
+                },
+                {
+                    "name": "wizardry_7_1.0.0.4.dmg",
+                    "size": "9654399"
+                },
+                {
+                    "name": "wizardry_7_dos_german_2.0.0.2.dmg",
+                    "size": "12797749"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E341B5EA2A",
+                            "link": "https://filecrypt.cc/Container/E341B5EA2A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C2577D03F1",
+                            "link": "https://filecrypt.cc/Container/C2577D03F1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/72112119DA",
+                            "link": "https://filecrypt.cc/Container/72112119DA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D7B16589F6",
+                            "link": "https://filecrypt.cc/Container/D7B16589F6"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

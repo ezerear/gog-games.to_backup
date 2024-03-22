@@ -1,0 +1,83 @@
+{
+    "href": "/game/american_hero_unrated",
+    "MSG": {
+        "id": "1160264518",
+        "title": "American Hero Unrated",
+        "slug": "american_hero_unrated",
+        "thumb_id": "0ffb6f14a9c7ec4fb5a6ca61e2d9c55a6008e00754e9e53c23c5aa09f434e940",
+        "bg_id": "c2a575f55d5040c93079afc5bc0c65a45b0c33bdfd333d33bc9a208ecef2e280",
+        "url": "https://www.gog.com/en/game/american_hero_unrated",
+        "developer": "Empty Clip Studios",
+        "publisher": "Ziggurat Interactive",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707996978",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_american_hero_unrated_1.0.32_(65270)-1.bin",
+                    "size": "3294922757"
+                },
+                {
+                    "name": "setup_american_hero_unrated_1.0.32_(65270).exe",
+                    "size": "846400"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/892466B284",
+                            "link": "https://filecrypt.cc/Container/892466B284"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CD7CAAD18B",
+                            "link": "https://filecrypt.cc/Container/CD7CAAD18B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/941C55465A",
+                            "link": "https://filecrypt.cc/Container/941C55465A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CB31A78432",
+                            "link": "https://filecrypt.cc/Container/CB31A78432"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

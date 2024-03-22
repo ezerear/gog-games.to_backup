@@ -1,0 +1,97 @@
+{
+    "href": "/game/reah_face_the_unknown",
+    "MSG": {
+        "id": "1911151506",
+        "title": "Reah: Face the Unknown",
+        "slug": "reah_face_the_unknown",
+        "thumb_id": "0e5b073de952faac3194d34912637d83146aa95ee5782ca6378cdf62df92ece8",
+        "bg_id": "3711aa9b29f191e64fb0a4e7ee03acd3213eaea8fa72577bf96495f7e440a1dd",
+        "url": "https://www.gog.com/game/reah_face_the_unknown",
+        "developer": "L.K. Avalon",
+        "publisher": "L.K. Avalon",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710148049",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_reah_1.0_(15591)-1.bin",
+                    "size": "4294118910"
+                },
+                {
+                    "name": "setup_reah_1.0_(15591)-2.bin",
+                    "size": "657389044"
+                },
+                {
+                    "name": "setup_reah_1.0_(15591).exe",
+                    "size": "855616"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "reah_manual_en_de_fr_nl_it_es.zip",
+                    "size": "17374754"
+                },
+                {
+                    "name": "reah_manual_pl.zip",
+                    "size": "3656717"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/36B5A0CEC3",
+                            "link": "https://filecrypt.cc/Container/36B5A0CEC3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/44DDB4F052",
+                            "link": "https://filecrypt.cc/Container/44DDB4F052"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CEB075F615",
+                            "link": "https://filecrypt.cc/Container/CEB075F615"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A864910975",
+                            "link": "https://filecrypt.cc/Container/A864910975"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

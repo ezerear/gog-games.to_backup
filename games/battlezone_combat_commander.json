@@ -1,0 +1,72 @@
+{
+    "href": "/game/battlezone_combat_commander",
+    "MSG": {
+        "id": "1120387413",
+        "title": "Battlezone: Combat Commander",
+        "slug": "battlezone_combat_commander",
+        "thumb_id": "44f47b72a5495818b36c0a6c5ef398fa836af3001d48b2add17948f79d249662",
+        "bg_id": "5b4420e5c4daccf2ba1bdceecc6d09ad63b193a22ba5582a483b9e1ef209ee64",
+        "url": "https://www.gog.com/game/battlezone_combat_commander",
+        "developer": "Big Boat Interactive",
+        "publisher": "Rebellion",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710240072",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_battlezone_combat_commander_2.0.185_(29382)-1.bin",
+                    "size": "3802594672"
+                },
+                {
+                    "name": "setup_battlezone_combat_commander_2.0.185_(29382).exe",
+                    "size": "2569272"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/935B9762F6",
+                            "link": "https://filecrypt.cc/Container/935B9762F6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/40A1CC1A84",
+                            "link": "https://filecrypt.cc/Container/40A1CC1A84"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0D7BE549E4",
+                            "link": "https://filecrypt.cc/Container/0D7BE549E4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

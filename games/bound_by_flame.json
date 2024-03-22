@@ -1,0 +1,76 @@
+{
+    "href": "/game/bound_by_flame",
+    "MSG": {
+        "id": "1787707874",
+        "title": "Bound By Flame",
+        "slug": "bound_by_flame",
+        "thumb_id": "b245936a229022336e231846f553a603ac633cf168227eeb25ac2e1623acdc2a",
+        "bg_id": "6d4ba8d56120862f86e62e1092f3a133107ea6c78dbf3ab27cc9c85b73b987c9",
+        "url": "https://www.gog.com/game/bound_by_flame",
+        "developer": "Spiders",
+        "publisher": "Focus Home Interactive",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710612565",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_bound_by_flame_2195b_(32605)-1.bin",
+                    "size": "4294093822"
+                },
+                {
+                    "name": "setup_bound_by_flame_2195b_(32605)-2.bin",
+                    "size": "1210592769"
+                },
+                {
+                    "name": "setup_bound_by_flame_2195b_(32605).exe",
+                    "size": "880320"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/82B1DCA4DD",
+                            "link": "https://filecrypt.cc/Container/82B1DCA4DD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/82A4B1A52E",
+                            "link": "https://filecrypt.cc/Container/82A4B1A52E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/307FB7FBFE",
+                            "link": "https://filecrypt.cc/Container/307FB7FBFE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

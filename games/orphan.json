@@ -1,0 +1,90 @@
+{
+    "href": "/game/orphan",
+    "MSG": {
+        "id": "1815949873",
+        "title": "Orphan",
+        "slug": "orphan",
+        "thumb_id": "0673665645b41da187d82207d9d6c29e675da05788f880fb6dbcd031fe28cefe",
+        "bg_id": "16b32849e7991bf02880d4a8a021b5a820c687aa626ad55e4e0e9108e2297746",
+        "url": "https://www.gog.com/game/orphan",
+        "developer": "Windy Hill",
+        "publisher": "2Dimensions",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1698076330",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_orphan_1.0.2.2_(26633).exe",
+                    "size": "720373208"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F7B7162358",
+                            "link": "https://filecrypt.cc/Container/F7B7162358"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EF73344F05",
+                            "link": "https://filecrypt.cc/Container/EF73344F05"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6B178F74EE",
+                            "link": "https://filecrypt.cc/Container/6B178F74EE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/46704DA326",
+                            "link": "https://filecrypt.cc/Container/46704DA326"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E285BCDC87",
+                            "link": "https://filecrypt.cc/Container/E285BCDC87"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

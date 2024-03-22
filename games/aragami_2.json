@@ -1,0 +1,76 @@
+{
+    "href": "/game/aragami_2",
+    "MSG": {
+        "id": "1772522891",
+        "title": "Aragami 2",
+        "slug": "aragami_2",
+        "thumb_id": "d4f5d93549739dc4e1aa7ac2e2eeee52beee058e6a621429278831bb27ad3b3e",
+        "bg_id": "e70143ad010331bb3e2940ca1210cbf4671ef44613899bb6530f62dfdf957b7b",
+        "url": "https://www.gog.com/game/aragami_2",
+        "developer": "Lince Works",
+        "publisher": "Lince Works",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707315935",
+        "votes": "7",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_aragami_2_1.0.30195.0_(64bit)_(59941)-1.bin",
+                    "size": "4293838846"
+                },
+                {
+                    "name": "setup_aragami_2_1.0.30195.0_(64bit)_(59941)-2.bin",
+                    "size": "1213388776"
+                },
+                {
+                    "name": "setup_aragami_2_1.0.30195.0_(64bit)_(59941).exe",
+                    "size": "1138696"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/918F13DDEA",
+                            "link": "https://filecrypt.cc/Container/918F13DDEA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E94EB9568A",
+                            "link": "https://filecrypt.cc/Container/E94EB9568A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/43B48A5DAB",
+                            "link": "https://filecrypt.cc/Container/43B48A5DAB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

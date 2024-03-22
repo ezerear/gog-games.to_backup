@@ -1,0 +1,57 @@
+{
+    "href": "/game/lords_and_villeins",
+    "MSG": {
+        "id": "1740243150",
+        "title": "Lords and Villeins",
+        "slug": "lords_and_villeins",
+        "thumb_id": "e608c0c8e13aaa34fe318115cc733cdef251c61757ec04c502eac91bfb5e1e4e",
+        "bg_id": "0b0c201e1e033fb9d51110bd3d2d69e8f1b53b0fc2003115b50865e57d518db5",
+        "url": "https://www.gog.com/game/lords_and_villeins",
+        "developer": "Honestly Games",
+        "publisher": "1C Entertainment",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1708667295",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_lords_and_villeins_1.3.28_(64bit)_(69710).exe",
+                    "size": "409782624"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/226A72DDEF",
+                            "link": "https://filecrypt.cc/Container/226A72DDEF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3CA4075D35",
+                            "link": "https://filecrypt.cc/Container/3CA4075D35"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

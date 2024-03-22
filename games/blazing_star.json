@@ -1,0 +1,79 @@
+{
+    "href": "/game/blazing_star",
+    "MSG": {
+        "id": "1811651647",
+        "title": "BLAZING STAR",
+        "slug": "blazing_star",
+        "thumb_id": "3e15422faf7647cd86a215c5bcb0ff49b2d7260c513ffd4ab75df176a889de00",
+        "bg_id": "2fe8283997167f7655e69b671e67d32eb4d2a87151d29bb18abb33cde34a5902",
+        "url": "https://www.gog.com/game/blazing_star",
+        "developer": "Yumekobo",
+        "publisher": "SNK CORPORATION",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1682907423",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_blazing_star_gog-3_(12081).exe",
+                    "size": "60400992"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F207A07621",
+                            "link": "https://filecrypt.cc/Container/F207A07621"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/cpMYAEN",
+                            "link": "https://safelinking.net/cpMYAEN"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9F7330DD47",
+                            "link": "https://filecrypt.cc/Container/9F7330DD47"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/yc5o5Mx",
+                            "link": "https://safelinking.net/yc5o5Mx"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

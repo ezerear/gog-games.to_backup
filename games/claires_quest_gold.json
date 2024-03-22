@@ -1,0 +1,72 @@
+{
+    "href": "/game/claires_quest_gold",
+    "MSG": {
+        "id": "1973407267",
+        "title": "Claire's Quest: GOLD",
+        "slug": "claires_quest_gold",
+        "thumb_id": "c2bb03700a48cc0c7d1cefb5ea40e07fb778ad9b8a2be480924e4d8bda90e602",
+        "bg_id": "2896b24905ba67215e4bfb84e6212c435907dc4c824b95583b252ced43757a6b",
+        "url": "https://www.gog.com/en/game/claires_quest_gold",
+        "developer": "Dystopian Project",
+        "publisher": "TinyHat Studios, Kanjineko",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1704560583",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_claires_quest_gold_0.25.3a_(65329)-1.bin",
+                    "size": "2219918034"
+                },
+                {
+                    "name": "setup_claires_quest_gold_0.25.3a_(65329).exe",
+                    "size": "1271424"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/731F9DBBF5",
+                            "link": "https://filecrypt.cc/Container/731F9DBBF5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/50B372325D",
+                            "link": "https://filecrypt.cc/Container/50B372325D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1D4B977359",
+                            "link": "https://filecrypt.cc/Container/1D4B977359"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

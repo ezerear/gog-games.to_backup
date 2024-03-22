@@ -1,0 +1,131 @@
+{
+    "href": "/game/trine_5",
+    "MSG": {
+        "id": "1804557033",
+        "title": "Trine 5: A Clockwork Conspiracy",
+        "slug": "trine_5",
+        "thumb_id": "594af8dc9c627afa569cd8ded5ee8b3536b6699d909ebe67ce9cdccb52e9d726",
+        "bg_id": "9b422f1b656583358b93326d66e61508aff144ac2d859519a8a8d8582b9d7433",
+        "url": "https://www.gog.com/en/game/trine_5",
+        "developer": "Frozenbyte",
+        "publisher": "THQ Nordic GmbH",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708010854",
+        "votes": "4",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_trine_5_1.2a_(68483)-1.bin",
+                    "size": "4293955070"
+                },
+                {
+                    "name": "setup_trine_5_1.2a_(68483)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_trine_5_1.2a_(68483)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_trine_5_1.2a_(68483)-4.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_trine_5_1.2a_(68483)-5.bin",
+                    "size": "769132268"
+                },
+                {
+                    "name": "setup_trine_5_1.2a_(68483).exe",
+                    "size": "1022408"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "trine_5_ost_mp3.zip",
+                    "size": "194606947"
+                },
+                {
+                    "name": "trine_5_ost_wav.zip",
+                    "size": "1000963056"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/488E704003",
+                            "link": "https://filecrypt.cc/Container/488E704003"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/57AB04EA99",
+                            "link": "https://filecrypt.cc/Container/57AB04EA99"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E6D0B41697",
+                            "link": "https://filecrypt.cc/Container/E6D0B41697"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CD35BBCE00",
+                            "link": "https://filecrypt.cc/Container/CD35BBCE00"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D8C88C7FD7",
+                            "link": "https://filecrypt.cc/Container/D8C88C7FD7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E331505FD1",
+                            "link": "https://filecrypt.cc/Container/E331505FD1"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

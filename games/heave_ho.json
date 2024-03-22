@@ -1,0 +1,79 @@
+{
+    "href": "/game/heave_ho",
+    "MSG": {
+        "id": "1923235038",
+        "title": "Heave Ho",
+        "slug": "heave_ho",
+        "thumb_id": "efaa35d99ca301c4092577655bf780a0e1a08cd3923a442d9760cba4cd82f0a3",
+        "bg_id": "bfe4e0f21c7aec87462884a0a7d8cca62103cf3385c88c9281cf9a47a1e30494",
+        "url": "https://www.gog.com/game/heave_ho",
+        "developer": "Le Cartel Studio",
+        "publisher": "Devolver Digital",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708094315",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_heave_ho_versus.1.01_(40814).exe",
+                    "size": "490482328"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5A6C0B4F3B",
+                            "link": "https://filecrypt.cc/Container/5A6C0B4F3B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C4800C934E",
+                            "link": "https://filecrypt.cc/Container/C4800C934E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B491DF7F11",
+                            "link": "https://filecrypt.cc/Container/B491DF7F11"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A38528BF4C",
+                            "link": "https://filecrypt.cc/Container/A38528BF4C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

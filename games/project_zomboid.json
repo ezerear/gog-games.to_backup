@@ -1,0 +1,72 @@
+{
+    "href": "/game/project_zomboid",
+    "MSG": {
+        "id": "1453298883",
+        "title": "Project Zomboid",
+        "slug": "project_zomboid",
+        "thumb_id": "997a880a5624334e379dfe5bfc63191f8af379937de97d821c6ccba044899c2a",
+        "bg_id": "29b41f6506eafe4eba2eefc29b5771f4024fa4496713d1e2ae262518cbb09384",
+        "url": "https://www.gog.com/game/project_zomboid",
+        "developer": "The Indie Stone",
+        "publisher": "The Indie Stone",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710449649",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_project_zomboid_41.78.16_(64bit)_(60900)-1.bin",
+                    "size": "2799486818"
+                },
+                {
+                    "name": "setup_project_zomboid_41.78.16_(64bit)_(60900).exe",
+                    "size": "4022992"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BDFD89CB50",
+                            "link": "https://filecrypt.cc/Container/BDFD89CB50"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BB28F8B27E",
+                            "link": "https://filecrypt.cc/Container/BB28F8B27E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D82D47C744",
+                            "link": "https://filecrypt.cc/Container/D82D47C744"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

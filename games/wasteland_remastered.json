@@ -1,0 +1,94 @@
+{
+    "href": "/game/wasteland_remastered",
+    "MSG": {
+        "id": "1975049297",
+        "title": "Wasteland Remastered",
+        "slug": "wasteland_remastered",
+        "thumb_id": "26eb86bc738ce82273ba5a3085796c063a3dba8daf349d3acca018487515b5f7",
+        "bg_id": "c0e66299c0969b28dbf711595675bb59ebd3eb66ebd304773d02f8707ca46e83",
+        "url": "https://www.gog.com/game/wasteland_remastered",
+        "developer": "Krome Studios",
+        "publisher": "inXile Entertainment",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1704353633",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_wasteland_remastered_trunk_5088_retail_1.24_(41241)-1.bin",
+                    "size": "2411474586"
+                },
+                {
+                    "name": "setup_wasteland_remastered_trunk_5088_retail_1.24_(41241).exe",
+                    "size": "828448"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BF9004D9FD",
+                            "link": "https://filecrypt.cc/Container/BF9004D9FD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/75EB2A445B",
+                            "link": "https://filecrypt.cc/Container/75EB2A445B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/60C4881205",
+                            "link": "https://filecrypt.cc/Container/60C4881205"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0FF31423F0",
+                            "link": "https://filecrypt.cc/Container/0FF31423F0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7E2FFAB0BA",
+                            "link": "https://filecrypt.cc/Container/7E2FFAB0BA"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

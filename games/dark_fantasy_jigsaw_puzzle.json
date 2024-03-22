@@ -1,0 +1,57 @@
+{
+    "href": "/game/dark_fantasy_jigsaw_puzzle",
+    "MSG": {
+        "id": "1373156178",
+        "title": "Dark Fantasy: Jigsaw Puzzle",
+        "slug": "dark_fantasy_jigsaw_puzzle",
+        "thumb_id": "1023aef1b3a11ab66615f6026854a354c1929932744deb089ac94fdf86011cb5",
+        "bg_id": "92787eaa0250d432f447501f55cd8fc56a6abf93f60f82f5a41d1a748f2ec4e4",
+        "url": "https://www.gog.com/en/game/dark_fantasy_jigsaw_puzzle",
+        "developer": "NAISU",
+        "publisher": "MediBang Inc.",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710145349",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dark_fantasy_jigsaw_puzzle_1.0_(64bit)_(69559).exe",
+                    "size": "67677112"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/39164A5801",
+                            "link": "https://filecrypt.cc/Container/39164A5801"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E7E42B31AE",
+                            "link": "https://filecrypt.cc/Container/E7E42B31AE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

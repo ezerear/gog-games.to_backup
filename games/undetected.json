@@ -1,0 +1,68 @@
+{
+    "href": "/game/undetected",
+    "MSG": {
+        "id": "1516047678",
+        "title": "UNDETECTED",
+        "slug": "undetected",
+        "thumb_id": "88ef75185a8c83def5bb96e7f5dc871aa2befe175f7376c434750044941b0d3c",
+        "bg_id": "eb24b23b2e46a626c980816b49b17bf4f5f3dbe42c9667b913312cad9ac03685",
+        "url": "https://www.gog.com/en/game/undetected",
+        "developer": "Antonio Freyre",
+        "publisher": "Digerati Distribution",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710489342",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_undetected_1.0_(59048).exe",
+                    "size": "1450873744"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5922CBB454",
+                            "link": "https://filecrypt.cc/Container/5922CBB454"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B95D5AC0BA",
+                            "link": "https://filecrypt.cc/Container/B95D5AC0BA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4C13D7FC86",
+                            "link": "https://filecrypt.cc/Container/4C13D7FC86"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

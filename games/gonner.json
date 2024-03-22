@@ -1,0 +1,111 @@
+{
+    "href": "/game/gonner",
+    "MSG": {
+        "id": "2056546893",
+        "title": "GoNNER BlüEBERRY EdiTION",
+        "slug": "gonner",
+        "thumb_id": "db4ff921eeacf8d17d434684c6d79131f1cfd6c26eb85d4d203a5c37c163255f",
+        "bg_id": "5631d252a395395c1927ed1765652b3b3bcc615ba9b97875004eec4347cec052",
+        "url": "https://www.gog.com/game/gonner",
+        "developer": "Art in Heart",
+        "publisher": "Raw Fury",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1708641754",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_gonner_blueberry_(25957).exe",
+                    "size": "348333768"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "gonner_ost_flac.zip",
+                    "size": "215720195"
+                },
+                {
+                    "name": "gonner_ost_mp3.zip",
+                    "size": "127179086"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FBBCFBE395",
+                            "link": "https://filecrypt.cc/Container/FBBCFBE395"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6147724F6A",
+                            "link": "https://filecrypt.cc/Container/6147724F6A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6D270EF627",
+                            "link": "https://filecrypt.cc/Container/6D270EF627"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/852815653A",
+                            "link": "https://filecrypt.cc/Container/852815653A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/05A6DDA658",
+                            "link": "https://filecrypt.cc/Container/05A6DDA658"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/531722708D",
+                            "link": "https://filecrypt.cc/Container/531722708D"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

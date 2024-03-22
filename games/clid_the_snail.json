@@ -1,0 +1,83 @@
+{
+    "href": "/game/clid_the_snail",
+    "MSG": {
+        "id": "1575455721",
+        "title": "Clid the Snail",
+        "slug": "clid_the_snail",
+        "thumb_id": "3f740df7f9b3279354ab01b49ced651b4ab9e106de21690c21a76fa76100791b",
+        "bg_id": "5da22fa32d2b432b86f144c0b207fcb8119925011acc10212cfdf3fdf18fc162",
+        "url": "https://www.gog.com/game/clid_the_snail",
+        "developer": "Weird Beluga Studio S.L.",
+        "publisher": "Koch Media",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1684528127",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_clid_the_snail_rtm_1.0.1_(51938)-1.bin",
+                    "size": "4121158813"
+                },
+                {
+                    "name": "setup_clid_the_snail_rtm_1.0.1_(51938).exe",
+                    "size": "909632"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A036C22101",
+                            "link": "https://filecrypt.cc/Container/A036C22101"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A90A24151F",
+                            "link": "https://filecrypt.cc/Container/A90A24151F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5A414545B0",
+                            "link": "https://filecrypt.cc/Container/5A414545B0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5E7A9536C0",
+                            "link": "https://filecrypt.cc/Container/5E7A9536C0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

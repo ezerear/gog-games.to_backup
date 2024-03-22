@@ -1,0 +1,72 @@
+{
+    "href": "/game/spirit_of_the_island",
+    "MSG": {
+        "id": "1358691591",
+        "title": "Spirit of the Island",
+        "slug": "spirit_of_the_island",
+        "thumb_id": "b4759f83c4c0d938cff114ce0691a0ac9204758b3ed23f964b6d0e438312cb0d",
+        "bg_id": "95822d2d483ed42063f7b5b41e59530e0dd0c81ffba68490233c8c6a8442f628",
+        "url": "https://www.gog.com/en/game/spirit_of_the_island",
+        "developer": "1M Bits Horde",
+        "publisher": "META Publishing",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709238902",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_spirit_of_the_island_-_beach_resort_2.1.1.0_(68626).exe",
+                    "size": "1165935592"
+                },
+                {
+                    "name": "setup_spirit_of_the_island_2.1.1.0_(68626).exe",
+                    "size": "1115785128"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C3E76415C5",
+                            "link": "https://filecrypt.cc/Container/C3E76415C5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9413366E6F",
+                            "link": "https://filecrypt.cc/Container/9413366E6F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7337C0D28D",
+                            "link": "https://filecrypt.cc/Container/7337C0D28D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

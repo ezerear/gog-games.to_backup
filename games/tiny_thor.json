@@ -1,0 +1,68 @@
+{
+    "href": "/game/tiny_thor",
+    "MSG": {
+        "id": "1192105799",
+        "title": "Tiny Thor",
+        "slug": "tiny_thor",
+        "thumb_id": "a97b32c132a47d8c140f45edecfa7a4fafdb35675f9590e75a754b6a91935fd4",
+        "bg_id": "5ca87263b9005d033e1c587b7c4c47f6e6e9cf001fec541cccd01e85581da863",
+        "url": "https://www.gog.com/en/game/tiny_thor",
+        "developer": "Asylum Square",
+        "publisher": "Gameforge 4D GmbH",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708978903",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tiny_thor_6125_(1b5392be)_(66811).exe",
+                    "size": "96699168"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/64EAB121FA",
+                            "link": "https://filecrypt.cc/Container/64EAB121FA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4B0E31539F",
+                            "link": "https://filecrypt.cc/Container/4B0E31539F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C61F3414E3",
+                            "link": "https://filecrypt.cc/Container/C61F3414E3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

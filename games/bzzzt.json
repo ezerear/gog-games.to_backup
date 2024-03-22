@@ -1,0 +1,111 @@
+{
+    "href": "/game/bzzzt",
+    "MSG": {
+        "id": "1830367721",
+        "title": "Bzzzt",
+        "slug": "bzzzt",
+        "thumb_id": "d1415358f45f2fe8d4a5035761b70374fd45185bca2f73a71adfad427b4c7609",
+        "bg_id": "5c9a7865a626119e2ff3d294e6459901454e2305c1f670dffb531c112dbed00d",
+        "url": "https://www.gog.com/en/game/bzzzt",
+        "developer": "KO.DLL",
+        "publisher": "Cinemax",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709770528",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_bzzzt_1.003f-231205_(64bit)_(69518).exe",
+                    "size": "180254200"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "bzzzt_soundtrack_mp3.zip",
+                    "size": "136674839"
+                },
+                {
+                    "name": "bzzzt_soundtrack_wav.zip",
+                    "size": "708202742"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/689EFD3BA4",
+                            "link": "https://filecrypt.cc/Container/689EFD3BA4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9A7E6B32F8",
+                            "link": "https://filecrypt.cc/Container/9A7E6B32F8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/027E3C4A19",
+                            "link": "https://filecrypt.cc/Container/027E3C4A19"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/76A576CEC3",
+                            "link": "https://filecrypt.cc/Container/76A576CEC3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B9B2C59070",
+                            "link": "https://filecrypt.cc/Container/B9B2C59070"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EA2943A6A5",
+                            "link": "https://filecrypt.cc/Container/EA2943A6A5"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

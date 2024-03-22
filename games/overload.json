@@ -1,0 +1,84 @@
+{
+    "href": "/game/overload",
+    "MSG": {
+        "id": "1309632191",
+        "title": "Overload",
+        "slug": "overload",
+        "thumb_id": "86021784ec0e8e811590312c8d1d1d387094ec7b5559262fc3a0621a428efb58",
+        "bg_id": "e9ebee34d0a917ca53fcab9f62e9ecbcc5fba4fe6ae51c3c646c54f5420830e6",
+        "url": "https://www.gog.com/game/overload",
+        "developer": "Revival Productions, LLC",
+        "publisher": "Revival Productions, LLC",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709560971",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_overload_1.1.1886_(64bit)_(38732)-1.bin",
+                    "size": "4291836414"
+                },
+                {
+                    "name": "setup_overload_1.1.1886_(64bit)_(38732)-2.bin",
+                    "size": "102323573"
+                },
+                {
+                    "name": "setup_overload_1.1.1886_(64bit)_(38732).exe",
+                    "size": "3138072"
+                },
+                {
+                    "name": "setup_overload_anniversary_level_pack_1.1.1886_(38732).exe",
+                    "size": "287748240"
+                },
+                {
+                    "name": "setup_overload_community_level_pack_1.1.1886_(38732).exe",
+                    "size": "200912824"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4B03A880DF",
+                            "link": "https://filecrypt.cc/Container/4B03A880DF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/943BD875C4",
+                            "link": "https://filecrypt.cc/Container/943BD875C4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4E32FD82A1",
+                            "link": "https://filecrypt.cc/Container/4E32FD82A1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

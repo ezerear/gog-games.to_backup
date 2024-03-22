@@ -1,0 +1,90 @@
+{
+    "href": "/game/imscared",
+    "MSG": {
+        "id": "1249814952",
+        "title": "IMSCARED",
+        "slug": "imscared",
+        "thumb_id": "56a0daeb03bf942216cb0669943ee4e159c8ea08adddf523efc486a540b97fce",
+        "bg_id": "5270f69e905b2bf528fdf7ab9575e11725ecbf500ad3f6d2a6a77a0411091c08",
+        "url": "https://www.gog.com/en/game/imscared",
+        "developer": "Ivan Zanotti's MyMadnessWorks",
+        "publisher": "Ivan Zanotti's MyMadnessWorks",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707892273",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_imscared_1.0_(64bit)_(65847).exe",
+                    "size": "89012008"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4B2648093D",
+                            "link": "https://filecrypt.cc/Container/4B2648093D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E2D8EA4FBB",
+                            "link": "https://filecrypt.cc/Container/E2D8EA4FBB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2C501FA213",
+                            "link": "https://filecrypt.cc/Container/2C501FA213"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AB10A5D186",
+                            "link": "https://filecrypt.cc/Container/AB10A5D186"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BF1EE95DFC",
+                            "link": "https://filecrypt.cc/Container/BF1EE95DFC"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,72 @@
+{
+    "href": "/game/project_warlock_2",
+    "MSG": {
+        "id": "1714193985",
+        "title": "Project Warlock II",
+        "slug": "project_warlock_2",
+        "thumb_id": "7c1db288a4d8fdc30a67716e4317e1e62e84b3a0f8593d2cc4335402856c6b8a",
+        "bg_id": "2235168e2220eecf5d876b7da0584d53855725e910b5c0e92cce7a683df16aac",
+        "url": "https://www.gog.com/game/project_warlock_2",
+        "developer": "Buckshot Software",
+        "publisher": "Retrovibe",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1709517351",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_project_warlock_ii_0.2.9.12_(64095)-1.bin",
+                    "size": "2699940730"
+                },
+                {
+                    "name": "setup_project_warlock_ii_0.2.9.12_(64095).exe",
+                    "size": "893168"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BF3BD17188",
+                            "link": "https://filecrypt.cc/Container/BF3BD17188"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EE2DF33A4D",
+                            "link": "https://filecrypt.cc/Container/EE2DF33A4D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/28386AA6D9",
+                            "link": "https://filecrypt.cc/Container/28386AA6D9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/roki",
+    "MSG": {
+        "id": "1656650384",
+        "title": "Röki",
+        "slug": "roki",
+        "thumb_id": "8d41c9b8f7a8e55d2fc71c8389fef781ba7d4b60f6d451edee1bd3fffd378d5b",
+        "bg_id": "17f38352e473a9ff03878837929d039f4291fc00cee0448cfb71dc042742f842",
+        "url": "https://www.gog.com/game/roki",
+        "developer": "Polygon Treehouse",
+        "publisher": "United Label, CI Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709220850",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_roki_roki_master_v3.3_(64bit)_(43089).exe",
+                    "size": "1302542864"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/606C825810",
+                            "link": "https://filecrypt.cc/Container/606C825810"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/280573B0B2",
+                            "link": "https://filecrypt.cc/Container/280573B0B2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8DF91B8E3C",
+                            "link": "https://filecrypt.cc/Container/8DF91B8E3C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

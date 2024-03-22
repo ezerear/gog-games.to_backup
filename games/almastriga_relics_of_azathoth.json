@@ -1,0 +1,79 @@
+{
+    "href": "/game/almastriga_relics_of_azathoth",
+    "MSG": {
+        "id": "1790689959",
+        "title": "Almastriga: Relics of Azathoth",
+        "slug": "almastriga_relics_of_azathoth",
+        "thumb_id": "0753267d62e74a2f5c3a34d5472bb6b020e667e1ed49483e2890077fc8b5aeff",
+        "bg_id": "4372f24c43e0185480d2eeac699afc01c48bd30f68b5dba1e1adc4927dbf1e4c",
+        "url": "https://www.gog.com/en/game/almastriga_relics_of_azathoth",
+        "developer": "Taboolicious",
+        "publisher": "TinyHat Studios",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708175376",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_almastriga_relics_of_azathoth_0.1.28_(69904).exe",
+                    "size": "769959976"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/31EC4500DD",
+                            "link": "https://filecrypt.cc/Container/31EC4500DD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/32982FF796",
+                            "link": "https://filecrypt.cc/Container/32982FF796"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/01A22B1BD4",
+                            "link": "https://filecrypt.cc/Container/01A22B1BD4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B9F5B50320",
+                            "link": "https://filecrypt.cc/Container/B9F5B50320"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

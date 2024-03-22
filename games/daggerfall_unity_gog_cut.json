@@ -1,0 +1,82 @@
+{
+    "href": "/game/daggerfall_unity_gog_cut",
+    "MSG": {
+        "id": "1782995089",
+        "title": "Daggerfall Unity - GOG Cut",
+        "slug": "daggerfall_unity_gog_cut",
+        "thumb_id": "0878e7c7a9c1bcce30c589a715f09c13785da1539615e73b27a15fd463b6ef7b",
+        "bg_id": "38b777f2ee3cdfdf1cdb051fae537476dbb311b609815deb1acc0f2e1b0d2605",
+        "url": "https://www.gog.com/en/game/daggerfall_unity_gog_cut",
+        "developer": "GOG",
+        "publisher": "GOG",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709403953",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_daggerfall_unity_-_gog_cut_0.13.5b_gz_20220617_(56627)-1.bin",
+                    "size": "4293708798"
+                },
+                {
+                    "name": "setup_daggerfall_unity_-_gog_cut_0.13.5b_gz_20220617_(56627)-2.bin",
+                    "size": "1469583880"
+                },
+                {
+                    "name": "setup_daggerfall_unity_-_gog_cut_0.13.5b_gz_20220617_(56627).exe",
+                    "size": "1268616"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "daggerfall_unity_manual_pdf.zip",
+                    "size": "604216"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E1107F4DDC",
+                            "link": "https://filecrypt.cc/Container/E1107F4DDC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D7C4384838",
+                            "link": "https://filecrypt.cc/Container/D7C4384838"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EB96E159EA",
+                            "link": "https://filecrypt.cc/Container/EB96E159EA"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

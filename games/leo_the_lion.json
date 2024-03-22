@@ -1,0 +1,68 @@
+{
+    "href": "/game/leo_the_lion",
+    "MSG": {
+        "id": "1762800738",
+        "title": "Leo the Lion",
+        "slug": "leo_the_lion",
+        "thumb_id": "48dd6f2a32a094e19e65439f638f0c2affda99903c016cb3255453fca46d6b5f",
+        "bg_id": "7e00eed765eee8b73ae354832be2e64efdf67f519a2cfa4ebb14c51c57ff1d73",
+        "url": "https://www.gog.com/game/leo_the_lion",
+        "developer": "Leryx Longsoft",
+        "publisher": "Xi4G",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709897615",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_lew_leon_1.0_(30730).exe",
+                    "size": "570397120"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3E73A79A92",
+                            "link": "https://filecrypt.cc/Container/3E73A79A92"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/14A423BEFA",
+                            "link": "https://filecrypt.cc/Container/14A423BEFA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A48B69B4ED",
+                            "link": "https://filecrypt.cc/Container/A48B69B4ED"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

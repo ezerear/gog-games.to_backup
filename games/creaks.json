@@ -1,0 +1,119 @@
+{
+    "href": "/game/creaks",
+    "MSG": {
+        "id": "1623513243",
+        "title": "Creaks",
+        "slug": "creaks",
+        "thumb_id": "76184533e865213bcb5165bf3831f038a68b544eb6aa70c7b8b61972a107a28e",
+        "bg_id": "da23f46a585c99069670f445b74fdf4022ee228a56f397f5628271649304b06b",
+        "url": "https://www.gog.com/game/creaks",
+        "developer": "Amanita Design",
+        "publisher": "Amanita Design",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708531532",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_creaks_1.0.9_(46052)-1.bin",
+                    "size": "2398050108"
+                },
+                {
+                    "name": "setup_creaks_1.0.9_(46052).exe",
+                    "size": "879792"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "creaks_art_book.zip",
+                    "size": "262270360"
+                },
+                {
+                    "name": "hidden_orchestra_creaks_soundtrack_flac.zip",
+                    "size": "1121150911"
+                },
+                {
+                    "name": "hidden_orchestra_creaks_soundtrack_mp3.zip",
+                    "size": "235476878"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/476D2043BC",
+                            "link": "https://filecrypt.cc/Container/476D2043BC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/241C780A3E",
+                            "link": "https://filecrypt.cc/Container/241C780A3E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EF33CE4E2A",
+                            "link": "https://filecrypt.cc/Container/EF33CE4E2A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FF21397631",
+                            "link": "https://filecrypt.cc/Container/FF21397631"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D00802A3FB",
+                            "link": "https://filecrypt.cc/Container/D00802A3FB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3023A0DB5A",
+                            "link": "https://filecrypt.cc/Container/3023A0DB5A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

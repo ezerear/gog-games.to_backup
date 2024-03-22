@@ -1,0 +1,111 @@
+{
+    "href": "/game/the_ultimate_doom_game",
+    "MSG": {
+        "id": "1435827232",
+        "title": "The Ultimate Doom",
+        "slug": "the_ultimate_doom_game",
+        "thumb_id": "5175cf9ebd744a41f9ba0a2cca30ece6ba20281cafe72cce9fcf09e937f6867f",
+        "bg_id": "50484404fcbfd458cb47ed715ddeda5c4db97c71e42938e6ea0145eb57f0e08d",
+        "url": "https://www.gog.com/game/doom_1993",
+        "developer": "id Software",
+        "publisher": "Bethesda Softworks LLC",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1708641516",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_ultimate_doom_1.9_(28044).exe",
+                    "size": "19165952"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "doom_bible.zip",
+                    "size": "474523"
+                },
+                {
+                    "name": "doom_manual.zip",
+                    "size": "486848"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/332ECE3E62",
+                            "link": "https://filecrypt.cc/Container/332ECE3E62"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/939E25EEAC",
+                            "link": "https://filecrypt.cc/Container/939E25EEAC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A60CD1137F",
+                            "link": "https://filecrypt.cc/Container/A60CD1137F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9389DF892C",
+                            "link": "https://filecrypt.cc/Container/9389DF892C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E1EA1F5718",
+                            "link": "https://filecrypt.cc/Container/E1EA1F5718"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0577CB6C9A",
+                            "link": "https://filecrypt.cc/Container/0577CB6C9A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

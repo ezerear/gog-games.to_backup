@@ -1,0 +1,123 @@
+{
+    "href": "/game/planet_of_lana",
+    "MSG": {
+        "id": "1812138501",
+        "title": "Planet of Lana",
+        "slug": "planet_of_lana",
+        "thumb_id": "015a405c56e48665bf9f4eda64ede22b3cfcbf3b598af8baadd3ffe292864005",
+        "bg_id": "50e3c342f5151c48fcec7afa46008cb4fa79048f52dfe9c0c58541aa12c71448",
+        "url": "https://www.gog.com/en/game/planet_of_lana",
+        "developer": "Wishfully",
+        "publisher": "Thunderful Publishing",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708509330",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_planet_of_lana_1.1.0.0_(67806)-1.bin",
+                    "size": "4294014462"
+                },
+                {
+                    "name": "setup_planet_of_lana_1.1.0.0_(67806)-2.bin",
+                    "size": "2235808207"
+                },
+                {
+                    "name": "setup_planet_of_lana_1.1.0.0_(67806).exe",
+                    "size": "962936"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "planet_of_lana_goodie_pack_concept_art.zip",
+                    "size": "37116113"
+                },
+                {
+                    "name": "planet_of_lana_goodie_pack_screenshots.zip",
+                    "size": "16833408"
+                },
+                {
+                    "name": "planet_of_lana_goodie_pack_wallpapers.zip",
+                    "size": "18944076"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6AE84836E6",
+                            "link": "https://filecrypt.cc/Container/6AE84836E6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C2ED808CCF",
+                            "link": "https://filecrypt.cc/Container/C2ED808CCF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DD63CF5908",
+                            "link": "https://filecrypt.cc/Container/DD63CF5908"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2309F01C34",
+                            "link": "https://filecrypt.cc/Container/2309F01C34"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3657319FC4",
+                            "link": "https://filecrypt.cc/Container/3657319FC4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9A7D438B01",
+                            "link": "https://filecrypt.cc/Container/9A7D438B01"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

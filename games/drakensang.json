@@ -1,0 +1,76 @@
+{
+    "href": "/game/drakensang",
+    "MSG": {
+        "id": "1100566473",
+        "title": "Drakensang",
+        "slug": "drakensang",
+        "thumb_id": "d422b3cfd194b7bdbfd695486aa8c9c7bb5e6c075403b5f65177868a0157a85b",
+        "bg_id": "31d8b6d8b01027eeae71d4f110b1ef96a6cb9d0771b299f2b7c70c757e3c9544",
+        "url": "https://www.gog.com/game/drakensang",
+        "developer": "Radon Labs",
+        "publisher": "DTP Entertainment",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1708221667",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_drakensang_1.03_(40759)-1.bin",
+                    "size": "4294048766"
+                },
+                {
+                    "name": "setup_drakensang_1.03_(40759)-2.bin",
+                    "size": "829743665"
+                },
+                {
+                    "name": "setup_drakensang_1.03_(40759).exe",
+                    "size": "925592"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0C946E9646",
+                            "link": "https://filecrypt.cc/Container/0C946E9646"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/281FC72BF3",
+                            "link": "https://filecrypt.cc/Container/281FC72BF3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DCA399E4CC",
+                            "link": "https://filecrypt.cc/Container/DCA399E4CC"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

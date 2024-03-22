@@ -1,0 +1,76 @@
+{
+    "href": "/game/the_house_of_da_vinci_3",
+    "MSG": {
+        "id": "2059810391",
+        "title": "The House of Da Vinci 3",
+        "slug": "the_house_of_da_vinci_3",
+        "thumb_id": "ca433ec5d32eefea3b43146f67673dc61d543513e18eab8771d36b1b9468431f",
+        "bg_id": "71c57e4331646223ea7e2b1976abb05c539348adc52c6ba92b92318a5d683405",
+        "url": "https://www.gog.com/en/game/the_house_of_da_vinci_3",
+        "developer": "Blue Brain Games",
+        "publisher": "Blue Brain Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709578925",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_house_of_da_vinci_3_1.0.5_(64bit)_(62601)-1.bin",
+                    "size": "4294083070"
+                },
+                {
+                    "name": "setup_the_house_of_da_vinci_3_1.0.5_(64bit)_(62601)-2.bin",
+                    "size": "2554714257"
+                },
+                {
+                    "name": "setup_the_house_of_da_vinci_3_1.0.5_(64bit)_(62601).exe",
+                    "size": "894128"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3AD3151649",
+                            "link": "https://filecrypt.cc/Container/3AD3151649"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A0831B4431",
+                            "link": "https://filecrypt.cc/Container/A0831B4431"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9A83254E91",
+                            "link": "https://filecrypt.cc/Container/9A83254E91"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

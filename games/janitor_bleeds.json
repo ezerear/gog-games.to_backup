@@ -1,0 +1,94 @@
+{
+    "href": "/game/janitor_bleeds",
+    "MSG": {
+        "id": "1509866704",
+        "title": "JANITOR BLEEDS",
+        "slug": "janitor_bleeds",
+        "thumb_id": "72677c0aea932abafcaa8519d3cd009cef3f4a73c5485b5b54504a59225bb4eb",
+        "bg_id": "6da16ace0363125b7c50c1bc546d2c0a3edffb997104df2c7c0b7030e7abc21d",
+        "url": "https://www.gog.com/en/game/janitor_bleeds",
+        "developer": "Korpus",
+        "publisher": "Bonus Stage Publishing",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1705936069",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_janitor_bleeds_1.0.46_(56374)-1.bin",
+                    "size": "1679131406"
+                },
+                {
+                    "name": "setup_janitor_bleeds_1.0.46_(56374).exe",
+                    "size": "878440"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C86B40D707",
+                            "link": "https://filecrypt.cc/Container/C86B40D707"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F2A2AA55F7",
+                            "link": "https://filecrypt.cc/Container/F2A2AA55F7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D857D45504",
+                            "link": "https://filecrypt.cc/Container/D857D45504"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2F3D44A43E",
+                            "link": "https://filecrypt.cc/Container/2F3D44A43E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/593401133B",
+                            "link": "https://filecrypt.cc/Container/593401133B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

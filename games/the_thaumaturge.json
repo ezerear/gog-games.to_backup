@@ -1,0 +1,92 @@
+{
+    "href": "/game/the_thaumaturge",
+    "MSG": {
+        "id": "1732820030",
+        "title": "The Thaumaturge",
+        "slug": "the_thaumaturge",
+        "thumb_id": "d49aa154354aa398104667b948df28b3542b308613774932d600e357a5f19312",
+        "bg_id": "c8350706be97af89653ded76c7a8a317e5ff80e3577d4da72be30f7feab54050",
+        "url": "https://www.gog.com/en/game/the_thaumaturge",
+        "developer": "Fool's Theory",
+        "publisher": "11 bit studios",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710381591",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_thaumaturge_0.0.70456_ship_20240308_033319_(64bit)_(71738)-1.bin",
+                    "size": "4293902846"
+                },
+                {
+                    "name": "setup_the_thaumaturge_0.0.70456_ship_20240308_033319_(64bit)_(71738)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_the_thaumaturge_0.0.70456_ship_20240308_033319_(64bit)_(71738)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_the_thaumaturge_0.0.70456_ship_20240308_033319_(64bit)_(71738)-4.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_the_thaumaturge_0.0.70456_ship_20240308_033319_(64bit)_(71738)-5.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_the_thaumaturge_0.0.70456_ship_20240308_033319_(64bit)_(71738)-6.bin",
+                    "size": "941186126"
+                },
+                {
+                    "name": "setup_the_thaumaturge_0.0.70456_ship_20240308_033319_(64bit)_(71738).exe",
+                    "size": "1071584"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FB17D09A7F",
+                            "link": "https://filecrypt.cc/Container/FB17D09A7F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AB4DC40E4E",
+                            "link": "https://filecrypt.cc/Container/AB4DC40E4E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/01BC4998DE",
+                            "link": "https://filecrypt.cc/Container/01BC4998DE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

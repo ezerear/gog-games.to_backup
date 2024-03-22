@@ -1,0 +1,68 @@
+{
+    "href": "/game/fate_undiscovered_realms",
+    "MSG": {
+        "id": "1128601888",
+        "title": "FATE: Undiscovered Realms",
+        "slug": "fate_undiscovered_realms",
+        "thumb_id": "4cce3b447df5d4bd2be0f958e76cd7917f44bd3acaa474ce0fd1900884a02e5b",
+        "bg_id": "6e9d91734b9a32a5c03f574acb89b04fbd38e54487facb5916b16ac0f5df97f3",
+        "url": "https://www.gog.com/game/fate_undiscovered_realms",
+        "developer": "WildTangent",
+        "publisher": "WildTangent",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710954637",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_fate_undiscovered_realms_1.1.12_(45488).exe",
+                    "size": "420247160"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/55BC22A72D",
+                            "link": "https://filecrypt.cc/Container/55BC22A72D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/219F66C9E7",
+                            "link": "https://filecrypt.cc/Container/219F66C9E7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AD70022AB0",
+                            "link": "https://filecrypt.cc/Container/AD70022AB0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

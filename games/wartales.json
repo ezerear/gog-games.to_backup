@@ -1,0 +1,127 @@
+{
+    "href": "/game/wartales",
+    "MSG": {
+        "id": "1272361289",
+        "title": "Wartales",
+        "slug": "wartales",
+        "thumb_id": "f15d39221fce55b7e2b291fbd9687d2c7a984271e3c6ac2ff0cb13bccd3cf8d5",
+        "bg_id": "745b81d7200a46740e273a5837917b3675b966e0abcca66116b020c108a12508",
+        "url": "https://www.gog.com/en/game/wartales",
+        "developer": "Shiro Games",
+        "publisher": "Shiro Unlimited",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710737228",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_wartales_1.0.33002_(64bit)_(71872)-1.bin",
+                    "size": "4293048318"
+                },
+                {
+                    "name": "setup_wartales_1.0.33002_(64bit)_(71872)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_wartales_1.0.33002_(64bit)_(71872)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_wartales_1.0.33002_(64bit)_(71872)-4.bin",
+                    "size": "332874692"
+                },
+                {
+                    "name": "setup_wartales_1.0.33002_(64bit)_(71872).exe",
+                    "size": "1926128"
+                },
+                {
+                    "name": "setup_wartales_pirates_of_belerion_1.0.33002_(64bit)_(71872).exe",
+                    "size": "6188344"
+                }
+            ],
+            "PATCHES": [
+                {
+                    "name": "patch_wartales_1.0.32279_(70717)_to_1.0.33002_(71872).exe",
+                    "size": "15807472"
+                }
+            ],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/44FB4B4B0B",
+                            "link": "https://filecrypt.cc/Container/44FB4B4B0B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/11062F3E83",
+                            "link": "https://filecrypt.cc/Container/11062F3E83"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C2785DC2A5",
+                            "link": "https://filecrypt.cc/Container/C2785DC2A5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7243B67659",
+                            "link": "https://filecrypt.cc/Container/7243B67659"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/21597F1AC7",
+                            "link": "https://filecrypt.cc/Container/21597F1AC7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3B9DCD64D6",
+                            "link": "https://filecrypt.cc/Container/3B9DCD64D6"
+                        }
+                    ]
+                }
+            ],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

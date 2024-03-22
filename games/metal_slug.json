@@ -1,0 +1,111 @@
+{
+    "href": "/game/metal_slug",
+    "MSG": {
+        "id": "1136471182",
+        "title": "METAL SLUG",
+        "slug": "metal_slug",
+        "thumb_id": "d9b4aad087af9241b3dcc3447f498fd1052c097436c0eb9871bbff081cfc6f5b",
+        "bg_id": "6792fa652cb9933b7db18b56d21dd0cfeb3f11496eb8f3ca5a74de54c1723787",
+        "url": "https://www.gog.com/game/metal_slug",
+        "developer": "SNK CORPORATION",
+        "publisher": "SNK CORPORATION",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710448079",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_metal_slug_gog-3_(12273).exe",
+                    "size": "59865632"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "gog_metal_slug_2.0.0.2.sh",
+                    "size": "33980557"
+                },
+                {
+                    "name": "MetalSlug.zip",
+                    "size": "47116049"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D7F7A6BAF8",
+                            "link": "https://filecrypt.cc/Container/D7F7A6BAF8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FE26423DD2",
+                            "link": "https://filecrypt.cc/Container/FE26423DD2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C154C8D1AF",
+                            "link": "https://filecrypt.cc/Container/C154C8D1AF"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F1FC77BA8C",
+                            "link": "https://filecrypt.cc/Container/F1FC77BA8C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AA3562806C",
+                            "link": "https://filecrypt.cc/Container/AA3562806C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E463A5B0BD",
+                            "link": "https://filecrypt.cc/Container/E463A5B0BD"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,83 @@
+{
+    "href": "/game/the_plane_effect",
+    "MSG": {
+        "id": "1128507720",
+        "title": "The Plane Effect",
+        "slug": "the_plane_effect",
+        "thumb_id": "8304fb3507e137cdf9659b74a653c7fecacbcce828215d2ac66140a24091afdc",
+        "bg_id": "bbd7874a202959b1f4a6179f8083576982a63fa3d4eac2f69d00b6d98da0c94c",
+        "url": "https://www.gog.com/game/the_plane_effect",
+        "developer": "Innovina/StudioKiku",
+        "publisher": "PQube Limited",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1686510126",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_plane_effect_1.01.2563_(64bit)_(51904)-1.bin",
+                    "size": "3659123858"
+                },
+                {
+                    "name": "setup_the_plane_effect_1.01.2563_(64bit)_(51904).exe",
+                    "size": "908160"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DCDDA736A8",
+                            "link": "https://filecrypt.cc/Container/DCDDA736A8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/226442CF16",
+                            "link": "https://filecrypt.cc/Container/226442CF16"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A617793823",
+                            "link": "https://filecrypt.cc/Container/A617793823"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8BA5BDF613",
+                            "link": "https://filecrypt.cc/Container/8BA5BDF613"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,80 @@
+{
+    "href": "/game/ashwalkers",
+    "MSG": {
+        "id": "2048672492",
+        "title": "Ashwalkers",
+        "slug": "ashwalkers",
+        "thumb_id": "69ee1f1ab26e423209016ffd25d479078559c8765b939b47257ef576655c4b2d",
+        "bg_id": "69e4b7f1174774711d39a0eb48648448b0179c9b20a7590022198f9d8eccd6fd",
+        "url": "https://www.gog.com/game/ashwalkers",
+        "developer": "Nameless XIII",
+        "publisher": "Dear Villagers, 24 Entertainment",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708943361",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_ashwalkers_1.0.0.4_(47150)-1.bin",
+                    "size": "4294045694"
+                },
+                {
+                    "name": "setup_ashwalkers_1.0.0.4_(47150)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_ashwalkers_1.0.0.4_(47150)-3.bin",
+                    "size": "504305457"
+                },
+                {
+                    "name": "setup_ashwalkers_1.0.0.4_(47150).exe",
+                    "size": "927968"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C837660333",
+                            "link": "https://filecrypt.cc/Container/C837660333"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/778305B74D",
+                            "link": "https://filecrypt.cc/Container/778305B74D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/551E6DCF84",
+                            "link": "https://filecrypt.cc/Container/551E6DCF84"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

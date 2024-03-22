@@ -1,0 +1,84 @@
+{
+    "href": "/game/dysmantle",
+    "MSG": {
+        "id": "2080674103",
+        "title": "DYSMANTLE",
+        "slug": "dysmantle",
+        "thumb_id": "4a82e0a7be44b239cdb2290be7f70f51bab09b6bd16f7f94580fdd8d4ce8da0b",
+        "bg_id": "1cacbd53c774c165dcb87e096d08b32a63b2ee0ad8138124ae389f5eebdeddd2",
+        "url": "https://www.gog.com/game/dysmantle",
+        "developer": "10tons",
+        "publisher": "10tons",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1708936241",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dysmantle_1.3.0.65a_(69154)-1.bin",
+                    "size": "1710488137"
+                },
+                {
+                    "name": "setup_dysmantle_1.3.0.65a_(69154).exe",
+                    "size": "821632"
+                },
+                {
+                    "name": "setup_dysmantle_doomsday_1.3.0.65a_(69154).exe",
+                    "size": "5567744"
+                },
+                {
+                    "name": "setup_dysmantle_pets__dungeons_1.3.0.65a_(69154).exe",
+                    "size": "6162160"
+                },
+                {
+                    "name": "setup_dysmantle_underworld_1.3.0.65a_(69154).exe",
+                    "size": "5904592"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9BEF84C2BB",
+                            "link": "https://filecrypt.cc/Container/9BEF84C2BB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C7E19E100A",
+                            "link": "https://filecrypt.cc/Container/C7E19E100A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4A4A1FF729",
+                            "link": "https://filecrypt.cc/Container/4A4A1FF729"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

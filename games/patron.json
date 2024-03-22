@@ -1,0 +1,156 @@
+{
+    "href": "/game/patron",
+    "MSG": {
+        "id": "1627604679",
+        "title": "Patron",
+        "slug": "patron",
+        "thumb_id": "ff99ef1291cb999eb55227c3394f2f9e6ce64201c73aa9cf5456e5e6dd8fb3d8",
+        "bg_id": "a3810b4b873b67e0816601f26c83d35dc7281b597c832806fdba1c3fc6e1a277",
+        "url": "https://www.gog.com/game/patron",
+        "developer": "Overseer Games",
+        "publisher": "Overseer Games",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1700174318",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_patron_-_mare_nostrum_1.900.0_(64bit)_(68505).exe",
+                    "size": "237188240"
+                },
+                {
+                    "name": "setup_patron_1.900.0_(64bit)_(68505)-1.bin",
+                    "size": "2480898335"
+                },
+                {
+                    "name": "setup_patron_1.900.0_(64bit)_(68505).exe",
+                    "size": "3876904"
+                },
+                {
+                    "name": "setup_patron_supporter_pack_1.900.0_(64bit)_(68505).exe",
+                    "size": "58125416"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "FLAC.zip",
+                    "size": "494960838"
+                },
+                {
+                    "name": "MP3.zip",
+                    "size": "68616355"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CA380CDAB6",
+                            "link": "https://filecrypt.cc/Container/CA380CDAB6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/26A74E45B5",
+                            "link": "https://filecrypt.cc/Container/26A74E45B5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C51BE80109",
+                            "link": "https://filecrypt.cc/Container/C51BE80109"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EBE340FC1D",
+                            "link": "https://filecrypt.cc/Container/EBE340FC1D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B23E1D1140",
+                            "link": "https://filecrypt.cc/Container/B23E1D1140"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/73124B4090",
+                            "link": "https://filecrypt.cc/Container/73124B4090"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/99EE83A70D",
+                            "link": "https://filecrypt.cc/Container/99EE83A70D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EEA9E9B432",
+                            "link": "https://filecrypt.cc/Container/EEA9E9B432"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/09EDEE765A",
+                            "link": "https://filecrypt.cc/Container/09EDEE765A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

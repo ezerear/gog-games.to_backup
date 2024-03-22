@@ -1,0 +1,84 @@
+{
+    "href": "/game/horror_story_hallowseed",
+    "MSG": {
+        "id": "1527686190",
+        "title": "Horror Story: Hallowseed",
+        "slug": "horror_story_hallowseed",
+        "thumb_id": "f5cfa5d380227c0b20b7cc85b275849c9105f13d7fb2e836736aa3e6a2bafa7c",
+        "bg_id": "5c8542105765fb5d3c7b46c9aa2b7d4e024ac6a7b1b7ec2fb51836800e6aaebd",
+        "url": "https://www.gog.com/game/horror_story_hallowseed",
+        "developer": "Jeff Winner",
+        "publisher": "1C Entertainment",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707725623",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_horror_story_hallowseed_1.03_(64bit)_(51518)-1.bin",
+                    "size": "4294018046"
+                },
+                {
+                    "name": "setup_horror_story_hallowseed_1.03_(64bit)_(51518)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_horror_story_hallowseed_1.03_(64bit)_(51518)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_horror_story_hallowseed_1.03_(64bit)_(51518)-4.bin",
+                    "size": "2112846521"
+                },
+                {
+                    "name": "setup_horror_story_hallowseed_1.03_(64bit)_(51518).exe",
+                    "size": "955656"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/39FFDC925F",
+                            "link": "https://filecrypt.cc/Container/39FFDC925F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D4102EB6E8",
+                            "link": "https://filecrypt.cc/Container/D4102EB6E8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1F28FCD841",
+                            "link": "https://filecrypt.cc/Container/1F28FCD841"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

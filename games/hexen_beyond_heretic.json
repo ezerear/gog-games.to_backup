@@ -1,0 +1,68 @@
+{
+    "href": "/game/hexen_beyond_heretic",
+    "MSG": {
+        "id": "1247951670",
+        "title": "Hexen: Beyond Heretic",
+        "slug": "hexen_beyond_heretic",
+        "thumb_id": "89e8090e97ccfa9ce17ad7b214608869a153dfd04876276424dac839efc5d99d",
+        "bg_id": "da9f038ad0d6c0cbec1a781f5e0961b520b5c7081c6a494dd3284367897e623c",
+        "url": "https://www.gog.com/game/hexen_beyond_heretic",
+        "developer": "Raven Software",
+        "publisher": "id Software",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708471576",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hexen_beyond_heretic_1.1_(42801).exe",
+                    "size": "148062304"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/44A96F1A89",
+                            "link": "https://filecrypt.cc/Container/44A96F1A89"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/10A3CF454E",
+                            "link": "https://filecrypt.cc/Container/10A3CF454E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A768658DDC",
+                            "link": "https://filecrypt.cc/Container/A768658DDC"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

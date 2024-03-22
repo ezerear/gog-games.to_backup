@@ -1,0 +1,127 @@
+{
+    "href": "/game/psychonauts",
+    "MSG": {
+        "id": "1207658807",
+        "title": "Psychonauts",
+        "slug": "psychonauts",
+        "thumb_id": "9cda8695e107d9ae7d12d91c1c338aa6dd70229627fc60a9625e2883f3d88190",
+        "bg_id": "db4d0a4594d8d070ffb13d1feb1882f1a3fa6ab5325323e2b86cbd69a160c797",
+        "url": "https://www.gog.com/game/psychonauts",
+        "developer": "Double Fine Productions",
+        "publisher": "Double Fine Productions",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708742039",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_psychonauts_2.2.0.13-1.bin",
+                    "size": "4194304000"
+                },
+                {
+                    "name": "setup_psychonauts_2.2.0.13-2.bin",
+                    "size": "95054257"
+                },
+                {
+                    "name": "setup_psychonauts_2.2.0.13.exe",
+                    "size": "34242176"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "psycho_artworks.zip",
+                    "size": "13019573"
+                },
+                {
+                    "name": "psycho_Avatars.zip",
+                    "size": "363183"
+                },
+                {
+                    "name": "psycho_manual.zip",
+                    "size": "7732650"
+                },
+                {
+                    "name": "psycho_Wallpapers.zip",
+                    "size": "14716421"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/423FFA6315",
+                            "link": "https://filecrypt.cc/Container/423FFA6315"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9C3F1F3759",
+                            "link": "https://filecrypt.cc/Container/9C3F1F3759"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/60501A7C67",
+                            "link": "https://filecrypt.cc/Container/60501A7C67"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A328B7B8E5",
+                            "link": "https://filecrypt.cc/Container/A328B7B8E5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/318487E077",
+                            "link": "https://filecrypt.cc/Container/318487E077"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0E53D41DF8",
+                            "link": "https://filecrypt.cc/Container/0E53D41DF8"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

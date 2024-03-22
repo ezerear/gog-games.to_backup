@@ -1,0 +1,94 @@
+{
+    "href": "/game/telepath_tactics_liberated",
+    "MSG": {
+        "id": "1742562650",
+        "title": "Telepath Tactics Liberated",
+        "slug": "telepath_tactics_liberated",
+        "thumb_id": "4bc2592eeb6a9a828c2e53aec00de2a251ce8a06440d8e582054327cc7456cf0",
+        "bg_id": "6527e03fdcdc8778b7b0e59f354e189823d632ae279ae57c2798091e4beb3470",
+        "url": "https://www.gog.com/en/game/telepath_tactics_liberated",
+        "developer": "Sinister Design",
+        "publisher": "Sinister Design",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1701485419",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_telepath_tactics_liberated_1.0.51c_(68992)-1.bin",
+                    "size": "2462813667"
+                },
+                {
+                    "name": "setup_telepath_tactics_liberated_1.0.51c_(68992).exe",
+                    "size": "935728"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EF1506DCE0",
+                            "link": "https://filecrypt.cc/Container/EF1506DCE0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DA037FDA8E",
+                            "link": "https://filecrypt.cc/Container/DA037FDA8E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/861848F16F",
+                            "link": "https://filecrypt.cc/Container/861848F16F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/695C0B925A",
+                            "link": "https://filecrypt.cc/Container/695C0B925A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7FACF39AA8",
+                            "link": "https://filecrypt.cc/Container/7FACF39AA8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,119 @@
+{
+    "href": "/game/moero_chronicle",
+    "MSG": {
+        "id": "1960775628",
+        "title": "Moero Chronicle",
+        "slug": "moero_chronicle",
+        "thumb_id": "29d7ef4897ed5099ccc65890c17b7ef5c207c86296b4487ae74fb8a490810ef2",
+        "bg_id": "fd79c28e61b351730cc51a0e4825a9b20c3a36c2f03a4908ad6b10bad4e0af76",
+        "url": "https://www.gog.com/game/moero_chronicle",
+        "developer": "Idea Factory / Compile Heart",
+        "publisher": "Idea Factory International",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709771606",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_moero_chronicle_1.0.15_(49569)-1.bin",
+                    "size": "4294056958"
+                },
+                {
+                    "name": "setup_moero_chronicle_1.0.15_(49569)-2.bin",
+                    "size": "2038338393"
+                },
+                {
+                    "name": "setup_moero_chronicle_1.0.15_(49569).exe",
+                    "size": "916728"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "moero_chronicle_artbook.zip",
+                    "size": "168687928"
+                },
+                {
+                    "name": "moero_chronicle_wallpapers.zip",
+                    "size": "10396257"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1EC2A20933",
+                            "link": "https://filecrypt.cc/Container/1EC2A20933"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2524DC9E9F",
+                            "link": "https://filecrypt.cc/Container/2524DC9E9F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CC636245A1",
+                            "link": "https://filecrypt.cc/Container/CC636245A1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BD1F44C1ED",
+                            "link": "https://filecrypt.cc/Container/BD1F44C1ED"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/447A73F41D",
+                            "link": "https://filecrypt.cc/Container/447A73F41D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B728AE56A0",
+                            "link": "https://filecrypt.cc/Container/B728AE56A0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

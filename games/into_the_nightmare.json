@@ -1,0 +1,98 @@
+{
+    "href": "/game/into_the_nightmare",
+    "MSG": {
+        "id": "1889035369",
+        "title": "Into the Nightmare",
+        "slug": "into_the_nightmare",
+        "thumb_id": "29ef1e1e055ee4c464794402f234c8854094886a2107a35dc8724f4407069085",
+        "bg_id": "d3662b1e2c98c34a0d8e3381f2c8b85ed67a2521d50cbc452ec14ed5f3d15c32",
+        "url": "https://www.gog.com/en/game/into_the_nightmare",
+        "developer": "Tsukinomizu Project",
+        "publisher": "Kagura Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1707105804",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_into_the_nightmare_unrated_v8_(en_1.05_cn_1.03)_(61131)-1.bin",
+                    "size": "1129793418"
+                },
+                {
+                    "name": "setup_into_the_nightmare_unrated_v8_(en_1.05_cn_1.03)_(61131).exe",
+                    "size": "875880"
+                },
+                {
+                    "name": "setup_into_the_nightmare_v8_(en_1.05_cn_1.03)_(61131).exe",
+                    "size": "696233800"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/81CE54E6D8",
+                            "link": "https://filecrypt.cc/Container/81CE54E6D8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/435C40B92A",
+                            "link": "https://filecrypt.cc/Container/435C40B92A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D983540E1D",
+                            "link": "https://filecrypt.cc/Container/D983540E1D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/822764B878",
+                            "link": "https://filecrypt.cc/Container/822764B878"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4A8AB24314",
+                            "link": "https://filecrypt.cc/Container/4A8AB24314"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

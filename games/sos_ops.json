@@ -1,0 +1,68 @@
+{
+    "href": "/game/sos_ops",
+    "MSG": {
+        "id": "2050028021",
+        "title": "SOS OPS!",
+        "slug": "sos_ops",
+        "thumb_id": "9ec7a01640c63d18e90ebc88e6b6d3ae7dcf8bc17e2b470ca55596c9402b36ce",
+        "bg_id": "097fd5089dfe1b5b8c4d8fddd99e9316ed712feb6342a0208b26f95c290b9551",
+        "url": "https://www.gog.com/en/game/sos_ops",
+        "developer": "ArtDock",
+        "publisher": "ArtDock",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708814504",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sos_ops_1.1.2_(64bit)_(71338).exe",
+                    "size": "486175224"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B44114693C",
+                            "link": "https://filecrypt.cc/Container/B44114693C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1ABAB6AAEC",
+                            "link": "https://filecrypt.cc/Container/1ABAB6AAEC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/951526F9E0",
+                            "link": "https://filecrypt.cc/Container/951526F9E0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,83 @@
+{
+    "href": "/game/gearcity",
+    "MSG": {
+        "id": "1801948692",
+        "title": "GearCity",
+        "slug": "gearcity",
+        "thumb_id": "2de5ae6dd6a0988b341df6488c755c44f4c8e9ef33351d11deae17613067360d",
+        "bg_id": "eef2cd32d2ab44baf19de2c6a24214bc7bf40696aae4dbca17cf1557f75297ab",
+        "url": "https://www.gog.com/en/game/gearcity",
+        "developer": "Visual Entertainment And Technologies",
+        "publisher": "Visual Entertainment And Technologies",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1707608559",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_gearcity_2.0.0.9_hf_1_(64bit)_(65284)-1.bin",
+                    "size": "3961621516"
+                },
+                {
+                    "name": "setup_gearcity_2.0.0.9_hf_1_(64bit)_(65284).exe",
+                    "size": "1290752"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/358C74706A",
+                            "link": "https://filecrypt.cc/Container/358C74706A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/46F5630142",
+                            "link": "https://filecrypt.cc/Container/46F5630142"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C19A6C725E",
+                            "link": "https://filecrypt.cc/Container/C19A6C725E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F0237FF563",
+                            "link": "https://filecrypt.cc/Container/F0237FF563"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

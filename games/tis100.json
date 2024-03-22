@@ -1,0 +1,107 @@
+{
+    "href": "/game/tis100",
+    "MSG": {
+        "id": "1436869408",
+        "title": "TIS-100",
+        "slug": "tis100",
+        "thumb_id": "5182618ea791339e7e6d0bc3e0c760e56d38345939518a9a70cf400faa410a0d",
+        "bg_id": "463faed6fa3eaef6c7c68bcc314de8e1ef1f20de69e6f392d8a14c723d0058dc",
+        "url": "https://www.gog.com/game/tis100",
+        "developer": "Zachtronics",
+        "publisher": "Zachtronics",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710354018",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tis-100_20171129_(43141).exe",
+                    "size": "27856080"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "tis100_manual.zip",
+                    "size": "8746599"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/412203A365",
+                            "link": "https://filecrypt.cc/Container/412203A365"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9FC9B0D82F",
+                            "link": "https://filecrypt.cc/Container/9FC9B0D82F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/79D40BE8BC",
+                            "link": "https://filecrypt.cc/Container/79D40BE8BC"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/50F789B716",
+                            "link": "https://filecrypt.cc/Container/50F789B716"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/778FEE24AB",
+                            "link": "https://filecrypt.cc/Container/778FEE24AB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B012B3DBFB",
+                            "link": "https://filecrypt.cc/Container/B012B3DBFB"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,85 @@
+{
+    "href": "/game/zombie_shooter_2",
+    "MSG": {
+        "id": "1207660503",
+        "title": "Zombie Shooter 2",
+        "slug": "zombie_shooter_2",
+        "thumb_id": "2da63ea684d7ee47d30d4f32434eef85ab0db1e9046d428aed261fd074bb2b9c",
+        "bg_id": "005d93137f46182ccab6089e881637673cbda5d6f1336d5fe3699af21cc113a0",
+        "url": "https://www.gog.com/game/zombie_shooter_2",
+        "developer": "Sigma Team",
+        "publisher": "Sigma Team",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710170441",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_zombie_shooter2_2.1.0.8.exe",
+                    "size": "599798864"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "zs2_soundtrack.zip",
+                    "size": "61563855"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DAA235661F",
+                            "link": "https://filecrypt.cc/Container/DAA235661F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/04BB402C41",
+                            "link": "https://filecrypt.cc/Container/04BB402C41"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/056DF60B82",
+                            "link": "https://filecrypt.cc/Container/056DF60B82"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5EB2B17D68",
+                            "link": "https://filecrypt.cc/Container/5EB2B17D68"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

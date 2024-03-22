@@ -1,0 +1,123 @@
+{
+    "href": "/game/call_of_cthulhu_prisoner_of_ice",
+    "MSG": {
+        "id": "1432222749",
+        "title": "Call of Cthulhu: Prisoner of Ice",
+        "slug": "call_of_cthulhu_prisoner_of_ice",
+        "thumb_id": "be82f4da5ad3ed31e9ccb66c92472c9560a73fb8e6e3967f64cce25a5154ee82",
+        "bg_id": "abf08177ca11476858992b0bf1d00121d06c62af865eb92a1adff8d187c23da2",
+        "url": "https://www.gog.com/game/call_of_cthulhu_prisoner_of_ice",
+        "developer": "Infogrames Europe SA",
+        "publisher": "Atari",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708464865",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_prisoner_of_ice_gog-5_(17101).exe",
+                    "size": "308143648"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "poi_handbuch_de.zip",
+                    "size": "3702260"
+                },
+                {
+                    "name": "poi_manual_eng.zip",
+                    "size": "1723915"
+                },
+                {
+                    "name": "poi_manuel_fr.zip",
+                    "size": "235831"
+                },
+                {
+                    "name": "poi_newspaper.zip",
+                    "size": "4664440"
+                },
+                {
+                    "name": "setup_prisoner_of_ice_uk_2.0.0.1.exe",
+                    "size": "209629896"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/109A45093C",
+                            "link": "https://filecrypt.cc/Container/109A45093C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6B82C4BDA8",
+                            "link": "https://filecrypt.cc/Container/6B82C4BDA8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A355D54563",
+                            "link": "https://filecrypt.cc/Container/A355D54563"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/935A53AEBA",
+                            "link": "https://filecrypt.cc/Container/935A53AEBA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/311403ECBE",
+                            "link": "https://filecrypt.cc/Container/311403ECBE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C72AC7DAC0",
+                            "link": "https://filecrypt.cc/Container/C72AC7DAC0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

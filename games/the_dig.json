@@ -1,0 +1,143 @@
+{
+    "href": "/game/the_dig",
+    "MSG": {
+        "id": "1425299904",
+        "title": "The Dig®",
+        "slug": "the_dig",
+        "thumb_id": "8013f6a5c1cd41df6b9f97c629b2c6ccd162bebfc99f2b9c0b6eb76c06d25582",
+        "bg_id": "b6e607d2514dfbe1c0443f880fd4dffaa4ef44ca555c002d8f87225b3c863d6d",
+        "url": "https://www.gog.com/game/the_dig",
+        "developer": "Lucasfilm",
+        "publisher": "Disney",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710490356",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_dig_1.0_(20270)-1.bin",
+                    "size": "562372503"
+                },
+                {
+                    "name": "setup_the_dig_1.0_(20270).exe",
+                    "size": "750072"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "the_dig_handbuch.zip",
+                    "size": "8341718"
+                },
+                {
+                    "name": "the_dig_manual.zip",
+                    "size": "5727969"
+                },
+                {
+                    "name": "the_dig_manuale.zip",
+                    "size": "188049"
+                },
+                {
+                    "name": "the_dig_manual_es.zip",
+                    "size": "226892"
+                },
+                {
+                    "name": "the_dig_manuel_fr.zip",
+                    "size": "466837"
+                },
+                {
+                    "name": "the_dig_novel_br_pt.zip",
+                    "size": "1457080"
+                },
+                {
+                    "name": "the_dig_novel_eng.zip",
+                    "size": "1101562"
+                },
+                {
+                    "name": "the_dig_reference_card.zip",
+                    "size": "1150667"
+                },
+                {
+                    "name": "the_dig_reference_card_fr.zip",
+                    "size": "154162"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B75679D522",
+                            "link": "https://filecrypt.cc/Container/B75679D522"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0A79FFE91C",
+                            "link": "https://filecrypt.cc/Container/0A79FFE91C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F223D08784",
+                            "link": "https://filecrypt.cc/Container/F223D08784"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/355F11CC3C",
+                            "link": "https://filecrypt.cc/Container/355F11CC3C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/05FAEB36A0",
+                            "link": "https://filecrypt.cc/Container/05FAEB36A0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/35E0A3268F",
+                            "link": "https://filecrypt.cc/Container/35E0A3268F"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

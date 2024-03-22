@@ -1,0 +1,68 @@
+{
+    "href": "/game/machinika_museum",
+    "MSG": {
+        "id": "1823483649",
+        "title": "Machinika Museum",
+        "slug": "machinika_museum",
+        "thumb_id": "2ac61631d7fe975ea1286c3096899c3323147cac18264065bc3fceb9cbdd98d0",
+        "bg_id": "0f4c63e5707be378958353ec2fc1e0407d8a7709752e5cdfe072a72ed2b375fa",
+        "url": "https://www.gog.com/en/game/machinika_museum",
+        "developer": "Littlefield Studio",
+        "publisher": "PID Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709150078",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_machanika_museum_1.22051101_(63249).exe",
+                    "size": "744465784"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1E81BBCC1C",
+                            "link": "https://filecrypt.cc/Container/1E81BBCC1C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/71B5DF56C1",
+                            "link": "https://filecrypt.cc/Container/71B5DF56C1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5DEB1DA215",
+                            "link": "https://filecrypt.cc/Container/5DEB1DA215"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

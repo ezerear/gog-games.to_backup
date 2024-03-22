@@ -1,0 +1,123 @@
+{
+    "href": "/game/hacknet",
+    "MSG": {
+        "id": "1439474400",
+        "title": "Hacknet",
+        "slug": "hacknet",
+        "thumb_id": "b81a44ea287fe6226c26f321fcee7ae9fe8ea679ed8357b9a2a348552450d1d1",
+        "bg_id": "bcc8ca2e55b29bf2d65e048a7134eb7928e2695ac26b8ad9067830a156ec73f7",
+        "url": "https://www.gog.com/game/hacknet",
+        "developer": "Team Fractal Alligator",
+        "publisher": "Fellow Traveller",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710896224",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hacknet_-_labyrinths_5.069_(15083).exe",
+                    "size": "159303504"
+                },
+                {
+                    "name": "setup_hacknet_5.069_(15083).exe",
+                    "size": "271255440"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "hacknet_labyrinths_ost_flac.zip",
+                    "size": "304622953"
+                },
+                {
+                    "name": "hacknet_labyrinths_ost_mp3.zip",
+                    "size": "152704797"
+                },
+                {
+                    "name": "hacknet_ost_flac.zip",
+                    "size": "551908687"
+                },
+                {
+                    "name": "hacknet_ost_mp3.zip",
+                    "size": "150581148"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D3B9210676",
+                            "link": "https://filecrypt.cc/Container/D3B9210676"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0DD238EBCF",
+                            "link": "https://filecrypt.cc/Container/0DD238EBCF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CE0F41F67C",
+                            "link": "https://filecrypt.cc/Container/CE0F41F67C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1366FAA4AE",
+                            "link": "https://filecrypt.cc/Container/1366FAA4AE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D5F953274D",
+                            "link": "https://filecrypt.cc/Container/D5F953274D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/609CE6F127",
+                            "link": "https://filecrypt.cc/Container/609CE6F127"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

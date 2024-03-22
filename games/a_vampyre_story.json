@@ -1,0 +1,94 @@
+{
+    "href": "/game/a_vampyre_story",
+    "MSG": {
+        "id": "1481793614",
+        "title": "A Vampyre Story",
+        "slug": "a_vampyre_story",
+        "thumb_id": "61e133df0dac09dad9ebb419b2503cf518ca25dd58c7067cbe5e30140e43a1c3",
+        "bg_id": "f00c9f48d3ecaa2309594d600c201be0de9aa8a06a3918b6eee06a03ddda3ad8",
+        "url": "https://www.gog.com/game/a_vampyre_story",
+        "developer": "Autumn Moon",
+        "publisher": "Strategy First",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1705219967",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_a_vampyre_story_1.0_(43163)-1.bin",
+                    "size": "2770546553"
+                },
+                {
+                    "name": "setup_a_vampyre_story_1.0_(43163).exe",
+                    "size": "1784824"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E0924A814C",
+                            "link": "https://filecrypt.cc/Container/E0924A814C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F0C17555CF",
+                            "link": "https://filecrypt.cc/Container/F0C17555CF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/617AA115A9",
+                            "link": "https://filecrypt.cc/Container/617AA115A9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3ABBB3EC33",
+                            "link": "https://filecrypt.cc/Container/3ABBB3EC33"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0EBBC9BBDD",
+                            "link": "https://filecrypt.cc/Container/0EBBC9BBDD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

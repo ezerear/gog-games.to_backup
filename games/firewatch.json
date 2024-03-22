@@ -1,0 +1,72 @@
+{
+    "href": "/game/firewatch",
+    "MSG": {
+        "id": "1459256379",
+        "title": "Firewatch",
+        "slug": "firewatch",
+        "thumb_id": "ea5dfc6d442698e70d3a5a0bf65ea17eb2703c4d727aa09f8b20f07bbc227b48",
+        "bg_id": "8fe192c5224b60d53cc0fb1cd756088344d5f599b8665dffce6152b28c09e8b7",
+        "url": "https://www.gog.com/game/firewatch",
+        "developer": "Campo Santo",
+        "publisher": "Campo Santo",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708383635",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_firewatch_1.12_(64bit)_(54889)-1.bin",
+                    "size": "2226247483"
+                },
+                {
+                    "name": "setup_firewatch_1.12_(64bit)_(54889).exe",
+                    "size": "1767456"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/rl7Kb5k",
+                            "link": "https://safelinking.net/rl7Kb5k"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/mPu5y6k",
+                            "link": "https://safelinking.net/mPu5y6k"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/e1pbkst",
+                            "link": "https://safelinking.net/e1pbkst"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

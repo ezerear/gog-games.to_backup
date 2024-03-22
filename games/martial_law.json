@@ -1,0 +1,68 @@
+{
+    "href": "/game/martial_law",
+    "MSG": {
+        "id": "1692939089",
+        "title": "Martial Law",
+        "slug": "martial_law",
+        "thumb_id": "8089085fc8eeb452abd97ef1288f8581b2352efc0878dfd6de59ccbb2dbea396",
+        "bg_id": "ecfcd0eb14d1a752d65f87613885a30de4a8178407eaf1d275a3b074667bfd39",
+        "url": "https://www.gog.com/en/game/martial_law",
+        "developer": "FIXER",
+        "publisher": "FIXER",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1688498637",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_martial_law_1.1.0_(64bit)_(55044).exe",
+                    "size": "100627288"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3E67DC7062",
+                            "link": "https://filecrypt.cc/Container/3E67DC7062"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/835FFEED02",
+                            "link": "https://filecrypt.cc/Container/835FFEED02"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2946DCFC8C",
+                            "link": "https://filecrypt.cc/Container/2946DCFC8C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

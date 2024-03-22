@@ -1,0 +1,72 @@
+{
+    "href": "/game/brigade_e5_new_jagged_union",
+    "MSG": {
+        "id": "1195536799",
+        "title": "Brigade E5: New Jagged Union",
+        "slug": "brigade_e5_new_jagged_union",
+        "thumb_id": "06ae3ddfad1b1c1fd41cc3070060fb9c777623a5918a97680e5d421e9f89e57b",
+        "bg_id": "10993532b5b1cb13d0de99752b21432dc751af448b673beddc41031ca90e55dd",
+        "url": "https://www.gog.com/en/game/brigade_e5_new_jagged_union",
+        "developer": "Apeiron",
+        "publisher": "Fulqrum Publishing",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1709897902",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_brigade_e5_new_jagged_union_1.13_(58108)-1.bin",
+                    "size": "1868567226"
+                },
+                {
+                    "name": "setup_brigade_e5_new_jagged_union_1.13_(58108).exe",
+                    "size": "1163640"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E76A5BBA5A",
+                            "link": "https://filecrypt.cc/Container/E76A5BBA5A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6966AE47F1",
+                            "link": "https://filecrypt.cc/Container/6966AE47F1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/74738125F8",
+                            "link": "https://filecrypt.cc/Container/74738125F8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

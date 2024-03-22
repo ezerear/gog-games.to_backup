@@ -1,0 +1,76 @@
+{
+    "href": "/game/venusblood_frontier",
+    "MSG": {
+        "id": "1347682775",
+        "title": "VenusBlood FRONTIER International",
+        "slug": "venusblood_frontier",
+        "thumb_id": "6664303322c57881b3c3a5168756b09727069f7f5a7cc2d71128dfbdb0fdee8f",
+        "bg_id": "38dfe25c9a4a2835542173c3d67c6c43c96496f4e0e18b8b4625a3beae0861a9",
+        "url": "https://www.gog.com/game/venusblood_frontier",
+        "developer": "Ninetail, Dualtail",
+        "publisher": "JAST USA",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1708504124",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_venusblood_frontier_international_1.0.9_(18)_(52092)-1.bin",
+                    "size": "2241067505"
+                },
+                {
+                    "name": "setup_venusblood_frontier_international_1.0.9_(18)_(52092).exe",
+                    "size": "820320"
+                },
+                {
+                    "name": "setup_venusblood_frontier_unrated_patch_1.0.9_(18)_(52092).exe",
+                    "size": "1191038608"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AF734DBF14",
+                            "link": "https://filecrypt.cc/Container/AF734DBF14"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/375251479C",
+                            "link": "https://filecrypt.cc/Container/375251479C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AD7BAF7A47",
+                            "link": "https://filecrypt.cc/Container/AD7BAF7A47"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

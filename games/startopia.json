@@ -1,0 +1,111 @@
+{
+    "href": "/game/startopia",
+    "MSG": {
+        "id": "1207659100",
+        "title": "Startopia",
+        "slug": "startopia",
+        "thumb_id": "addd0023833d97e06524c6ab3c8504bc590ab67602d8bb399a1519b03fe8fa63",
+        "bg_id": "ae27dae40c7ae2d5dabbf00d32316b45134a7074c4faabf1489efa9b8d538831",
+        "url": "https://www.gog.com/game/startopia",
+        "developer": "Mucky Foot Productions",
+        "publisher": "Square Enix",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1709406145",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_startopia_2.0.0.17.exe",
+                    "size": "375747320"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "startopia_avatars.zip",
+                    "size": "67426"
+                },
+                {
+                    "name": "startopia_manual.zip",
+                    "size": "518488"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D1C5D3BE9D",
+                            "link": "https://filecrypt.cc/Container/D1C5D3BE9D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1276CBF77C",
+                            "link": "https://filecrypt.cc/Container/1276CBF77C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/93E256444F",
+                            "link": "https://filecrypt.cc/Container/93E256444F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DAE498E6AF",
+                            "link": "https://filecrypt.cc/Container/DAE498E6AF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D3414B1BB0",
+                            "link": "https://filecrypt.cc/Container/D3414B1BB0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/540C85EDB2",
+                            "link": "https://filecrypt.cc/Container/540C85EDB2"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

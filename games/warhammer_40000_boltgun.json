@@ -1,0 +1,76 @@
+{
+    "href": "/game/warhammer_40000_boltgun",
+    "MSG": {
+        "id": "2028053392",
+        "title": "Warhammer 40,000: Boltgun",
+        "slug": "warhammer_40000_boltgun",
+        "thumb_id": "8fec7e66da3403251fb8d4dc7fd67448ac6ca699d01df5a412bc504b98ada1a5",
+        "bg_id": "cbc568d348107958b13cd4a27c4d32bb480721e0f9b8a0ec2ec06683bb43c8aa",
+        "url": "https://www.gog.com/en/game/warhammer_40000_boltgun",
+        "developer": "Auroch Digital",
+        "publisher": "Focus Entertainment",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1708077392",
+        "votes": "2",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_warhammer_40000_boltgun_1.18.41193.510_(69539)-1.bin",
+                    "size": "4294118398"
+                },
+                {
+                    "name": "setup_warhammer_40000_boltgun_1.18.41193.510_(69539)-2.bin",
+                    "size": "361728572"
+                },
+                {
+                    "name": "setup_warhammer_40000_boltgun_1.18.41193.510_(69539).exe",
+                    "size": "859112"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C15C2B914E",
+                            "link": "https://filecrypt.cc/Container/C15C2B914E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/85112CD7BF",
+                            "link": "https://filecrypt.cc/Container/85112CD7BF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3043139FC7",
+                            "link": "https://filecrypt.cc/Container/3043139FC7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

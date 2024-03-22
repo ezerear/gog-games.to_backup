@@ -1,0 +1,80 @@
+{
+    "href": "/game/the_raven_remastered_game",
+    "MSG": {
+        "id": "1363828758",
+        "title": "The Raven Remastered",
+        "slug": "the_raven_remastered_game",
+        "thumb_id": "2fde7ca8c3a6a9f10fd0ee1ce7a869e85cf67433a9caa7e2d21c99a40f3ae1ea",
+        "bg_id": "c877f90e10092450ee828398b3208e0baa58eab38698c6ff0d2c79cfc6639541",
+        "url": "https://www.gog.com/game/the_raven_remastered",
+        "developer": "KING Art",
+        "publisher": "THQ Nordic GmbH",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709666997",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_raven_remastered_1.1.0.654_(19262)-1.bin",
+                    "size": "4294015486"
+                },
+                {
+                    "name": "setup_the_raven_remastered_1.1.0.654_(19262)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_the_raven_remastered_1.1.0.654_(19262)-3.bin",
+                    "size": "769958974"
+                },
+                {
+                    "name": "setup_the_raven_remastered_1.1.0.654_(19262).exe",
+                    "size": "958736"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F141F00625",
+                            "link": "https://filecrypt.cc/Container/F141F00625"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7972D475B5",
+                            "link": "https://filecrypt.cc/Container/7972D475B5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E7D8EC5742",
+                            "link": "https://filecrypt.cc/Container/E7D8EC5742"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

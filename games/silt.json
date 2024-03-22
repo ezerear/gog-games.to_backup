@@ -1,0 +1,76 @@
+{
+    "href": "/game/silt",
+    "MSG": {
+        "id": "1120916026",
+        "title": "Silt",
+        "slug": "silt",
+        "thumb_id": "995719e2269b6eabfcb875fc6dffdc79b620550ee1be6f4e75f45c9e8a98c65f",
+        "bg_id": "a14a1a291f53471fc98eaa7fd042adabf417518e06a5b0bff8007e3b455fc292",
+        "url": "https://www.gog.com/game/silt",
+        "developer": "Spiral Circus",
+        "publisher": "Sold Out",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708164559",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_silt_1.0.3.1106_(64bit)_(57806)-1.bin",
+                    "size": "4294097918"
+                },
+                {
+                    "name": "setup_silt_1.0.3.1106_(64bit)_(57806)-2.bin",
+                    "size": "667239977"
+                },
+                {
+                    "name": "setup_silt_1.0.3.1106_(64bit)_(57806).exe",
+                    "size": "879232"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7D9A545015",
+                            "link": "https://filecrypt.cc/Container/7D9A545015"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F22011B9F0",
+                            "link": "https://filecrypt.cc/Container/F22011B9F0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AD84211C79",
+                            "link": "https://filecrypt.cc/Container/AD84211C79"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

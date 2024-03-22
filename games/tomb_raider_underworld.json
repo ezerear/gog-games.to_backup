@@ -1,0 +1,76 @@
+{
+    "href": "/game/tomb_raider_underworld",
+    "MSG": {
+        "id": "1900745791",
+        "title": "Tomb Raider: Underworld",
+        "slug": "tomb_raider_underworld",
+        "thumb_id": "93ed2f65c201ee3bb0323de19946175bb0c4e4abda5b637574064c89c0cd12af",
+        "bg_id": "07718b41c082fcfe2f0b9e9a421fe7dcc19032fd9a970ab87cb7fda7e650f4a7",
+        "url": "https://www.gog.com/game/tomb_raider_underworld",
+        "developer": "Crystal Dynamics",
+        "publisher": "Square Enix",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710846942",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tomb_raider_underworld_1.1_(46856)-1.bin",
+                    "size": "4294058494"
+                },
+                {
+                    "name": "setup_tomb_raider_underworld_1.1_(46856)-2.bin",
+                    "size": "3011150629"
+                },
+                {
+                    "name": "setup_tomb_raider_underworld_1.1_(46856).exe",
+                    "size": "915384"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4F4E6EE52B",
+                            "link": "https://filecrypt.cc/Container/4F4E6EE52B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8392FD6373",
+                            "link": "https://filecrypt.cc/Container/8392FD6373"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/28377B41E4",
+                            "link": "https://filecrypt.cc/Container/28377B41E4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

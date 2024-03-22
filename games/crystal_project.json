@@ -1,0 +1,57 @@
+{
+    "href": "/game/crystal_project",
+    "MSG": {
+        "id": "1586826606",
+        "title": "Crystal Project",
+        "slug": "crystal_project",
+        "thumb_id": "8bcce83a4d1bcebcbfa750d601179f1146abb8229d7a08d97e2ce2745c82e095",
+        "bg_id": "1a167d15a3bf4e1e5c6b8c82960c7aaa6eb2c8ad40e703d55d4fb72ebbb41c17",
+        "url": "https://www.gog.com/en/game/crystal_project",
+        "developer": "Andrew Willman",
+        "publisher": "Andrew Willman",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710120643",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_crystal_project_1.5.3.1_(64bit)_(71710).exe",
+                    "size": "652564944"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8D5A6D9395",
+                            "link": "https://filecrypt.cc/Container/8D5A6D9395"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/170FE73DB8",
+                            "link": "https://filecrypt.cc/Container/170FE73DB8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

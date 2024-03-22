@@ -1,0 +1,123 @@
+{
+    "href": "/game/barony",
+    "MSG": {
+        "id": "1797331296",
+        "title": "Barony",
+        "slug": "barony",
+        "thumb_id": "ceff850c8491ddb5d84c0c07877bfda2e034844d9e7ef69ad25e56200e52479b",
+        "bg_id": "e6903f964ce553f47f1cea2555cd1c1b74158c526f3565865e6e7ba9fedb5389",
+        "url": "https://www.gog.com/game/barony_cursed_edition",
+        "developer": "Turning Wheel LLC",
+        "publisher": "Turning Wheel LLC",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710350661",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_barony_legends__pariahs_v4.1.1-181123-2_(64bit)_(69095).exe",
+                    "size": "5861776"
+                },
+                {
+                    "name": "setup_barony_myths__outcasts_v4.1.1-181123-2_(64bit)_(69095).exe",
+                    "size": "6230768"
+                },
+                {
+                    "name": "setup_barony_v4.1.1-181123-2_(64bit)_(69095).exe",
+                    "size": "577228088"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "barony_extended_ost_mp3.zip",
+                    "size": "314742222"
+                },
+                {
+                    "name": "barony_ost_flac.zip",
+                    "size": "1107097250"
+                },
+                {
+                    "name": "barony_ost_mp3.zip",
+                    "size": "254218636"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BA95119CD2",
+                            "link": "https://filecrypt.cc/Container/BA95119CD2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A74D876452",
+                            "link": "https://filecrypt.cc/Container/A74D876452"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C5C71D5DA6",
+                            "link": "https://filecrypt.cc/Container/C5C71D5DA6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BD20EDC1B2",
+                            "link": "https://filecrypt.cc/Container/BD20EDC1B2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/216DE18903",
+                            "link": "https://filecrypt.cc/Container/216DE18903"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ECCB8A9419",
+                            "link": "https://filecrypt.cc/Container/ECCB8A9419"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

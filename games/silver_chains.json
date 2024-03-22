@@ -1,0 +1,76 @@
+{
+    "href": "/game/silver_chains",
+    "MSG": {
+        "id": "2022391210",
+        "title": "Silver Chains",
+        "slug": "silver_chains",
+        "thumb_id": "5810a9bcef0d76587990f48e0d2aa5fafbe7c0b6610982771e872ccc3800fbe6",
+        "bg_id": "ecf0a762d622a446fbaa7ba4de53841cbff752d390e41c1b2a59bcc7e37614ac",
+        "url": "https://www.gog.com/game/silver_chains",
+        "developer": "Cracked Heads Games",
+        "publisher": "Headup Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1705927441",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_silver_chains_1.0.19_(64bit)_(33437)-1.bin",
+                    "size": "4294018558"
+                },
+                {
+                    "name": "setup_silver_chains_1.0.19_(64bit)_(33437)-2.bin",
+                    "size": "3024283409"
+                },
+                {
+                    "name": "setup_silver_chains_1.0.19_(64bit)_(33437).exe",
+                    "size": "956040"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/236CF5055E",
+                            "link": "https://filecrypt.cc/Container/236CF5055E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/62DFB81BFD",
+                            "link": "https://filecrypt.cc/Container/62DFB81BFD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/689CCD4862",
+                            "link": "https://filecrypt.cc/Container/689CCD4862"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

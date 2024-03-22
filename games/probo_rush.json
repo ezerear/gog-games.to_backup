@@ -1,0 +1,68 @@
+{
+    "href": "/game/probo_rush",
+    "MSG": {
+        "id": "1547869041",
+        "title": "Probo Rush",
+        "slug": "probo_rush",
+        "thumb_id": "d97e183950eaf465cb14801a86e905c0e28021032a055ff1f3e26dcace0f2a63",
+        "bg_id": "e9d364517a767a981cf7db605371404d41e4df0676535e3ec0f5951e8c0f183a",
+        "url": "https://www.gog.com/en/game/probo_rush",
+        "developer": "Silkworm",
+        "publisher": "Meridian4",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1709694118",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_probo_rush_1.1.1_(68219).exe",
+                    "size": "19856032"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E98B8DBFB7",
+                            "link": "https://filecrypt.cc/Container/E98B8DBFB7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DE51F96A65",
+                            "link": "https://filecrypt.cc/Container/DE51F96A65"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/64E60FA107",
+                            "link": "https://filecrypt.cc/Container/64E60FA107"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

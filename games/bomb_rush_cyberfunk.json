@@ -1,0 +1,72 @@
+{
+    "href": "/game/bomb_rush_cyberfunk",
+    "MSG": {
+        "id": "2113415415",
+        "title": "Bomb Rush Cyberfunk",
+        "slug": "bomb_rush_cyberfunk",
+        "thumb_id": "bb0bf3aed26cf324168b978af0a883f772b9401632cd229527690ba76f318194",
+        "bg_id": "7991526e19443747124e8043fe4965ccee114daf263bd10f43ad973331c42093",
+        "url": "https://www.gog.com/en/game/bomb_rush_cyberfunk",
+        "developer": "Team Reptile",
+        "publisher": "Team Reptile",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709414673",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_bomb_rush_cyberfunk_1.0.20385_(70384).exe",
+                    "size": "1560066472"
+                },
+                {
+                    "name": "setup_bomb_rush_cyberfunk_dlc_-_base__jay_1.0.20385_(70384).exe",
+                    "size": "5928752"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D61CCAEE0F",
+                            "link": "https://filecrypt.cc/Container/D61CCAEE0F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/73C548B60D",
+                            "link": "https://filecrypt.cc/Container/73C548B60D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3103EC3904",
+                            "link": "https://filecrypt.cc/Container/3103EC3904"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

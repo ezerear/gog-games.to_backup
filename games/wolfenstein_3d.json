@@ -1,0 +1,68 @@
+{
+    "href": "/game/wolfenstein_3d",
+    "MSG": {
+        "id": "1441705046",
+        "title": "Wolfenstein 3D",
+        "slug": "wolfenstein_3d",
+        "thumb_id": "02d8916e201675ce28e26c579e98184c40349387c0160732979d8601434e578b",
+        "bg_id": "47b80932adae57dc5e12a4693c55dbec828af7259bdaa60aa39fd22ed2e0835d",
+        "url": "https://www.gog.com/game/wolfenstein_3d_and_spear_of_destiny",
+        "developer": "id Software",
+        "publisher": "Bethesda Softworks LLC",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710595840",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_wolfenstein_3d_1.4_(28045).exe",
+                    "size": "13339816"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6B3661CD00",
+                            "link": "https://filecrypt.cc/Container/6B3661CD00"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2F60D97DD2",
+                            "link": "https://filecrypt.cc/Container/2F60D97DD2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4BFF5DC92B",
+                            "link": "https://filecrypt.cc/Container/4BFF5DC92B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

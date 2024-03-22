@@ -1,0 +1,79 @@
+{
+    "href": "/game/tinytopia",
+    "MSG": {
+        "id": "1884341298",
+        "title": "Tinytopia",
+        "slug": "tinytopia",
+        "thumb_id": "b2d53dd5833609e36949fb90a25e76a5cc06ff517eca10df9e8bd6c91f6f01e8",
+        "bg_id": "aea21e4af3b0c0d3e4e38183c70ce592e22c75bc03fdfcb7604d529521c71bae",
+        "url": "https://www.gog.com/game/tinytopia",
+        "developer": "MeNic Games",
+        "publisher": "Mastiff",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1704100081",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tinytopia_211111gog_(64bit)_(51405).exe",
+                    "size": "799102720"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F88A0077C8",
+                            "link": "https://filecrypt.cc/Container/F88A0077C8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6E49176AF4",
+                            "link": "https://filecrypt.cc/Container/6E49176AF4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/64F74A7519",
+                            "link": "https://filecrypt.cc/Container/64F74A7519"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3A6C863AD4",
+                            "link": "https://filecrypt.cc/Container/3A6C863AD4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

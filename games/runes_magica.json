@@ -1,0 +1,79 @@
+{
+    "href": "/game/runes_magica",
+    "MSG": {
+        "id": "1188655301",
+        "title": "RUNES Magica",
+        "slug": "runes_magica",
+        "thumb_id": "1482409f13554b273924479998c0b386ea049db8874b2d56df1d08df2108fd08",
+        "bg_id": "e72adb174f768cad2538a139022aa2a4f6be811318187f640039287280f07f43",
+        "url": "https://www.gog.com/en/game/runes_magica",
+        "developer": "BONE MADE",
+        "publisher": "",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1706619155",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_runes_magica_1.1_(67471).exe",
+                    "size": "490924560"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/076AA03888",
+                            "link": "https://filecrypt.cc/Container/076AA03888"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8AF1D9CB4A",
+                            "link": "https://filecrypt.cc/Container/8AF1D9CB4A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/66D3BE596C",
+                            "link": "https://filecrypt.cc/Container/66D3BE596C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7427EC1A9F",
+                            "link": "https://filecrypt.cc/Container/7427EC1A9F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/starcom_nexus",
+    "MSG": {
+        "id": "1761387470",
+        "title": "Starcom: Nexus",
+        "slug": "starcom_nexus",
+        "thumb_id": "7cc8ee5808b0ce604a6e3d2c2d577836469c59da6bbc08cb3d4f9b55fadfe932",
+        "bg_id": "f7b7e186abf223b9817cb63380b7ef8bca514e11d72ade67e06d0fe5c9368ee0",
+        "url": "https://www.gog.com/game/starcomnexus",
+        "developer": "Wx3 Labs",
+        "publisher": "Wx3 Labs",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709800790",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_starcom_nexus_1.0.13c_(44727).exe",
+                    "size": "959221776"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/59B44927AA",
+                            "link": "https://filecrypt.cc/Container/59B44927AA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C11BD0F48E",
+                            "link": "https://filecrypt.cc/Container/C11BD0F48E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4A39F1848A",
+                            "link": "https://filecrypt.cc/Container/4A39F1848A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

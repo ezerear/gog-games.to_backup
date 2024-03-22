@@ -1,0 +1,57 @@
+{
+    "href": "/game/falcon",
+    "MSG": {
+        "id": "1443160514",
+        "title": "Falcon",
+        "slug": "falcon",
+        "thumb_id": "829d26e361c94cbb32f26285079ef069669fe57bc47ff983e4ebcc1432e28398",
+        "bg_id": "7682051af454b97a1dbbd35a87a4252ed1619627e73e9bac46918876fadfc307",
+        "url": "https://www.gog.com/game/falcon_collection",
+        "developer": "Spectrum Holobyte",
+        "publisher": "Retroism",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710125658",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_falcon_1.0_(28044).exe",
+                    "size": "12784032"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/66CAB9883B",
+                            "link": "https://filecrypt.cc/Container/66CAB9883B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0B85AAFCD5",
+                            "link": "https://filecrypt.cc/Container/0B85AAFCD5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

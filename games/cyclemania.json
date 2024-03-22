@@ -1,0 +1,90 @@
+{
+    "href": "/game/cyclemania",
+    "MSG": {
+        "id": "1546526788",
+        "title": "Cyclemania",
+        "slug": "cyclemania",
+        "thumb_id": "b898246a47e7e3aa75d4e6b83ef1bc287114d0ac87d145cf0083b2a6c1c74c7a",
+        "bg_id": "8a1ef7f1be7ebf8894afc99af70a892f6d9acba88d27994977445292310d080c",
+        "url": "https://www.gog.com/game/cyclemania",
+        "developer": "Compro Games",
+        "publisher": "Ziggurat Interactive",
+        "category": "Racing",
+        "uploading": "0",
+        "last_upload": "1703852506",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_cyclemania_1.0_(42680).exe",
+                    "size": "432071944"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9848D038DC",
+                            "link": "https://filecrypt.cc/Container/9848D038DC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9F5C2668B0",
+                            "link": "https://filecrypt.cc/Container/9F5C2668B0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3A1B796227",
+                            "link": "https://filecrypt.cc/Container/3A1B796227"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F01C4D6905",
+                            "link": "https://filecrypt.cc/Container/F01C4D6905"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/95AF32D30D",
+                            "link": "https://filecrypt.cc/Container/95AF32D30D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

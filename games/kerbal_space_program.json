@@ -1,0 +1,88 @@
+{
+    "href": "/game/kerbal_space_program",
+    "MSG": {
+        "id": "1429864849",
+        "title": "Kerbal Space Program",
+        "slug": "kerbal_space_program",
+        "thumb_id": "6d049200e23f35fd288419ab16955a63f2b749cd1a80e8121c4737ffdc4848c1",
+        "bg_id": "58deffdc21c293f4cd404b594d593be9bda17d063dd65254c8d826faa13ca4c6",
+        "url": "https://www.gog.com/game/kerbal_space_program",
+        "developer": "Squad",
+        "publisher": "Private Division",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1708709904",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_kerbal_space_program_1.12.5.03190_(64bit)_(60913)-1.bin",
+                    "size": "2131152150"
+                },
+                {
+                    "name": "setup_kerbal_space_program_1.12.5.03190_(64bit)_(60913).exe",
+                    "size": "1276664"
+                },
+                {
+                    "name": "setup_kerbal_space_program_breaking_ground_1.12.5.03190_(64bit)_(60913)-1.bin",
+                    "size": "377196164"
+                },
+                {
+                    "name": "setup_kerbal_space_program_breaking_ground_1.12.5.03190_(64bit)_(60913).exe",
+                    "size": "823176"
+                },
+                {
+                    "name": "setup_kerbal_space_program_making_history_1.12.5.03190_(64bit)_(60913)-1.bin",
+                    "size": "264917655"
+                },
+                {
+                    "name": "setup_kerbal_space_program_making_history_1.12.5.03190_(64bit)_(60913).exe",
+                    "size": "853480"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/571C805485",
+                            "link": "https://filecrypt.cc/Container/571C805485"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AA7FDF303A",
+                            "link": "https://filecrypt.cc/Container/AA7FDF303A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DE513B917E",
+                            "link": "https://filecrypt.cc/Container/DE513B917E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

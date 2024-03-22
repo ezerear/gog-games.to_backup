@@ -1,0 +1,68 @@
+{
+    "href": "/game/traffic_giant",
+    "MSG": {
+        "id": "1296369343",
+        "title": "Traffic Giant",
+        "slug": "traffic_giant",
+        "thumb_id": "175f853bd7b852b7d865398f830e104b2781e6046e8c50fd73dd4e00bd7ca8c6",
+        "bg_id": "c674f7c9922bac17206d94a98359274623abcbcac4447d51e3872fb7dbd27ea9",
+        "url": "https://www.gog.com/en/game/traffic_giant",
+        "developer": "QLOC",
+        "publisher": "Toplitz Productions",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1682768248",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_traffic_giant_1.0.0.0._(53530).exe",
+                    "size": "205374944"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7B13EBE4A5",
+                            "link": "https://filecrypt.cc/Container/7B13EBE4A5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/aq52k88",
+                            "link": "https://safelinking.net/aq52k88"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/410EFE1063",
+                            "link": "https://filecrypt.cc/Container/410EFE1063"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

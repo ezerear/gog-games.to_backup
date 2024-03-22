@@ -1,0 +1,68 @@
+{
+    "href": "/game/solo",
+    "MSG": {
+        "id": "1431448986",
+        "title": "Solo",
+        "slug": "solo",
+        "thumb_id": "979273cf26ed68580ca92c17747cfcbb6defb703e51a7cc95b6e469c53515d39",
+        "bg_id": "bf0c49e985755f7c6aa89192ac47ee166bda33bf344d41f7321c1169fe182a73",
+        "url": "https://www.gog.com/game/solo",
+        "developer": "Team Gotham",
+        "publisher": "Team Gotham",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708812898",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_solo_0.6_(20679).exe",
+                    "size": "496989048"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/48DE963E33",
+                            "link": "https://filecrypt.cc/Container/48DE963E33"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4DF1B7FAFC",
+                            "link": "https://filecrypt.cc/Container/4DF1B7FAFC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/285EFE9188",
+                            "link": "https://filecrypt.cc/Container/285EFE9188"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

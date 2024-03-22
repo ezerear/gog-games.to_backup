@@ -1,0 +1,141 @@
+{
+    "href": "/game/darkwood",
+    "MSG": {
+        "id": "1578751181",
+        "title": "Darkwood",
+        "slug": "darkwood",
+        "thumb_id": "d229654e383dd842314bfef21f6130c914c6569c184863116a02511abeb282ea",
+        "bg_id": "90fc3df54b96ad7fb097929baf72878e875e6618c70091c36154e5d03e952130",
+        "url": "https://www.gog.com/game/darkwood",
+        "developer": "Acid Wizard Studio",
+        "publisher": "Acid Wizard Studio",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708144804",
+        "votes": "3",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_darkwood_1.4.2_(64bit)_(70214)-1.bin",
+                    "size": "2596608839"
+                },
+                {
+                    "name": "setup_darkwood_1.4.2_(64bit)_(70214).exe",
+                    "size": "933104"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "darkwood_artbook.zip",
+                    "size": "205702289"
+                },
+                {
+                    "name": "darkwood_ost_flac.zip",
+                    "size": "188068606"
+                },
+                {
+                    "name": "darkwood_ost_mp3.zip",
+                    "size": "140001803"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7CA8ED8D3A",
+                            "link": "https://filecrypt.cc/Container/7CA8ED8D3A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/57F93A27F7",
+                            "link": "https://filecrypt.cc/Container/57F93A27F7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/27CC150C7C",
+                            "link": "https://filecrypt.cc/Container/27CC150C7C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BEDA59AB3C",
+                            "link": "https://filecrypt.cc/Container/BEDA59AB3C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4EBC23ED46",
+                            "link": "https://filecrypt.cc/Container/4EBC23ED46"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/50372A2D73",
+                            "link": "https://filecrypt.cc/Container/50372A2D73"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2917ACD0F4",
+                            "link": "https://filecrypt.cc/Container/2917ACD0F4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FDF1DE7F50",
+                            "link": "https://filecrypt.cc/Container/FDF1DE7F50"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

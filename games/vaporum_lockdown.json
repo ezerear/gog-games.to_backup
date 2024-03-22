@@ -1,0 +1,72 @@
+{
+    "href": "/game/vaporum_lockdown",
+    "MSG": {
+        "id": "1326849971",
+        "title": "Vaporum: Lockdown",
+        "slug": "vaporum_lockdown",
+        "thumb_id": "0d2c97c39a5ba1b94a15784e1da1fe9de43b6e19c4a6f46e938a114d88148aa9",
+        "bg_id": "7c7e7a6d50ed04ab7b485376b249bf0eed0f7755834fc1da6b20ecbcd5bf407d",
+        "url": "https://www.gog.com/game/vaporum_lockdown",
+        "developer": "Fatbot Games, s. r. o. ",
+        "publisher": "Fatbot Games, s. r. o. ",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709725528",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_vaporum_lockdown_7_(64bit)_(41626)-1.bin",
+                    "size": "2855384894"
+                },
+                {
+                    "name": "setup_vaporum_lockdown_7_(64bit)_(41626).exe",
+                    "size": "2029656"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6A29AFB0DB",
+                            "link": "https://filecrypt.cc/Container/6A29AFB0DB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/339D49A85B",
+                            "link": "https://filecrypt.cc/Container/339D49A85B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C9144090BB",
+                            "link": "https://filecrypt.cc/Container/C9144090BB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

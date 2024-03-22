@@ -1,0 +1,76 @@
+{
+    "href": "/game/blade_runner_enhanced_edition_base",
+    "MSG": {
+        "id": "1884045679",
+        "title": "Blade Runner - Enhanced Edition",
+        "slug": "blade_runner_enhanced_edition_base",
+        "thumb_id": "a726a5f98d5fa16d11557e0076418c44038c2b340cfcee9ce5e0af12cbe44a3a",
+        "bg_id": "fd1647e05ee4f6af5000e891123fc2efb178dd935934d5b59a7cf72dbf69ab28",
+        "url": "https://www.gog.com/en/game/blade_runner_enhanced_edition",
+        "developer": "Nightdive Studios, Westwood Studios",
+        "publisher": "",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710395583",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_blade_runner_-_enhanced_edition_1.2.1075-new_(64bit)_(62154)-1.bin",
+                    "size": "4294085118"
+                },
+                {
+                    "name": "setup_blade_runner_-_enhanced_edition_1.2.1075-new_(64bit)_(62154)-2.bin",
+                    "size": "4043574054"
+                },
+                {
+                    "name": "setup_blade_runner_-_enhanced_edition_1.2.1075-new_(64bit)_(62154).exe",
+                    "size": "892432"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AE1696C5AB",
+                            "link": "https://filecrypt.cc/Container/AE1696C5AB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F5ABB2F911",
+                            "link": "https://filecrypt.cc/Container/F5ABB2F911"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/568BB7099C",
+                            "link": "https://filecrypt.cc/Container/568BB7099C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

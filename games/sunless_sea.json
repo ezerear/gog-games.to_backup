@@ -1,0 +1,115 @@
+{
+    "href": "/game/sunless_sea",
+    "MSG": {
+        "id": "1421064427",
+        "title": "Sunless Sea",
+        "slug": "sunless_sea",
+        "thumb_id": "0e30cf119a490e2b2ccf182367e2fa4bb12f56d57fb5075b48003785acd1e846",
+        "bg_id": "b535828512f28c2ec291bc8cceaebf53eeaa38a586646aab494b035cea08d160",
+        "url": "https://www.gog.com/game/sunless_sea",
+        "developer": "Failbetter Games",
+        "publisher": "Failbetter Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709772323",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sunless_sea_2.2.11.3212_(59940).exe",
+                    "size": "298820512"
+                },
+                {
+                    "name": "setup_sunless_sea_zubmariner_2.2.11.3212_(59940).exe",
+                    "size": "365064264"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "sunless_sea_avatars.zip",
+                    "size": "1117545"
+                },
+                {
+                    "name": "sunless_sea_concept_art.zip",
+                    "size": "5149795"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C75C37C8D0",
+                            "link": "https://filecrypt.cc/Container/C75C37C8D0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8EBCC9178C",
+                            "link": "https://filecrypt.cc/Container/8EBCC9178C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7E9BA22843",
+                            "link": "https://filecrypt.cc/Container/7E9BA22843"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/01B1213DA9",
+                            "link": "https://filecrypt.cc/Container/01B1213DA9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AB0C6DE780",
+                            "link": "https://filecrypt.cc/Container/AB0C6DE780"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D8948E5D98",
+                            "link": "https://filecrypt.cc/Container/D8948E5D98"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

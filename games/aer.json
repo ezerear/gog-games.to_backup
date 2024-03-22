@@ -1,0 +1,68 @@
+{
+    "href": "/game/aer",
+    "MSG": {
+        "id": "1509324336",
+        "title": "AER – Memories of Old",
+        "slug": "aer",
+        "thumb_id": "7e0d433d56c82dffa8157acc4dee5a7c8d00dda84be6ac45a6c293d28a991166",
+        "bg_id": "fafc29b8fc8a938e71b5285f16ef155ca4adcef58889fde8e72dcde2c0495063",
+        "url": "https://www.gog.com/game/aer",
+        "developer": "Forgotten Key",
+        "publisher": "Daedalic Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709887358",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_aer_memories_of_old_1.0.4.2_(21588).exe",
+                    "size": "787139344"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C614576B2D",
+                            "link": "https://filecrypt.cc/Container/C614576B2D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F1986602D1",
+                            "link": "https://filecrypt.cc/Container/F1986602D1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2728A87BF0",
+                            "link": "https://filecrypt.cc/Container/2728A87BF0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,123 @@
+{
+    "href": "/game/bloodrayne",
+    "MSG": {
+        "id": "1207658808",
+        "title": "BloodRayne (Legacy)",
+        "slug": "bloodrayne",
+        "thumb_id": "3751570d978e0c9d1cb823c25eeda3a5a2e63f3832d2abbd8c971f4d37b9d83c",
+        "bg_id": "b37d70ce5632fb9e4471af6b288f3889f4046f9249cc78c8b3c72f0e04cac870",
+        "url": "https://web.archive.org/web/20201114180536/https://www.gog.com/game/bloodrayne",
+        "developer": "Terminal Reality",
+        "publisher": "Majesco",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1708845620",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_bloodrayne_gog-1_(17893).exe",
+                    "size": "909367992"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "BldRyn_manual.zip",
+                    "size": "899177"
+                },
+                {
+                    "name": "bloodrayne_artworks.zip",
+                    "size": "15012107"
+                },
+                {
+                    "name": "bloodrayne_avatars.zip",
+                    "size": "185185"
+                },
+                {
+                    "name": "bloodrayne_soundtrack.zip",
+                    "size": "37596766"
+                },
+                {
+                    "name": "bloodrayne_Wallpapers.zip",
+                    "size": "22000789"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B5B20DCF15",
+                            "link": "https://filecrypt.cc/Container/B5B20DCF15"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/98EF1F93A4",
+                            "link": "https://filecrypt.cc/Container/98EF1F93A4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BA0DC31D75",
+                            "link": "https://filecrypt.cc/Container/BA0DC31D75"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1AF691FE82",
+                            "link": "https://filecrypt.cc/Container/1AF691FE82"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8D10DC011D",
+                            "link": "https://filecrypt.cc/Container/8D10DC011D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8435D251A7",
+                            "link": "https://filecrypt.cc/Container/8435D251A7"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

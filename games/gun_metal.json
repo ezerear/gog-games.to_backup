@@ -1,0 +1,68 @@
+{
+    "href": "/game/gun_metal",
+    "MSG": {
+        "id": "1719266458",
+        "title": "Gun Metal",
+        "slug": "gun_metal",
+        "thumb_id": "b220a678957af0be51ff85276be0d8ceed475b2604f316bb0a4b092a29be9282",
+        "bg_id": "618a21f0bd4d16eea6df8a7e54cf5b26bc77fcb5c667e8a116feffe8980e77a8",
+        "url": "https://www.gog.com/game/gun_metal",
+        "developer": "Rage Software",
+        "publisher": "Funbox Media Limited",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710950429",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_gun_metal_1.23_(50221).exe",
+                    "size": "551133864"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/32500C2541",
+                            "link": "https://filecrypt.cc/Container/32500C2541"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/306D2C3A98",
+                            "link": "https://filecrypt.cc/Container/306D2C3A98"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/07AAB2E441",
+                            "link": "https://filecrypt.cc/Container/07AAB2E441"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

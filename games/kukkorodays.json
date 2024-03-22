@@ -1,0 +1,83 @@
+{
+    "href": "/game/kukkorodays",
+    "MSG": {
+        "id": "1238366028",
+        "title": "KukkoroDays",
+        "slug": "kukkorodays",
+        "thumb_id": "4a8b28210f6858162f2ad8059d7d5d91ac7f13394d414b5757e87040e3357745",
+        "bg_id": "ac04c5f991f59184a4c8055db7efe74238374d4740e7d566741a27e219fb2558",
+        "url": "https://www.gog.com/en/game/kukkorodays",
+        "developer": "qureate, iMel Inc.",
+        "publisher": "qureate",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1686398488",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_kukkorodays_-_unrated_patch_1.2_(60651).exe",
+                    "size": "711230608"
+                },
+                {
+                    "name": "setup_kukkorodays_1.2_(60651).exe",
+                    "size": "522612000"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B334182710",
+                            "link": "https://filecrypt.cc/Container/B334182710"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C520AD7E94",
+                            "link": "https://filecrypt.cc/Container/C520AD7E94"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A9996FDF08",
+                            "link": "https://filecrypt.cc/Container/A9996FDF08"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AB458C4B04",
+                            "link": "https://filecrypt.cc/Container/AB458C4B04"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

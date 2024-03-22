@@ -1,0 +1,94 @@
+{
+    "href": "/game/inquisitors_heart_and_soul",
+    "MSG": {
+        "id": "1323998332",
+        "title": "Inquisitor’s Heart and Soul",
+        "slug": "inquisitors_heart_and_soul",
+        "thumb_id": "b23d224dd8bec299e3c18e423297c2f7a5610613db511d42306e11fc71bbbe9b",
+        "bg_id": "29d1f15144c5a0f3cf00ea103e4cd5e2e81ea2c002a9196ad6babcef2c2eb1bb",
+        "url": "https://www.gog.com/en/game/inquisitors_heart_and_soul",
+        "developer": "Whale Rock Games",
+        "publisher": "Whale Rock Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1699985144",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_inquisitors_heart_and_soul_1.0_(59962)-1.bin",
+                    "size": "2091805950"
+                },
+                {
+                    "name": "setup_inquisitors_heart_and_soul_1.0_(59962).exe",
+                    "size": "828152"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5F761A1769",
+                            "link": "https://filecrypt.cc/Container/5F761A1769"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/77F418B6C3",
+                            "link": "https://filecrypt.cc/Container/77F418B6C3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1429E440C2",
+                            "link": "https://filecrypt.cc/Container/1429E440C2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2FB3196625",
+                            "link": "https://filecrypt.cc/Container/2FB3196625"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0ED0DA2DFE",
+                            "link": "https://filecrypt.cc/Container/0ED0DA2DFE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

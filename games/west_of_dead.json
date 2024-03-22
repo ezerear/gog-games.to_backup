@@ -1,0 +1,115 @@
+{
+    "href": "/game/west_of_dead",
+    "MSG": {
+        "id": "2105926146",
+        "title": "West of Dead",
+        "slug": "west_of_dead",
+        "thumb_id": "5a3f67b9352039f039b2f634905269ec135635f2c73ee48b875c684f757ad3b3",
+        "bg_id": "0fefef91eafd0e62f103a7c834b5546d240aca5b78cde0b9c1cb5f042aed1c60",
+        "url": "https://www.gog.com/game/west_of_dead",
+        "developer": "Upstream Arcade",
+        "publisher": "Raw Fury",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709982978",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_west_of_dead_-_crow_dlc_release1.11.8.29_(48324).exe",
+                    "size": "6016736"
+                },
+                {
+                    "name": "setup_west_of_dead_release1.11.8.29_(48324).exe",
+                    "size": "272841480"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "west_of_dead_soundtrack_mp3.zip",
+                    "size": "166210615"
+                },
+                {
+                    "name": "west_of_dead_soundtrack_wav.zip",
+                    "size": "826795513"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/49FE9BADE2",
+                            "link": "https://filecrypt.cc/Container/49FE9BADE2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ADCA226CE6",
+                            "link": "https://filecrypt.cc/Container/ADCA226CE6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2465ECD971",
+                            "link": "https://filecrypt.cc/Container/2465ECD971"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/17C96AA3D4",
+                            "link": "https://filecrypt.cc/Container/17C96AA3D4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F9A0FB2380",
+                            "link": "https://filecrypt.cc/Container/F9A0FB2380"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CB62D0A894",
+                            "link": "https://filecrypt.cc/Container/CB62D0A894"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

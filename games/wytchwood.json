@@ -1,0 +1,90 @@
+{
+    "href": "/game/wytchwood",
+    "MSG": {
+        "id": "1177289328",
+        "title": "Wytchwood",
+        "slug": "wytchwood",
+        "thumb_id": "38a1f421d7e86dcaacea4903dfa2563886fee1389814cdb204d8cdcf80d3031f",
+        "bg_id": "c251856b7a0783cc9311bb316ad5f5fda30f39fc7c74b370f9e03a30eded1b85",
+        "url": "https://www.gog.com/game/wytchwood",
+        "developer": "Alientrap Games",
+        "publisher": "Whitethorn Digital",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1698671312",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_wytchwood_1.02_(52196).exe",
+                    "size": "1036083008"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/249A277293",
+                            "link": "https://filecrypt.cc/Container/249A277293"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F61C896106",
+                            "link": "https://filecrypt.cc/Container/F61C896106"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5EAEA49EBC",
+                            "link": "https://filecrypt.cc/Container/5EAEA49EBC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/34EABD858C",
+                            "link": "https://filecrypt.cc/Container/34EABD858C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/855CC4299E",
+                            "link": "https://filecrypt.cc/Container/855CC4299E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

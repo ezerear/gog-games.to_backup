@@ -1,0 +1,83 @@
+{
+    "href": "/game/praetorians_hd",
+    "MSG": {
+        "id": "1999861490",
+        "title": "Praetorians - HD Remaster",
+        "slug": "praetorians_hd",
+        "thumb_id": "e8f75e721569b85d2b02ccf12d4ddfc04b07f2d3f21d0bb3624a91fe53665bf6",
+        "bg_id": "e607683e183ea46c0c06c984b1243ada99f5fc6eb2e095531f6165e4fde13209",
+        "url": "https://www.gog.com/game/praetorians_hd",
+        "developer": "Torus Games / Pyro Studio",
+        "publisher": "Kalypso Media Digital",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1707674377",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_praetorians_hd_20200527_(64bit)_(38601)-1.bin",
+                    "size": "1651739876"
+                },
+                {
+                    "name": "setup_praetorians_hd_20200527_(64bit)_(38601).exe",
+                    "size": "810848"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7BB2B9DDAC",
+                            "link": "https://filecrypt.cc/Container/7BB2B9DDAC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/64D8A34D05",
+                            "link": "https://filecrypt.cc/Container/64D8A34D05"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/40EB0CED24",
+                            "link": "https://filecrypt.cc/Container/40EB0CED24"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/965DE70A28",
+                            "link": "https://filecrypt.cc/Container/965DE70A28"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

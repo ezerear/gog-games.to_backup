@@ -1,0 +1,115 @@
+{
+    "href": "/game/smugglers_v",
+    "MSG": {
+        "id": "1207659873",
+        "title": "Smugglers V",
+        "slug": "smugglers_v",
+        "thumb_id": "ab58528893bc27cd9e9b87120ae8ddf860302a6f49ae046ed45f0179e0995650",
+        "bg_id": "f262078eb18ebea009de3bd4565ef1b1f9e5308fae1c3ae5578a4bd32aa02163",
+        "url": "https://www.gog.com/game/smugglers_v",
+        "developer": "Niels Bauer Games",
+        "publisher": "Highcliffe Media Publishing",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710546329",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_smugglers_v_1.7_(22765).exe",
+                    "size": "76572128"
+                },
+                {
+                    "name": "setup_smugglers_v_smugglers_guild_1.7_(22765).exe",
+                    "size": "6023224"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "smugglers_v_intro_track.zip",
+                    "size": "1540084"
+                },
+                {
+                    "name": "smugglers_v_manual.zip",
+                    "size": "1607186"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7D359CA1C1",
+                            "link": "https://filecrypt.cc/Container/7D359CA1C1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4FD0F9C51B",
+                            "link": "https://filecrypt.cc/Container/4FD0F9C51B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9894DF72ED",
+                            "link": "https://filecrypt.cc/Container/9894DF72ED"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/492309C225",
+                            "link": "https://filecrypt.cc/Container/492309C225"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/738D02FE82",
+                            "link": "https://filecrypt.cc/Container/738D02FE82"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AD8A1BC4BE",
+                            "link": "https://filecrypt.cc/Container/AD8A1BC4BE"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,72 @@
+{
+    "href": "/game/the_first_tree",
+    "MSG": {
+        "id": "1499274528",
+        "title": "The First Tree",
+        "slug": "the_first_tree",
+        "thumb_id": "f48610f676661db1cf5c05f36c1dfd4d95dad878003a0337a1b0435d771d8443",
+        "bg_id": "c496c913175f34c36014eb1a708495f52661e83c5bd7db9307edbf20accfee37",
+        "url": "https://www.gog.com/game/the_first_tree",
+        "developer": "David Wehle, LLC",
+        "publisher": "David Wehle, LLC",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709337951",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_first_tree_1.03_(25433)-1.bin",
+                    "size": "1139607612"
+                },
+                {
+                    "name": "setup_the_first_tree_1.03_(25433).exe",
+                    "size": "823384"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8F33A45386",
+                            "link": "https://filecrypt.cc/Container/8F33A45386"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3AABC7422E",
+                            "link": "https://filecrypt.cc/Container/3AABC7422E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B77E389CF4",
+                            "link": "https://filecrypt.cc/Container/B77E389CF4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

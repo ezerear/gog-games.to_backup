@@ -1,0 +1,90 @@
+{
+    "href": "/game/false_skies",
+    "MSG": {
+        "id": "1135187262",
+        "title": "False Skies",
+        "slug": "false_skies",
+        "thumb_id": "c557f1511c687dabe09437b7e9ac9dbe38ad9724250c8c2920d19fa9f26b4a8e",
+        "bg_id": "e9a4c40c4de1852fd34bc28bf9abade123971568074745ee65683624ef3b6751",
+        "url": "https://www.gog.com/en/game/false_skies",
+        "developer": "Feenicks",
+        "publisher": "Feenicks",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1706105057",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_false_skies_1.10c_(65825).exe",
+                    "size": "77998480"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0EEA7D919C",
+                            "link": "https://filecrypt.cc/Container/0EEA7D919C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DAFEA2D8FB",
+                            "link": "https://filecrypt.cc/Container/DAFEA2D8FB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DF127F4D65",
+                            "link": "https://filecrypt.cc/Container/DF127F4D65"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D1C1AD3722",
+                            "link": "https://filecrypt.cc/Container/D1C1AD3722"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/77778EF9A7",
+                            "link": "https://filecrypt.cc/Container/77778EF9A7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

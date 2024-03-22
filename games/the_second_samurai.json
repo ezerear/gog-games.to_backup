@@ -1,0 +1,68 @@
+{
+    "href": "/game/the_second_samurai",
+    "MSG": {
+        "id": "1663718321",
+        "title": "The Second Samurai",
+        "slug": "the_second_samurai",
+        "thumb_id": "87e3d998e8cc5523c84fb9b8fa976621490ea97332796060318dab03d0d15e3f",
+        "bg_id": "2ed1f899e6f7d770b3565cad5c55c137470ab7b266f35f01ea48bfa54eb47a89",
+        "url": "https://www.gog.com/game/the_first_samurai_the_second_samurai_bundle",
+        "developer": "Vivid Image",
+        "publisher": "Piko Interactive",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1689542579",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_second_samurai_1.0_(48008).exe",
+                    "size": "18540304"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/00C902E194",
+                            "link": "https://filecrypt.cc/Container/00C902E194"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9FF989032A",
+                            "link": "https://filecrypt.cc/Container/9FF989032A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DF06FFADF7",
+                            "link": "https://filecrypt.cc/Container/DF06FFADF7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

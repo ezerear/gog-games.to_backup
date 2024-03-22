@@ -1,0 +1,68 @@
+{
+    "href": "/game/barely_racing",
+    "MSG": {
+        "id": "1590675591",
+        "title": "Barely Racing",
+        "slug": "barely_racing",
+        "thumb_id": "b2cc6b6fa44986eb37a98b4d5454d547dcdae6e688fe0bc81e4a04cd6c756d21",
+        "bg_id": "314156112e83c8aeec0554d5d883ac64a5d32a552da6c1c2bc5900841c352f17",
+        "url": "https://www.gog.com/en/game/barely_racing",
+        "developer": "Fragile Software",
+        "publisher": "Fragile Software",
+        "category": "Racing",
+        "uploading": "0",
+        "last_upload": "1710708618",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_barely_racing_1.0.2.3_(64bit)_(71174).exe",
+                    "size": "1540000768"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CCC043DFB9",
+                            "link": "https://filecrypt.cc/Container/CCC043DFB9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FC193D5EA1",
+                            "link": "https://filecrypt.cc/Container/FC193D5EA1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E6431138D6",
+                            "link": "https://filecrypt.cc/Container/E6431138D6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/fate",
+    "MSG": {
+        "id": "2050639399",
+        "title": "FATE",
+        "slug": "fate",
+        "thumb_id": "6eab5cbbc9ecb873792c7f6d6e42e732b7cfbd270927a41660fc15266c5c1d69",
+        "bg_id": "b16b25f29d85277be2226bdc6a1e7205585d94244e62194d55de80e760eb4ebb",
+        "url": "https://www.gog.com/game/fate",
+        "developer": "WildTangent",
+        "publisher": "WildTangent",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709443197",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_fate_1.39b_(45488).exe",
+                    "size": "300693112"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9B56834EB8",
+                            "link": "https://filecrypt.cc/Container/9B56834EB8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7A5C38527B",
+                            "link": "https://filecrypt.cc/Container/7A5C38527B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E38B04A171",
+                            "link": "https://filecrypt.cc/Container/E38B04A171"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

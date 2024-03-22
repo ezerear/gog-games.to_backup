@@ -1,0 +1,127 @@
+{
+    "href": "/game/chuchel",
+    "MSG": {
+        "id": "1825910123",
+        "title": "CHUCHEL",
+        "slug": "chuchel",
+        "thumb_id": "7f5ede8a86d535b92cedf130bf3d304bf7ae2027cdd847bcda447c98cbf00816",
+        "bg_id": "2bc1f8dad82f17fee1e414171b46d894b82ef2905aac47cb3692406bf0791554",
+        "url": "https://www.gog.com/game/chuchel",
+        "developer": "Amanita Design",
+        "publisher": "Amanita Design",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709192747",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_chuchel_2.0.0_(26120).exe",
+                    "size": "705986832"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "chuchel_artbook.zip",
+                    "size": "25737988"
+                },
+                {
+                    "name": "chuchel_avatar.zip",
+                    "size": "463875"
+                },
+                {
+                    "name": "chuchel_ost_flac.zip",
+                    "size": "539878800"
+                },
+                {
+                    "name": "chuchel_ost_mp3.zip",
+                    "size": "116480689"
+                },
+                {
+                    "name": "chuchel_sans_font.zip",
+                    "size": "100978"
+                },
+                {
+                    "name": "chuchel_wallpapers.zip",
+                    "size": "4158357"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A1CD8E2989",
+                            "link": "https://filecrypt.cc/Container/A1CD8E2989"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/048902CBD0",
+                            "link": "https://filecrypt.cc/Container/048902CBD0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DA88BDF0A7",
+                            "link": "https://filecrypt.cc/Container/DA88BDF0A7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/13BC92855D",
+                            "link": "https://filecrypt.cc/Container/13BC92855D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FB3181BD3A",
+                            "link": "https://filecrypt.cc/Container/FB3181BD3A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/48AC2586D7",
+                            "link": "https://filecrypt.cc/Container/48AC2586D7"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

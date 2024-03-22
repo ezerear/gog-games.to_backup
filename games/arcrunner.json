@@ -1,0 +1,72 @@
+{
+    "href": "/game/arcrunner",
+    "MSG": {
+        "id": "2121351294",
+        "title": "ArcRunner",
+        "slug": "arcrunner",
+        "thumb_id": "5a911a28d2040a8a1de19b46d2c2ae2b0dbee7ff31bc31083a81e5dc19296b5a",
+        "bg_id": "8df5f40fb8e63707bca4ed54cbc7b9daca9a93b14c51b25dcb014f189d4eb9b2",
+        "url": "https://www.gog.com/en/game/arcrunner",
+        "developer": "Trickjump Games Ltd",
+        "publisher": "PQube",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710057976",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_arcrunner_1.1.0.1_release_(64bit)_(65673)-1.bin",
+                    "size": "3334109519"
+                },
+                {
+                    "name": "setup_arcrunner_1.1.0.1_release_(64bit)_(65673).exe",
+                    "size": "924568"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8B2ABA43F4",
+                            "link": "https://filecrypt.cc/Container/8B2ABA43F4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8334AB06EA",
+                            "link": "https://filecrypt.cc/Container/8334AB06EA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F4856B0866",
+                            "link": "https://filecrypt.cc/Container/F4856B0866"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

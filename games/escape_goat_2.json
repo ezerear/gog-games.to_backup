@@ -1,0 +1,115 @@
+{
+    "href": "/game/escape_goat_2",
+    "MSG": {
+        "id": "1207662523",
+        "title": "Escape Goat 2",
+        "slug": "escape_goat_2",
+        "thumb_id": "9d8379cf7c388c2a38076f31d4512f66d4e64352850e00f348bb0c92e33d2f90",
+        "bg_id": "29e039eaee66dc93aa9d4b45bb965889aa91d17d5984df3ed3f3e198fe424beb",
+        "url": "https://www.gog.com/game/escape_goat_2",
+        "developer": "MagicalTimeBean",
+        "publisher": "MagicalTimeBean",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710345542",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_escape_goat_2_1.1.0_(20747).exe",
+                    "size": "116103528"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "escape_goat2_avatars.zip",
+                    "size": "630930"
+                },
+                {
+                    "name": "escape_goat2_prototype_tracks.zip",
+                    "size": "12515229"
+                },
+                {
+                    "name": "escape_goat_2_wallapers.zip",
+                    "size": "2898943"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2FB93DAEC2",
+                            "link": "https://filecrypt.cc/Container/2FB93DAEC2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7AA97ECDA9",
+                            "link": "https://filecrypt.cc/Container/7AA97ECDA9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8992E6DBB2",
+                            "link": "https://filecrypt.cc/Container/8992E6DBB2"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DB93EB8577",
+                            "link": "https://filecrypt.cc/Container/DB93EB8577"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/182AC47893",
+                            "link": "https://filecrypt.cc/Container/182AC47893"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/670ACB4819",
+                            "link": "https://filecrypt.cc/Container/670ACB4819"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

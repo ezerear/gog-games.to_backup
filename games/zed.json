@@ -1,0 +1,69 @@
+{
+    "href": "/game/zed",
+    "MSG": {
+        "id": "1857957519",
+        "title": "ZED",
+        "slug": "zed",
+        "thumb_id": "6de0a783f06acbf509bf5bb565946980479a820fea25e53f2d1fbedfe44fadb7",
+        "bg_id": "7ea595d65d783d7e7821a56ca3a70077b4c87ac39406d9ae53243a9010b40576",
+        "url": "https://www.gog.com/game/zed",
+        "developer": "Eagre Games",
+        "publisher": "Cyan Ventures",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710173589",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_zed_1.3_(64bit)_(30358)-1.bin",
+                    "size": "4293974014"
+                },
+                {
+                    "name": "setup_zed_1.3_(64bit)_(30358)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_zed_1.3_(64bit)_(30358)-3.bin",
+                    "size": "812423132"
+                },
+                {
+                    "name": "setup_zed_1.3_(64bit)_(30358).exe",
+                    "size": "1000336"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BF72918BD4",
+                            "link": "https://filecrypt.cc/Container/BF72918BD4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/30BB59EF66",
+                            "link": "https://filecrypt.cc/Container/30BB59EF66"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

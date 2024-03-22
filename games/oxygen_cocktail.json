@@ -1,0 +1,101 @@
+{
+    "href": "/game/oxygen_cocktail",
+    "MSG": {
+        "id": "1390325949",
+        "title": "Oxygen Cocktail",
+        "slug": "oxygen_cocktail",
+        "thumb_id": "e80828004678a58825f4f570494818ca83249b06526d1c4d09965a66a08b0338",
+        "bg_id": "befd0e08245293d5529ba3b77fd1c483ffaac3af69fdbd1555c70951a6cb5f8c",
+        "url": "https://www.gog.com/en/game/oxygen_cocktail",
+        "developer": "Anton Pushkarev",
+        "publisher": "Meridian4",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1700200807",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_oxygen_cocktail_1.0_(68506).exe",
+                    "size": "216973136"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/06280D138A",
+                            "link": "https://filecrypt.cc/Container/06280D138A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/82067EF8AA",
+                            "link": "https://filecrypt.cc/Container/82067EF8AA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B8351D6C5F",
+                            "link": "https://filecrypt.cc/Container/B8351D6C5F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0101A843A1",
+                            "link": "https://filecrypt.cc/Container/0101A843A1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BD0CC4D958",
+                            "link": "https://filecrypt.cc/Container/BD0CC4D958"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3B1612AF44",
+                            "link": "https://filecrypt.cc/Container/3B1612AF44"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

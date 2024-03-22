@@ -1,0 +1,94 @@
+{
+    "href": "/game/we_the_revolution",
+    "MSG": {
+        "id": "1492171024",
+        "title": "We. The Revolution",
+        "slug": "we_the_revolution",
+        "thumb_id": "89945221c4dbdc36bc2eb83ced2d511f6156db3436a5046a674ea1d55485e773",
+        "bg_id": "4cedb7cbd7c9bd954af259e9e80e2d3c25e4dd4a76ccf36e3d322dae4bf3963d",
+        "url": "https://www.gog.com/game/we_the_revolution",
+        "developer": "Polyslash",
+        "publisher": "Klabater",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1706938981",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_we._the_revolution_1.3.0_(64bit)_(31880)-1.bin",
+                    "size": "1376721209"
+                },
+                {
+                    "name": "setup_we._the_revolution_1.3.0_(64bit)_(31880).exe",
+                    "size": "851288"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4551AF578B",
+                            "link": "https://filecrypt.cc/Container/4551AF578B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/650DEF7797",
+                            "link": "https://filecrypt.cc/Container/650DEF7797"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/009D2DEE6F",
+                            "link": "https://filecrypt.cc/Container/009D2DEE6F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/911F5CDEF9",
+                            "link": "https://filecrypt.cc/Container/911F5CDEF9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F3A726AAE5",
+                            "link": "https://filecrypt.cc/Container/F3A726AAE5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

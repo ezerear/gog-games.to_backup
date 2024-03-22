@@ -1,0 +1,72 @@
+{
+    "href": "/game/pile_up_box_by_box",
+    "MSG": {
+        "id": "1439969541",
+        "title": "Pile Up! Box by Box",
+        "slug": "pile_up_box_by_box",
+        "thumb_id": "73f6c710c2032435c9c225404936824f433f63ae193e7650187f57c70740c218",
+        "bg_id": "610083a43c758c24149f465b9eede7cc187dcf80fa0b7f0c390ad7063e9f98e7",
+        "url": "https://www.gog.com/game/pile_up_box_by_box",
+        "developer": "Seed by Seed",
+        "publisher": "HandyGames",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708274955",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_pile_up_box_by_box_1.0.26_(59890)-1.bin",
+                    "size": "2359439824"
+                },
+                {
+                    "name": "setup_pile_up_box_by_box_1.0.26_(59890).exe",
+                    "size": "928032"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AA934B664E",
+                            "link": "https://filecrypt.cc/Container/AA934B664E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/06CF3996E8",
+                            "link": "https://filecrypt.cc/Container/06CF3996E8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/358FCE93B6",
+                            "link": "https://filecrypt.cc/Container/358FCE93B6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

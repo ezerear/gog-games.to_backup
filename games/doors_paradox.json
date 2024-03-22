@@ -1,0 +1,83 @@
+{
+    "href": "/game/doors_paradox",
+    "MSG": {
+        "id": "1364015626",
+        "title": "Doors: Paradox",
+        "slug": "doors_paradox",
+        "thumb_id": "7bd90ea8de5317a97495101e8e4c48661cc9139eaad0a05fe4a8ab678d172d6a",
+        "bg_id": "a7735e61f4344e2e8e535da6d434c1410e296eacf9b4ade4f9f8d60ab6a0fac3",
+        "url": "https://www.gog.com/en/game/doors_paradox",
+        "developer": "Big Loop Studios",
+        "publisher": "Snapbreak",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707154810",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_doors_paradox_1.01_(65794)-1.bin",
+                    "size": "1827119079"
+                },
+                {
+                    "name": "setup_doors_paradox_1.01_(65794).exe",
+                    "size": "868896"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/671F3E0F99",
+                            "link": "https://filecrypt.cc/Container/671F3E0F99"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/50C0B55EB3",
+                            "link": "https://filecrypt.cc/Container/50C0B55EB3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2F64AB7BD1",
+                            "link": "https://filecrypt.cc/Container/2F64AB7BD1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C0715B0D75",
+                            "link": "https://filecrypt.cc/Container/C0715B0D75"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

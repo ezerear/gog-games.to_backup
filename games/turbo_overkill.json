@@ -1,0 +1,76 @@
+{
+    "href": "/game/turbo_overkill",
+    "MSG": {
+        "id": "1099230762",
+        "title": "Turbo Overkill",
+        "slug": "turbo_overkill",
+        "thumb_id": "d54f79ed3a5d0a148a7b2642355c8448fbbee92803b896be99dc5326047e9873",
+        "bg_id": "b303fdb72582353bf5fc8e5f51a006b88bd9a9eaab54e4fa8e8b3d130efb68cf",
+        "url": "https://www.gog.com/en/game/turbo_overkill",
+        "developer": "Trigger Happy Interactive",
+        "publisher": "Apogee Entertainment",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1708132981",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_turbo_overkill_1.20b_(64bit)_(69475)-1.bin",
+                    "size": "4294097918"
+                },
+                {
+                    "name": "setup_turbo_overkill_1.20b_(64bit)_(69475)-2.bin",
+                    "size": "2091514584"
+                },
+                {
+                    "name": "setup_turbo_overkill_1.20b_(64bit)_(69475).exe",
+                    "size": "879208"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4D1D654336",
+                            "link": "https://filecrypt.cc/Container/4D1D654336"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/98A7981B3C",
+                            "link": "https://filecrypt.cc/Container/98A7981B3C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/68E1E04FDC",
+                            "link": "https://filecrypt.cc/Container/68E1E04FDC"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

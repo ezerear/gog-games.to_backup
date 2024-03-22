@@ -1,0 +1,90 @@
+{
+    "href": "/game/good_night_knight",
+    "MSG": {
+        "id": "1791830361",
+        "title": "Good Night, Knight",
+        "slug": "good_night_knight",
+        "thumb_id": "bcb938d9c97c0af69464a55a6632f82398bf8c57900e769753602d75483245e5",
+        "bg_id": "d5c61be5d09951cbd87fb8fa1833360c08ad0d5826f96b7bb4d75af4b2edf600",
+        "url": "https://www.gog.com/game/good_night_knight",
+        "developer": "RedEmber Studios",
+        "publisher": "No Gravity Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1701864181",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_good_night_knight_0.6.2.04_(48091).exe",
+                    "size": "551199136"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F2AFC0C6CD",
+                            "link": "https://filecrypt.cc/Container/F2AFC0C6CD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2C8CCFEED0",
+                            "link": "https://filecrypt.cc/Container/2C8CCFEED0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/70E0FD529F",
+                            "link": "https://filecrypt.cc/Container/70E0FD529F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3AC56B73A5",
+                            "link": "https://filecrypt.cc/Container/3AC56B73A5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5DA50FCB24",
+                            "link": "https://filecrypt.cc/Container/5DA50FCB24"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

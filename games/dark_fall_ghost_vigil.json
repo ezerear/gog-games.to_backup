@@ -1,0 +1,59 @@
+{
+    "href": "/game/dark_fall_ghost_vigil",
+    "MSG": {
+        "id": "1640957675",
+        "title": "Dark Fall: Ghost Vigil",
+        "slug": "dark_fall_ghost_vigil",
+        "thumb_id": "96b0618da130850ba3a744558fef08d8af5cb7d8be2f1a1fd2f17427e0364e47",
+        "bg_id": "10155e72511a57af71a605f5a1bbbc0ef55c3027e894e0fee1e732423e7a79c1",
+        "url": "https://www.gog.com/game/dark_fall_ghost_vigil",
+        "developer": "Darkling Room",
+        "publisher": "Darkling Room",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708661692",
+        "votes": "1",
+        "files": false,
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D5103B8CA9",
+                            "link": "https://filecrypt.cc/Container/D5103B8CA9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BCC551B3E5",
+                            "link": "https://filecrypt.cc/Container/BCC551B3E5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DB7D6510FC",
+                            "link": "https://filecrypt.cc/Container/DB7D6510FC"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

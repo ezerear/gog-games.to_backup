@@ -1,0 +1,68 @@
+{
+    "href": "/game/astrodogs",
+    "MSG": {
+        "id": "1846677136",
+        "title": "Astrodogs",
+        "slug": "astrodogs",
+        "thumb_id": "9b388a06788bc1a4dd31236cdf4218f4e1475ef723bc5d068187b07ff35ea4df",
+        "bg_id": "627aff9382e323b21bfa9be0102395830039609e4dd17f8c98d2a4a0c95fb065",
+        "url": "https://www.gog.com/game/astrodogs",
+        "developer": "Dynamic Media Triad",
+        "publisher": "Digital Tribe Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1688933132",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_astrodogs_2.1_(65513).exe",
+                    "size": "641499264"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F8352AE0AB",
+                            "link": "https://filecrypt.cc/Container/F8352AE0AB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C22BB7D6FC",
+                            "link": "https://filecrypt.cc/Container/C22BB7D6FC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6366CF3019",
+                            "link": "https://filecrypt.cc/Container/6366CF3019"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/beyond_sunset",
+    "MSG": {
+        "id": "1823494281",
+        "title": "Beyond Sunset",
+        "slug": "beyond_sunset",
+        "thumb_id": "5e7a95fe5a06644c375acbc3bc67e5d753fec8948634b0c953384dba4f3f5816",
+        "bg_id": "def0d175eb37e301f292b91ef0a81e70b8052ad982776c391bfaf3dbbe926574",
+        "url": "https://www.gog.com/en/game/beyond_sunset",
+        "developer": "Metacorp/Vaporware",
+        "publisher": "Movie Games S.A.",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708312389",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_beyond_sunset_e3_(71198).exe",
+                    "size": "381877320"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/hDk6FmA",
+                            "link": "https://safelinking.net/hDk6FmA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/gtRTnsC",
+                            "link": "https://safelinking.net/gtRTnsC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/NubuobX",
+                            "link": "https://safelinking.net/NubuobX"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

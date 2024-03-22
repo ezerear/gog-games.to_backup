@@ -1,0 +1,90 @@
+{
+    "href": "/game/undead_horde",
+    "MSG": {
+        "id": "1668089272",
+        "title": "Undead Horde",
+        "slug": "undead_horde",
+        "thumb_id": "023ffdb584458f6f3b2d3d70450e2a3d1c19194fb55b5d002c531149ea8a414f",
+        "bg_id": "5a1e62e638bc876176aed7389415ee3293882c368358755639d6edb11428f1ad",
+        "url": "https://www.gog.com/game/undead_horde",
+        "developer": "10tons",
+        "publisher": "10tons",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1707611875",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_undead_horde_1.2.2_(64806).exe",
+                    "size": "242413568"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7B75483ACF",
+                            "link": "https://filecrypt.cc/Container/7B75483ACF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/273AD5D6A8",
+                            "link": "https://filecrypt.cc/Container/273AD5D6A8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A12EB95202",
+                            "link": "https://filecrypt.cc/Container/A12EB95202"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5ACE1A98A1",
+                            "link": "https://filecrypt.cc/Container/5ACE1A98A1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/434E61DD76",
+                            "link": "https://filecrypt.cc/Container/434E61DD76"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

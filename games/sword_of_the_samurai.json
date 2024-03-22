@@ -1,0 +1,115 @@
+{
+    "href": "/game/sword_of_the_samurai",
+    "MSG": {
+        "id": "1207661733",
+        "title": "Sword of the Samurai",
+        "slug": "sword_of_the_samurai",
+        "thumb_id": "01534175643808d940318f8efb8a552feef716f5b7f8b4ac6f6553779d63c967",
+        "bg_id": "0add5185b40ace09b24590c7bb232987fe104db3d5ad7a102fc058fe5820e1aa",
+        "url": "https://www.gog.com/game/sword_of_the_samurai",
+        "developer": "MicroProse",
+        "publisher": "Retroism",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709357667",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sword_of_the_samurai_2.0.0.4.exe",
+                    "size": "17008928"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "sword_of_the_samurai_manual.zip",
+                    "size": "614668"
+                },
+                {
+                    "name": "sword_of_the_samurai_map.zip",
+                    "size": "34180"
+                },
+                {
+                    "name": "sword_of_the_samurai_tech_supplement.zip",
+                    "size": "87740"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FB1EA859E3",
+                            "link": "https://filecrypt.cc/Container/FB1EA859E3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/18B280C82E",
+                            "link": "https://filecrypt.cc/Container/18B280C82E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EE1E34190B",
+                            "link": "https://filecrypt.cc/Container/EE1E34190B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B32C549713",
+                            "link": "https://filecrypt.cc/Container/B32C549713"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/26E42267EA",
+                            "link": "https://filecrypt.cc/Container/26E42267EA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DF3ED63D99",
+                            "link": "https://filecrypt.cc/Container/DF3ED63D99"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

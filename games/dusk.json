@@ -1,0 +1,135 @@
+{
+    "href": "/game/dusk",
+    "MSG": {
+        "id": "1150392214",
+        "title": "DUSK",
+        "slug": "dusk",
+        "thumb_id": "1e6cb87dab32812e713a58fbf720d1036de0f840f99bc39a572a4d808850cc14",
+        "bg_id": "98f7a12554acd84b1e0a586f7b95038e5c8792dead10f5955e106f75087d68ac",
+        "url": "https://www.gog.com/game/dusk",
+        "developer": "David Szymanski",
+        "publisher": "New Blood Interactive",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1708572146",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dusk_-_intruder_edition_upgrade_1.8.25_(64bit)_(68890).exe",
+                    "size": "5613464"
+                },
+                {
+                    "name": "setup_dusk_1.8.25_(64bit)_(68890)-1.bin",
+                    "size": "2601121142"
+                },
+                {
+                    "name": "setup_dusk_1.8.25_(64bit)_(68890).exe",
+                    "size": "931864"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "dusk_graphic_novel.zip",
+                    "size": "78438183"
+                },
+                {
+                    "name": "dusk_hd.zip",
+                    "size": "2433993337"
+                },
+                {
+                    "name": "dusk_official_soundtrack.zip",
+                    "size": "381075947"
+                },
+                {
+                    "name": "goodies_pack.zip",
+                    "size": "2660093117"
+                },
+                {
+                    "name": "icons.zip",
+                    "size": "334929"
+                },
+                {
+                    "name": "wallpapers.zip",
+                    "size": "27692018"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A446182B0E",
+                            "link": "https://filecrypt.cc/Container/A446182B0E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/467BA1DA8F",
+                            "link": "https://filecrypt.cc/Container/467BA1DA8F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7510615CA8",
+                            "link": "https://filecrypt.cc/Container/7510615CA8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ACA9BF45FC",
+                            "link": "https://filecrypt.cc/Container/ACA9BF45FC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3AB526C52A",
+                            "link": "https://filecrypt.cc/Container/3AB526C52A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AE71691AC1",
+                            "link": "https://filecrypt.cc/Container/AE71691AC1"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

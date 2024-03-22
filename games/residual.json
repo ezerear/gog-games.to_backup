@@ -1,0 +1,79 @@
+{
+    "href": "/game/residual",
+    "MSG": {
+        "id": "1688702977",
+        "title": "Residual",
+        "slug": "residual",
+        "thumb_id": "945b6fec6fdbd15945d44e643972751d043b7f24dea6767fca597c3a8056adc3",
+        "bg_id": "fda5d48c0f0d8a74a430b79d57db94c003f4252fef9ec5903dbf5939878afe48",
+        "url": "https://www.gog.com/game/residual",
+        "developer": "Orangepixel",
+        "publisher": "Apogee Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1684201630",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_residual_1.1.5b_(64bit)_(50864).exe",
+                    "size": "128627640"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F3E1D4A5AE",
+                            "link": "https://filecrypt.cc/Container/F3E1D4A5AE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1DF54F46E6",
+                            "link": "https://filecrypt.cc/Container/1DF54F46E6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DFA8FC9507",
+                            "link": "https://filecrypt.cc/Container/DFA8FC9507"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4470708DC8",
+                            "link": "https://filecrypt.cc/Container/4470708DC8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

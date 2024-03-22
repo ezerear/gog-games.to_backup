@@ -1,0 +1,119 @@
+{
+    "href": "/game/bleak_faith_forsaken",
+    "MSG": {
+        "id": "2135168204",
+        "title": "Bleak Faith: Forsaken",
+        "slug": "bleak_faith_forsaken",
+        "thumb_id": "85f7898974c226ee122d1a037ce2e1cdaddf9d43db2b3cd52b93b3e93e9a00f5",
+        "bg_id": "553a08e6fbc19ad0fbefbd69def83d16bb8fbf78e378fbc9921d1f8449dbe280",
+        "url": "https://www.gog.com/en/game/bleak_faith_forsaken",
+        "developer": "Archangel Studios",
+        "publisher": "Archangel Studios",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710747057",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_bleak_faith_forsaken_4029161_(64bit)_(71806)-1.bin",
+                    "size": "4293956606"
+                },
+                {
+                    "name": "setup_bleak_faith_forsaken_4029161_(64bit)_(71806)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_bleak_faith_forsaken_4029161_(64bit)_(71806)-3.bin",
+                    "size": "1049329219"
+                },
+                {
+                    "name": "setup_bleak_faith_forsaken_4029161_(64bit)_(71806).exe",
+                    "size": "1017584"
+                }
+            ],
+            "PATCHES": [
+                {
+                    "name": "patch_bleak_faith_forsaken_4029154_(71656)_to_4029161_(71806).exe",
+                    "size": "20018720"
+                }
+            ],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/88A0D4F3FE",
+                            "link": "https://filecrypt.cc/Container/88A0D4F3FE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D48A76FDFA",
+                            "link": "https://filecrypt.cc/Container/D48A76FDFA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/21BD33C313",
+                            "link": "https://filecrypt.cc/Container/21BD33C313"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/653630B64E",
+                            "link": "https://filecrypt.cc/Container/653630B64E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/87CAA16E9C",
+                            "link": "https://filecrypt.cc/Container/87CAA16E9C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AF439715A3",
+                            "link": "https://filecrypt.cc/Container/AF439715A3"
+                        }
+                    ]
+                }
+            ],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

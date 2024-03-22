@@ -1,0 +1,80 @@
+{
+    "href": "/game/chaos_head_noah",
+    "MSG": {
+        "id": "1902238860",
+        "title": "CHAOS;HEAD NOAH",
+        "slug": "chaos_head_noah",
+        "thumb_id": "94256432cd4e55daf68b83bb8500e73129a9a5facafb31a8adb3994197dd241c",
+        "bg_id": "d697c348512cc2628ce649bc8b48ca308c7694be763bd6293e7c4d3277324977",
+        "url": "https://www.gog.com/en/game/chaos_head_noah",
+        "developer": "MAGES. Inc.",
+        "publisher": "Spike Chunsoft Co., Ltd.",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708171908",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_chaoshead_noah_-_costume_dlc_1.0_(64bit)_(59718).exe",
+                    "size": "80632704"
+                },
+                {
+                    "name": "setup_chaoshead_noah_1.0_(64bit)_(59718)-1.bin",
+                    "size": "4294076414"
+                },
+                {
+                    "name": "setup_chaoshead_noah_1.0_(64bit)_(59718)-2.bin",
+                    "size": "3928781519"
+                },
+                {
+                    "name": "setup_chaoshead_noah_1.0_(64bit)_(59718).exe",
+                    "size": "901120"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CCE8A60881",
+                            "link": "https://filecrypt.cc/Container/CCE8A60881"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8DF8138255",
+                            "link": "https://filecrypt.cc/Container/8DF8138255"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/11AFD63506",
+                            "link": "https://filecrypt.cc/Container/11AFD63506"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

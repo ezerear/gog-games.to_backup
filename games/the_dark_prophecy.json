@@ -1,0 +1,90 @@
+{
+    "href": "/game/the_dark_prophecy",
+    "MSG": {
+        "id": "1486653526",
+        "title": "The Dark Prophecy",
+        "slug": "the_dark_prophecy",
+        "thumb_id": "fb7749c1be0089fcc57b67f79cdd2c7e1b18b93164913500ea01ce42604632fa",
+        "bg_id": "7898d6728ec219f7675e784802c1f865a5c873d59f74ed47782ed8575d2abf7f",
+        "url": "https://www.gog.com/en/game/the_dark_prophecy",
+        "developer": "Start Warp",
+        "publisher": "Meridian4",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1703852099",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_dark_prophecy_1.0.13_(64bit)_(55845).exe",
+                    "size": "64727936"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EFEA31BB71",
+                            "link": "https://filecrypt.cc/Container/EFEA31BB71"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7DA1A69895",
+                            "link": "https://filecrypt.cc/Container/7DA1A69895"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AD30EF6F8E",
+                            "link": "https://filecrypt.cc/Container/AD30EF6F8E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0CF1CA305A",
+                            "link": "https://filecrypt.cc/Container/0CF1CA305A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/30AFA6992F",
+                            "link": "https://filecrypt.cc/Container/30AFA6992F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,79 @@
+{
+    "href": "/game/hyperviolent",
+    "MSG": {
+        "id": "1967897027",
+        "title": "Hyperviolent",
+        "slug": "hyperviolent",
+        "thumb_id": "01343515e5a6dd17799e7fa9711d915873e64b845a52e82005f0439a5e35cc6e",
+        "bg_id": "581877f456522d8b0cd99d050e057e8c58e189ca8277d3ce90f1cc7234aaf431",
+        "url": "https://www.gog.com/game/hyperviolent",
+        "developer": "Terminist Arcade",
+        "publisher": "1C Entertainment",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1708085409",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hyperviolent_hyperviolent_v0.8.72.0_ea_(64bit)_(67861).exe",
+                    "size": "686328456"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/728D69F839",
+                            "link": "https://filecrypt.cc/Container/728D69F839"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2D1C735FA4",
+                            "link": "https://filecrypt.cc/Container/2D1C735FA4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5852ADB39F",
+                            "link": "https://filecrypt.cc/Container/5852ADB39F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2BB9990974",
+                            "link": "https://filecrypt.cc/Container/2BB9990974"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,115 @@
+{
+    "href": "/game/hatoful_boyfriend",
+    "MSG": {
+        "id": "1207665623",
+        "title": "Hatoful Boyfriend",
+        "slug": "hatoful_boyfriend",
+        "thumb_id": "b4cde31b723f168727631d0246d9ef0133b9259f9a77bd71ad25c98ba5dbbe7d",
+        "bg_id": "418503ccfe23195a73c9801e498dec5dd7923abbea88ceeed072913cd03fabc0",
+        "url": "https://www.gog.com/game/hatoful_boyfriend",
+        "developer": "Mediatonic",
+        "publisher": "Devolver Digital",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710650176",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hatoful_boyfriend_gog-1_(17722)-1.bin",
+                    "size": "417408111"
+                },
+                {
+                    "name": "setup_hatoful_boyfriend_gog-1_(17722).exe",
+                    "size": "727920"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "hatoful_boyfriend_avatars.zip",
+                    "size": "629247"
+                },
+                {
+                    "name": "hatoful_boyriend_wallpaper.zip",
+                    "size": "1151150"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/317BBDA5A8",
+                            "link": "https://filecrypt.cc/Container/317BBDA5A8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/83F568B05C",
+                            "link": "https://filecrypt.cc/Container/83F568B05C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/48DF294980",
+                            "link": "https://filecrypt.cc/Container/48DF294980"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1259C02674",
+                            "link": "https://filecrypt.cc/Container/1259C02674"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1E1AECE8CC",
+                            "link": "https://filecrypt.cc/Container/1E1AECE8CC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8AECD7A450",
+                            "link": "https://filecrypt.cc/Container/8AECD7A450"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

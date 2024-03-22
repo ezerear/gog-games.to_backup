@@ -1,0 +1,79 @@
+{
+    "href": "/game/fortunes_run",
+    "MSG": {
+        "id": "1573480744",
+        "title": "Fortune's Run",
+        "slug": "fortunes_run",
+        "thumb_id": "bfa002725b2221568f31a51ab4aa9c74857489881d338c6ff03e92a15ac80381",
+        "bg_id": "92e60d1b3c0b87b4ecf29c150f50574a2d5560b5631c6f3839d4581397b784be",
+        "url": "https://www.gog.com/en/game/fortunes_run",
+        "developer": "Team Fortune",
+        "publisher": "Team Fortune",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707983143",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_fortunes_run_0.2.157_(64bit)_(68190).exe",
+                    "size": "853520344"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9754E48157",
+                            "link": "https://filecrypt.cc/Container/9754E48157"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E1CAB53693",
+                            "link": "https://filecrypt.cc/Container/E1CAB53693"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6A82730772",
+                            "link": "https://filecrypt.cc/Container/6A82730772"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/97D7A58828",
+                            "link": "https://filecrypt.cc/Container/97D7A58828"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

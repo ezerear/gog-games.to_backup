@@ -1,0 +1,68 @@
+{
+    "href": "/game/gunship",
+    "MSG": {
+        "id": "1739974125",
+        "title": "Gunship!",
+        "slug": "gunship",
+        "thumb_id": "44b02ece2d28ef4feaf5efde174fbbb0929aa8fe86dc8521143c5436f1da75dc",
+        "bg_id": "5d0ed9c51106dd38837de3a5bf36abf5cb757f781791b805026163bda1bafcf9",
+        "url": "https://www.gog.com/game/gunship",
+        "developer": "MicroProse",
+        "publisher": "Retroism",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1709574145",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_gunship_1.0_amd_rdna_fix_(52933).exe",
+                    "size": "335546592"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/87EEB1CC72",
+                            "link": "https://filecrypt.cc/Container/87EEB1CC72"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E5EC81426C",
+                            "link": "https://filecrypt.cc/Container/E5EC81426C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A73C63AD44",
+                            "link": "https://filecrypt.cc/Container/A73C63AD44"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

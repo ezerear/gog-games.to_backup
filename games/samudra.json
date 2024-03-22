@@ -1,0 +1,115 @@
+{
+    "href": "/game/samudra",
+    "MSG": {
+        "id": "2033151972",
+        "title": "SAMUDRA",
+        "slug": "samudra",
+        "thumb_id": "27604c0bff2b0c8f4196e912307d5a3a4fa9a6b2e91a467d3b4082c3b9b7b6e9",
+        "bg_id": "69fbcfbb5316a1a140074d0f462d81536545015d0b859ee95604bd5313dd8cdd",
+        "url": "https://www.gog.com/en/game/samudra",
+        "developer": "Khayalan Arts",
+        "publisher": "Untold Tales",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707093429",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_samudra_1.0_(59815)-1.bin",
+                    "size": "4294080510"
+                },
+                {
+                    "name": "setup_samudra_1.0_(59815)-2.bin",
+                    "size": "1523749151"
+                },
+                {
+                    "name": "setup_samudra_1.0_(59815).exe",
+                    "size": "896904"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "samudra_original_soundtrack.zip",
+                    "size": "243739736"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0ED8F7F5DA",
+                            "link": "https://filecrypt.cc/Container/0ED8F7F5DA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/92970600F0",
+                            "link": "https://filecrypt.cc/Container/92970600F0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9EB10ECA47",
+                            "link": "https://filecrypt.cc/Container/9EB10ECA47"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F1ED249B83",
+                            "link": "https://filecrypt.cc/Container/F1ED249B83"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C465426742",
+                            "link": "https://filecrypt.cc/Container/C465426742"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7E79BB14B3",
+                            "link": "https://filecrypt.cc/Container/7E79BB14B3"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/powerslave_exhumed",
+    "MSG": {
+        "id": "1432253578",
+        "title": "PowerSlave Exhumed",
+        "slug": "powerslave_exhumed",
+        "thumb_id": "d6235c599e2f47f5a720b6ebeb28ae23cc95c21588acc63ec4272df6b56a2e8a",
+        "bg_id": "9ee50d05b31dc8aa05d52c22fbc5fe441649c873fe35140a724ff430b421d9db",
+        "url": "https://www.gog.com/game/powerslave_exhumed",
+        "developer": "Throwback Entertainment",
+        "publisher": "Night Dive Studios",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710487459",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_powerslave_exhumed_1.0.1651_(64bit)_(57248).exe",
+                    "size": "453760800"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5C241E50FE",
+                            "link": "https://filecrypt.cc/Container/5C241E50FE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B288B1BABC",
+                            "link": "https://filecrypt.cc/Container/B288B1BABC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/92CC9CEC61",
+                            "link": "https://filecrypt.cc/Container/92CC9CEC61"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

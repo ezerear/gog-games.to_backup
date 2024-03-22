@@ -1,0 +1,119 @@
+{
+    "href": "/game/myst_4",
+    "MSG": {
+        "id": "1956555724",
+        "title": "Myst IV: Revelation",
+        "slug": "myst_4",
+        "thumb_id": "656a849f4e16ae744d6b9f9907cf4978409674d3c4789f73d6819fd38a1972fc",
+        "bg_id": "cc2315148b6575b681cc92467d89182b8cf8e46620d0bd9f340a3b0fa460453e",
+        "url": "https://www.gog.com/game/myst_4",
+        "developer": "Ubisoft Montreal",
+        "publisher": "Cyan Worlds",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708115036",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_myst_4_revelation_1.03_hotfix_2_(22142)-1.bin",
+                    "size": "4294078974"
+                },
+                {
+                    "name": "setup_myst_4_revelation_1.03_hotfix_2_(22142)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_myst_4_revelation_1.03_hotfix_2_(22142)-3.bin",
+                    "size": "1033353425"
+                },
+                {
+                    "name": "setup_myst_4_revelation_1.03_hotfix_2_(22142).exe",
+                    "size": "895400"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "myst_4_manual.zip",
+                    "size": "6067231"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/499B52D47D",
+                            "link": "https://filecrypt.cc/Container/499B52D47D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/295AE406F9",
+                            "link": "https://filecrypt.cc/Container/295AE406F9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8CA0510426",
+                            "link": "https://filecrypt.cc/Container/8CA0510426"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/03A917B74E",
+                            "link": "https://filecrypt.cc/Container/03A917B74E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D850C2D572",
+                            "link": "https://filecrypt.cc/Container/D850C2D572"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B85F383B46",
+                            "link": "https://filecrypt.cc/Container/B85F383B46"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

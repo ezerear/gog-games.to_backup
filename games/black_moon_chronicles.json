@@ -1,0 +1,79 @@
+{
+    "href": "/game/black_moon_chronicles",
+    "MSG": {
+        "id": "1432715627",
+        "title": "Black Moon Chronicles",
+        "slug": "black_moon_chronicles",
+        "thumb_id": "88078867348badc2735fe5f948dc8f5eff7414c300d8c59673a7cf00bc304918",
+        "bg_id": "b59dd705a79851456bef406c6320f67d16e01df9b05cee9173b82a0cdc65bd6b",
+        "url": "https://www.gog.com/game/black_moon_chronicles",
+        "developer": "Cryo Interactive",
+        "publisher": "Anuman Interactive",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1682514790",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_black_moon_chronicles_2.0.0.7.exe",
+                    "size": "588133632"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "uploadbuzz",
+                    "name": "UploadBuzz",
+                    "icon": "<img src=\"/static/img/hoster_logos/uploadbuzz.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/ctf4j8T",
+                            "link": "https://safelinking.net/ctf4j8T"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/02964ADFD3",
+                            "link": "https://filecrypt.cc/Container/02964ADFD3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/3gR3AW2",
+                            "link": "https://safelinking.net/3gR3AW2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/785F227A74",
+                            "link": "https://filecrypt.cc/Container/785F227A74"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

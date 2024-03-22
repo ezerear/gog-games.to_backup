@@ -1,0 +1,68 @@
+{
+    "href": "/game/nova_lands",
+    "MSG": {
+        "id": "1629921169",
+        "title": "Nova Lands",
+        "slug": "nova_lands",
+        "thumb_id": "022ea078f4be5f179921e4a2057a9b953523eea994821ceed4a7abf74a2b9065",
+        "bg_id": "54838775eff5a9cb4feffd286fab3888f73e4150869863899e51372026dfeee0",
+        "url": "https://www.gog.com/en/game/nova_lands",
+        "developer": "BEHEMUTT",
+        "publisher": "HypeTrain Digital",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710007994",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_nova_lands_1.1.18_(64bit)_(69854).exe",
+                    "size": "198048448"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F50ABEB563",
+                            "link": "https://filecrypt.cc/Container/F50ABEB563"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/94F668BEA0",
+                            "link": "https://filecrypt.cc/Container/94F668BEA0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/795C144CD8",
+                            "link": "https://filecrypt.cc/Container/795C144CD8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

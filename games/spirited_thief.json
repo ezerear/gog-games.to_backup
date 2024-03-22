@@ -1,0 +1,68 @@
+{
+    "href": "/game/spirited_thief",
+    "MSG": {
+        "id": "1413456963",
+        "title": "Spirited Thief",
+        "slug": "spirited_thief",
+        "thumb_id": "a08d34207b24f691b6bd9e8fc0e373eda4fb34156576dfcdf7e4c943f126ce3e",
+        "bg_id": "4f75e5b342bf89836657fed53cc3c5228f522e11add3f7b43ea09e7975b369e6",
+        "url": "https://www.gog.com/en/game/spirited_thief",
+        "developer": "Koi Snowman Games",
+        "publisher": "Ishtar Games",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1709104238",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_spirited_thief_1.0.0.7.1_(64bit)_(68532).exe",
+                    "size": "330416256"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/51605BA8D5",
+                            "link": "https://filecrypt.cc/Container/51605BA8D5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ECD1D57C62",
+                            "link": "https://filecrypt.cc/Container/ECD1D57C62"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/25C15F2667",
+                            "link": "https://filecrypt.cc/Container/25C15F2667"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

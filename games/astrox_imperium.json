@@ -1,0 +1,68 @@
+{
+    "href": "/game/astrox_imperium",
+    "MSG": {
+        "id": "1472214470",
+        "title": "Astrox Imperium",
+        "slug": "astrox_imperium",
+        "thumb_id": "290041cb56668237d03ef54216ce72b1cfee296bd914b1925d0a839319fe1656",
+        "bg_id": "95f789d43be0841d6e96f3f574c87c7ff05e26545c2d19e6f51684f87f39a343",
+        "url": "https://www.gog.com/game/astrox_imperium",
+        "developer": "Jace Masula",
+        "publisher": "Jace Masula",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710899566",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_astrox_imperium_b0.0144_(69964).exe",
+                    "size": "911605112"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0E40716AAF",
+                            "link": "https://filecrypt.cc/Container/0E40716AAF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D41933BF61",
+                            "link": "https://filecrypt.cc/Container/D41933BF61"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/23760ADADB",
+                            "link": "https://filecrypt.cc/Container/23760ADADB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/vanaris_tactics",
+    "MSG": {
+        "id": "1805248668",
+        "title": "Vanaris Tactics",
+        "slug": "vanaris_tactics",
+        "thumb_id": "f61aba31db2f0a0d9118333f97aa8c388c941f306979d6ec81515ef5a101f956",
+        "bg_id": "eb1ad3a82e85fea2eb2db72371389b73a164f7fcf43fff6a7d81973a9616ac46",
+        "url": "https://www.gog.com/game/vanaris_tactics",
+        "developer": "Matheus Reis",
+        "publisher": "Toge Productions",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710730077",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_vanaris_tactics_1.03_(58034).exe",
+                    "size": "97345176"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AE3E81BEBF",
+                            "link": "https://filecrypt.cc/Container/AE3E81BEBF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/66DBA7AFDE",
+                            "link": "https://filecrypt.cc/Container/66DBA7AFDE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D051AF4800",
+                            "link": "https://filecrypt.cc/Container/D051AF4800"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

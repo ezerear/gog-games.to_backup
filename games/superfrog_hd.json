@@ -1,0 +1,107 @@
+{
+    "href": "/game/superfrog_hd",
+    "MSG": {
+        "id": "1207665663",
+        "title": "Superfrog HD",
+        "slug": "superfrog_hd",
+        "thumb_id": "d4b32a802ecae8dc713cb8ea8b7cc38bb2737a0f96367f4b3bed49c1bd6bcbee",
+        "bg_id": "67870178212345c0c6bd1e2aa96cdb9ddd8b0daa40e2708bb92265f567d56076",
+        "url": "https://web.archive.org/web/20160313073604/http://www.gog.com:80/game/superfrog_hd",
+        "developer": "Team17 Digital",
+        "publisher": "Team17 Digital",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710072004",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_superfrog_hd_2.0.0.2.exe",
+                    "size": "90672568"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "superfrog_hd_wallpaper.zip",
+                    "size": "754745"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/819CEBD4C3",
+                            "link": "https://filecrypt.cc/Container/819CEBD4C3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6A8959BD82",
+                            "link": "https://filecrypt.cc/Container/6A8959BD82"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8EA83E39D3",
+                            "link": "https://filecrypt.cc/Container/8EA83E39D3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/73F40F1571",
+                            "link": "https://filecrypt.cc/Container/73F40F1571"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/96EA0F8CFA",
+                            "link": "https://filecrypt.cc/Container/96EA0F8CFA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7C14182A73",
+                            "link": "https://filecrypt.cc/Container/7C14182A73"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

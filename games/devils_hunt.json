@@ -1,0 +1,92 @@
+{
+    "href": "/game/devils_hunt",
+    "MSG": {
+        "id": "1085166184",
+        "title": "Devil's Hunt",
+        "slug": "devils_hunt",
+        "thumb_id": "ebad3905ab186bb548e364a43062c149b1bf07c9108fe93a3c217c853946a648",
+        "bg_id": "1e0f8b1f56604d72d9f8aeb91a99fce7a154e347a6c0b7471722acf5855f13d4",
+        "url": "https://www.gog.com/game/devils_hunt",
+        "developer": " Layopi Games",
+        "publisher": "1C Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708520611",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_devils_hunt_1.5.0_(34401)-1.bin",
+                    "size": "4293883902"
+                },
+                {
+                    "name": "setup_devils_hunt_1.5.0_(34401)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_devils_hunt_1.5.0_(34401)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_devils_hunt_1.5.0_(34401)-4.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_devils_hunt_1.5.0_(34401)-5.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_devils_hunt_1.5.0_(34401)-6.bin",
+                    "size": "2273802126"
+                },
+                {
+                    "name": "setup_devils_hunt_1.5.0_(34401).exe",
+                    "size": "1090576"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FE37A5D3A6",
+                            "link": "https://filecrypt.cc/Container/FE37A5D3A6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/337779A32B",
+                            "link": "https://filecrypt.cc/Container/337779A32B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7FC6C5DD84",
+                            "link": "https://filecrypt.cc/Container/7FC6C5DD84"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

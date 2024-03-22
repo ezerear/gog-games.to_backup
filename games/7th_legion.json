@@ -1,0 +1,119 @@
+{
+    "href": "/game/7th_legion",
+    "MSG": {
+        "id": "1207660773",
+        "title": "7th Legion",
+        "slug": "7th_legion",
+        "thumb_id": "ceaf34ec612e8344d27878c0c1792389be2303bb22797b7efaaed6848d696e79",
+        "bg_id": "f9c802e33d6e51cf39061a1d44240be35320eaea564f49b1871ee80cbd313c46",
+        "url": "https://www.gog.com/game/7th_legion",
+        "developer": "Epic Games, Vision Software",
+        "publisher": "Retroism",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710500593",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_7th_legion_2.0.0.5.exe",
+                    "size": "268216400"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "7th_legion_manual_eng.zip",
+                    "size": "9077156"
+                },
+                {
+                    "name": "7th_legion_manual_ger.zip",
+                    "size": "41680168"
+                },
+                {
+                    "name": "7th_legion_manual_italian.zip",
+                    "size": "189710093"
+                },
+                {
+                    "name": "7th_legion_ost.zip",
+                    "size": "110825531"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5C0638D408",
+                            "link": "https://filecrypt.cc/Container/5C0638D408"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F516132F5F",
+                            "link": "https://filecrypt.cc/Container/F516132F5F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FA70A4E608",
+                            "link": "https://filecrypt.cc/Container/FA70A4E608"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4724A2711B",
+                            "link": "https://filecrypt.cc/Container/4724A2711B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1C5FE96DE8",
+                            "link": "https://filecrypt.cc/Container/1C5FE96DE8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1931E127CF",
+                            "link": "https://filecrypt.cc/Container/1931E127CF"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

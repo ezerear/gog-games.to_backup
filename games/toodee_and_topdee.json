@@ -1,0 +1,68 @@
+{
+    "href": "/game/toodee_and_topdee",
+    "MSG": {
+        "id": "1803709456",
+        "title": "Toodee and Topdee",
+        "slug": "toodee_and_topdee",
+        "thumb_id": "8d9063e20e2e861368f0e095918dc213bfa31bb9183407a9d9a43978d4b96d95",
+        "bg_id": "5b478e0ac477fc783f6874cb8c559059e6f702a356f6488ba61c897db16ff33f",
+        "url": "https://www.gog.com/en/game/toodee_and_topdee",
+        "developer": "dietzribi",
+        "publisher": "dietzribi",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708681273",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_toodee_and_topdee_1_(63831).exe",
+                    "size": "72349480"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4EFEE55C7E",
+                            "link": "https://filecrypt.cc/Container/4EFEE55C7E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/78B497624A",
+                            "link": "https://filecrypt.cc/Container/78B497624A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3AFC2F93F6",
+                            "link": "https://filecrypt.cc/Container/3AFC2F93F6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

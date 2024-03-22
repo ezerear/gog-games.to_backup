@@ -1,0 +1,90 @@
+{
+    "href": "/game/terroir",
+    "MSG": {
+        "id": "1990946201",
+        "title": "Terroir",
+        "slug": "terroir",
+        "thumb_id": "81a3950765951238768ca6e709d89ff4a2c483af3e6b002eb281eb47b82e6912",
+        "bg_id": "6c10c49bc71ed596e8a12eda160fca0479ce932fc205aa3216164fdfe116949c",
+        "url": "https://www.gog.com/game/terroir",
+        "developer": " General Interactive Co.",
+        "publisher": " General Interactive Co.",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1705891284",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_terroir_1.0_(64bit)_(32337).exe",
+                    "size": "278177088"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/60B858C957",
+                            "link": "https://filecrypt.cc/Container/60B858C957"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/84696FE252",
+                            "link": "https://filecrypt.cc/Container/84696FE252"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F955FAF285",
+                            "link": "https://filecrypt.cc/Container/F955FAF285"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EA14D5CFBC",
+                            "link": "https://filecrypt.cc/Container/EA14D5CFBC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9566DE0F19",
+                            "link": "https://filecrypt.cc/Container/9566DE0F19"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/super_huey_iii",
+    "MSG": {
+        "id": "1316607407",
+        "title": "Super Huey™ III",
+        "slug": "super_huey_iii",
+        "thumb_id": "561750bc5f9ff62893fc9094f9a2008914ba7d5738107187a19a6cad88140472",
+        "bg_id": "ef14343e59c350b4a562d79236322ac603b314b6a91f35565b7d35c3e8beefbc",
+        "url": "https://www.gog.com/game/super_huey_iii",
+        "developer": "Webfoot",
+        "publisher": "Ziggurat",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709699486",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_super_hueytm_iii_1.0_(41985).exe",
+                    "size": "84531296"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0A8DFE7105",
+                            "link": "https://filecrypt.cc/Container/0A8DFE7105"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/95BE47F873",
+                            "link": "https://filecrypt.cc/Container/95BE47F873"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/69825D6C18",
+                            "link": "https://filecrypt.cc/Container/69825D6C18"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

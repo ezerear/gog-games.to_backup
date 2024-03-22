@@ -1,0 +1,84 @@
+{
+    "href": "/game/project_hospital",
+    "MSG": {
+        "id": "1660194629",
+        "title": "Project Hospital",
+        "slug": "project_hospital",
+        "thumb_id": "1f06f9c6cdf67340970822509bb6bbc84994b0d1dd6da24b233ac10458179add",
+        "bg_id": "082afe0e777a4734b1d39ed7fdd871e46af3d709e56743db2c511db2b2235d86",
+        "url": "https://www.gog.com/game/project_hospital",
+        "developer": "Oxymoron Games",
+        "publisher": "Oxymoron Games",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1709555882",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_project_hospital_-_department_of_infectious_diseases_1.2.22856_(64bit)_(60923).exe",
+                    "size": "7963272"
+                },
+                {
+                    "name": "setup_project_hospital_-_doctor_mode_1.2.22856_(64bit)_(60923).exe",
+                    "size": "8209872"
+                },
+                {
+                    "name": "setup_project_hospital_-_hospital_services_1.2.22856_(64bit)_(60923).exe",
+                    "size": "7098432"
+                },
+                {
+                    "name": "setup_project_hospital_-_traumatology_department_1.2.22856_(64bit)_(60923).exe",
+                    "size": "8472688"
+                },
+                {
+                    "name": "setup_project_hospital_1.2.22856_(64bit)_(60923).exe",
+                    "size": "250728728"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/71EBFF08CF",
+                            "link": "https://filecrypt.cc/Container/71EBFF08CF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/679A2F3855",
+                            "link": "https://filecrypt.cc/Container/679A2F3855"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F8C9E484DB",
+                            "link": "https://filecrypt.cc/Container/F8C9E484DB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,72 @@
+{
+    "href": "/game/succubus_farm",
+    "MSG": {
+        "id": "1430535321",
+        "title": "Succubus Farm",
+        "slug": "succubus_farm",
+        "thumb_id": "e68a9b0aa1bcf69e383a8fc3db3e8e23c6dae50e15cd0724cd1394759143c5dc",
+        "bg_id": "c93373bfae7ff79e4ed62f73d7772c6fc3c0c2527e7cf855ebeebb5eb2aa91eb",
+        "url": "https://www.gog.com/en/game/succubus_farm",
+        "developer": "Dieselmine",
+        "publisher": "Kagura Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710268035",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_succubus_farm_unrated_v1_(59522).exe",
+                    "size": "524412448"
+                },
+                {
+                    "name": "setup_succubus_farm_v1_(59522).exe",
+                    "size": "179958040"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6A17CE0BF7",
+                            "link": "https://filecrypt.cc/Container/6A17CE0BF7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/363603C333",
+                            "link": "https://filecrypt.cc/Container/363603C333"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CA932A1DC0",
+                            "link": "https://filecrypt.cc/Container/CA932A1DC0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

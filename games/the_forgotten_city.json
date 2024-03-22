@@ -1,0 +1,109 @@
+{
+    "href": "/game/the_forgotten_city",
+    "MSG": {
+        "id": "1231956919",
+        "title": "The Forgotten City",
+        "slug": "the_forgotten_city",
+        "thumb_id": "ee92d4f5409e5a49b51bb98d5105c68cf05750a258898f54229226eb92281950",
+        "bg_id": "262d65720fc7991b58bdfd3048a1973111d241999796679614d5c88a3534f7c7",
+        "url": "https://www.gog.com/game/the_forgotten_city",
+        "developer": "Modern Storyteller",
+        "publisher": "Dear Villagers",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1706804962",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_forgotten_city_1.3.1_(64bit)_(54775)-1.bin",
+                    "size": "4293855742"
+                },
+                {
+                    "name": "setup_the_forgotten_city_1.3.1_(64bit)_(54775)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_the_forgotten_city_1.3.1_(64bit)_(54775)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_the_forgotten_city_1.3.1_(64bit)_(54775)-4.bin",
+                    "size": "1328430816"
+                },
+                {
+                    "name": "setup_the_forgotten_city_1.3.1_(64bit)_(54775).exe",
+                    "size": "1120240"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "the_forgotten_city_3d_statue.zip",
+                    "size": "182695467"
+                },
+                {
+                    "name": "the_forgotten_city_map.zip",
+                    "size": "113859211"
+                },
+                {
+                    "name": "the_forgotten_city_ost.zip",
+                    "size": "798765259"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D21AD1144C",
+                            "link": "https://filecrypt.cc/Container/D21AD1144C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/666F24572F",
+                            "link": "https://filecrypt.cc/Container/666F24572F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9282EACA02",
+                            "link": "https://filecrypt.cc/Container/9282EACA02"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E6FF509FD4",
+                            "link": "https://filecrypt.cc/Container/E6FF509FD4"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

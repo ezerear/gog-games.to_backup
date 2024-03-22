@@ -1,0 +1,57 @@
+{
+    "href": "/game/moons_of_ardan",
+    "MSG": {
+        "id": "1702533097",
+        "title": "Moons of Ardan",
+        "slug": "moons_of_ardan",
+        "thumb_id": "b824c22d44959ae5a4d84517a1f37cd43bd02423dc0b30d7304bdc7e2142af7c",
+        "bg_id": "7b77be4dd730e998693838f94f4c4bcf393d0064f7c2ceaf4a60722e79a7b076",
+        "url": "https://www.gog.com/en/game/moons_of_ardan",
+        "developer": "Pandora Technology",
+        "publisher": "Pandora Technology",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710120882",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_moons_of_ardan_0.11.0.12_(71462).exe",
+                    "size": "541539472"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A373188500",
+                            "link": "https://filecrypt.cc/Container/A373188500"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9C2DA0B5AC",
+                            "link": "https://filecrypt.cc/Container/9C2DA0B5AC"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

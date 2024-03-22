@@ -1,0 +1,123 @@
+{
+    "href": "/game/starflight_1",
+    "MSG": {
+        "id": "1207662393",
+        "title": "Starflight 1",
+        "slug": "starflight_1",
+        "thumb_id": "0aa29b31343e75d53da25a36a21a10f10c69d2c869cdf0f06bec6a8569c52295",
+        "bg_id": "b539a8f329050a4d389131f059e16c9bef28828740d7c5484c9118af89a04874",
+        "url": "https://www.gog.com/game/starflight_1_2",
+        "developer": "Binary Systems",
+        "publisher": "Electronic Arts",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710546425",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_starflight_1.0_(28045).exe",
+                    "size": "38438424"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "starflight_cluebooks.zip",
+                    "size": "20682943"
+                },
+                {
+                    "name": "starflight_manuals.zip",
+                    "size": "33223958"
+                },
+                {
+                    "name": "starflight_maps.zip",
+                    "size": "1034476"
+                },
+                {
+                    "name": "starflight_quickstart_guide.zip",
+                    "size": "34299"
+                },
+                {
+                    "name": "starflight_starcodes.zip",
+                    "size": "774049"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B563D21406",
+                            "link": "https://filecrypt.cc/Container/B563D21406"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/190062FB4D",
+                            "link": "https://filecrypt.cc/Container/190062FB4D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E1F47681CA",
+                            "link": "https://filecrypt.cc/Container/E1F47681CA"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0B84753D98",
+                            "link": "https://filecrypt.cc/Container/0B84753D98"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/07454B1376",
+                            "link": "https://filecrypt.cc/Container/07454B1376"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F08086ACF9",
+                            "link": "https://filecrypt.cc/Container/F08086ACF9"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,76 @@
+{
+    "href": "/game/anima_gate_of_memories",
+    "MSG": {
+        "id": "1183022406",
+        "title": "Anima: Gate of Memories",
+        "slug": "anima_gate_of_memories",
+        "thumb_id": "33b96fcbd624b2c494ca07a62730ed1d523f9c0613ec6cf8968390e0dc11e578",
+        "bg_id": "dfd47559d3a3a25f9fea8826a86ba0410bf5dd3ac2ffecb7ed017cd4b8b79856",
+        "url": "https://www.gog.com/game/anima_gate_of_memories",
+        "developer": "Badland Games",
+        "publisher": "Plug In Digital",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709733581",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_anima_-_gate_of_memories_20171122_(16593)-1.bin",
+                    "size": "4294213630"
+                },
+                {
+                    "name": "setup_anima_-_gate_of_memories_20171122_(16593)-2.bin",
+                    "size": "477562763"
+                },
+                {
+                    "name": "setup_anima_-_gate_of_memories_20171122_(16593).exe",
+                    "size": "760520"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D7B8B7BCDC",
+                            "link": "https://filecrypt.cc/Container/D7B8B7BCDC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4CF333466D",
+                            "link": "https://filecrypt.cc/Container/4CF333466D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A877DF7E2D",
+                            "link": "https://filecrypt.cc/Container/A877DF7E2D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

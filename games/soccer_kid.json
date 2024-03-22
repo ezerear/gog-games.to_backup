@@ -1,0 +1,79 @@
+{
+    "href": "/game/soccer_kid",
+    "MSG": {
+        "id": "1589400965",
+        "title": "Soccer Kid",
+        "slug": "soccer_kid",
+        "thumb_id": "8e4e63ec8d26f95f1326e2b6be0d6fbfd8f57349c22364282aeb027e3e87d8ad",
+        "bg_id": "dd13d1582d32907caf7466eb9a3262a733fbf691936742fb3b811bda63ad639b",
+        "url": "https://www.gog.com/game/soccer_kid",
+        "developer": "Krysalis Software",
+        "publisher": "Piko Interactive",
+        "category": "Sports",
+        "uploading": "0",
+        "last_upload": "1686724974",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_soccer_kid_1.0_(snes)_(53340).exe",
+                    "size": "20036608"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F6BE8A5CCB",
+                            "link": "https://filecrypt.cc/Container/F6BE8A5CCB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F8681CFF72",
+                            "link": "https://filecrypt.cc/Container/F8681CFF72"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D6005F967C",
+                            "link": "https://filecrypt.cc/Container/D6005F967C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/00EC6CCE97",
+                            "link": "https://filecrypt.cc/Container/00EC6CCE97"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

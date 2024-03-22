@@ -1,0 +1,76 @@
+{
+    "href": "/game/batman_arkham_asylum_goty",
+    "MSG": {
+        "id": "1482504285",
+        "title": "Batman: Arkham Asylum Game of the Year Edition",
+        "slug": "batman_arkham_asylum_goty",
+        "thumb_id": "de60559557d039d9375b617e83df1eba1bd1d04ba8dffef45f36f3a6b91f5e37",
+        "bg_id": "d8d96bbcb56be65fe752d5a365eca7242913867afc6af8b8685867ae9e9c3079",
+        "url": "https://www.gog.com/game/batman_arkham_asylum_goty",
+        "developer": "Rocksteady Studios",
+        "publisher": "Warner Bros. Interactive Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708455843",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_batman_arkham_asylum_goty_1.1_(38915)-1.bin",
+                    "size": "4293648382"
+                },
+                {
+                    "name": "setup_batman_arkham_asylum_goty_1.1_(38915)-2.bin",
+                    "size": "4042358111"
+                },
+                {
+                    "name": "setup_batman_arkham_asylum_goty_1.1_(38915).exe",
+                    "size": "1326136"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/69A4FFCBF7",
+                            "link": "https://filecrypt.cc/Container/69A4FFCBF7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4BBBA13592",
+                            "link": "https://filecrypt.cc/Container/4BBBA13592"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/32FBDA8EAE",
+                            "link": "https://filecrypt.cc/Container/32FBDA8EAE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

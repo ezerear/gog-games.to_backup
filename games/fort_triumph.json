@@ -1,0 +1,68 @@
+{
+    "href": "/game/fort_triumph",
+    "MSG": {
+        "id": "1709066762",
+        "title": "Fort Triumph",
+        "slug": "fort_triumph",
+        "thumb_id": "78e4b03e04747c31707845c28459af7017b4ad26824d4d688c1d8b79f052cd9f",
+        "bg_id": "72ecdeb8e82990aafb6f962ece742f223adf47a20918d9758ff0c99324387f3f",
+        "url": "https://www.gog.com/game/fort_triumph",
+        "developer": "CookieByte Entertainment",
+        "publisher": "All in! Games",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1709593812",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_fort_triumph_1.1.7_(51061).exe",
+                    "size": "1301905720"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/01D7BA8ECD",
+                            "link": "https://filecrypt.cc/Container/01D7BA8ECD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B21FF025D8",
+                            "link": "https://filecrypt.cc/Container/B21FF025D8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EB4B93600F",
+                            "link": "https://filecrypt.cc/Container/EB4B93600F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

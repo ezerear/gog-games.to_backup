@@ -1,0 +1,89 @@
+{
+    "href": "/game/the_cosmic_wheel_sisterhood",
+    "MSG": {
+        "id": "1558479195",
+        "title": "The Cosmic Wheel Sisterhood",
+        "slug": "the_cosmic_wheel_sisterhood",
+        "thumb_id": "a4197104b4499b9d3d8b6738e0e800b54616c57578c1eba900f74a0992d22581",
+        "bg_id": "13290fbec9b9110f451c5330721a21e1ec0a959937165db0be651c9d8c92be76",
+        "url": "https://www.gog.com/en/game/the_cosmic_wheel_sisterhood",
+        "developer": "Deconstructeam",
+        "publisher": "",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710138341",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_cosmic_wheel_sisterhood_1.1.0_(67199).exe",
+                    "size": "855949000"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "the_cosmic_wheel_sisterhood_artbook.zip",
+                    "size": "198348791"
+                },
+                {
+                    "name": "the_cosmic_wheel_sisterhood_original_soundtrack_mp3.zip",
+                    "size": "398082019"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0AEFF61705",
+                            "link": "https://filecrypt.cc/Container/0AEFF61705"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3C0303E435",
+                            "link": "https://filecrypt.cc/Container/3C0303E435"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D24218C93E",
+                            "link": "https://filecrypt.cc/Container/D24218C93E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EDF9248A3D",
+                            "link": "https://filecrypt.cc/Container/EDF9248A3D"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

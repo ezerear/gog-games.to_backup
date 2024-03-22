@@ -1,0 +1,135 @@
+{
+    "href": "/game/xel",
+    "MSG": {
+        "id": "1416650848",
+        "title": "XEL",
+        "slug": "xel",
+        "thumb_id": "8e1db191214e4e12bd2c8bdcf08d4b8214e7586bd1e071ba98742b89345260b9",
+        "bg_id": "cfaa7e345cff272a91e8c54b1eae885184c8572404b35ef59a5a48348869950d",
+        "url": "https://www.gog.com/game/xel",
+        "developer": "Tiny Roar",
+        "publisher": "Assemble Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709414473",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_xel_-_breaking_time_1.0.7.3_(67184).exe",
+                    "size": "6360864"
+                },
+                {
+                    "name": "setup_xel_1.0.7.3_(64bit)_(67184)-1.bin",
+                    "size": "4294015998"
+                },
+                {
+                    "name": "setup_xel_1.0.7.3_(64bit)_(67184)-2.bin",
+                    "size": "1403519100"
+                },
+                {
+                    "name": "setup_xel_1.0.7.3_(64bit)_(67184).exe",
+                    "size": "961232"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "xel_artbook.zip",
+                    "size": "63029626"
+                },
+                {
+                    "name": "xel_comic_a_lost_friend_de.zip",
+                    "size": "54943792"
+                },
+                {
+                    "name": "xel_comic_a_lost_friend_en.zip",
+                    "size": "54724769"
+                },
+                {
+                    "name": "xel_mp3_soundtrack.zip",
+                    "size": "150950895"
+                },
+                {
+                    "name": "xel_wav_soundtrack.zip",
+                    "size": "1081452842"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BC7EEDF4C4",
+                            "link": "https://filecrypt.cc/Container/BC7EEDF4C4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A66629E87C",
+                            "link": "https://filecrypt.cc/Container/A66629E87C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/91BAA446E9",
+                            "link": "https://filecrypt.cc/Container/91BAA446E9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5E7ABD6BE3",
+                            "link": "https://filecrypt.cc/Container/5E7ABD6BE3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2CA796CBFD",
+                            "link": "https://filecrypt.cc/Container/2CA796CBFD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6B8808FCFF",
+                            "link": "https://filecrypt.cc/Container/6B8808FCFF"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

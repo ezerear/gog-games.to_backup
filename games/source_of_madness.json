@@ -1,0 +1,72 @@
+{
+    "href": "/game/source_of_madness",
+    "MSG": {
+        "id": "1459358550",
+        "title": "Source of Madness",
+        "slug": "source_of_madness",
+        "thumb_id": "a2d3283b5193bb6853097f3b6e28c2010c931afec9099cde1051595b979acfe5",
+        "bg_id": "3224fe23b72c86da4cbbcaa83fed12d64fda0b3d072e82150b662fb359149141",
+        "url": "https://www.gog.com/game/source_of_madness",
+        "developer": "Carry Castle",
+        "publisher": "Thunderful Publishing",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710513064",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_source_of_madness_1.1.6_(62794)-1.bin",
+                    "size": "2072099148"
+                },
+                {
+                    "name": "setup_source_of_madness_1.1.6_(62794).exe",
+                    "size": "859088"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A4BFAC7FAA",
+                            "link": "https://filecrypt.cc/Container/A4BFAC7FAA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/33AE3DE703",
+                            "link": "https://filecrypt.cc/Container/33AE3DE703"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/06D6AF4B4A",
+                            "link": "https://filecrypt.cc/Container/06D6AF4B4A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

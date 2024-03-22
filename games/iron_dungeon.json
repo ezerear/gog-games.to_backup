@@ -1,0 +1,90 @@
+{
+    "href": "/game/iron_dungeon",
+    "MSG": {
+        "id": "1795284252",
+        "title": "Iron Dungeon",
+        "slug": "iron_dungeon",
+        "thumb_id": "3ab78b67987d7c0a564d566bb6139c21448ca2976cf85591c6ec29cb82599508",
+        "bg_id": "5d54c6e64e8db94a3374f14f7f6feb7eccb964ae1a2fc8cf830f04f642fb8c43",
+        "url": "https://www.gog.com/en/game/iron_dungeon",
+        "developer": "R_Games",
+        "publisher": "Meridian4, R_Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1706051758",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_iron_dungeon_1.0.2_(67738).exe",
+                    "size": "156916768"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BC26E0E023",
+                            "link": "https://filecrypt.cc/Container/BC26E0E023"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6BC57FA9C8",
+                            "link": "https://filecrypt.cc/Container/6BC57FA9C8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/18521A1336",
+                            "link": "https://filecrypt.cc/Container/18521A1336"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/71BB24D486",
+                            "link": "https://filecrypt.cc/Container/71BB24D486"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BD617C7A2B",
+                            "link": "https://filecrypt.cc/Container/BD617C7A2B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

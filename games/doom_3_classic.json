@@ -1,0 +1,72 @@
+{
+    "href": "/game/doom_3_classic",
+    "MSG": {
+        "id": "1492054092",
+        "title": "DOOM 3",
+        "slug": "doom_3_classic",
+        "thumb_id": "e52cc157b419e2a3b21a4e4d54420cedd5dd3b7514cc231850a52c87d894577c",
+        "bg_id": "fe2dc54941fb734237654c3b910f238ab7775c6a6f139f27ec1e50d9423a2721",
+        "url": "https://www.gog.com/en/game/doom_3",
+        "developer": "id Software",
+        "publisher": "Bethesda Softworks LLC",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1709737589",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_doom_3_1.3.1_(62814)-1.bin",
+                    "size": "2377036690"
+                },
+                {
+                    "name": "setup_doom_3_1.3.1_(62814).exe",
+                    "size": "869096"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FFD2A781A8",
+                            "link": "https://filecrypt.cc/Container/FFD2A781A8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/74D16F67CE",
+                            "link": "https://filecrypt.cc/Container/74D16F67CE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/836AB629D6",
+                            "link": "https://filecrypt.cc/Container/836AB629D6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

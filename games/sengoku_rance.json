@@ -1,0 +1,90 @@
+{
+    "href": "/game/sengoku_rance",
+    "MSG": {
+        "id": "1567591607",
+        "title": "Sengoku Rance",
+        "slug": "sengoku_rance",
+        "thumb_id": "4b71c2d3cbb795a48052270cd1b30b01155dfa0490df3d73cd9d71430e766bc3",
+        "bg_id": "ef134fe044c178171a4a922527d7618f6862bc6e5b82be7afe46775476246267",
+        "url": "https://www.gog.com/en/game/sengoku_rance",
+        "developer": "Alicesoft",
+        "publisher": "MangaGamer",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707903022",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sengoku_rance_v1.0_gog_(60469).exe",
+                    "size": "721762496"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/490FA4152C",
+                            "link": "https://filecrypt.cc/Container/490FA4152C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E3E1EE9675",
+                            "link": "https://filecrypt.cc/Container/E3E1EE9675"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2097AB33FB",
+                            "link": "https://filecrypt.cc/Container/2097AB33FB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E1CC47FC21",
+                            "link": "https://filecrypt.cc/Container/E1CC47FC21"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/765989F420",
+                            "link": "https://filecrypt.cc/Container/765989F420"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

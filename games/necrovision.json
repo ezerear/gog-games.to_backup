@@ -1,0 +1,71 @@
+{
+    "href": "/game/necrovision",
+    "MSG": {
+        "id": "1624457803",
+        "title": "NecroVision",
+        "slug": "necrovision",
+        "thumb_id": "4a61ffa30fc343aefbf4b16acfab183c9c4de441a88acb000b348a7a8004acdd",
+        "bg_id": "7dafc61840608a667fc12f1ce360cfadbca30836ebf1e96f43650f369b243016",
+        "url": "https://www.gog.com/game/necrovision",
+        "developer": "The Farm 51",
+        "publisher": "1C Publishing",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1708742344",
+        "votes": "1",
+        "files": false,
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E9D38A8554",
+                            "link": "https://filecrypt.cc/Container/E9D38A8554"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8B93D4BAFC",
+                            "link": "https://filecrypt.cc/Container/8B93D4BAFC"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/99712DED73",
+                            "link": "https://filecrypt.cc/Container/99712DED73"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7089E3E7FB",
+                            "link": "https://filecrypt.cc/Container/7089E3E7FB"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

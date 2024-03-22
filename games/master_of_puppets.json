@@ -1,0 +1,68 @@
+{
+    "href": "/game/master_of_puppets",
+    "MSG": {
+        "id": "1613541287",
+        "title": "Master of Puppets",
+        "slug": "master_of_puppets",
+        "thumb_id": "d53c1e915955f95903e69d1ec2fa716bce175ded1aa31ee1c13212315db54b2a",
+        "bg_id": "1a8aec151ba0b96956c4760d660a894a4ae4bee9281b8dbe5ff029d4adaa0222",
+        "url": "https://www.gog.com/en/game/master_of_puppets",
+        "developer": "BoaNeo AB",
+        "publisher": "BoaNeo AB",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1689842806",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_master_of_puppets_1.3.43_(66084).exe",
+                    "size": "161810216"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5C3350B6BE",
+                            "link": "https://filecrypt.cc/Container/5C3350B6BE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/06DD49DA29",
+                            "link": "https://filecrypt.cc/Container/06DD49DA29"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9A118EE9DA",
+                            "link": "https://filecrypt.cc/Container/9A118EE9DA"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

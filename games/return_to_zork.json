@@ -1,0 +1,111 @@
+{
+    "href": "/game/return_to_zork",
+    "MSG": {
+        "id": "1207658907",
+        "title": "Return to Zork",
+        "slug": "return_to_zork",
+        "thumb_id": "ff0781174faa3a662d01b8ca6d76ae7cc144364190644665c55de449e14648f4",
+        "bg_id": "1a5a281823fd893c06fba5de18cd1edcb9bc4ab515460ce22a80fd50eba180c0",
+        "url": "https://www.gog.com/game/return_to_zork",
+        "developer": "Infocom",
+        "publisher": "Activision",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709160317",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_return_to_zork_1.1_(28045).exe",
+                    "size": "198946424"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "Return_to_Zork_Encyclopedia_Frobozzica.zip",
+                    "size": "34756366"
+                },
+                {
+                    "name": "Return_to_Zork_Manual.zip",
+                    "size": "6155063"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/697BB4D324",
+                            "link": "https://filecrypt.cc/Container/697BB4D324"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0FAEBAD211",
+                            "link": "https://filecrypt.cc/Container/0FAEBAD211"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C944642A06",
+                            "link": "https://filecrypt.cc/Container/C944642A06"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1578C31093",
+                            "link": "https://filecrypt.cc/Container/1578C31093"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D57F347C92",
+                            "link": "https://filecrypt.cc/Container/D57F347C92"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D06F7C88A4",
+                            "link": "https://filecrypt.cc/Container/D06F7C88A4"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

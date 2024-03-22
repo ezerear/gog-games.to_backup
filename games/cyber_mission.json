@@ -1,0 +1,68 @@
+{
+    "href": "/game/cyber_mission",
+    "MSG": {
+        "id": "1222137726",
+        "title": "Cyber mission",
+        "slug": "cyber_mission",
+        "thumb_id": "c0d37f5bd0c5a7995231ca8f80416a9ee97b4469ac4a121cfc28b3fd5fde599e",
+        "bg_id": "74ca700bdcc1307b1816ff91c76736341cb28c2f93611f5888e84a69888f7bec",
+        "url": "https://www.gog.com/en/game/cyber_mission",
+        "developer": "Gamenergy studio",
+        "publisher": "Gamenergy studio",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1703222494",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_cyber_mission_1.0.2_(67550).exe",
+                    "size": "310194848"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/33B16ACD1E",
+                            "link": "https://filecrypt.cc/Container/33B16ACD1E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2A60E877FD",
+                            "link": "https://filecrypt.cc/Container/2A60E877FD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/83B995C56F",
+                            "link": "https://filecrypt.cc/Container/83B995C56F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

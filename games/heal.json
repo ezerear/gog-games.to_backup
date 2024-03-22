@@ -1,0 +1,112 @@
+{
+    "href": "/game/heal",
+    "MSG": {
+        "id": "1727084310",
+        "title": "Heal",
+        "slug": "heal",
+        "thumb_id": "de0ee5aaaf8909da289b4e2c261c85f9247a65c234474d38b76498539643533c",
+        "bg_id": "44b738a03e00f22005c77c6c9de4b74a8ebc057805dae15ec7fca6d219a42332",
+        "url": "https://www.gog.com/en/game/heal",
+        "developer": "Jesse Makkonen",
+        "publisher": "Jesse Makkonen",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1695162732",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_heal_1.0_(66845).exe",
+                    "size": "244841112"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/23839762E4",
+                            "link": "https://filecrypt.cc/Container/23839762E4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2D92A17123",
+                            "link": "https://filecrypt.cc/Container/2D92A17123"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E4550583CB",
+                            "link": "https://filecrypt.cc/Container/E4550583CB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/74D9AADE12",
+                            "link": "https://filecrypt.cc/Container/74D9AADE12"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CED17BFE37",
+                            "link": "https://filecrypt.cc/Container/CED17BFE37"
+                        }
+                    ]
+                },
+                {
+                    "slug": "uptobox",
+                    "name": "Uptobox",
+                    "icon": "<img src=\"/static/img/hoster_logos/uptobox.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F6D90CE3C7",
+                            "link": "https://filecrypt.cc/Container/F6D90CE3C7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/013B821973",
+                            "link": "https://filecrypt.cc/Container/013B821973"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

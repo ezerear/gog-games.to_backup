@@ -1,0 +1,72 @@
+{
+    "href": "/game/silent_hill_4_the_room",
+    "MSG": {
+        "id": "1141086411",
+        "title": "Silent Hill 4: The Room",
+        "slug": "silent_hill_4_the_room",
+        "thumb_id": "90a13d2a30fdd3b3da2ccd06a592ba4eb6c25e8bf7d6121eb88b6b6460ae4058",
+        "bg_id": "a752001d53ee976b54d9fcf233f3c868d7e3473106e35878b2a9fa5d95d30ed4",
+        "url": "https://www.gog.com/game/silent_hill_4_the_room",
+        "developer": "Team Silent",
+        "publisher": "Konami Digital Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710198513",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_silent_hill_4_the_room_1.0_amd_rdna_fix_(52933)-1.bin",
+                    "size": "2538605450"
+                },
+                {
+                    "name": "setup_silent_hill_4_the_room_1.0_amd_rdna_fix_(52933).exe",
+                    "size": "934312"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B55194146B",
+                            "link": "https://filecrypt.cc/Container/B55194146B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/72471ECCA1",
+                            "link": "https://filecrypt.cc/Container/72471ECCA1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/552E9319F8",
+                            "link": "https://filecrypt.cc/Container/552E9319F8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

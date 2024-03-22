@@ -1,0 +1,61 @@
+{
+    "href": "/game/voodoo_kid",
+    "MSG": {
+        "id": "1973188470",
+        "title": "Voodoo Kid",
+        "slug": "voodoo_kid",
+        "thumb_id": "a789ba1bacfdfe3149c740e80b39009bfce8baeb939df4084a7407ed78d05f3e",
+        "bg_id": "fecaba7b567be92aa161603613d563faba085a68d66e25328ab193982bc941ef",
+        "url": "https://www.gog.com/game/voodoo_kid",
+        "developer": "Infogrames Studios",
+        "publisher": "Digital Theory",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709514412",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_voodoo_kid_1.0.2_(45505)-1.bin",
+                    "size": "1850201557"
+                },
+                {
+                    "name": "setup_voodoo_kid_1.0.2_(45505).exe",
+                    "size": "898264"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4A153A3159",
+                            "link": "https://filecrypt.cc/Container/4A153A3159"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2445A7A05F",
+                            "link": "https://filecrypt.cc/Container/2445A7A05F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

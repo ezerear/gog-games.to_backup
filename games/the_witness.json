@@ -1,0 +1,72 @@
+{
+    "href": "/game/the_witness",
+    "MSG": {
+        "id": "1461060839",
+        "title": "The Witness",
+        "slug": "the_witness",
+        "thumb_id": "1b3bfd1936a1ffb897068ad07a2b3ecfc85346abaff701d78dc1a35419bcfa3a",
+        "bg_id": "c36e92dc661f37d09f6d02188a082b792dfb61bc988180f204c06bac41c7f03f",
+        "url": "https://www.gog.com/game/the_witness",
+        "developer": "Number None",
+        "publisher": "Number None",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708761187",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_witness_21-12-2017_(19091)-1.bin",
+                    "size": "3975761359"
+                },
+                {
+                    "name": "setup_the_witness_21-12-2017_(19091).exe",
+                    "size": "815112"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8BCE7D3EA1",
+                            "link": "https://filecrypt.cc/Container/8BCE7D3EA1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F7D3A8E924",
+                            "link": "https://filecrypt.cc/Container/F7D3A8E924"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0B18FB3C37",
+                            "link": "https://filecrypt.cc/Container/0B18FB3C37"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

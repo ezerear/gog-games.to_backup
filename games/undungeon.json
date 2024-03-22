@@ -1,0 +1,105 @@
+{
+    "href": "/game/undungeon",
+    "MSG": {
+        "id": "1925512696",
+        "title": "Undungeon",
+        "slug": "undungeon",
+        "thumb_id": "6f8b359f063b42a45f4cf4d12dca12593d073826c8430ba2273caebc66919336",
+        "bg_id": "8e5eef3b6c1381ad37240836ada167d73a8b0a522c98d73ebde9a7a8e650c4bb",
+        "url": "https://www.gog.com/game/undungeon",
+        "developer": "Laughing Machines",
+        "publisher": "tinyBuild",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1693098207",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_undungeon_1.0.12_(52906)-1.bin",
+                    "size": "1716699251"
+                },
+                {
+                    "name": "setup_undungeon_1.0.12_(52906).exe",
+                    "size": "1011472"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EFD1ED71AC",
+                            "link": "https://filecrypt.cc/Container/EFD1ED71AC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/516349CC50",
+                            "link": "https://filecrypt.cc/Container/516349CC50"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CB32BC6129",
+                            "link": "https://filecrypt.cc/Container/CB32BC6129"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/37D7FB6922",
+                            "link": "https://filecrypt.cc/Container/37D7FB6922"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/59888B5816",
+                            "link": "https://filecrypt.cc/Container/59888B5816"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0EA9D62770",
+                            "link": "https://filecrypt.cc/Container/0EA9D62770"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

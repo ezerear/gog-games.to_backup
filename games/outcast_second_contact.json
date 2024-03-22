@@ -1,0 +1,76 @@
+{
+    "href": "/game/outcast_second_contact",
+    "MSG": {
+        "id": "2109390794",
+        "title": "Outcast - Second Contact",
+        "slug": "outcast_second_contact",
+        "thumb_id": "f5774206dc2f16503745180921e533da918c3e6361d22a045fb098f0126a3908",
+        "bg_id": "2009090c8823509f0e867efbd5f5929b6b134c72e86494fe51ad90e3c5c1f0b3",
+        "url": "https://www.gog.com/game/outcast_second_contact",
+        "developer": "Appeal",
+        "publisher": "Plug In Digital",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708543636",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_outcast_-_second_contact_gog-2_(18321)-1.bin",
+                    "size": "4294220798"
+                },
+                {
+                    "name": "setup_outcast_-_second_contact_gog-2_(18321)-2.bin",
+                    "size": "1534644175"
+                },
+                {
+                    "name": "setup_outcast_-_second_contact_gog-2_(18321).exe",
+                    "size": "753688"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4F9A540B5B",
+                            "link": "https://filecrypt.cc/Container/4F9A540B5B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0B3B1AB558",
+                            "link": "https://filecrypt.cc/Container/0B3B1AB558"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CB121DAC22",
+                            "link": "https://filecrypt.cc/Container/CB121DAC22"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

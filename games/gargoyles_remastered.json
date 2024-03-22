@@ -1,0 +1,105 @@
+{
+    "href": "/game/gargoyles_remastered",
+    "MSG": {
+        "id": "1092632361",
+        "title": "Gargoyles Remastered",
+        "slug": "gargoyles_remastered",
+        "thumb_id": "e90bc27f0dcb29496fdbaed2dc9f9b9dc2efce964c8b319225f9b9b74377b961",
+        "bg_id": "246c7983674858a87040b0223ef04ec7ace929289812bb17a458482471a507b9",
+        "url": "https://www.gog.com/en/game/gargoyles_remastered",
+        "developer": "Empty Clip Studios",
+        "publisher": "Disney",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1697996066",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_gargoyles_remastered_1.01.00_(68327)-1.bin",
+                    "size": "1906151474"
+                },
+                {
+                    "name": "setup_gargoyles_remastered_1.01.00_(68327).exe",
+                    "size": "817320"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/05CEA33C17",
+                            "link": "https://filecrypt.cc/Container/05CEA33C17"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A95EFC3FAD",
+                            "link": "https://filecrypt.cc/Container/A95EFC3FAD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/454F2EA11E",
+                            "link": "https://filecrypt.cc/Container/454F2EA11E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5DD2770ED7",
+                            "link": "https://filecrypt.cc/Container/5DD2770ED7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EEA90D5AE3",
+                            "link": "https://filecrypt.cc/Container/EEA90D5AE3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/86D073DEAA",
+                            "link": "https://filecrypt.cc/Container/86D073DEAA"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

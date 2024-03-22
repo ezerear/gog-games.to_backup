@@ -1,0 +1,68 @@
+{
+    "href": "/game/chronomaster",
+    "MSG": {
+        "id": "1093622919",
+        "title": "Chronomaster",
+        "slug": "chronomaster",
+        "thumb_id": "e33479b67cdb7ad05167bfcc1d09b0eca3488abd8e1172bd381e079fbd00873e",
+        "bg_id": "50aec870b0b4941231f0cd89c7ca1870000f8f557a31502fca5639180167f56e",
+        "url": "https://www.gog.com/game/chronomaster",
+        "developer": "Throwback Entertainment",
+        "publisher": "DreamForge Intertainment",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710489207",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_chronomaster_1.0_(51573).exe",
+                    "size": "552349896"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/065840F8F2",
+                            "link": "https://filecrypt.cc/Container/065840F8F2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E7EB9B05AD",
+                            "link": "https://filecrypt.cc/Container/E7EB9B05AD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AEA9FA1C26",
+                            "link": "https://filecrypt.cc/Container/AEA9FA1C26"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

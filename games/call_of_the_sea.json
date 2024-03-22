@@ -1,0 +1,131 @@
+{
+    "href": "/game/call_of_the_sea",
+    "MSG": {
+        "id": "2020854984",
+        "title": "Call of the Sea",
+        "slug": "call_of_the_sea",
+        "thumb_id": "a2b0774c7751e78c69d74251e383aba1770c817ec616e7a41d68ae316b812baf",
+        "bg_id": "d45113b40b765c168d569de6b255d80072cb3b65a9a816ccf5e8b5886a72d618",
+        "url": "https://www.gog.com/game/call_of_the_sea",
+        "developer": "Out of the Blue",
+        "publisher": "Raw Fury",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710055617",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_call_of_the_sea_1.5.15.0_(64bit)_(48714)-1.bin",
+                    "size": "4293712382"
+                },
+                {
+                    "name": "setup_call_of_the_sea_1.5.15.0_(64bit)_(48714)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_call_of_the_sea_1.5.15.0_(64bit)_(48714)-3.bin",
+                    "size": "3884597059"
+                },
+                {
+                    "name": "setup_call_of_the_sea_1.5.15.0_(64bit)_(48714).exe",
+                    "size": "1261080"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "call_of_the_sea_art_book.zip",
+                    "size": "563629325"
+                },
+                {
+                    "name": "call_of_the_sea_ost_flac.zip",
+                    "size": "462131211"
+                },
+                {
+                    "name": "call_of_the_sea_ost_mp3.zip",
+                    "size": "190363552"
+                },
+                {
+                    "name": "call_of_the_sea_ost_wav.zip",
+                    "size": "708166362"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4DF4F1346C",
+                            "link": "https://filecrypt.cc/Container/4DF4F1346C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2D8D027ACF",
+                            "link": "https://filecrypt.cc/Container/2D8D027ACF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/46C2D30C13",
+                            "link": "https://filecrypt.cc/Container/46C2D30C13"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FE3D0BDEAC",
+                            "link": "https://filecrypt.cc/Container/FE3D0BDEAC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1184D7D2EF",
+                            "link": "https://filecrypt.cc/Container/1184D7D2EF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/249244ED42",
+                            "link": "https://filecrypt.cc/Container/249244ED42"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

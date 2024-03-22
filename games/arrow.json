@@ -1,0 +1,90 @@
+{
+    "href": "/game/arrow",
+    "MSG": {
+        "id": "1148495748",
+        "title": "ARROW",
+        "slug": "arrow",
+        "thumb_id": "38ce7707c08e2b339741caaad620976419d70d87e8137c9e5fb87d4bfb9c4147",
+        "bg_id": "9e444b1a09bb1a20b0a44de2f60b1e9bcffe362646556b1e5105f447460b353a",
+        "url": "https://www.gog.com/en/game/arrow",
+        "developer": "Alexis Clemente",
+        "publisher": "AleC Games",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1695882612",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_arrow_1.2_(67606).exe",
+                    "size": "15117128"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1830DD2767",
+                            "link": "https://filecrypt.cc/Container/1830DD2767"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8546AA3FD4",
+                            "link": "https://filecrypt.cc/Container/8546AA3FD4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/72114A6B61",
+                            "link": "https://filecrypt.cc/Container/72114A6B61"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5E375B3840",
+                            "link": "https://filecrypt.cc/Container/5E375B3840"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1C008B1818",
+                            "link": "https://filecrypt.cc/Container/1C008B1818"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

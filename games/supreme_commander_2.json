@@ -1,0 +1,80 @@
+{
+    "href": "/game/supreme_commander_2",
+    "MSG": {
+        "id": "1702120068",
+        "title": "Supreme Commander 2",
+        "slug": "supreme_commander_2",
+        "thumb_id": "7d76fd34cc80d5340c8c335eddef1a09effef24945ab471ad1f869cb45c7dd2f",
+        "bg_id": "feddd5fa3751cd70780ce58dd099ff9aec699dec800c41d01bc11130e3895cb0",
+        "url": "https://www.gog.com/game/supreme_commander_2",
+        "developer": "Gas Powered Games",
+        "publisher": "Square Enix",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710729718",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_supreme_commander_2_1.260_(38746)-1.bin",
+                    "size": "4293951486"
+                },
+                {
+                    "name": "setup_supreme_commander_2_1.260_(38746)-2.bin",
+                    "size": "180990801"
+                },
+                {
+                    "name": "setup_supreme_commander_2_1.260_(38746).exe",
+                    "size": "1023032"
+                },
+                {
+                    "name": "setup_supreme_commander_2_infinite_war_battle_pack_1.260_(38746).exe",
+                    "size": "568809048"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/177498EDC9",
+                            "link": "https://filecrypt.cc/Container/177498EDC9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F57E27085D",
+                            "link": "https://filecrypt.cc/Container/F57E27085D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9A55F30018",
+                            "link": "https://filecrypt.cc/Container/9A55F30018"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

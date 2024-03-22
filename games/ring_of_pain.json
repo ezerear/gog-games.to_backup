@@ -1,0 +1,90 @@
+{
+    "href": "/game/ring_of_pain",
+    "MSG": {
+        "id": "1560788829",
+        "title": "Ring of Pain",
+        "slug": "ring_of_pain",
+        "thumb_id": "875d4be64e8fb99449516b3e68f3519d7e7a7e4f8803204c5b3723a399cd7804",
+        "bg_id": "f0d78f61ac4b6cf7c3f785440b98fb761be603cee7d2495b67a2e19ccd0e4535",
+        "url": "https://www.gog.com/game/ring_of_pain",
+        "developer": "Simon Boxer, Twice Different",
+        "publisher": "Humble Games",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1705629492",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_ring_of_pain_1.6.02_(68717).exe",
+                    "size": "657844136"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/25838B4C22",
+                            "link": "https://filecrypt.cc/Container/25838B4C22"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DB781F5456",
+                            "link": "https://filecrypt.cc/Container/DB781F5456"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/80CE2974D0",
+                            "link": "https://filecrypt.cc/Container/80CE2974D0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B8F3C0FE03",
+                            "link": "https://filecrypt.cc/Container/B8F3C0FE03"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3F6C6A1BD8",
+                            "link": "https://filecrypt.cc/Container/3F6C6A1BD8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

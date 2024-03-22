@@ -1,0 +1,80 @@
+{
+    "href": "/game/myst_base",
+    "MSG": {
+        "id": "1251226620",
+        "title": "Myst",
+        "slug": "myst_base",
+        "thumb_id": "6eabdc67b804bf700e65c653bda0a7df934386741660845f7dd61c08a6f7bd3b",
+        "bg_id": "25003d3aed7cfbe93ea1eb8ab4da4989e1c3ea43c98308a48b7f996f36fa18fa",
+        "url": "https://www.gog.com/game/myst",
+        "developer": "Cyan Worlds",
+        "publisher": "Cyan Worlds",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708123820",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_myst_1.8.6_(64bit)_(61701)-1.bin",
+                    "size": "4294043134"
+                },
+                {
+                    "name": "setup_myst_1.8.6_(64bit)_(61701)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_myst_1.8.6_(64bit)_(61701)-3.bin",
+                    "size": "643078897"
+                },
+                {
+                    "name": "setup_myst_1.8.6_(64bit)_(61701).exe",
+                    "size": "934184"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B02585C5F6",
+                            "link": "https://filecrypt.cc/Container/B02585C5F6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B61BF96AF7",
+                            "link": "https://filecrypt.cc/Container/B61BF96AF7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1812BFF3F9",
+                            "link": "https://filecrypt.cc/Container/1812BFF3F9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

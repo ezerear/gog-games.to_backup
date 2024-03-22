@@ -1,0 +1,149 @@
+{
+    "href": "/game/tsioque",
+    "MSG": {
+        "id": "1645340422",
+        "title": "TSIOQUE",
+        "slug": "tsioque",
+        "thumb_id": "630a44d553aeb83f0cf09b5a6b01b1eefa0db0f02f919efca74b01e7bda6bc0d",
+        "bg_id": "5c741d4572a6a706685e107114f18caae4db97ba766f6adbf342928cabcc2d97",
+        "url": "https://www.gog.com/game/tsioque",
+        "developer": "OhNoo Studio, Smile",
+        "publisher": "OhNoo Studio",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1685418055",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tsioque_1.2.1.0_(30491).exe",
+                    "size": "1045063112"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "Artbook_Tsioque.app.zip",
+                    "size": "14021623"
+                },
+                {
+                    "name": "Artbook_Tsioque_exe.zip",
+                    "size": "2866296"
+                },
+                {
+                    "name": "ebook.zip",
+                    "size": "215824868"
+                },
+                {
+                    "name": "Tsioque_Artbook_pdf.zip",
+                    "size": "90495844"
+                },
+                {
+                    "name": "Tsioque_OST_FLAC.zip",
+                    "size": "668039412"
+                },
+                {
+                    "name": "Tsioque_OST_mp3.zip",
+                    "size": "375799162"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E23D0B0683",
+                            "link": "https://filecrypt.cc/Container/E23D0B0683"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/35EF8455BF",
+                            "link": "https://filecrypt.cc/Container/35EF8455BF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/82E0EAD1DA",
+                            "link": "https://filecrypt.cc/Container/82E0EAD1DA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A125DA0157",
+                            "link": "https://filecrypt.cc/Container/A125DA0157"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/76F033F3CF",
+                            "link": "https://filecrypt.cc/Container/76F033F3CF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B240AD23DD",
+                            "link": "https://filecrypt.cc/Container/B240AD23DD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B396BA2061",
+                            "link": "https://filecrypt.cc/Container/B396BA2061"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F069878575",
+                            "link": "https://filecrypt.cc/Container/F069878575"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

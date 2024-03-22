@@ -1,0 +1,76 @@
+{
+    "href": "/game/thief_simulator",
+    "MSG": {
+        "id": "2020235723",
+        "title": "Thief Simulator",
+        "slug": "thief_simulator",
+        "thumb_id": "da02ed08a5c7f9bf9bfb6a5f60ae00db1c56cdefa845d5d61b87732bb32dad29",
+        "bg_id": "c6412871f0b8e6bd2a8b3b8e6bc1262666a008d4666ff18be268278cdca1ff58",
+        "url": "https://www.gog.com/game/thief_simulator",
+        "developer": " Noble Muffins",
+        "publisher": "PlayWay",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710332429",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_thief_simulator_1.7.1_(64bit)_(67018)-1.bin",
+                    "size": "4294052862"
+                },
+                {
+                    "name": "setup_thief_simulator_1.7.1_(64bit)_(67018)-2.bin",
+                    "size": "381038854"
+                },
+                {
+                    "name": "setup_thief_simulator_1.7.1_(64bit)_(67018).exe",
+                    "size": "924696"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F0B7B5076F",
+                            "link": "https://filecrypt.cc/Container/F0B7B5076F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B414B22020",
+                            "link": "https://filecrypt.cc/Container/B414B22020"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E07F074E0A",
+                            "link": "https://filecrypt.cc/Container/E07F074E0A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

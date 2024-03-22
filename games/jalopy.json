@@ -1,0 +1,68 @@
+{
+    "href": "/game/jalopy",
+    "MSG": {
+        "id": "1268302405",
+        "title": "Jalopy",
+        "slug": "jalopy",
+        "thumb_id": "eccabeb2ed31fa10c3b291dae28d7eba9af83899ccf84d77e578234ea42ea54f",
+        "bg_id": "d0bc346b682f981cbf3d66743b6225fdbd51d83847ad28e13b5add9104ccc2de",
+        "url": "https://www.gog.com/game/jalopy",
+        "developer": "Greg Pryjmachuk",
+        "publisher": "Excalibur Games",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1709551506",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_jalopy_1.104_(30663).exe",
+                    "size": "343837704"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7EBF93394C",
+                            "link": "https://filecrypt.cc/Container/7EBF93394C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3BF0E59672",
+                            "link": "https://filecrypt.cc/Container/3BF0E59672"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/90FF542E68",
+                            "link": "https://filecrypt.cc/Container/90FF542E68"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

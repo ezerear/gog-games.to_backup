@@ -1,0 +1,72 @@
+{
+    "href": "/game/eris_dysnomia",
+    "MSG": {
+        "id": "2065701679",
+        "title": "Eris Dysnomia",
+        "slug": "eris_dysnomia",
+        "thumb_id": "9a9a01ac62683ad5cc3ca7c564bd6fceb2ea68a1b80f0e3a06b183caa4208f7b",
+        "bg_id": "3d659ad4be4194a07289352438c7d24436bf8e355955c079c84c5404b8e5cf3d",
+        "url": "https://www.gog.com/en/game/eris_dysnomia",
+        "developer": "Above a Damage Tile",
+        "publisher": "Kagura Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710755842",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_eris_dysnomia_1.0_(66874).exe",
+                    "size": "65536248"
+                },
+                {
+                    "name": "setup_eris_dysnomia_unrated_1.0_(66874).exe",
+                    "size": "72922464"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C36D59240F",
+                            "link": "https://filecrypt.cc/Container/C36D59240F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E64515E47F",
+                            "link": "https://filecrypt.cc/Container/E64515E47F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5D9B83BBAA",
+                            "link": "https://filecrypt.cc/Container/5D9B83BBAA"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

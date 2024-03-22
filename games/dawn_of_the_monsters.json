@@ -1,0 +1,94 @@
+{
+    "href": "/game/dawn_of_the_monsters",
+    "MSG": {
+        "id": "2057536907",
+        "title": "Dawn of the Monsters",
+        "slug": "dawn_of_the_monsters",
+        "thumb_id": "81d85cb2f023fd6c2fd03f0c55380912bf05009c460929f7d49a0e7b0a8d8ec4",
+        "bg_id": "63c205da05fac848f9ed15ec092d2d0139e4bd3379f070ecd24f2756e65e7548",
+        "url": "https://www.gog.com/en/game/dawn_of_the_monsters",
+        "developer": "13AM Games, WayForward",
+        "publisher": "WayForward",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707428996",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dawn_of_the_monsters_1.00_(64bit)_(55628)-1.bin",
+                    "size": "2044409819"
+                },
+                {
+                    "name": "setup_dawn_of_the_monsters_1.00_(64bit)_(55628).exe",
+                    "size": "893392"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/06E7544D13",
+                            "link": "https://filecrypt.cc/Container/06E7544D13"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D16984F670",
+                            "link": "https://filecrypt.cc/Container/D16984F670"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4FCEBD8E5F",
+                            "link": "https://filecrypt.cc/Container/4FCEBD8E5F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5DB7206420",
+                            "link": "https://filecrypt.cc/Container/5DB7206420"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A33F78934D",
+                            "link": "https://filecrypt.cc/Container/A33F78934D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,79 @@
+{
+    "href": "/game/bad_dream_fever",
+    "MSG": {
+        "id": "1297501772",
+        "title": "Bad Dream: Fever",
+        "slug": "bad_dream_fever",
+        "thumb_id": "b232f1356a845450ba784c3ed0142be7d7084e0fac1f46cc43d7d921c78e6bc6",
+        "bg_id": "eda3183703a9eeeb8d4aa675c28863179724fb6d57a93654957a7030c3cd7441",
+        "url": "https://www.gog.com/game/bad_dream_fever",
+        "developer": "Desert Fox",
+        "publisher": "PlayWay S.A., Ultimate Games S.A.",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1683682651",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_bad_dream_fever_1.0_(26985).exe",
+                    "size": "452158224"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E26AF895BA",
+                            "link": "https://filecrypt.cc/Container/E26AF895BA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0D7214B4DE",
+                            "link": "https://filecrypt.cc/Container/0D7214B4DE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D25C162FB0",
+                            "link": "https://filecrypt.cc/Container/D25C162FB0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C8E8B864F1",
+                            "link": "https://filecrypt.cc/Container/C8E8B864F1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

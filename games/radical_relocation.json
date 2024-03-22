@@ -1,0 +1,72 @@
+{
+    "href": "/game/radical_relocation",
+    "MSG": {
+        "id": "1235927220",
+        "title": "Radical Relocation",
+        "slug": "radical_relocation",
+        "thumb_id": "6a7e7ec8e02cdbbd109573ceb86c9acd88201294599cd5e0be84e75de1b4dccb",
+        "bg_id": "fdb0b8cddba47cd043a2f0516241bbf656fc519564802348a2c7f7112347df2b",
+        "url": "https://www.gog.com/game/radical_relocation",
+        "developer": "Winglett Entertainment",
+        "publisher": "Iceberg Interactive",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1705242049",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_radical_relocation_1.5.0_(46618)-1.bin",
+                    "size": "4196639237"
+                },
+                {
+                    "name": "setup_radical_relocation_1.5.0_(46618).exe",
+                    "size": "957456"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/137816E121",
+                            "link": "https://filecrypt.cc/Container/137816E121"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B69208E19B",
+                            "link": "https://filecrypt.cc/Container/B69208E19B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/38F60B1EDE",
+                            "link": "https://filecrypt.cc/Container/38F60B1EDE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

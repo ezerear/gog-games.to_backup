@@ -1,0 +1,72 @@
+{
+    "href": "/game/born_of_bread",
+    "MSG": {
+        "id": "1858989768",
+        "title": "Born of Bread",
+        "slug": "born_of_bread",
+        "thumb_id": "75d52d60fa0b20722e63bdf93075b9eb19c7908caad7b66ff8ec37d86d4744ac",
+        "bg_id": "282591d6b078a2488ed4a53226a480a6bf74e524ad7e736c6f020d9ed52991c1",
+        "url": "https://www.gog.com/en/game/born_of_bread",
+        "developer": "WildArts Studio Inc.",
+        "publisher": "Dear Villagers",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709337414",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_born_of_bread_r3.1.6d_(64bit)_(71323)-1.bin",
+                    "size": "3704295727"
+                },
+                {
+                    "name": "setup_born_of_bread_r3.1.6d_(64bit)_(71323).exe",
+                    "size": "848936"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/19263744A4",
+                            "link": "https://filecrypt.cc/Container/19263744A4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/225AC8D02B",
+                            "link": "https://filecrypt.cc/Container/225AC8D02B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D2D88124FF",
+                            "link": "https://filecrypt.cc/Container/D2D88124FF"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

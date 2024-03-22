@@ -1,0 +1,68 @@
+{
+    "href": "/game/project_mirror",
+    "MSG": {
+        "id": "2059257291",
+        "title": "Project: Mirror",
+        "slug": "project_mirror",
+        "thumb_id": "5dd54a0ae5fec89d5b276bcd776720be12f58a74028bc84f2062a14da8f7aeed",
+        "bg_id": "c08d506884684f94fed94fa3826f461550be59a3f2763e859deb74e177c755af",
+        "url": "https://www.gog.com/en/game/project_mirror",
+        "developer": "430Games",
+        "publisher": "MediBang Inc.",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709188621",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_project_mirror_1.0_(67275).exe",
+                    "size": "659271704"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/317FF07145",
+                            "link": "https://filecrypt.cc/Container/317FF07145"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0B28DA43FA",
+                            "link": "https://filecrypt.cc/Container/0B28DA43FA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D51AC288F7",
+                            "link": "https://filecrypt.cc/Container/D51AC288F7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,119 @@
+{
+    "href": "/game/etherborn",
+    "MSG": {
+        "id": "1413035173",
+        "title": "Etherborn",
+        "slug": "etherborn",
+        "thumb_id": "3d844ab2ec6b6a116f07ec2df7d31c3b8611d6040633e9ded22f455b186a21b8",
+        "bg_id": "93e424e8f45bd9908bc80c63c3706cbbeaba650a7ebe5c08e65a91f097b210ec",
+        "url": "https://www.gog.com/game/etherborn",
+        "developer": "Altered Matter",
+        "publisher": "Altered Matter",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710425105",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_etherborn_1.0.3_(64bit)_(37890).exe",
+                    "size": "1254976784"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "etherborn_artbook.zip",
+                    "size": "30112735"
+                },
+                {
+                    "name": "etherborn_ost_flac.zip",
+                    "size": "405506013"
+                },
+                {
+                    "name": "etherborn_ost_mp3.zip",
+                    "size": "214079325"
+                },
+                {
+                    "name": "etherborn_ost_wav.zip",
+                    "size": "722538969"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/88C3B9EB31",
+                            "link": "https://filecrypt.cc/Container/88C3B9EB31"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/918971209D",
+                            "link": "https://filecrypt.cc/Container/918971209D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8E104A43C3",
+                            "link": "https://filecrypt.cc/Container/8E104A43C3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DFBF160E11",
+                            "link": "https://filecrypt.cc/Container/DFBF160E11"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A0B48C4B04",
+                            "link": "https://filecrypt.cc/Container/A0B48C4B04"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ED1183A47D",
+                            "link": "https://filecrypt.cc/Container/ED1183A47D"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

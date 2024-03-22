@@ -1,0 +1,93 @@
+{
+    "href": "/game/ziggurat_2",
+    "MSG": {
+        "id": "1427459497",
+        "title": "Ziggurat 2",
+        "slug": "ziggurat_2",
+        "thumb_id": "474fdb079b5cd6c9dcbf4e5041275730f6263d163a6f8878c870194aca4551f8",
+        "bg_id": "7877a872c1a094b347b831e44a704fbd58dc4b5ad6980367a5324805b8d54b96",
+        "url": "https://www.gog.com/game/ziggurat_2",
+        "developer": "Milkstone Studios",
+        "publisher": "Milkstone Studios",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710171421",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_ziggurat_2_-_supporter_pack_09012023_11270867_(61570).exe",
+                    "size": "5704584"
+                },
+                {
+                    "name": "setup_ziggurat_2_09012023_11270867_(61570).exe",
+                    "size": "957348528"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "ziggurat_2_ost_flac.zip",
+                    "size": "473084262"
+                },
+                {
+                    "name": "ziggurat_2_ost_mp3.zip",
+                    "size": "145803231"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C6441B5D58",
+                            "link": "https://filecrypt.cc/Container/C6441B5D58"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3C5DF21831",
+                            "link": "https://filecrypt.cc/Container/3C5DF21831"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F61B0D044C",
+                            "link": "https://filecrypt.cc/Container/F61B0D044C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C4FEC24004",
+                            "link": "https://filecrypt.cc/Container/C4FEC24004"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

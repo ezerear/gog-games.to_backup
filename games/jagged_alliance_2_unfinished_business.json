@@ -1,0 +1,97 @@
+{
+    "href": "/game/jagged_alliance_2_unfinished_business",
+    "MSG": {
+        "id": "1207658653",
+        "title": "Jagged Alliance 2: Unfinished Business",
+        "slug": "jagged_alliance_2_unfinished_business",
+        "thumb_id": "0c2ef766b369ce4921df6353fa99aead0eebdec49d53ccf3b3a14046b303c3b9",
+        "bg_id": "3f498f654b978b39726d025be4053eb39db84457156e52ffbc7470a1e2bba3f9",
+        "url": "https://www.gog.com/game/jagged_alliance_2_unfinished_business",
+        "developer": "Sir-Tech Software",
+        "publisher": "Interplay",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710165429",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_ja2_-_unfinished_business_1.01_(17724).exe",
+                    "size": "467307224"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "ja_2_ub_manual.zip",
+                    "size": "472872"
+                },
+                {
+                    "name": "ja_2_ub_wallpaper.zip",
+                    "size": "7067028"
+                },
+                {
+                    "name": "ja_ub_artworks.zip",
+                    "size": "6512782"
+                },
+                {
+                    "name": "ja_wf_avatars.zip",
+                    "size": "93619"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/65303529BE",
+                            "link": "https://filecrypt.cc/Container/65303529BE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EA4A02C5FD",
+                            "link": "https://filecrypt.cc/Container/EA4A02C5FD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7420BB9A53",
+                            "link": "https://filecrypt.cc/Container/7420BB9A53"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BBC09CC094",
+                            "link": "https://filecrypt.cc/Container/BBC09CC094"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

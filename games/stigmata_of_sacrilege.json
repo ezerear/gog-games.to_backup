@@ -1,0 +1,72 @@
+{
+    "href": "/game/stigmata_of_sacrilege",
+    "MSG": {
+        "id": "1434436730",
+        "title": "Stigmata of Sacrilege",
+        "slug": "stigmata_of_sacrilege",
+        "thumb_id": "9397366bf72edca2752ff9c0dba171afc988f1ef7f56ff1b6940506c8cc82d72",
+        "bg_id": "23589e621eb06b462e8f63fa02024bfa058af407bc49b73c653a2fbc85a638a8",
+        "url": "https://www.gog.com/en/game/stigmata_of_sacrilege",
+        "developer": "Kleitos",
+        "publisher": "Kagura Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1689061787",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_stigmata_of_sacrilege_unrated_v1_(en_1.00_cn_1.01)_(63808).exe",
+                    "size": "112861296"
+                },
+                {
+                    "name": "setup_stigmata_of_sacrilege_v1_(en_1.00_cn_1.01)_(63808).exe",
+                    "size": "211984168"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EC9D8D08F4",
+                            "link": "https://filecrypt.cc/Container/EC9D8D08F4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4DF4D14ACF",
+                            "link": "https://filecrypt.cc/Container/4DF4D14ACF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7881538A4D",
+                            "link": "https://filecrypt.cc/Container/7881538A4D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

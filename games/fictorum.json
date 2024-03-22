@@ -1,0 +1,119 @@
+{
+    "href": "/game/fictorum",
+    "MSG": {
+        "id": "1804802122",
+        "title": "Fictorum",
+        "slug": "fictorum",
+        "thumb_id": "14dfa893d38302a4f609f8cd9bea96bab640541565ea5d1bf9a8998d41268c66",
+        "bg_id": "a82c62117ca56743ec53cf774fe5f52ef0845c87956f2b68947898494608d55d",
+        "url": "https://www.gog.com/game/fictorum",
+        "developer": "Scraping Bottom Games",
+        "publisher": "Scraping Bottom Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710824716",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_fictorum_2.2.12a_(64bit)_(58249)-1.bin",
+                    "size": "4294050814"
+                },
+                {
+                    "name": "setup_fictorum_2.2.12a_(64bit)_(58249)-2.bin",
+                    "size": "603565147"
+                },
+                {
+                    "name": "setup_fictorum_2.2.12a_(64bit)_(58249).exe",
+                    "size": "926328"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "ficotrium_ost_mp3.zip",
+                    "size": "74407857"
+                },
+                {
+                    "name": "fictorum_ost_wav.zip",
+                    "size": "434753817"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8621BB6030",
+                            "link": "https://filecrypt.cc/Container/8621BB6030"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4063DFCD3A",
+                            "link": "https://filecrypt.cc/Container/4063DFCD3A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A8E0BA0C83",
+                            "link": "https://filecrypt.cc/Container/A8E0BA0C83"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/95247B8F89",
+                            "link": "https://filecrypt.cc/Container/95247B8F89"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/44E30645D0",
+                            "link": "https://filecrypt.cc/Container/44E30645D0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1E2A52A4AF",
+                            "link": "https://filecrypt.cc/Container/1E2A52A4AF"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

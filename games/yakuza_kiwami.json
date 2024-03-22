@@ -1,0 +1,77 @@
+{
+    "href": "/game/yakuza_kiwami",
+    "MSG": {
+        "id": "1951443960",
+        "title": "Yakuza Kiwami",
+        "slug": "yakuza_kiwami",
+        "thumb_id": "33bf15f48c3277b8221e431c1fe515b5fc6c1e73e9dd91f03cdf6df15ff0410a",
+        "bg_id": "44e1b337383f8a9a3453ae6cca0cd3f5903122045923daa3f8a56faf9111f92f",
+        "url": "https://www.gog.com/en/game/yakuza_kiwami",
+        "developer": "Ryu Ga Gotoku Studio",
+        "publisher": "SEGA",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710165327",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_yakuza_kiwami_1.011a_(64bit)_(65330)-1.bin",
+                    "size": "4293547006"
+                },
+                {
+                    "name": "setup_yakuza_kiwami_1.011a_(64bit)_(65330)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_yakuza_kiwami_1.011a_(64bit)_(65330)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_yakuza_kiwami_1.011a_(64bit)_(65330)-4.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_yakuza_kiwami_1.011a_(64bit)_(65330)-5.bin",
+                    "size": "2126944661"
+                },
+                {
+                    "name": "setup_yakuza_kiwami_1.011a_(64bit)_(65330).exe",
+                    "size": "1430576"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8002A01EDF",
+                            "link": "https://filecrypt.cc/Container/8002A01EDF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D01C39A25D",
+                            "link": "https://filecrypt.cc/Container/D01C39A25D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

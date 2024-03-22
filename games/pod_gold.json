@@ -1,0 +1,111 @@
+{
+    "href": "/game/pod_gold",
+    "MSG": {
+        "id": "1207658970",
+        "title": "POD Gold",
+        "slug": "pod_gold",
+        "thumb_id": "a94a758c29362f27eb528b2a8f8b70f1d7e9dd3a6439d3ff7678782964116d37",
+        "bg_id": "106e941a263470d1484a9ceb5506734add49b09c95a4e40c7928807665c9be65",
+        "url": "https://www.gog.com/game/pod_gold",
+        "developer": "Ubisoft",
+        "publisher": "Ubisoft",
+        "category": "Racing",
+        "uploading": "0",
+        "last_upload": "1708617463",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_pod_2.0.0.19.exe",
+                    "size": "175102040"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "pod_manual.zip",
+                    "size": "60313"
+                },
+                {
+                    "name": "pod_race_music.zip",
+                    "size": "13993237"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/92FBCD19D3",
+                            "link": "https://filecrypt.cc/Container/92FBCD19D3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4F359646AA",
+                            "link": "https://filecrypt.cc/Container/4F359646AA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/758311BAE4",
+                            "link": "https://filecrypt.cc/Container/758311BAE4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/10F0DE518E",
+                            "link": "https://filecrypt.cc/Container/10F0DE518E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/486742EB7D",
+                            "link": "https://filecrypt.cc/Container/486742EB7D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/742A655597",
+                            "link": "https://filecrypt.cc/Container/742A655597"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/narita_boy",
+    "MSG": {
+        "id": "2029460067",
+        "title": "Narita Boy",
+        "slug": "narita_boy",
+        "thumb_id": "381ff77fa8bcf9abe8d94152d61c1092dc5a4871f89fb3101cf58675c09f7295",
+        "bg_id": "bd91b6a1250f39ca2e34b08f3a90e58f37f4258b2facfa7f052194d2db6a408b",
+        "url": "https://www.gog.com/game/narita_boy",
+        "developer": "Studio Koba",
+        "publisher": "Team17 Digital LTD.",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709801371",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_narita_boy_nb_release.v1.0.1.61_release_build_(46523).exe",
+                    "size": "1497180592"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6AC8132E05",
+                            "link": "https://filecrypt.cc/Container/6AC8132E05"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9490EF13BD",
+                            "link": "https://filecrypt.cc/Container/9490EF13BD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DBC58E455E",
+                            "link": "https://filecrypt.cc/Container/DBC58E455E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

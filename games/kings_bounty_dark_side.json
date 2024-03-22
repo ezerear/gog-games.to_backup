@@ -1,0 +1,113 @@
+{
+    "href": "/game/kings_bounty_dark_side",
+    "MSG": {
+        "id": "1420812121",
+        "title": "King's Bounty: Dark Side",
+        "slug": "kings_bounty_dark_side",
+        "thumb_id": "90290c5416eaf6ce50f44662b9202ebf49bd1ab35389f4b7d0306a67cc7508b2",
+        "bg_id": "99360cf915297b7a7250453afde575bfba78874687d522158b320a642e853afc",
+        "url": "https://www.gog.com/game/kings_bounty_dark_side",
+        "developer": "1C-Softclub",
+        "publisher": "1C Publishing",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710141376",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_kings_bounty_dark_side_1.5_(15533)-1.bin",
+                    "size": "4026737450"
+                },
+                {
+                    "name": "setup_kings_bounty_dark_side_1.5_(15533).exe",
+                    "size": "1315720"
+                },
+                {
+                    "name": "setup_kings_bounty_dark_side_premium_edition_1.5_(15533).exe",
+                    "size": "8293088"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "kings_bounty_dark_side_artwork.zip",
+                    "size": "2412796"
+                },
+                {
+                    "name": "kings_bounty_dark_side_avatars.zip",
+                    "size": "594678"
+                },
+                {
+                    "name": "kings_bounty_dark_side_manual.zip",
+                    "size": "14122835"
+                },
+                {
+                    "name": "kings_bounty_dark_side_ost.zip",
+                    "size": "171937520"
+                },
+                {
+                    "name": "kings_bounty_dark_side_sketches.zip",
+                    "size": "6084665"
+                },
+                {
+                    "name": "kings_bounty_dark_side_wallpapers.zip",
+                    "size": "3590245"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CC98EC860B",
+                            "link": "https://filecrypt.cc/Container/CC98EC860B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/378BAF5E50",
+                            "link": "https://filecrypt.cc/Container/378BAF5E50"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EC81FF1FB6",
+                            "link": "https://filecrypt.cc/Container/EC81FF1FB6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/19A897E8AA",
+                            "link": "https://filecrypt.cc/Container/19A897E8AA"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,72 @@
+{
+    "href": "/game/black_forest",
+    "MSG": {
+        "id": "1744859190",
+        "title": "Black Forest",
+        "slug": "black_forest",
+        "thumb_id": "e40064b5ccbf45d3b40fedda2eea88ca092aa85c656f8c7b37d07aad9c8eb8a1",
+        "bg_id": "5474bee5708abd31e91c2e96d4729b7d2102ce73e8dd93f61e509fc1adbcfe39",
+        "url": "https://www.gog.com/en/game/black_forest",
+        "developer": "Lemuria",
+        "publisher": "Freedom Games",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710619796",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_black_forest_2.9_(64bit)_(71863)-1.bin",
+                    "size": "2750644675"
+                },
+                {
+                    "name": "setup_black_forest_2.9_(64bit)_(71863).exe",
+                    "size": "871672"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/771F593848",
+                            "link": "https://filecrypt.cc/Container/771F593848"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0AD55B39D2",
+                            "link": "https://filecrypt.cc/Container/0AD55B39D2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1A151F259B",
+                            "link": "https://filecrypt.cc/Container/1A151F259B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

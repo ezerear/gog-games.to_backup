@@ -1,0 +1,83 @@
+{
+    "href": "/game/pamela",
+    "MSG": {
+        "id": "1350150429",
+        "title": "P.A.M.E.L.A.®",
+        "slug": "pamela",
+        "thumb_id": "72c25599c4bd97ea0e9257822798041f916f9d8480c62364af8d4ecb053b2942",
+        "bg_id": "a5bae4c18ca77f992ff072d7e034aa350a5b4d008662d21912a8a98badcae951",
+        "url": "https://www.gog.com/game/pamelar",
+        "developer": "NVYVE® Studios",
+        "publisher": "NVYVE® Studios",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1684307228",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_p.a.m.e.l.a._1.0.0.5_(64bit)_(39927)-1.bin",
+                    "size": "2625426883"
+                },
+                {
+                    "name": "setup_p.a.m.e.l.a._1.0.0.5_(64bit)_(39927).exe",
+                    "size": "835792"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3A28103349",
+                            "link": "https://filecrypt.cc/Container/3A28103349"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E2526FABD7",
+                            "link": "https://filecrypt.cc/Container/E2526FABD7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F78C7C45D3",
+                            "link": "https://filecrypt.cc/Container/F78C7C45D3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1E46BBB3B2",
+                            "link": "https://filecrypt.cc/Container/1E46BBB3B2"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

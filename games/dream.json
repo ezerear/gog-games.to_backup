@@ -1,0 +1,72 @@
+{
+    "href": "/game/dream",
+    "MSG": {
+        "id": "1437994027",
+        "title": "Dream",
+        "slug": "dream",
+        "thumb_id": "cde63fe9bba14f54537ce7b09cf45177b59d1cdc42b2dccb7eaabc9fa1017bb7",
+        "bg_id": "af2ebebc7ca7f7956aca087779c8894236e81f397028359a4fa653fdc5463f94",
+        "url": "https://www.gog.com/game/dream",
+        "developer": "HyperSloth",
+        "publisher": "HyperSloth",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1704101552",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dream_1.12_(20822)-1.bin",
+                    "size": "2732032835"
+                },
+                {
+                    "name": "setup_dream_1.12_(20822).exe",
+                    "size": "861936"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BF7DE4DD94",
+                            "link": "https://filecrypt.cc/Container/BF7DE4DD94"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/97D420A2F8",
+                            "link": "https://filecrypt.cc/Container/97D420A2F8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/03AD784842",
+                            "link": "https://filecrypt.cc/Container/03AD784842"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

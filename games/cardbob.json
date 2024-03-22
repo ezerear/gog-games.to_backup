@@ -1,0 +1,90 @@
+{
+    "href": "/game/cardbob",
+    "MSG": {
+        "id": "1951159377",
+        "title": "Cardbob",
+        "slug": "cardbob",
+        "thumb_id": "2bf2a41fcad7c2c15b2ae4b2509b8c3812f796a808addd757b8155a6c0b05f2b",
+        "bg_id": "1533f705e6d9ac2a18a09869fce13692e22d98bccf0c09dec43e04b287be755c",
+        "url": "https://www.gog.com/en/game/cardbob",
+        "developer": "Mad Cookies Studio",
+        "publisher": "Mad Cookies Studio",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1704495439",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_cardbob_1.3_(64bit)_(69201).exe",
+                    "size": "246859256"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D6557A4955",
+                            "link": "https://filecrypt.cc/Container/D6557A4955"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C669D1E4BB",
+                            "link": "https://filecrypt.cc/Container/C669D1E4BB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/289642D2B1",
+                            "link": "https://filecrypt.cc/Container/289642D2B1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F5D4E95AE9",
+                            "link": "https://filecrypt.cc/Container/F5D4E95AE9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B51F9B10DF",
+                            "link": "https://filecrypt.cc/Container/B51F9B10DF"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

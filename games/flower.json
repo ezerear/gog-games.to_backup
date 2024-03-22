@@ -1,0 +1,68 @@
+{
+    "href": "/game/flower",
+    "MSG": {
+        "id": "1319851840",
+        "title": "Flower",
+        "slug": "flower",
+        "thumb_id": "7a0676ac5d5d8d1a2eadf7caaa627fe4f3d287c106dc0e427456c2f01983ccd5",
+        "bg_id": "81fd27909df800f2d8e8dc4963f94a9a310eb8ed1a3c8b5e15b65c9c63e86984",
+        "url": "https://www.gog.com/game/flower",
+        "developer": "thatgamecompany ",
+        "publisher": "Annapurna Interactive",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710083611",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_flower_1.45_(64bit)_(35425).exe",
+                    "size": "1015000744"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5859813E13",
+                            "link": "https://filecrypt.cc/Container/5859813E13"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/08FCA1BEC9",
+                            "link": "https://filecrypt.cc/Container/08FCA1BEC9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/64CBEB091E",
+                            "link": "https://filecrypt.cc/Container/64CBEB091E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

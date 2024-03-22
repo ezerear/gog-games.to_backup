@@ -1,0 +1,68 @@
+{
+    "href": "/game/reverie_sweet_as_edition",
+    "MSG": {
+        "id": "1871638809",
+        "title": "Reverie: Sweet As Edition",
+        "slug": "reverie_sweet_as_edition",
+        "thumb_id": "c9c90b86b99d0d42c0f7194ac890f470ebd9313d9a3d4c73147fd4d21f619409",
+        "bg_id": "7d4306f8b3bc7301deb8c126d4f3bd932229ad0e1e190194a663c5fee0a2f64b",
+        "url": "https://www.gog.com/en/game/reverie_sweet_as_edition",
+        "developer": "Rainbite Ltd",
+        "publisher": "Eastasiasoft Limited",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1688012949",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_reverie_sweet_as_edition_1.0.0_(64bit)_(64790).exe",
+                    "size": "131103736"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D640010C8D",
+                            "link": "https://filecrypt.cc/Container/D640010C8D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2BD7CC7636",
+                            "link": "https://filecrypt.cc/Container/2BD7CC7636"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F2D4AFD68A",
+                            "link": "https://filecrypt.cc/Container/F2D4AFD68A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,135 @@
+{
+    "href": "/game/cloudpunk",
+    "MSG": {
+        "id": "2048907635",
+        "title": "Cloudpunk",
+        "slug": "cloudpunk",
+        "thumb_id": "8ef5f35ce7def33b82db8883c10d78798df92b42073aca806d4c764cb19d3631",
+        "bg_id": "77b31f4f8751f4aa3891dcc7a3aa5fbd917e95de83bf2a939c65c9f4744ac84b",
+        "url": "https://www.gog.com/en/game/cloudpunk",
+        "developer": "ION LANDS",
+        "publisher": "ION LANDS",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708532772",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_cloudpunk_-_city_of_ghosts_6809232_(64bit)_(53407)-1.bin",
+                    "size": "4294061566"
+                },
+                {
+                    "name": "setup_cloudpunk_-_city_of_ghosts_6809232_(64bit)_(53407)-2.bin",
+                    "size": "738188617"
+                },
+                {
+                    "name": "setup_cloudpunk_-_city_of_ghosts_6809232_(64bit)_(53407).exe",
+                    "size": "911856"
+                },
+                {
+                    "name": "setup_cloudpunk_6809232_(64bit)_(53407)-1.bin",
+                    "size": "4120063732"
+                },
+                {
+                    "name": "setup_cloudpunk_6809232_(64bit)_(53407).exe",
+                    "size": "890944"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "city_of_ghosts_flac.zip",
+                    "size": "631872283"
+                },
+                {
+                    "name": "city_of_ghosts_mp3.zip",
+                    "size": "272863247"
+                },
+                {
+                    "name": "cloudpunk_ost_flac.zip",
+                    "size": "1782832055"
+                },
+                {
+                    "name": "cloudpunk_ost_mp3.zip",
+                    "size": "281036044"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D6EE216B13",
+                            "link": "https://filecrypt.cc/Container/D6EE216B13"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/929566F592",
+                            "link": "https://filecrypt.cc/Container/929566F592"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6534C275A0",
+                            "link": "https://filecrypt.cc/Container/6534C275A0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B0781972EE",
+                            "link": "https://filecrypt.cc/Container/B0781972EE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3BC370A3DD",
+                            "link": "https://filecrypt.cc/Container/3BC370A3DD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9B74539812",
+                            "link": "https://filecrypt.cc/Container/9B74539812"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,119 @@
+{
+    "href": "/game/lakeburg_legacies",
+    "MSG": {
+        "id": "1169515023",
+        "title": "Lakeburg Legacies",
+        "slug": "lakeburg_legacies",
+        "thumb_id": "1c077c099fde26e6275726dd692857ac86c268863be21bdcf6f80ce05805e0dd",
+        "bg_id": "ba957f99f233570ed9514fbf1b052d20b9c9ee155b20d7355dfe4674c89fd167",
+        "url": "https://www.gog.com/en/game/lakeburg_legacies",
+        "developer": "Ishtar Games",
+        "publisher": "Ishtar Games",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710087353",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_lakeburg_legacies_1.0.1.5_(66710).exe",
+                    "size": "490295608"
+                },
+                {
+                    "name": "setup_lakeburg_legacies_supporter_pack_1.0.1.5_(66710).exe",
+                    "size": "5894368"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "lakeburg_legacies_artbook.zip",
+                    "size": "75667244"
+                },
+                {
+                    "name": "lakeburg_legacies_OST_flac.zip",
+                    "size": "219202469"
+                },
+                {
+                    "name": "lakeburg_legacies_OST_MP3.zip",
+                    "size": "44887484"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4E53462A4C",
+                            "link": "https://filecrypt.cc/Container/4E53462A4C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/15D3704B8C",
+                            "link": "https://filecrypt.cc/Container/15D3704B8C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/09916D0CA0",
+                            "link": "https://filecrypt.cc/Container/09916D0CA0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6A5FA66902",
+                            "link": "https://filecrypt.cc/Container/6A5FA66902"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3B51B98F3E",
+                            "link": "https://filecrypt.cc/Container/3B51B98F3E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EAEA506881",
+                            "link": "https://filecrypt.cc/Container/EAEA506881"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

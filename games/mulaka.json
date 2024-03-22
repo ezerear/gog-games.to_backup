@@ -1,0 +1,83 @@
+{
+    "href": "/game/mulaka",
+    "MSG": {
+        "id": "1499957191",
+        "title": "Mulaka",
+        "slug": "mulaka",
+        "thumb_id": "087f6875a67e064343669f9ca3cc318ed7eef3ff669f39455466bd701f0cfd83",
+        "bg_id": "8cbcf993bac65ce06b6cad661b75a8cbf724e0df36d79055f39adb10291efc14",
+        "url": "https://www.gog.com/game/mulaka",
+        "developer": "Lienzo",
+        "publisher": "Lienzo",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1682384305",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_mulaka_1.0.1.3_(64bit)_(21299)-1.bin",
+                    "size": "976263022"
+                },
+                {
+                    "name": "setup_mulaka_1.0.1.3_(64bit)_(21299).exe",
+                    "size": "777336"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "uploadbuzz",
+                    "name": "UploadBuzz",
+                    "icon": "<img src=\"/static/img/hoster_logos/uploadbuzz.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/neejN1H",
+                            "link": "https://safelinking.net/neejN1H"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/71E4DE99B5",
+                            "link": "https://filecrypt.cc/Container/71E4DE99B5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/kdkl7nN",
+                            "link": "https://safelinking.net/kdkl7nN"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F1596BB576",
+                            "link": "https://filecrypt.cc/Container/F1596BB576"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

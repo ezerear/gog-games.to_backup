@@ -1,0 +1,85 @@
+{
+    "href": "/game/zoeti",
+    "MSG": {
+        "id": "1887022535",
+        "title": "Zoeti",
+        "slug": "zoeti",
+        "thumb_id": "2a0e3bff0765412f768e489407c48d9fcab7df0cfb74cf105d05a4cabcc1fdd4",
+        "bg_id": "1f48c691e7ef8722cc97b09843340b2664763491b5b846cb68604000be883a44",
+        "url": "https://www.gog.com/en/game/zoeti",
+        "developer": "Dusklight CO., LTD.",
+        "publisher": "Akupara Games",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710169947",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_zoeti_pc_v1.1.7_(64bit)_(66631).exe",
+                    "size": "424963776"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "zoeti_soundtrack_wav.zip",
+                    "size": "347420077"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F44DF533A3",
+                            "link": "https://filecrypt.cc/Container/F44DF533A3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B8161F4793",
+                            "link": "https://filecrypt.cc/Container/B8161F4793"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/199C792EE2",
+                            "link": "https://filecrypt.cc/Container/199C792EE2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CF00BACDF6",
+                            "link": "https://filecrypt.cc/Container/CF00BACDF6"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

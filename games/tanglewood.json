@@ -1,0 +1,111 @@
+{
+    "href": "/game/tanglewood",
+    "MSG": {
+        "id": "1754618537",
+        "title": "TANGLEWOOD®",
+        "slug": "tanglewood",
+        "thumb_id": "0ade864ff2fccb84a010d630e550b6db8491c7afd1e79ab668ee15e3e0d1767d",
+        "bg_id": "75d6b93dd231ed03307c9f7292089854f5008d532d5ad653f9cfb929372c6078",
+        "url": "https://www.gog.com/game/tanglewoodr",
+        "developer": "Big Evil Corporation",
+        "publisher": "Big Evil Corporation",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709530419",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tanglewood_1.07_(64bit)_(26799).exe",
+                    "size": "154666608"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "tanglewood_manual_eu.zip",
+                    "size": "8684251"
+                },
+                {
+                    "name": "tanglewood_md_rom.zip",
+                    "size": "1134376"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/680EBD9A90",
+                            "link": "https://filecrypt.cc/Container/680EBD9A90"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/05BB6F0FA6",
+                            "link": "https://filecrypt.cc/Container/05BB6F0FA6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9C3CACC621",
+                            "link": "https://filecrypt.cc/Container/9C3CACC621"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D75C0402F2",
+                            "link": "https://filecrypt.cc/Container/D75C0402F2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/90976801E3",
+                            "link": "https://filecrypt.cc/Container/90976801E3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2C13CE84B2",
+                            "link": "https://filecrypt.cc/Container/2C13CE84B2"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

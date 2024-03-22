@@ -1,0 +1,111 @@
+{
+    "href": "/game/d_the_game",
+    "MSG": {
+        "id": "1852354510",
+        "title": "D: The Game",
+        "slug": "d_the_game",
+        "thumb_id": "f4a410f85c05d14c2cc355e5531f6599540b8fe3fc28492745f889e7b62afb18",
+        "bg_id": "5150282f429dc91a462730ea9cf525b3b40c05004f771a6388d5d9d7c878cfd4",
+        "url": "https://www.gog.com/game/d_the_game",
+        "developer": "WARP",
+        "publisher": "Throwback Entertainment",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710423945",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_d_the_game_2.0.0.2.exe",
+                    "size": "568957672"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "d_manual.zip",
+                    "size": "392526"
+                },
+                {
+                    "name": "d_the_game_handbuch.zip",
+                    "size": "4377406"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9CC78349A2",
+                            "link": "https://filecrypt.cc/Container/9CC78349A2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CC8788624F",
+                            "link": "https://filecrypt.cc/Container/CC8788624F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B14F8A9F4D",
+                            "link": "https://filecrypt.cc/Container/B14F8A9F4D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/48E106DBC3",
+                            "link": "https://filecrypt.cc/Container/48E106DBC3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/31E8A6BFAF",
+                            "link": "https://filecrypt.cc/Container/31E8A6BFAF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2A800A782F",
+                            "link": "https://filecrypt.cc/Container/2A800A782F"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

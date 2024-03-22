@@ -1,0 +1,125 @@
+{
+    "href": "/game/postal_2",
+    "MSG": {
+        "id": "1207658755",
+        "title": "POSTAL 2",
+        "slug": "postal_2",
+        "thumb_id": "d852a13d79875678614aee8b5f534cd391eafcc51d443053d42b8210f1cb1d2a",
+        "bg_id": "e9670eeaf2562dcde3cded6b641688365ffbfea340964422bcef59b0ad40102d",
+        "url": "https://www.gog.com/game/postal_2",
+        "developer": "Running With Scissors",
+        "publisher": "Running With Scissors",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710147566",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_postal_2_5100_(64474)-1.bin",
+                    "size": "2551252931"
+                },
+                {
+                    "name": "setup_postal_2_5100_(64474).exe",
+                    "size": "934280"
+                },
+                {
+                    "name": "setup_postal_2_paradise_lost_5100_(64474)-1.bin",
+                    "size": "1563177093"
+                },
+                {
+                    "name": "setup_postal_2_paradise_lost_5100_(64474).exe",
+                    "size": "866736"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "music_to_go_postal_by.zip",
+                    "size": "60141838"
+                },
+                {
+                    "name": "postalbabes_comic.zip",
+                    "size": "20044412"
+                },
+                {
+                    "name": "postalforms.zip",
+                    "size": "13812556"
+                },
+                {
+                    "name": "postal_2_manuals.zip",
+                    "size": "440461"
+                },
+                {
+                    "name": "postal_series_avatars.zip",
+                    "size": "299005"
+                },
+                {
+                    "name": "postal_series_wallpapers.zip",
+                    "size": "30706545"
+                },
+                {
+                    "name": "setup_postal2_complete_2.0.0.6.exe",
+                    "size": "941048456"
+                },
+                {
+                    "name": "SMS_tunes.zip",
+                    "size": "2254548"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7E07826A66",
+                            "link": "https://filecrypt.cc/Container/7E07826A66"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4CA5DC0CB1",
+                            "link": "https://filecrypt.cc/Container/4CA5DC0CB1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5A5634F99D",
+                            "link": "https://filecrypt.cc/Container/5A5634F99D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/444216092F",
+                            "link": "https://filecrypt.cc/Container/444216092F"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

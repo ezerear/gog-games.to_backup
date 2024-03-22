@@ -1,0 +1,90 @@
+{
+    "href": "/game/greedventory",
+    "MSG": {
+        "id": "2139955100",
+        "title": "Greedventory",
+        "slug": "greedventory",
+        "thumb_id": "4b84e1114e02ea377f895a34dbefb9db9c9ddcf5dfe5d6d9551b1ce85135a484",
+        "bg_id": "f586cccac59bdb25d90903aee2c14db1f34398ce89f54adb2739ec45426d2f3b",
+        "url": "https://www.gog.com/en/game/greedventory",
+        "developer": "Black Tower Basement",
+        "publisher": "Nordcurrent",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1707305651",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_greedventory_1.0.2_(64638).exe",
+                    "size": "1193248896"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5BD07C1E46",
+                            "link": "https://filecrypt.cc/Container/5BD07C1E46"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EC2DE7B277",
+                            "link": "https://filecrypt.cc/Container/EC2DE7B277"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C1E86B78A4",
+                            "link": "https://filecrypt.cc/Container/C1E86B78A4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/26BCEB7859",
+                            "link": "https://filecrypt.cc/Container/26BCEB7859"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9F51C864D0",
+                            "link": "https://filecrypt.cc/Container/9F51C864D0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

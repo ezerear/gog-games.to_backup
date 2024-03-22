@@ -1,0 +1,83 @@
+{
+    "href": "/game/nope_nope_nope_nurses",
+    "MSG": {
+        "id": "2068318498",
+        "title": "Nope Nope Nope Nurses",
+        "slug": "nope_nope_nope_nurses",
+        "thumb_id": "ff0b5396400e0df83eabe1368667e9bc897c5c98e0eaa555d18956587880bb11",
+        "bg_id": "eb47a2d82d80d8acd38f1696b91d8a37b99ff89a08c97f88e1522f9251da01ba",
+        "url": "https://www.gog.com/en/game/nope_nope_nope_nurses",
+        "developer": "Dark One!",
+        "publisher": "Shiravune",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708148539",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_nope_nope_nope_nurses_1.0.2_(64bit)_(70994).exe",
+                    "size": "466220232"
+                },
+                {
+                    "name": "setup_nope_nope_nope_nurses_unrated_1.0.2_(64bit)_(70994).exe",
+                    "size": "639932688"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2248040C62",
+                            "link": "https://filecrypt.cc/Container/2248040C62"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/26B1454B67",
+                            "link": "https://filecrypt.cc/Container/26B1454B67"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/77B8298054",
+                            "link": "https://filecrypt.cc/Container/77B8298054"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5B2783C6F2",
+                            "link": "https://filecrypt.cc/Container/5B2783C6F2"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

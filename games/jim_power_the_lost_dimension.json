@@ -1,0 +1,80 @@
+{
+    "href": "/game/jim_power_the_lost_dimension",
+    "MSG": {
+        "id": "1480170019",
+        "title": "Jim Power - The Lost Dimension",
+        "slug": "jim_power_the_lost_dimension",
+        "thumb_id": "7ab49cf10a7f09a8dbeff897bdd04f95f3b1d7a1b272d1ecd6f7595fc77cd2ef",
+        "bg_id": "5c4b488cb84209452c3007f4add7137bb0167c00cd657a16cabef05b2848d0d5",
+        "url": "https://www.gog.com/game/jim_power_the_lost_dimension",
+        "developer": "Digital Concepts",
+        "publisher": "Piko Interactive, Classics Digital",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1687576442",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_jim_power_-_the_lost_dimension_1.0_(dos)_(53030).exe",
+                    "size": "7579968"
+                },
+                {
+                    "name": "setup_jim_power_-_the_lost_dimension_1.0_(md)_(53030).exe",
+                    "size": "18086400"
+                },
+                {
+                    "name": "setup_jim_power_-_the_lost_dimension_1.0_(nes)_(53030).exe",
+                    "size": "16605440"
+                },
+                {
+                    "name": "setup_jim_power_-_the_lost_dimension_1.0_(snes)_(53030).exe",
+                    "size": "18874944"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/703FBC6612",
+                            "link": "https://filecrypt.cc/Container/703FBC6612"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9CC0FB461D",
+                            "link": "https://filecrypt.cc/Container/9CC0FB461D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A9B8559534",
+                            "link": "https://filecrypt.cc/Container/A9B8559534"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/underground_blossom",
+    "MSG": {
+        "id": "1901769729",
+        "title": "Underground Blossom",
+        "slug": "underground_blossom",
+        "thumb_id": "399265881f5ef48ad2cad5ff273f7ae72d9fcfdc9ba5f217848b0de1ffe8d9a3",
+        "bg_id": "5a9bb44fa0d3bc5e4d31dba59c4ad4ae965ab979c108a28f38d1016e75758b18",
+        "url": "https://www.gog.com/en/game/underground_blossom",
+        "developer": "Rusty Lake",
+        "publisher": "",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708651132",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_underground_blossom_1.1.9_(67976).exe",
+                    "size": "149948512"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/678D3C10F1",
+                            "link": "https://filecrypt.cc/Container/678D3C10F1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CC0E0CDD95",
+                            "link": "https://filecrypt.cc/Container/CC0E0CDD95"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0214B978DF",
+                            "link": "https://filecrypt.cc/Container/0214B978DF"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

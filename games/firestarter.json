@@ -1,0 +1,115 @@
+{
+    "href": "/game/firestarter",
+    "MSG": {
+        "id": "1434372124",
+        "title": "FireStarter",
+        "slug": "firestarter",
+        "thumb_id": "08bc3c13aa1940d3af9e0003c6cbd271f95acbfa0c37059623e21c7ebfa161a5",
+        "bg_id": "faa6b4e101e8a65986b3fda81c85290f6c2eba2cb408005fd3a4450f07ec6eeb",
+        "url": "https://www.gog.com/game/firestarter",
+        "developer": "GSC Game World",
+        "publisher": "GSC Game World",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1709106113",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_firestarter_2.0.0.3.exe",
+                    "size": "759040496"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "firestarter_concept_art.zip",
+                    "size": "2683423"
+                },
+                {
+                    "name": "firestarter_manual.zip",
+                    "size": "708531"
+                },
+                {
+                    "name": "firestarter_ost_mp3.zip",
+                    "size": "102665345"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1AA9B49004",
+                            "link": "https://filecrypt.cc/Container/1AA9B49004"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/59D6E35DB5",
+                            "link": "https://filecrypt.cc/Container/59D6E35DB5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BE78C5F7C8",
+                            "link": "https://filecrypt.cc/Container/BE78C5F7C8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D458E5933E",
+                            "link": "https://filecrypt.cc/Container/D458E5933E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0038EA4972",
+                            "link": "https://filecrypt.cc/Container/0038EA4972"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/34EB958C9C",
+                            "link": "https://filecrypt.cc/Container/34EB958C9C"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

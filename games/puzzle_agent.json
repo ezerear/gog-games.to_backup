@@ -1,0 +1,68 @@
+{
+    "href": "/game/puzzle_agent",
+    "MSG": {
+        "id": "1441715179",
+        "title": "Puzzle Agent",
+        "slug": "puzzle_agent",
+        "thumb_id": "26bbadd2d820481326bff617849047cee7f951d6c67ba1af91020095d33dea43",
+        "bg_id": "f5d5c79e92b9cda1ea83fba852d459f82d6b496005cc2bcfa420bafabc4b404e",
+        "url": "https://www.gog.com/game/puzzle_agent",
+        "developer": "Telltale Games",
+        "publisher": "Telltale Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710448301",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_puzzle_agent_1.0_(21444).exe",
+                    "size": "250596656"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/76B1479DCF",
+                            "link": "https://filecrypt.cc/Container/76B1479DCF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0BF71209E9",
+                            "link": "https://filecrypt.cc/Container/0BF71209E9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/76849914D4",
+                            "link": "https://filecrypt.cc/Container/76849914D4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

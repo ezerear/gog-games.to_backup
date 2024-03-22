@@ -1,0 +1,111 @@
+{
+    "href": "/game/dustforce_dx",
+    "MSG": {
+        "id": "1207660253",
+        "title": "Dustforce DX",
+        "slug": "dustforce_dx",
+        "thumb_id": "2acfa2baffa0b6c6cc87ea8deaa675e2df4114b7172d1681e06b31f920acef09",
+        "bg_id": "4ac44fc2d08684492b71fadaf6143894743ad600c2135a94de95cf5b7f94de32",
+        "url": "https://www.gog.com/game/dustforce_dx",
+        "developer": "Hitbox Team",
+        "publisher": "Digerati",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710605207",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dustforce_dx_1.0_(21110).exe",
+                    "size": "344697560"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "dustforce_avatars.zip",
+                    "size": "444129"
+                },
+                {
+                    "name": "dustforce_ost.zip",
+                    "size": "95442409"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EA43353263",
+                            "link": "https://filecrypt.cc/Container/EA43353263"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D78563F0EA",
+                            "link": "https://filecrypt.cc/Container/D78563F0EA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/70559C641C",
+                            "link": "https://filecrypt.cc/Container/70559C641C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ED536FE1EC",
+                            "link": "https://filecrypt.cc/Container/ED536FE1EC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/78A0DDFCC7",
+                            "link": "https://filecrypt.cc/Container/78A0DDFCC7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9317887F45",
+                            "link": "https://filecrypt.cc/Container/9317887F45"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

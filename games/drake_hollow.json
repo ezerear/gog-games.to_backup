@@ -1,0 +1,94 @@
+{
+    "href": "/game/drake_hollow",
+    "MSG": {
+        "id": "1451301232",
+        "title": "Drake Hollow",
+        "slug": "drake_hollow",
+        "thumb_id": "758e6d67e3195b032ba5d304738654b934545e4f5e7225de05f357abc8eecb61",
+        "bg_id": "698be2e7945680a2638be105e97e1372e2c1eee891a21e53c57033d217351d4f",
+        "url": "https://www.gog.com/en/game/drake_hollow",
+        "developer": "The Molasses Flood",
+        "publisher": "CD PROJEKT RED",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1703486099",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_drake_hollow_1.3_(65604)-1.bin",
+                    "size": "2960311304"
+                },
+                {
+                    "name": "setup_drake_hollow_1.3_(65604).exe",
+                    "size": "888344"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1C7DFAAC1D",
+                            "link": "https://filecrypt.cc/Container/1C7DFAAC1D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/78E7AA05DA",
+                            "link": "https://filecrypt.cc/Container/78E7AA05DA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F875DC007F",
+                            "link": "https://filecrypt.cc/Container/F875DC007F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9209E52301",
+                            "link": "https://filecrypt.cc/Container/9209E52301"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/430C920040",
+                            "link": "https://filecrypt.cc/Container/430C920040"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

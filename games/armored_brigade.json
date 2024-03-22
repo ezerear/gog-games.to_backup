@@ -1,0 +1,102 @@
+{
+    "href": "/game/armored_brigade",
+    "MSG": {
+        "id": "1994956094",
+        "title": "Armored Brigade",
+        "slug": "armored_brigade",
+        "thumb_id": "7aa1f72d53c87604fc4d3f4901232613d0b4a5032186340449bd627e733f1eec",
+        "bg_id": "07d0902835866554f089d5efca510736dd85b624c563afb87eaf8b46e4717255",
+        "url": "https://www.gog.com/game/armored_brigade",
+        "developer": "Veitikka Studios",
+        "publisher": "Slitherine Ltd.",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1702585139",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_armored_brigade_1.068_(58569).exe",
+                    "size": "547484152"
+                },
+                {
+                    "name": "setup_armored_brigade_nation_pack_czechoslovakia_-_netherlands_1.068_(58569).exe",
+                    "size": "9917472"
+                },
+                {
+                    "name": "setup_armored_brigade_nation_pack_france_-_belgium_1.068_(58569).exe",
+                    "size": "9992280"
+                },
+                {
+                    "name": "setup_armored_brigade_nation_pack_italy_-_yugoslavia_1.068_(58569).exe",
+                    "size": "9957440"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2E4383C7F2",
+                            "link": "https://filecrypt.cc/Container/2E4383C7F2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FFDECC9C96",
+                            "link": "https://filecrypt.cc/Container/FFDECC9C96"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F126D99DAF",
+                            "link": "https://filecrypt.cc/Container/F126D99DAF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FC9A159423",
+                            "link": "https://filecrypt.cc/Container/FC9A159423"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4C99837A7C",
+                            "link": "https://filecrypt.cc/Container/4C99837A7C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

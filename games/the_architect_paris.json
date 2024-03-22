@@ -1,0 +1,83 @@
+{
+    "href": "/game/the_architect_paris",
+    "MSG": {
+        "id": "1646541845",
+        "title": "The Architect: Paris",
+        "slug": "the_architect_paris",
+        "thumb_id": "ff2389ef7527bc6bc60f35f22c09bad78f531e50c8f6b980132d33b94e4c16a3",
+        "bg_id": "12406106c337e8117066f23bf494f564e077e6d4d462369d1cb92d58826eb24c",
+        "url": "https://www.gog.com/game/the_architect_paris",
+        "developer": "Enodo Games",
+        "publisher": "Enodo Games",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1705238471",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_architect_paris_1.1.3_(64bit)_(52240)-1.bin",
+                    "size": "2373777749"
+                },
+                {
+                    "name": "setup_the_architect_paris_1.1.3_(64bit)_(52240).exe",
+                    "size": "957928"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/94866F162C",
+                            "link": "https://filecrypt.cc/Container/94866F162C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DCD287B82C",
+                            "link": "https://filecrypt.cc/Container/DCD287B82C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0711A8DFBC",
+                            "link": "https://filecrypt.cc/Container/0711A8DFBC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/937D9C5A82",
+                            "link": "https://filecrypt.cc/Container/937D9C5A82"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

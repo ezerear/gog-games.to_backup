@@ -1,0 +1,76 @@
+{
+    "href": "/game/out_there_oceans_of_time",
+    "MSG": {
+        "id": "2031646835",
+        "title": "Out There: Oceans of Time",
+        "slug": "out_there_oceans_of_time",
+        "thumb_id": "9eb7372e4673f5585f9aa145ad1df11a166da659e4d2fac9605c3c9224f1971c",
+        "bg_id": "c977d9c4e166cfb479e6b54cf69111334fede2f43ba4342af50d39b53352d500",
+        "url": "https://www.gog.com/game/out_there_oceans_of_time",
+        "developer": " Mi-Clos Studio",
+        "publisher": "Modern Wolf",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1704895696",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_out_there_oceans_of_time_1.2.1.2_(60249)-1.bin",
+                    "size": "4294013438"
+                },
+                {
+                    "name": "setup_out_there_oceans_of_time_1.2.1.2_(60249)-2.bin",
+                    "size": "3737859976"
+                },
+                {
+                    "name": "setup_out_there_oceans_of_time_1.2.1.2_(60249).exe",
+                    "size": "964064"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1E750C9E7E",
+                            "link": "https://filecrypt.cc/Container/1E750C9E7E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7C18A219E6",
+                            "link": "https://filecrypt.cc/Container/7C18A219E6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A427F7BB23",
+                            "link": "https://filecrypt.cc/Container/A427F7BB23"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

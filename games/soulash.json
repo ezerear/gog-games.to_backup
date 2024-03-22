@@ -1,0 +1,68 @@
+{
+    "href": "/game/soulash",
+    "MSG": {
+        "id": "1674806733",
+        "title": "Soulash",
+        "slug": "soulash",
+        "thumb_id": "ba146b01d5f597a4ff79926d20aa80d4a749d3d301aff4e73825ce37c7fcf7d5",
+        "bg_id": "08b7fbc6cabca7c4560dfa92431af0e815f2de2f1abb53297e13c03323b43fd2",
+        "url": "https://www.gog.com/en/game/soulash",
+        "developer": "Artur Smiarowski",
+        "publisher": "Artur Smiarowski",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710588135",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_soulash_1.0.12.3_(58638).exe",
+                    "size": "278045832"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1D0F48F7D7",
+                            "link": "https://filecrypt.cc/Container/1D0F48F7D7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F5F257941F",
+                            "link": "https://filecrypt.cc/Container/F5F257941F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/46D580CE65",
+                            "link": "https://filecrypt.cc/Container/46D580CE65"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

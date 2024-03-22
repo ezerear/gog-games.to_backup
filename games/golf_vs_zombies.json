@@ -1,0 +1,72 @@
+{
+    "href": "/game/golf_vs_zombies",
+    "MSG": {
+        "id": "1868401085",
+        "title": "Golf VS Zombies",
+        "slug": "golf_vs_zombies",
+        "thumb_id": "4d4a257d506af71bbfcaac8e09a8fb3e7920cb24f88f97d4a915a8f95352e397",
+        "bg_id": "0de4279974e6bca26258bafb2db0a25e5b49b769bd662017c82bafbd4cc956e8",
+        "url": "https://www.gog.com/en/game/golf_vs_zombies",
+        "developer": "Sleepwalking Potatoes",
+        "publisher": "Untold Tales, Hyperstrange",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710460701",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_golf_vs_zombies_1.02_(71552)-1.bin",
+                    "size": "4089829638"
+                },
+                {
+                    "name": "setup_golf_vs_zombies_1.02_(71552).exe",
+                    "size": "853760"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2A7A96DF28",
+                            "link": "https://filecrypt.cc/Container/2A7A96DF28"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8347D21929",
+                            "link": "https://filecrypt.cc/Container/8347D21929"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/695BA22332",
+                            "link": "https://filecrypt.cc/Container/695BA22332"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

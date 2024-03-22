@@ -1,0 +1,68 @@
+{
+    "href": "/game/the_guest",
+    "MSG": {
+        "id": "1491580335",
+        "title": "The Guest",
+        "slug": "the_guest",
+        "thumb_id": "22b03970380e672e91ea1ded5a89cb7491e28e59641d21484083d14f59b3d26d",
+        "bg_id": "21ada052b25bb540eadce58f8ff5c1e727fc5b123ac92aaeea8d402b03038e5a",
+        "url": "https://www.gog.com/game/the_guest",
+        "developer": "Team Gotham",
+        "publisher": "505 Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709711755",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_guest_gog-2_(7982).exe",
+                    "size": "559417616"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7C7A9FD653",
+                            "link": "https://filecrypt.cc/Container/7C7A9FD653"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DA1304F395",
+                            "link": "https://filecrypt.cc/Container/DA1304F395"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FDE4AFC5E0",
+                            "link": "https://filecrypt.cc/Container/FDE4AFC5E0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

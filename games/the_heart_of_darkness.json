@@ -1,0 +1,72 @@
+{
+    "href": "/game/the_heart_of_darkness",
+    "MSG": {
+        "id": "1337315711",
+        "title": "The Heart of Darkness",
+        "slug": "the_heart_of_darkness",
+        "thumb_id": "1d2d24713b701ba7ac0f4228afffd481d5c8b4443f82ff90b57f891dcb0b8372",
+        "bg_id": "b0eda26fa05ed252730068c32f1ed53799fa3bc53aa9fc43d1aff810a3e7fa55",
+        "url": "https://www.gog.com/en/game/the_heart_of_darkness",
+        "developer": "BigWednesday",
+        "publisher": "Kagura Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710239678",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_heart_of_darkness_unrated_v6_(en_1.01_cn_1.01)_(55361).exe",
+                    "size": "292700520"
+                },
+                {
+                    "name": "setup_the_heart_of_darkness_v6_(en_1.01_cn_1.01)_(55361).exe",
+                    "size": "377359144"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/605A7CCBE0",
+                            "link": "https://filecrypt.cc/Container/605A7CCBE0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D56BEE448B",
+                            "link": "https://filecrypt.cc/Container/D56BEE448B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D95D07C37D",
+                            "link": "https://filecrypt.cc/Container/D95D07C37D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

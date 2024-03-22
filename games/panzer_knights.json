@@ -1,0 +1,84 @@
+{
+    "href": "/game/panzer_knights",
+    "MSG": {
+        "id": "2051961689",
+        "title": "Panzer Knights",
+        "slug": "panzer_knights",
+        "thumb_id": "b741252487d0a33ddf835788a8348a183696d481d392459dcfb40b0ed220621c",
+        "bg_id": "cb1d983a97b0148dfc64ef4d8ec83f55b32f5843621e059b3fba44fcdfeca828",
+        "url": "https://www.gog.com/en/game/panzer_knights",
+        "developer": "Joy Brick",
+        "publisher": "Joy Brick",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1707653166",
+        "votes": "3",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_panzer_knights_-_churchill__valentine_1.1.7_(64bit)_(62834).exe",
+                    "size": "26240176"
+                },
+                {
+                    "name": "setup_panzer_knights_-_elefant__maus_1.1.7_(64bit)_(62834).exe",
+                    "size": "25951624"
+                },
+                {
+                    "name": "setup_panzer_knights_-_m4-748_(a)_1.1.7_(64bit)_(62834).exe",
+                    "size": "5655320"
+                },
+                {
+                    "name": "setup_panzer_knights_1.1.7_(64bit)_(62834)-1.bin",
+                    "size": "3317095458"
+                },
+                {
+                    "name": "setup_panzer_knights_1.1.7_(64bit)_(62834).exe",
+                    "size": "1098920"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0E02783339",
+                            "link": "https://filecrypt.cc/Container/0E02783339"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6C930D9451",
+                            "link": "https://filecrypt.cc/Container/6C930D9451"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9337547EC2",
+                            "link": "https://filecrypt.cc/Container/9337547EC2"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

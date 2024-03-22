@@ -1,0 +1,68 @@
+{
+    "href": "/game/until_we_die",
+    "MSG": {
+        "id": "2096836890",
+        "title": "Until We Die",
+        "slug": "until_we_die",
+        "thumb_id": "b03c2addf889d6041154cb74737767ab761a8faf0bfaaf23b3f2d9697df4213c",
+        "bg_id": "bd23814344e5f7afc9c7d3a5dc9a908b86f2be6e86823129735b6f9ce888d7f2",
+        "url": "https://www.gog.com/game/until_we_die",
+        "developer": "Pixeye Games",
+        "publisher": "Pixeye Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709586294",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_until_we_die_2021.07.01_(49646).exe",
+                    "size": "247027072"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/21CED63DA5",
+                            "link": "https://filecrypt.cc/Container/21CED63DA5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E47E4CACC7",
+                            "link": "https://filecrypt.cc/Container/E47E4CACC7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/38C0C37C5F",
+                            "link": "https://filecrypt.cc/Container/38C0C37C5F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

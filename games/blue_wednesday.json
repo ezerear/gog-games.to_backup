@@ -1,0 +1,111 @@
+{
+    "href": "/game/blue_wednesday",
+    "MSG": {
+        "id": "1595590620",
+        "title": "Blue Wednesday",
+        "slug": "blue_wednesday",
+        "thumb_id": "4b280a968071e109f6cb5863a84d19a390503568b13fc995d5ba022448615a45",
+        "bg_id": "07b439755d796661f4892a041d540e1e10cdeedd70baba7650f72d853f782095",
+        "url": "https://www.gog.com/en/game/blue_wednesday",
+        "developer": "Buff Studio",
+        "publisher": "MediBang Inc.",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709204227",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_blue_wednesday_1.0_(69123).exe",
+                    "size": "758827432"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "Blue_Wednesday_Artbook.zip",
+                    "size": "57638381"
+                },
+                {
+                    "name": "Blue_Wednesday_Soundtrack.zip",
+                    "size": "1376968058"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BFAACAF2CD",
+                            "link": "https://filecrypt.cc/Container/BFAACAF2CD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/07F6C201FA",
+                            "link": "https://filecrypt.cc/Container/07F6C201FA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2BFA839166",
+                            "link": "https://filecrypt.cc/Container/2BFA839166"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1D1278C4DC",
+                            "link": "https://filecrypt.cc/Container/1D1278C4DC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A1F50A649E",
+                            "link": "https://filecrypt.cc/Container/A1F50A649E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9DE9CE6EAD",
+                            "link": "https://filecrypt.cc/Container/9DE9CE6EAD"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

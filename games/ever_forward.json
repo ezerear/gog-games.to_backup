@@ -1,0 +1,76 @@
+{
+    "href": "/game/ever_forward",
+    "MSG": {
+        "id": "1314559542",
+        "title": "Ever Forward",
+        "slug": "ever_forward",
+        "thumb_id": "766d6d7fb33ab7e480789d89f74fe8b35191a29fb6c04f1377eac7846f5c2bdd",
+        "bg_id": "895be941b8ddcb1fddd9d88f356972a0e12a475b82e0e59adbf41cb270a6c0e1",
+        "url": "https://www.gog.com/game/ever_forward",
+        "developer": "Pathea Games",
+        "publisher": "Pathea Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708647266",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_ever_forward_-_additional_puzzle_version_0_1_5_(64bit)_(40640).exe",
+                    "size": "5920904"
+                },
+                {
+                    "name": "setup_ever_forward_version_0_1_5_(64bit)_(40640)-1.bin",
+                    "size": "1949068423"
+                },
+                {
+                    "name": "setup_ever_forward_version_0_1_5_(64bit)_(40640).exe",
+                    "size": "1658296"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/66F6267E5D",
+                            "link": "https://filecrypt.cc/Container/66F6267E5D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D65CED9B70",
+                            "link": "https://filecrypt.cc/Container/D65CED9B70"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/764ED962B7",
+                            "link": "https://filecrypt.cc/Container/764ED962B7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/pushover",
+    "MSG": {
+        "id": "1784550497",
+        "title": "Pushover",
+        "slug": "pushover",
+        "thumb_id": "a8fe344fde88e7cb5d85142c6e4caaf56d27e4deaa8d9dbbe9ea6af3f3922e8f",
+        "bg_id": "17acd45993060202cb1d45a789961656c183eeb811167b66f34ca83bb1ea37b6",
+        "url": "https://www.gog.com/game/pushover",
+        "developer": "Ocean Software",
+        "publisher": "Piko Interactive",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1682019201",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_pushover.exe",
+                    "size": "16521056"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4684DB5AE9",
+                            "link": "https://filecrypt.cc/Container/4684DB5AE9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0951362D59",
+                            "link": "https://filecrypt.cc/Container/0951362D59"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/pW1nNqU",
+                            "link": "https://safelinking.net/pW1nNqU"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

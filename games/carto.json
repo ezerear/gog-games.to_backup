@@ -1,0 +1,79 @@
+{
+    "href": "/game/carto",
+    "MSG": {
+        "id": "1108235156",
+        "title": "Carto",
+        "slug": "carto",
+        "thumb_id": "7d424601bd268ed55847a483044dd8a73f717495f198458f2e6e605ea558b399",
+        "bg_id": "42c7cc08f64954d876d2c64574d1b0e7f9399d8f210662cea0dc64cc00f7808b",
+        "url": "https://www.gog.com/game/carto",
+        "developer": "Sunhead Games",
+        "publisher": "Humble Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708255093",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_carto_1.0.7.6_(64bit)_(51528).exe",
+                    "size": "430380496"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FD5EF6A517",
+                            "link": "https://filecrypt.cc/Container/FD5EF6A517"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0CF4A1295D",
+                            "link": "https://filecrypt.cc/Container/0CF4A1295D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/91834FB2B4",
+                            "link": "https://filecrypt.cc/Container/91834FB2B4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2560B9399D",
+                            "link": "https://filecrypt.cc/Container/2560B9399D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

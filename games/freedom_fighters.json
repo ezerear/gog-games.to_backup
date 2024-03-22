@@ -1,0 +1,115 @@
+{
+    "href": "/game/freedom_fighters",
+    "MSG": {
+        "id": "1756362098",
+        "title": "Freedom Fighters",
+        "slug": "freedom_fighters",
+        "thumb_id": "486486777724ada4abbc447fc2fa45550cd9ce49a1ba14259b8970f45e84a44d",
+        "bg_id": "b0862af3840a67919f1d0fe23461dd4a650505ba3bc5f056d345f21a49861847",
+        "url": "https://www.gog.com/game/freedom_fighters",
+        "developer": "IO Interactive",
+        "publisher": "IO Interactive",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710896558",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_freedom_fighters_1.0.0.4490481_(44512).exe",
+                    "size": "759666216"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "freedom_fighters_manual.zip",
+                    "size": "88748136"
+                },
+                {
+                    "name": "freedom_fighters_ost_flac.zip",
+                    "size": "370563579"
+                },
+                {
+                    "name": "freedom_fighters_ost_mp3.zip",
+                    "size": "226195503"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2E919B381E",
+                            "link": "https://filecrypt.cc/Container/2E919B381E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/506503CEC3",
+                            "link": "https://filecrypt.cc/Container/506503CEC3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/611935D071",
+                            "link": "https://filecrypt.cc/Container/611935D071"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F9EA2BB984",
+                            "link": "https://filecrypt.cc/Container/F9EA2BB984"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/58CDAED149",
+                            "link": "https://filecrypt.cc/Container/58CDAED149"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/96E4296ABB",
+                            "link": "https://filecrypt.cc/Container/96E4296ABB"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

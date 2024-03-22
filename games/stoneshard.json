@@ -1,0 +1,57 @@
+{
+    "href": "/game/stoneshard",
+    "MSG": {
+        "id": "2056667973",
+        "title": "Stoneshard",
+        "slug": "stoneshard",
+        "thumb_id": "73ca7709792e2c300f05a71c9a76d93e6d836aa1a7d0d6b9ab8f9b50a600d707",
+        "bg_id": "55c191b71839f1e460e277869cf8753e5fd2dc42f6f22f03245a09d0bc18074a",
+        "url": "https://www.gog.com/game/stoneshard",
+        "developer": "Ink Stains Games",
+        "publisher": "HypeTrain Digital",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1708622725",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_stoneshard_0.8.2.10a_(68129).exe",
+                    "size": "275881976"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/167AAC7D6D",
+                            "link": "https://filecrypt.cc/Container/167AAC7D6D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5D0F558559",
+                            "link": "https://filecrypt.cc/Container/5D0F558559"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

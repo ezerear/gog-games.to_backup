@@ -1,0 +1,131 @@
+{
+    "href": "/game/rise_of_the_triad",
+    "MSG": {
+        "id": "1207659244",
+        "title": "Rise of the Triad (2013)",
+        "slug": "rise_of_the_triad",
+        "thumb_id": "ef85f1a24e3e91ab320c864e705da06fe1956ab88609a667075b18acbd713c13",
+        "bg_id": "ebe382a3b136f7c423833dea5c7798abccf0f04c3af506063da673290c105bb5",
+        "url": "https://www.gog.com/game/rise_of_the_triad",
+        "developer": "Interceptor Entertainment",
+        "publisher": "Apogee Software",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1709968131",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_rise_of_the_triad_2.5.0.23-1.bin",
+                    "size": "4194304000"
+                },
+                {
+                    "name": "setup_the_rise_of_the_triad_2.5.0.23-2.bin",
+                    "size": "2271314492"
+                },
+                {
+                    "name": "setup_the_rise_of_the_triad_2.5.0.23.exe",
+                    "size": "30401992"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "rott_2013_artworks.zip",
+                    "size": "9910740"
+                },
+                {
+                    "name": "rott_2013_avatars.zip",
+                    "size": "131441"
+                },
+                {
+                    "name": "rott_2013_level_editor.zip",
+                    "size": "8008279189"
+                },
+                {
+                    "name": "rott_2013_ost_sample.zip",
+                    "size": "33420241"
+                },
+                {
+                    "name": "rott_2013_wallpapers.zip",
+                    "size": "10532167"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/15B18854AE",
+                            "link": "https://filecrypt.cc/Container/15B18854AE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5F42A88C2B",
+                            "link": "https://filecrypt.cc/Container/5F42A88C2B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0A49593581",
+                            "link": "https://filecrypt.cc/Container/0A49593581"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7829C10BBF",
+                            "link": "https://filecrypt.cc/Container/7829C10BBF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/73472D51FE",
+                            "link": "https://filecrypt.cc/Container/73472D51FE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5965441A9D",
+                            "link": "https://filecrypt.cc/Container/5965441A9D"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

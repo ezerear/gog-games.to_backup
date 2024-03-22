@@ -1,0 +1,68 @@
+{
+    "href": "/game/odd_realm",
+    "MSG": {
+        "id": "1301888900",
+        "title": "Odd Realm",
+        "slug": "odd_realm",
+        "thumb_id": "76b07cad64463ac09f050224eec5dc013cf3b25bf943bfe9aaa60da6a0070180",
+        "bg_id": "7835c7c3030e0248a279fd2f37f38be353f7d33c0f2f0be140fd2052216dbb8f",
+        "url": "https://www.gog.com/game/odd_realm",
+        "developer": " Unknown Origin Games Inc",
+        "publisher": " Unknown Origin Games Inc",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1709898829",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_odd_realm_0.11.0.23_win_(60597).exe",
+                    "size": "271500456"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E5E68B3567",
+                            "link": "https://filecrypt.cc/Container/E5E68B3567"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BF3B0B215B",
+                            "link": "https://filecrypt.cc/Container/BF3B0B215B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4058B806B0",
+                            "link": "https://filecrypt.cc/Container/4058B806B0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,72 @@
+{
+    "href": "/game/railgrade",
+    "MSG": {
+        "id": "1561070414",
+        "title": "RAILGRADE ",
+        "slug": "railgrade",
+        "thumb_id": "53e6b173c6278ac731b3ae5b1a8bc482b7f570a1cd44ac9fce7081b684ce6f91",
+        "bg_id": "7824b05dea8d5c36447d5a3d820181a94da4a151caf0e33e705fa0873cc60976",
+        "url": "https://www.gog.com/en/game/railgrade",
+        "developer": "Minakata Dynamics",
+        "publisher": "Minakata Dynamics",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710765432",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_railgrade__v5.1.54.1_(64bit)_(70233)-1.bin",
+                    "size": "3841201416"
+                },
+                {
+                    "name": "setup_railgrade__v5.1.54.1_(64bit)_(70233).exe",
+                    "size": "851592"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0FEC8251D2",
+                            "link": "https://filecrypt.cc/Container/0FEC8251D2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A116F5B2D5",
+                            "link": "https://filecrypt.cc/Container/A116F5B2D5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/07B2E71FE2",
+                            "link": "https://filecrypt.cc/Container/07B2E71FE2"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

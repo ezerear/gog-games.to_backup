@@ -1,0 +1,79 @@
+{
+    "href": "/game/the_magister",
+    "MSG": {
+        "id": "1519351387",
+        "title": "The Magister",
+        "slug": "the_magister",
+        "thumb_id": "9d25b9431c34e44246830551f9a07a2914538d1b280b2dd2e976725331c56cf8",
+        "bg_id": "7f6134e54b6ee0564a2e8dd90cfed25ab7f0b7103e20004a7370b8afd909c4d7",
+        "url": "https://www.gog.com/game/the_magister",
+        "developer": " Nerdook Productions",
+        "publisher": "Digerati",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1684200333",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_magister_1.0.0.6.3_(51520).exe",
+                    "size": "364175744"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AF89C4C0F2",
+                            "link": "https://filecrypt.cc/Container/AF89C4C0F2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AE76CC0749",
+                            "link": "https://filecrypt.cc/Container/AE76CC0749"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D682BEAA0C",
+                            "link": "https://filecrypt.cc/Container/D682BEAA0C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C8B924DDF5",
+                            "link": "https://filecrypt.cc/Container/C8B924DDF5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,84 @@
+{
+    "href": "/game/farmers_dynasty",
+    "MSG": {
+        "id": "1317256893",
+        "title": "Farmer's Dynasty",
+        "slug": "farmers_dynasty",
+        "thumb_id": "c960f47fa47c1bb67f2f5da139a06ceef7e76d2edd382af45d0631e8f44cd898",
+        "bg_id": "b415eafc53bf82120bb297305803a452974fa8ac7173477bd58afd7e424fdb55",
+        "url": "https://www.gog.com/game/farmers_dynasty",
+        "developer": "Toplitz Productions, UMEO Studios",
+        "publisher": "Toplitz Productions",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1709559573",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_farmers_dynasty_-_machines_pack_1.06b_(64bit)_(66106).exe",
+                    "size": "6636056"
+                },
+                {
+                    "name": "setup_farmers_dynasty_-_potatoes__beets_1.06b_(64bit)_(66106).exe",
+                    "size": "7603424"
+                },
+                {
+                    "name": "setup_farmers_dynasty_1.06b_(64bit)_(66106)-1.bin",
+                    "size": "4294076414"
+                },
+                {
+                    "name": "setup_farmers_dynasty_1.06b_(64bit)_(66106)-2.bin",
+                    "size": "3442519432"
+                },
+                {
+                    "name": "setup_farmers_dynasty_1.06b_(64bit)_(66106).exe",
+                    "size": "900888"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/258A89BDC5",
+                            "link": "https://filecrypt.cc/Container/258A89BDC5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/46CB296469",
+                            "link": "https://filecrypt.cc/Container/46CB296469"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6A93B5B369",
+                            "link": "https://filecrypt.cc/Container/6A93B5B369"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,111 @@
+{
+    "href": "/game/lumino_city",
+    "MSG": {
+        "id": "1207667103",
+        "title": "Lumino City",
+        "slug": "lumino_city",
+        "thumb_id": "1babfef91c60e86f82b44fa5cc5f55da261c997cc6ded026450cc40b4b4ab383",
+        "bg_id": "0dde5cc1ccfd8541a857eacd7fdb0276b8748a8510a5a5386abf98b32853db99",
+        "url": "https://www.gog.com/game/lumino_city",
+        "developer": "State of Play Games",
+        "publisher": "State of Play Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710589222",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_lumino_city_1.0_(21180).exe",
+                    "size": "909086768"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "making_of_photos.zip",
+                    "size": "23030576"
+                },
+                {
+                    "name": "zog_lumino_city_win.zip",
+                    "size": "17783174"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3AF45E9B02",
+                            "link": "https://filecrypt.cc/Container/3AF45E9B02"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/83ADD5001F",
+                            "link": "https://filecrypt.cc/Container/83ADD5001F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2782FF895E",
+                            "link": "https://filecrypt.cc/Container/2782FF895E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/697215E5DE",
+                            "link": "https://filecrypt.cc/Container/697215E5DE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F728085A1F",
+                            "link": "https://filecrypt.cc/Container/F728085A1F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/71D63EA2B7",
+                            "link": "https://filecrypt.cc/Container/71D63EA2B7"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

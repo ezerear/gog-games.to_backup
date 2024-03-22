@@ -1,0 +1,111 @@
+{
+    "href": "/game/victoria_complete",
+    "MSG": {
+        "id": "1423218604",
+        "title": "Victoria Complete",
+        "slug": "victoria_complete",
+        "thumb_id": "6ce1fd3d84769f0dda5c2bde224f20a5e1929afda25e1410e954a0404efeb13f",
+        "bg_id": "64ec6511aee5b3cd23065342d17bc75173ce69474e26520df64aaf7af126fa2d",
+        "url": "https://www.gog.com/game/victoria_complete",
+        "developer": "Paradox Development Studio",
+        "publisher": "Paradox Interactive",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1709073736",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_victoria_complete_2.0.0.1.exe",
+                    "size": "427055640"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "vc_manuals.zip",
+                    "size": "22925581"
+                },
+                {
+                    "name": "vc_wallpaper.zip",
+                    "size": "1062445"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1BE21F1CDB",
+                            "link": "https://filecrypt.cc/Container/1BE21F1CDB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/76B984B88A",
+                            "link": "https://filecrypt.cc/Container/76B984B88A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9219E2A083",
+                            "link": "https://filecrypt.cc/Container/9219E2A083"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/21ADD9EB3C",
+                            "link": "https://filecrypt.cc/Container/21ADD9EB3C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/538B1BFF93",
+                            "link": "https://filecrypt.cc/Container/538B1BFF93"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0F215CAD3A",
+                            "link": "https://filecrypt.cc/Container/0F215CAD3A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

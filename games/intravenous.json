@@ -1,0 +1,68 @@
+{
+    "href": "/game/intravenous",
+    "MSG": {
+        "id": "1355225376",
+        "title": "Intravenous",
+        "slug": "intravenous",
+        "thumb_id": "ebbd9dccd2d23cd70e9b812afda6ba121429bdccb80f0b28f368162742bbf24e",
+        "bg_id": "bbbb0ed15769f2dd856b57e81f4b62a53a5dcfb81febdbe12e4b05c18d4ad75b",
+        "url": "https://www.gog.com/game/intravenous",
+        "developer": "Roman Glebenkov",
+        "publisher": "Roman Glebenkov",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1709072767",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_intravenous_1.4.2_(65154).exe",
+                    "size": "692022624"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8F1934E249",
+                            "link": "https://filecrypt.cc/Container/8F1934E249"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A1E2B2D1B4",
+                            "link": "https://filecrypt.cc/Container/A1E2B2D1B4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6A59B4C354",
+                            "link": "https://filecrypt.cc/Container/6A59B4C354"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

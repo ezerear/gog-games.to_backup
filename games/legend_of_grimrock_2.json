@@ -1,0 +1,104 @@
+{
+    "href": "/game/legend_of_grimrock_2",
+    "MSG": {
+        "id": "1207666193",
+        "title": "Legend of Grimrock 2",
+        "slug": "legend_of_grimrock_2",
+        "thumb_id": "703418927a91a3a95ee728489202963983a0e67beaaa0cd7212fdcba239b31a1",
+        "bg_id": "61396676df1fc178d369a77b62a04f7c916f137e744d91fb1451eaa3354cd049",
+        "url": "https://www.gog.com/game/legend_of_grimrock_2",
+        "developer": "Almost Human",
+        "publisher": "Almost Human",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1708684052",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_legend_of_grimrock_ii_2.2.4_(15370).exe",
+                    "size": "848596008"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "log_2_graph_paper.zip",
+                    "size": "2451730"
+                },
+                {
+                    "name": "log_2_manual.zip",
+                    "size": "3617306"
+                },
+                {
+                    "name": "log_2_wallpaper.zip",
+                    "size": "1736416"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CBFAC46426",
+                            "link": "https://filecrypt.cc/Container/CBFAC46426"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3C09F2CC35",
+                            "link": "https://filecrypt.cc/Container/3C09F2CC35"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E4A63E1BA3",
+                            "link": "https://filecrypt.cc/Container/E4A63E1BA3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BE3A67E842",
+                            "link": "https://filecrypt.cc/Container/BE3A67E842"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0980BA6D1B",
+                            "link": "https://filecrypt.cc/Container/0980BA6D1B"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

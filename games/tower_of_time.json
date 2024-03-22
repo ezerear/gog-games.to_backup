@@ -1,0 +1,119 @@
+{
+    "href": "/game/tower_of_time",
+    "MSG": {
+        "id": "1411626324",
+        "title": "Tower of Time",
+        "slug": "tower_of_time",
+        "thumb_id": "c3ef2332c0b7274735c0c75239a49f22fd42bff695b9457ecb6ca792c0c16c05",
+        "bg_id": "131430d8da3f91b57928a853f52cff34b57fe3d70f4259b50fb2cc5c6dd903e5",
+        "url": "https://www.gog.com/game/tower_of_time",
+        "developer": "Event Horizon",
+        "publisher": "Event Horizon",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1707150877",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tower_of_time_1.4.5.11880_(64bit)_(38432)-1.bin",
+                    "size": "4293926910"
+                },
+                {
+                    "name": "setup_tower_of_time_1.4.5.11880_(64bit)_(38432)-2.bin",
+                    "size": "1843897466"
+                },
+                {
+                    "name": "setup_tower_of_time_1.4.5.11880_(64bit)_(38432).exe",
+                    "size": "1047440"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "tower_of_time_soundtrack_mp3.zip",
+                    "size": "119797359"
+                },
+                {
+                    "name": "tower_of_time_wallpapers.zip",
+                    "size": "4301480"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0EBAB84203",
+                            "link": "https://filecrypt.cc/Container/0EBAB84203"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/829F88DB7A",
+                            "link": "https://filecrypt.cc/Container/829F88DB7A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CD1BB279FA",
+                            "link": "https://filecrypt.cc/Container/CD1BB279FA"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1F534A828C",
+                            "link": "https://filecrypt.cc/Container/1F534A828C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DF08D98D78",
+                            "link": "https://filecrypt.cc/Container/DF08D98D78"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F1988A01B6",
+                            "link": "https://filecrypt.cc/Container/F1988A01B6"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

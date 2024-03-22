@@ -1,0 +1,111 @@
+{
+    "href": "/game/amerzone_the_explorer_legacy",
+    "MSG": {
+        "id": "1207658847",
+        "title": "Amerzone: The Explorer's Legacy",
+        "slug": "amerzone_the_explorer_legacy",
+        "thumb_id": "e29ac9b86266a23005a0cb9b1f14924387868141e69090a0586568e43aab5d69",
+        "bg_id": "710508ed06ff3fe0e95e0a23cb5de56ffa7afed94e5a843c9ca21fe558ab1c24",
+        "url": "https://www.gog.com/game/amerzone_the_explorer_legacy",
+        "developer": "Microids",
+        "publisher": "Anuman Interactive",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710574951",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_amerzone_2.0.0.8.exe",
+                    "size": "1845236728"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "amerzone_main_theme.zip",
+                    "size": "5194623"
+                },
+                {
+                    "name": "amerzone_manual.zip",
+                    "size": "22863500"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/15D34165E0",
+                            "link": "https://filecrypt.cc/Container/15D34165E0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/027718E4B3",
+                            "link": "https://filecrypt.cc/Container/027718E4B3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5999CD8152",
+                            "link": "https://filecrypt.cc/Container/5999CD8152"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D6DA207C43",
+                            "link": "https://filecrypt.cc/Container/D6DA207C43"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/811566303C",
+                            "link": "https://filecrypt.cc/Container/811566303C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E73D738DE5",
+                            "link": "https://filecrypt.cc/Container/E73D738DE5"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

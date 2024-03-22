@@ -1,0 +1,80 @@
+{
+    "href": "/game/streets_of_rage_4",
+    "MSG": {
+        "id": "1600715263",
+        "title": "Streets of Rage 4",
+        "slug": "streets_of_rage_4",
+        "thumb_id": "fadda5477462b42a44446dbf69926adbc1303bb5df298c76423af2507e850860",
+        "bg_id": "754023a302d49758dde3b573e9e770006203731633e1eecd7bab25d0c9041047",
+        "url": "https://www.gog.com/game/streets_of_rage_4",
+        "developer": "Lizardcube",
+        "publisher": "DotEmu",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709977077",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_mr._x_nightmare_v08g-r18163_(64bit)_(63114).exe",
+                    "size": "6035544"
+                },
+                {
+                    "name": "setup_streets_of_rage_4_v08g-r18163_(64bit)_(63114)-1.bin",
+                    "size": "4294060542"
+                },
+                {
+                    "name": "setup_streets_of_rage_4_v08g-r18163_(64bit)_(63114)-2.bin",
+                    "size": "2200042565"
+                },
+                {
+                    "name": "setup_streets_of_rage_4_v08g-r18163_(64bit)_(63114).exe",
+                    "size": "916912"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A174D67345",
+                            "link": "https://filecrypt.cc/Container/A174D67345"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/831A4332A2",
+                            "link": "https://filecrypt.cc/Container/831A4332A2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F5A5128D04",
+                            "link": "https://filecrypt.cc/Container/F5A5128D04"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

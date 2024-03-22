@@ -1,0 +1,72 @@
+{
+    "href": "/game/rise_of_industry",
+    "MSG": {
+        "id": "1259329786",
+        "title": "Rise of Industry",
+        "slug": "rise_of_industry",
+        "thumb_id": "b2cc91c7d33eecca283c32b1517d56570624756cdede2ec33e6f2ece38581e25",
+        "bg_id": "299122470cf512215cb8445daabbea7aa2ff44c5767907ef189d1ec2e46f2c91",
+        "url": "https://www.gog.com/game/rise_of_industry",
+        "developer": "Dapper Penguin Studios",
+        "publisher": "Kasedo Games",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1709067894",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_rise_of_industry_2.3.11301a_(64bit)_(44173).exe",
+                    "size": "907952136"
+                },
+                {
+                    "name": "setup_rise_of_industry_2130_2.3.11301a_(64bit)_(44173).exe",
+                    "size": "6481232"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EF9409660B",
+                            "link": "https://filecrypt.cc/Container/EF9409660B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AD8229337F",
+                            "link": "https://filecrypt.cc/Container/AD8229337F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D27FC58701",
+                            "link": "https://filecrypt.cc/Container/D27FC58701"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,72 @@
+{
+    "href": "/game/civitatem",
+    "MSG": {
+        "id": "1086017093",
+        "title": "Civitatem",
+        "slug": "civitatem",
+        "thumb_id": "22fb1f13d7a74e9b42796e9dee74de62997132d0743cf1b5cf40b86881828457",
+        "bg_id": "3bfa132570f3a826e9a0fbbecd50b2ec19ef02f7880cf98611bfedd0bc3fbb47",
+        "url": "https://www.gog.com/en/game/civitatem",
+        "developer": "LW Games",
+        "publisher": "Mill Games S.A.",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1709404931",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_civitatem_1.09_(65678).exe",
+                    "size": "513049656"
+                },
+                {
+                    "name": "setup_civitatem_1.09_(65678).exe",
+                    "size": "513049656"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B6002F8F4E",
+                            "link": "https://filecrypt.cc/Container/B6002F8F4E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2ABCF51FA7",
+                            "link": "https://filecrypt.cc/Container/2ABCF51FA7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6B087B99E9",
+                            "link": "https://filecrypt.cc/Container/6B087B99E9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

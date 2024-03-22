@@ -1,0 +1,72 @@
+{
+    "href": "/game/vaporum",
+    "MSG": {
+        "id": "1211269088",
+        "title": "Vaporum",
+        "slug": "vaporum",
+        "thumb_id": "95b1b5a99e3bdb036d94b60bb74b18968922d7468cca2a749f85c32046e2920e",
+        "bg_id": "67b66064e0740e53964e86668286cd126492c0ecb9e727038bafbae63b83ff56",
+        "url": "https://www.gog.com/game/vaporum",
+        "developer": " Fatbot Games, s. r. o.",
+        "publisher": " Fatbot Games, s. r. o.",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709725269",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_vaporum_patch_14_(64bit)_(27470)-1.bin",
+                    "size": "2053839037"
+                },
+                {
+                    "name": "setup_vaporum_patch_14_(64bit)_(27470).exe",
+                    "size": "1587992"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6C68CDA951",
+                            "link": "https://filecrypt.cc/Container/6C68CDA951"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/168F11F4A1",
+                            "link": "https://filecrypt.cc/Container/168F11F4A1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/21E6EA96DC",
+                            "link": "https://filecrypt.cc/Container/21E6EA96DC"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,80 @@
+{
+    "href": "/game/murderous_muses",
+    "MSG": {
+        "id": "1707470111",
+        "title": "Murderous Muses",
+        "slug": "murderous_muses",
+        "thumb_id": "534b7dcdc977c20e6904c13eec0a98037525d0bba58e41cd355c0642249fc165",
+        "bg_id": "dda1b69820658b1348f0f6abf88553719748d281efa297d16ff506cc62dc0a56",
+        "url": "https://www.gog.com/en/game/murderous_muses",
+        "developer": "D'Avekki Studios Ltd",
+        "publisher": "",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709151426",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_murderous_muses_1.04_(64bit)_(66614)-1.bin",
+                    "size": "4293318142"
+                },
+                {
+                    "name": "setup_murderous_muses_1.04_(64bit)_(66614)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_murderous_muses_1.04_(64bit)_(66614)-3.bin",
+                    "size": "3696156237"
+                },
+                {
+                    "name": "setup_murderous_muses_1.04_(64bit)_(66614).exe",
+                    "size": "1659392"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/89ADC54DF6",
+                            "link": "https://filecrypt.cc/Container/89ADC54DF6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/23FF101B82",
+                            "link": "https://filecrypt.cc/Container/23FF101B82"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F38CEDC32E",
+                            "link": "https://filecrypt.cc/Container/F38CEDC32E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

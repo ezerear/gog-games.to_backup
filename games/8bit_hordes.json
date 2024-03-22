@@ -1,0 +1,119 @@
+{
+    "href": "/game/8bit_hordes",
+    "MSG": {
+        "id": "1104739253",
+        "title": "8-bit Hordes",
+        "slug": "8bit_hordes",
+        "thumb_id": "8b7758a58ae60cc32d2aca74054d4f41ed090978c3722ba5da467aebd04eb143",
+        "bg_id": "65682ea3104d626723b20f2bf44754696069496adc0ffeb8280bebccbcc722b1",
+        "url": "https://www.gog.com/game/8bit_hordes",
+        "developer": "Petroglyph Games",
+        "publisher": "Petroglyph Games",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1708941606",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_8-bit_hordes_0.93.827848_(69139).exe",
+                    "size": "1695138248"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "8_bit_hordes_avatars.zip",
+                    "size": "293886"
+                },
+                {
+                    "name": "8_bit_hordes_ost_flac.zip",
+                    "size": "237930184"
+                },
+                {
+                    "name": "8_bit_hordes_ost_mp3.zip",
+                    "size": "43994381"
+                },
+                {
+                    "name": "8_bit_hordes_wallpaper.zip",
+                    "size": "1248089"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3375FB74C5",
+                            "link": "https://filecrypt.cc/Container/3375FB74C5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D1626CF2F2",
+                            "link": "https://filecrypt.cc/Container/D1626CF2F2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C913BE29D0",
+                            "link": "https://filecrypt.cc/Container/C913BE29D0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/53D18931FA",
+                            "link": "https://filecrypt.cc/Container/53D18931FA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5A03F99335",
+                            "link": "https://filecrypt.cc/Container/5A03F99335"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7C1780755D",
+                            "link": "https://filecrypt.cc/Container/7C1780755D"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,105 @@
+{
+    "href": "/game/spacebase_startopia",
+    "MSG": {
+        "id": "1869649388",
+        "title": "Spacebase Startopia",
+        "slug": "spacebase_startopia",
+        "thumb_id": "5a63783209a8687f4cc2e237689dcd2c72fe324c415614f5ffbef626858bb823",
+        "bg_id": "72cfa53fa8e7a8fc903c3f8845b3ad8b4653fbdc87f2e1d2930c29ccbac102c9",
+        "url": "https://www.gog.com/game/spacebase_startopia",
+        "developer": "Realmforge Studios",
+        "publisher": "Kalypso Media Digital",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1695715715",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_spacebase_startopia_extended_edition_content_v1.4.2_build20_8dd3ccf_(51204).exe",
+                    "size": "7203432"
+                },
+                {
+                    "name": "setup_spacebase_startopia_v1.4.2_build20_8dd3ccf_(64bit)_(51204)-1.bin",
+                    "size": "4293983742"
+                },
+                {
+                    "name": "setup_spacebase_startopia_v1.4.2_build20_8dd3ccf_(64bit)_(51204)-2.bin",
+                    "size": "1510844158"
+                },
+                {
+                    "name": "setup_spacebase_startopia_v1.4.2_build20_8dd3ccf_(64bit)_(51204).exe",
+                    "size": "989968"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "spacebase_startopia_ost_flac.zip",
+                    "size": "525563480"
+                },
+                {
+                    "name": "spacebase_startopia_ost_mp3.zip",
+                    "size": "113161899"
+                },
+                {
+                    "name": "spacebase_startopia_ost_wav.zip",
+                    "size": "763594178"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/95639E39E9",
+                            "link": "https://filecrypt.cc/Container/95639E39E9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DE09CCB80E",
+                            "link": "https://filecrypt.cc/Container/DE09CCB80E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AD8A727BDD",
+                            "link": "https://filecrypt.cc/Container/AD8A727BDD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/44544987FD",
+                            "link": "https://filecrypt.cc/Container/44544987FD"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

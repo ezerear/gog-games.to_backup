@@ -1,0 +1,68 @@
+{
+    "href": "/game/hrot",
+    "MSG": {
+        "id": "1809782847",
+        "title": "HROT",
+        "slug": "hrot",
+        "thumb_id": "d1725c963130b25b7c17b70de3ea4772995a37932726a120e4298894f1d7374b",
+        "bg_id": "5b14fdd577903cb027cc7ec9d5228df9bcf0f9d101fbe2a34b7342f7db7c0032",
+        "url": "https://www.gog.com/game/hrot",
+        "developer": "Spytihněv",
+        "publisher": "Spytihněv",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710707499",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hrot_1.1b_(65752).exe",
+                    "size": "236453712"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/12B82EC45B",
+                            "link": "https://filecrypt.cc/Container/12B82EC45B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9D5DDBDD9C",
+                            "link": "https://filecrypt.cc/Container/9D5DDBDD9C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7102602D1B",
+                            "link": "https://filecrypt.cc/Container/7102602D1B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,79 @@
+{
+    "href": "/game/return_of_the_obra_dinn",
+    "MSG": {
+        "id": "1108393852",
+        "title": "Return of the Obra Dinn",
+        "slug": "return_of_the_obra_dinn",
+        "thumb_id": "6d725d2e3ffdab8043e078b6aaa9b0bfd9fc3316d82e4a257735e0bc5dc991f3",
+        "bg_id": "f759c13caa26ae51b90129b2d88a90c8c21c2605c0bcf0e9dafa3dbb3b5291a5",
+        "url": "https://www.gog.com/game/return_of_the_obra_dinn",
+        "developer": "Lucas Pope",
+        "publisher": "3909 LLC",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708079081",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_return_of_the_obra_dinn_1.2.122_(58902).exe",
+                    "size": "927229960"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5DCCAEF8AC",
+                            "link": "https://filecrypt.cc/Container/5DCCAEF8AC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/928B9EE7DC",
+                            "link": "https://filecrypt.cc/Container/928B9EE7DC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/31AC11AD37",
+                            "link": "https://filecrypt.cc/Container/31AC11AD37"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/80C33322F8",
+                            "link": "https://filecrypt.cc/Container/80C33322F8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,123 @@
+{
+    "href": "/game/crysis",
+    "MSG": {
+        "id": "1809223221",
+        "title": "Crysis®",
+        "slug": "crysis",
+        "thumb_id": "aacb0bea127f11e66b0d9b7fb2aa798dff9e41472bc57f533eca5885fad96b75",
+        "bg_id": "111e2a61b9fdfa85675f0d72ca40c0a9825ab2c3ff2d8e00a55a16b999680075",
+        "url": "https://www.gog.com/game/crysis",
+        "developer": "Crytek Studios",
+        "publisher": "Electronic Arts",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1708799522",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_crysis_2.0.0.7-1.bin",
+                    "size": "4194304000"
+                },
+                {
+                    "name": "setup_crysis_2.0.0.7-2.bin",
+                    "size": "3143097215"
+                },
+                {
+                    "name": "setup_crysis_2.0.0.7.exe",
+                    "size": "27364848"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "crysis_avatars.zip",
+                    "size": "906238"
+                },
+                {
+                    "name": "crysis_manual.zip",
+                    "size": "3102724"
+                },
+                {
+                    "name": "crysis_wallpapers.zip",
+                    "size": "5829413"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/98CFDE8AF2",
+                            "link": "https://filecrypt.cc/Container/98CFDE8AF2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7B5A79DFFA",
+                            "link": "https://filecrypt.cc/Container/7B5A79DFFA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E0F0F8DD8D",
+                            "link": "https://filecrypt.cc/Container/E0F0F8DD8D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/39A39E9E60",
+                            "link": "https://filecrypt.cc/Container/39A39E9E60"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FF2AAC63A8",
+                            "link": "https://filecrypt.cc/Container/FF2AAC63A8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/016A58CA55",
+                            "link": "https://filecrypt.cc/Container/016A58CA55"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

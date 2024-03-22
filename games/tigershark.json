@@ -1,0 +1,90 @@
+{
+    "href": "/game/tigershark",
+    "MSG": {
+        "id": "1759577042",
+        "title": "TigerShark",
+        "slug": "tigershark",
+        "thumb_id": "d7590a83422efda991d1d44de7766d8def4ac514240682a2d3464ceb34bf30f8",
+        "bg_id": "ad7797a7011853e719831c7a5577bd348c2bfed4206cc3afb1bf2084df7c19c9",
+        "url": "https://www.gog.com/en/game/tigershark",
+        "developer": "n-Space",
+        "publisher": "Piko Interactive",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1707775380",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tigershark_1.0_(62985).exe",
+                    "size": "215791808"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7AF551D9D9",
+                            "link": "https://filecrypt.cc/Container/7AF551D9D9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C4F0983199",
+                            "link": "https://filecrypt.cc/Container/C4F0983199"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8053DA5806",
+                            "link": "https://filecrypt.cc/Container/8053DA5806"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/63070DAE46",
+                            "link": "https://filecrypt.cc/Container/63070DAE46"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8DE10DBA82",
+                            "link": "https://filecrypt.cc/Container/8DE10DBA82"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

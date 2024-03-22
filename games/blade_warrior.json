@@ -1,0 +1,79 @@
+{
+    "href": "/game/blade_warrior",
+    "MSG": {
+        "id": "1838022938",
+        "title": "Blade Warrior",
+        "slug": "blade_warrior",
+        "thumb_id": "b8c3dac3903c7b733c1d80d273612ac4a67e602ae84495b73096001bd60fd458",
+        "bg_id": "2d8082990309362967bfdd2ef1f03ec384a90dbc768d6ea0e885c883dec1cc02",
+        "url": "https://www.gog.com/en/game/blade_warrior",
+        "developer": "Image Works",
+        "publisher": "Mirrorsoft",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1684098249",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_blade_warrior_v1.0_(60278).exe",
+                    "size": "13091960"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/97388B385E",
+                            "link": "https://filecrypt.cc/Container/97388B385E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/21DA5C80CC",
+                            "link": "https://filecrypt.cc/Container/21DA5C80CC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4EEB44960F",
+                            "link": "https://filecrypt.cc/Container/4EEB44960F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E5B62DE8F5",
+                            "link": "https://filecrypt.cc/Container/E5B62DE8F5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,69 @@
+{
+    "href": "/game/the_long_dark",
+    "MSG": {
+        "id": "1447763046",
+        "title": "The Long Dark",
+        "slug": "the_long_dark",
+        "thumb_id": "3b62290d3c6caf8b5db54f9517fb69335350d782fe6ebec330231516255fca10",
+        "bg_id": "0b5bfff9dee063ddc08eda9bf62ff6086c8caaccc54b26889910345773abac37",
+        "url": "https://web.archive.org/web/20180407033957/https://www.gog.com/game/the_long_dark",
+        "developer": "Hinterland Studio Inc",
+        "publisher": "Hinterland Studio Inc",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710150183",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_long_dark_2.02_(64bit)_(58652)-1.bin",
+                    "size": "4292837886"
+                },
+                {
+                    "name": "setup_the_long_dark_2.02_(64bit)_(58652)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_the_long_dark_2.02_(64bit)_(58652)-3.bin",
+                    "size": "580143830"
+                },
+                {
+                    "name": "setup_the_long_dark_2.02_(64bit)_(58652).exe",
+                    "size": "2139472"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AF164213A9",
+                            "link": "https://filecrypt.cc/Container/AF164213A9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A943BC12C6",
+                            "link": "https://filecrypt.cc/Container/A943BC12C6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

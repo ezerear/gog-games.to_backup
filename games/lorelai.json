@@ -1,0 +1,83 @@
+{
+    "href": "/game/lorelai",
+    "MSG": {
+        "id": "1128886553",
+        "title": "Lorelai",
+        "slug": "lorelai",
+        "thumb_id": "7617a137a072c7596d06f2bbf31a7744050be0e32735e7e7b25c31bdf1dd4434",
+        "bg_id": "59189772af3691c31c1d1eb67373ac9b95480abefdd2bf5546325df1f8adde8d",
+        "url": "https://www.gog.com/game/lorelai",
+        "developer": "Harvester Games",
+        "publisher": "Screen 7",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708240097",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_lorelai_1.1.0a_(40070)-1.bin",
+                    "size": "2507301430"
+                },
+                {
+                    "name": "setup_lorelai_1.1.0a_(40070).exe",
+                    "size": "1505184"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/126EFA15B7",
+                            "link": "https://filecrypt.cc/Container/126EFA15B7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4D8B2F71C2",
+                            "link": "https://filecrypt.cc/Container/4D8B2F71C2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9CB97CF966",
+                            "link": "https://filecrypt.cc/Container/9CB97CF966"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/73469A01A9",
+                            "link": "https://filecrypt.cc/Container/73469A01A9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

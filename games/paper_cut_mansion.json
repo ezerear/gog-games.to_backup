@@ -1,0 +1,83 @@
+{
+    "href": "/game/paper_cut_mansion",
+    "MSG": {
+        "id": "1702566435",
+        "title": "Paper Cut Mansion",
+        "slug": "paper_cut_mansion",
+        "thumb_id": "10a5109c88e520ab40bf0e8cf0361381d41310a5d1efc4421eb3b932d3d44f6c",
+        "bg_id": "9c95cc3245762cecd48315611d4fa37dc89c0d93e2d4ddcda628d6ea672bcf5e",
+        "url": "https://www.gog.com/en/game/paper_cut_mansion",
+        "developer": "Space Lizard Studios",
+        "publisher": "Thunderful Publishing",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1702132745",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_paper_cut_mansion_1.6_(60493)-1.bin",
+                    "size": "2795744827"
+                },
+                {
+                    "name": "setup_paper_cut_mansion_1.6_(60493).exe",
+                    "size": "854064"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FD0A36369D",
+                            "link": "https://filecrypt.cc/Container/FD0A36369D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C0C6F0FB86",
+                            "link": "https://filecrypt.cc/Container/C0C6F0FB86"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/988F654B2E",
+                            "link": "https://filecrypt.cc/Container/988F654B2E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6351E27E03",
+                            "link": "https://filecrypt.cc/Container/6351E27E03"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

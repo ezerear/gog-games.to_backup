@@ -1,0 +1,83 @@
+{
+    "href": "/game/mortal_glory",
+    "MSG": {
+        "id": "1802014992",
+        "title": "Mortal Glory",
+        "slug": "mortal_glory",
+        "thumb_id": "cc32908b9493831c839f5cd7bdfb45d57c35e7472ab4ec7322a55d00059aff71",
+        "bg_id": "fdc5d9c4203fb77f18905c48488816baab01b680e365b3ad61ce5eda30f3b9b6",
+        "url": "https://www.gog.com/en/game/mortal_glory",
+        "developer": "Redbeak Games",
+        "publisher": "Redbeak Games",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1685023764",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_mortal_glory_-_fresh_blood_dlc_1.8_gog_ach_update_(64bit)_(62961).exe",
+                    "size": "6433536"
+                },
+                {
+                    "name": "setup_mortal_glory_1.8_gog_ach_update_(64bit)_(62961).exe",
+                    "size": "203762848"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6C73E97BA6",
+                            "link": "https://filecrypt.cc/Container/6C73E97BA6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/247AFAF943",
+                            "link": "https://filecrypt.cc/Container/247AFAF943"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/35CC1F807B",
+                            "link": "https://filecrypt.cc/Container/35CC1F807B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A290466BA8",
+                            "link": "https://filecrypt.cc/Container/A290466BA8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

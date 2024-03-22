@@ -1,0 +1,115 @@
+{
+    "href": "/game/inscryption",
+    "MSG": {
+        "id": "1224800338",
+        "title": "Inscryption",
+        "slug": "inscryption",
+        "thumb_id": "d632a349e49e3a81a4b84a794aec16c266427ec4e9c03751c2e24de30aa6b762",
+        "bg_id": "95b27a0e8bc30e5693c734954195519716cb3dbf2716d1aab6e773b241dbe7a7",
+        "url": "https://www.gog.com/game/inscryption",
+        "developer": "Daniel Mullins Games",
+        "publisher": "Devolver Digital",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709231337",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_inscryption_1.10_win_(56780)-1.bin",
+                    "size": "2100079675"
+                },
+                {
+                    "name": "setup_inscryption_1.10_win_(56780).exe",
+                    "size": "839008"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "OST_FLAC.zip",
+                    "size": "1053754564"
+                },
+                {
+                    "name": "OST_MP3.zip",
+                    "size": "251449899"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4A3E574A95",
+                            "link": "https://filecrypt.cc/Container/4A3E574A95"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C030F307D7",
+                            "link": "https://filecrypt.cc/Container/C030F307D7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/506F5C65DA",
+                            "link": "https://filecrypt.cc/Container/506F5C65DA"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F34FA8A555",
+                            "link": "https://filecrypt.cc/Container/F34FA8A555"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7DBDF03182",
+                            "link": "https://filecrypt.cc/Container/7DBDF03182"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5D8C28CA5E",
+                            "link": "https://filecrypt.cc/Container/5D8C28CA5E"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

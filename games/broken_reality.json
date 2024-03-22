@@ -1,0 +1,90 @@
+{
+    "href": "/game/broken_reality",
+    "MSG": {
+        "id": "1441606886",
+        "title": "Broken Reality",
+        "slug": "broken_reality",
+        "thumb_id": "03366ac7bd94de0578b6adc5cbfad69f77a6645c1f74be159eedc024b0cf675c",
+        "bg_id": "b9b64d50862429496f09c41cd7dba901ed37f221c195e30da1aa0e63ca4ee3ee",
+        "url": "https://www.gog.com/game/broken_reality",
+        "developer": "Dynamic Media Triad",
+        "publisher": "Digital Tribe Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1706757118",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_broken_reality_1.8.4_(45941).exe",
+                    "size": "1561297024"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/72CE877FAD",
+                            "link": "https://filecrypt.cc/Container/72CE877FAD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/39120EF78C",
+                            "link": "https://filecrypt.cc/Container/39120EF78C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8A2601201A",
+                            "link": "https://filecrypt.cc/Container/8A2601201A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FB57E2ED97",
+                            "link": "https://filecrypt.cc/Container/FB57E2ED97"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8A79B68B45",
+                            "link": "https://filecrypt.cc/Container/8A79B68B45"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

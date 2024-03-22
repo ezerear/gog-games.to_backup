@@ -1,0 +1,68 @@
+{
+    "href": "/game/elypse",
+    "MSG": {
+        "id": "1245715170",
+        "title": "Elypse",
+        "slug": "elypse",
+        "thumb_id": "020ccd79c3edcb0d7ab2949e20e5a046e6e69a8f449f6cd19976f6fe7844d65e",
+        "bg_id": "2338db389482926b9c5b7458a50ba753399eb78ab1e2aef77cf2ac519be8c59f",
+        "url": "https://www.gog.com/en/game/elypse",
+        "developer": "Hot Chili Games",
+        "publisher": "PID Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709737792",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_elypse_1.6_(64592).exe",
+                    "size": "588671264"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D3332B58AF",
+                            "link": "https://filecrypt.cc/Container/D3332B58AF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7B43A99B61",
+                            "link": "https://filecrypt.cc/Container/7B43A99B61"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/43C6A5A547",
+                            "link": "https://filecrypt.cc/Container/43C6A5A547"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

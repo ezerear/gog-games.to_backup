@@ -1,0 +1,94 @@
+{
+    "href": "/game/little_big_workshop",
+    "MSG": {
+        "id": "1190911087",
+        "title": "Little Big Workshop",
+        "slug": "little_big_workshop",
+        "thumb_id": "3178de6689fd227d720642dee93af9c5ff8851b8c4ba4a9cb01d326bcdcbab19",
+        "bg_id": "dcb550512d5ed075bdc2ef298b1cd2ea5dfeae95a6cb71203cc48a2c0c683e61",
+        "url": "https://www.gog.com/game/little_big_workshop",
+        "developer": "Mirage Game Studios",
+        "publisher": "Handy Games, THQ Nordic",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1705025976",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_little_big_workshop_-_the_evil_dlc_2.0.14042_(64bit)_(42656).exe",
+                    "size": "5535696"
+                },
+                {
+                    "name": "setup_little_big_workshop_2.0.14042_(64bit)_(42656).exe",
+                    "size": "1408453056"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/26D960ED5E",
+                            "link": "https://filecrypt.cc/Container/26D960ED5E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/307935FBFF",
+                            "link": "https://filecrypt.cc/Container/307935FBFF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0D302A282B",
+                            "link": "https://filecrypt.cc/Container/0D302A282B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6E9536F07C",
+                            "link": "https://filecrypt.cc/Container/6E9536F07C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7061EAB786",
+                            "link": "https://filecrypt.cc/Container/7061EAB786"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

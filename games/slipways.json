@@ -1,0 +1,90 @@
+{
+    "href": "/game/slipways",
+    "MSG": {
+        "id": "2067138532",
+        "title": "Slipways",
+        "slug": "slipways",
+        "thumb_id": "02b3ee6df8279bfa01eded4494f7a8e942300832e93096a16183ce16079f0091",
+        "bg_id": "0d49e57a532d3b93f2f8d14c62056e85ff64c9f56db6d1159d9cce29f81a4def",
+        "url": "https://www.gog.com/game/slipways",
+        "developer": "Beetlewing",
+        "publisher": "Beetlewing",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1704632991",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_slipways_1.3-1109-win_(64bit)_(68026).exe",
+                    "size": "622663416"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F00AF34794",
+                            "link": "https://filecrypt.cc/Container/F00AF34794"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B5740D1AA0",
+                            "link": "https://filecrypt.cc/Container/B5740D1AA0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5EE81071CD",
+                            "link": "https://filecrypt.cc/Container/5EE81071CD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A3AD422AC6",
+                            "link": "https://filecrypt.cc/Container/A3AD422AC6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CEF223A261",
+                            "link": "https://filecrypt.cc/Container/CEF223A261"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

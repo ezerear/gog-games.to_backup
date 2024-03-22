@@ -1,0 +1,80 @@
+{
+    "href": "/game/minecraft_story_mode",
+    "MSG": {
+        "id": "1444400283",
+        "title": "Minecraft: Story Mode - A Telltale Game Series",
+        "slug": "minecraft_story_mode",
+        "thumb_id": "c5d285ceeac9a1449894205642f86aaf021900be3ea5e03bbc77dd7e55e54699",
+        "bg_id": "af844b263539af01478e20bf056a1d40d3493e858434f5994b2d268141df03eb",
+        "url": "https://web.archive.org/web/20190218040742/https://www.gog.com/game/minecraft_story_mode",
+        "developer": "Telltale Games",
+        "publisher": "Telltale Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709436520",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_minecraft_story_mode_-_adventure_pass_2018-02-22_(18805)-1.bin",
+                    "size": "2114641789"
+                },
+                {
+                    "name": "setup_minecraft_story_mode_-_adventure_pass_2018-02-22_(18805).exe",
+                    "size": "764056"
+                },
+                {
+                    "name": "setup_minecraft_story_mode_2018-02-22_(18805)-1.bin",
+                    "size": "3920505204"
+                },
+                {
+                    "name": "setup_minecraft_story_mode_2018-02-22_(18805).exe",
+                    "size": "828816"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/815CEB6F2B",
+                            "link": "https://filecrypt.cc/Container/815CEB6F2B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/01B2E042A9",
+                            "link": "https://filecrypt.cc/Container/01B2E042A9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0D328E0711",
+                            "link": "https://filecrypt.cc/Container/0D328E0711"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

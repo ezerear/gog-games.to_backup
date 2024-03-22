@@ -1,0 +1,90 @@
+{
+    "href": "/game/hexen_deathkings_of_the_dark_citadel",
+    "MSG": {
+        "id": "1983497091",
+        "title": "Hexen: Deathkings of the Dark Citadel",
+        "slug": "hexen_deathkings_of_the_dark_citadel",
+        "thumb_id": "0e2f52de5c69edca8a1e38546273a9d106971e0a7c91693391caa6f9cdf3a665",
+        "bg_id": "e34c1249f567b77f9b583fae6c7d13ff856dab2b478c489b7e19b954d608a255",
+        "url": "https://www.gog.com/game/hexen_deathkings_of_the_dark_citadel",
+        "developer": "Raven Software",
+        "publisher": "id Software",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1706500786",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hexen_deathkings_of_the_dark_citadel_1.1_(42970).exe",
+                    "size": "188992992"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/00DEF0B17F",
+                            "link": "https://filecrypt.cc/Container/00DEF0B17F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3D2B86BBB7",
+                            "link": "https://filecrypt.cc/Container/3D2B86BBB7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/93861AEBE6",
+                            "link": "https://filecrypt.cc/Container/93861AEBE6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E7770DD226",
+                            "link": "https://filecrypt.cc/Container/E7770DD226"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C5E6235E9A",
+                            "link": "https://filecrypt.cc/Container/C5E6235E9A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

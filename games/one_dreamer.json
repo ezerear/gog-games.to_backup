@@ -1,0 +1,111 @@
+{
+    "href": "/game/one_dreamer",
+    "MSG": {
+        "id": "1682649193",
+        "title": "One Dreamer",
+        "slug": "one_dreamer",
+        "thumb_id": "89c81d3bc2ae66d2b0e670cb27ec1476c7cbce8f73e535a0cef9d4e1e88425c8",
+        "bg_id": "4fc64fabd4c6150813b89702513b24b5ac73c78b615feac48859c4facf3a25db",
+        "url": "https://www.gog.com/game/one_dreamer",
+        "developer": "F2House",
+        "publisher": "F2House",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709921051",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_one_dreamer_1.0.7_(64bit)_(58950).exe",
+                    "size": "627073544"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "one_dreamer_soundtrack_flac.zip",
+                    "size": "619899970"
+                },
+                {
+                    "name": "one_dreamer_soundtrack_mp3.zip",
+                    "size": "124830661"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0DAA72AB8C",
+                            "link": "https://filecrypt.cc/Container/0DAA72AB8C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4A546A596B",
+                            "link": "https://filecrypt.cc/Container/4A546A596B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D8DC9A6497",
+                            "link": "https://filecrypt.cc/Container/D8DC9A6497"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D5AFACF432",
+                            "link": "https://filecrypt.cc/Container/D5AFACF432"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9C8EDFA225",
+                            "link": "https://filecrypt.cc/Container/9C8EDFA225"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BBF58F4D42",
+                            "link": "https://filecrypt.cc/Container/BBF58F4D42"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

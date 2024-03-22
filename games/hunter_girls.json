@@ -1,0 +1,68 @@
+{
+    "href": "/game/hunter_girls",
+    "MSG": {
+        "id": "1366962310",
+        "title": "Hunter Girls",
+        "slug": "hunter_girls",
+        "thumb_id": "dd6431ed7504c66c2ab71d2c564fd5bbee635fadfb12ff268932358dc3dbf16d",
+        "bg_id": "ff28c7bcbcfb401a1c43a5741067669a3fbddd312315f614886d3ecea257cde5",
+        "url": "https://www.gog.com/en/game/hunter_girls",
+        "developer": "Denis Lutsenko",
+        "publisher": "Meridian4",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709960584",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hunter_girls_1.0_(59893).exe",
+                    "size": "133140656"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B2B8E24F93",
+                            "link": "https://filecrypt.cc/Container/B2B8E24F93"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B665502C40",
+                            "link": "https://filecrypt.cc/Container/B665502C40"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A688CCDAAB",
+                            "link": "https://filecrypt.cc/Container/A688CCDAAB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

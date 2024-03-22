@@ -1,0 +1,111 @@
+{
+    "href": "/game/stardew_valley",
+    "MSG": {
+        "id": "1453375253",
+        "title": "Stardew Valley",
+        "slug": "stardew_valley",
+        "thumb_id": "27d65260098fedca970a717b09a3e2513d8c2a84d02a81ac508b768c011cb46b",
+        "bg_id": "12871df007610d0c3df17d6b986292382fcf9eabd28708bcbd6cc66f98c484ef",
+        "url": "https://www.gog.com/game/stardew_valley",
+        "developer": "ConcernedApe",
+        "publisher": "ConcernedApe",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710895949",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_stardew_valley_1.6.0.24079.6430277568_(72018).exe",
+                    "size": "629203144"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "stardew_valley_enUS_compat_1_5_6_1988831614_.pkg",
+                    "size": "500954640"
+                },
+                {
+                    "name": "stardew_valley_ost.zip",
+                    "size": "237231057"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BE4DA0C6F5",
+                            "link": "https://filecrypt.cc/Container/BE4DA0C6F5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/103C9AE6CF",
+                            "link": "https://filecrypt.cc/Container/103C9AE6CF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0EE1A85E2B",
+                            "link": "https://filecrypt.cc/Container/0EE1A85E2B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8280CF582F",
+                            "link": "https://filecrypt.cc/Container/8280CF582F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C41EE5C240",
+                            "link": "https://filecrypt.cc/Container/C41EE5C240"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C34DB7862F",
+                            "link": "https://filecrypt.cc/Container/C34DB7862F"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

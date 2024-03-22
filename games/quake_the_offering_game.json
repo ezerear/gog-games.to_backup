@@ -1,0 +1,107 @@
+{
+    "href": "/game/quake_the_offering_game",
+    "MSG": {
+        "id": "1435828198",
+        "title": "Quake: The Offering",
+        "slug": "quake_the_offering_game",
+        "thumb_id": "3b664dfe416ffc660b131683ce701b3860a81ac5efa71c1f17499a53cad3cac6",
+        "bg_id": "4f3010b3133c124701da967097548ed114a656aa5a0ca9fec30540b4f7bc9b36",
+        "url": "https://www.gog.com/game/quake_the_offering",
+        "developer": "id Software",
+        "publisher": "Bethesda Softworks LLC",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1708995383",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_quake_the_offering_2.0.0.6.exe",
+                    "size": "1233689072"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "quake_manual.zip",
+                    "size": "461837"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4A0D54E561",
+                            "link": "https://filecrypt.cc/Container/4A0D54E561"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BEBE707248",
+                            "link": "https://filecrypt.cc/Container/BEBE707248"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DACFF168CF",
+                            "link": "https://filecrypt.cc/Container/DACFF168CF"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9BCBA524EF",
+                            "link": "https://filecrypt.cc/Container/9BCBA524EF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CAF389E285",
+                            "link": "https://filecrypt.cc/Container/CAF389E285"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CF25FB2804",
+                            "link": "https://filecrypt.cc/Container/CF25FB2804"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

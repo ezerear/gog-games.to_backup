@@ -1,0 +1,68 @@
+{
+    "href": "/game/the_zachtronics_solitaire_collection",
+    "MSG": {
+        "id": "1992450334",
+        "title": "The Zachtronics Solitaire Collection",
+        "slug": "the_zachtronics_solitaire_collection",
+        "thumb_id": "7bbc67818fef205dd38a7ba6b03e55e4ca750f639028aead037b303418418944",
+        "bg_id": "77cea10baa685d568929f53595c68b34766867b31becfdef1672472b85d48a06",
+        "url": "https://www.gog.com/en/game/the_zachtronics_solitaire_collection",
+        "developer": "Zachtronics",
+        "publisher": "Zachtronics",
+        "category": "Puzzle",
+        "uploading": "0",
+        "last_upload": "1709290150",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_zachtronics_solitaire_collection_march_2023_update_(63922).exe",
+                    "size": "485396856"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4D194BFCB5",
+                            "link": "https://filecrypt.cc/Container/4D194BFCB5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9C5CEC8ED2",
+                            "link": "https://filecrypt.cc/Container/9C5CEC8ED2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B19D3E6CD8",
+                            "link": "https://filecrypt.cc/Container/B19D3E6CD8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

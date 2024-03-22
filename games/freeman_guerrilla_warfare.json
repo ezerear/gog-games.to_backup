@@ -1,0 +1,84 @@
+{
+    "href": "/game/freeman_guerrilla_warfare",
+    "MSG": {
+        "id": "1965205886",
+        "title": "Freeman: Guerrilla Warfare",
+        "slug": "freeman_guerrilla_warfare",
+        "thumb_id": "05eb6aead827a088b05c85278a770692bd66ecf24c1ea6818deb25689b5a8bb4",
+        "bg_id": "6bd9620a52ae10478141fa6077c8e069f49c980e4dd6fabbc6db02bf9df706c3",
+        "url": "https://www.gog.com/game/freeman_guerrilla_warfare",
+        "developer": "KK Game Studio",
+        "publisher": "KK Game Studio",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710774621",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_freeman_guerrilla_warfare_1.32_(34857)-1.bin",
+                    "size": "4293941246"
+                },
+                {
+                    "name": "setup_freeman_guerrilla_warfare_1.32_(34857)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_freeman_guerrilla_warfare_1.32_(34857)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_freeman_guerrilla_warfare_1.32_(34857)-4.bin",
+                    "size": "3935701222"
+                },
+                {
+                    "name": "setup_freeman_guerrilla_warfare_1.32_(34857).exe",
+                    "size": "1033312"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2A72CC2856",
+                            "link": "https://filecrypt.cc/Container/2A72CC2856"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A1669F77A2",
+                            "link": "https://filecrypt.cc/Container/A1669F77A2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/99555D5E2F",
+                            "link": "https://filecrypt.cc/Container/99555D5E2F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

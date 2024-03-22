@@ -1,0 +1,72 @@
+{
+    "href": "/game/trailblazers",
+    "MSG": {
+        "id": "2056960246",
+        "title": "Trailblazers",
+        "slug": "trailblazers",
+        "thumb_id": "0352c5b64a332c7c1375359326ae4eb8e9cb29c0a41cf822e165f63bb63b723d",
+        "bg_id": "0d7302bde53cfd80c67ee94373d7c7f0ef071c1650fa39eb30ec8c7609bd5ee7",
+        "url": "https://www.gog.com/game/trailblazers",
+        "developer": "Supergonk",
+        "publisher": "Rising Star Games",
+        "category": "Racing",
+        "uploading": "0",
+        "last_upload": "1680471384",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_trailblazers_gog-1_(20576).exe",
+                    "size": "535702024"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/nfyQuPp",
+                            "link": "https://safelinking.net/nfyQuPp"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/HTeryHy",
+                            "link": "https://safelinking.net/HTeryHy"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "game-trailblazers-(20576).part1.rar",
+                            "link": "https://multiup.org/ca017f9e09ccadd665c65b44059a741c"
+                        },
+                        {
+                            "name": "game-trailblazers-(20576).part2.rar",
+                            "link": "https://multiup.org/d034879aff015df95005dea290e7b997"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

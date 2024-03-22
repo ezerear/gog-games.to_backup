@@ -1,0 +1,101 @@
+{
+    "href": "/game/head_over_heels",
+    "MSG": {
+        "id": "1740155190",
+        "title": "Head Over Heels",
+        "slug": "head_over_heels",
+        "thumb_id": "ccb0b59be30bdf0e06464365fe977a6e6a271c50cd7310c7797b2801a3a9ced0",
+        "bg_id": "8329a44401f00938ddea2379aa0b372bb899b19c9f0061eadffe4c7df75d931e",
+        "url": "https://www.gog.com/game/head_over_heels",
+        "developer": "Retrospec",
+        "publisher": "Piko Interactive",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1702123800",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_head_over_heels_1.0_pc_(53028).exe",
+                    "size": "17185744"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8A70F20537",
+                            "link": "https://filecrypt.cc/Container/8A70F20537"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F1FAA0A5BF",
+                            "link": "https://filecrypt.cc/Container/F1FAA0A5BF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4C4EFD0631",
+                            "link": "https://filecrypt.cc/Container/4C4EFD0631"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9EB06F6043",
+                            "link": "https://filecrypt.cc/Container/9EB06F6043"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C110C716C4",
+                            "link": "https://filecrypt.cc/Container/C110C716C4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1B9DFF6135",
+                            "link": "https://filecrypt.cc/Container/1B9DFF6135"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

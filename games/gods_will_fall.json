@@ -1,0 +1,59 @@
+{
+    "href": "/game/gods_will_fall",
+    "MSG": {
+        "id": "1919321830",
+        "title": "Gods Will Fall",
+        "slug": "gods_will_fall",
+        "thumb_id": "f5954d7e908f2ad4836ce2a3c4f8f4ac0c60dc916113c9ddbe1991c2caa896ce",
+        "bg_id": "818ca776b4dec248214e9475eb267546fb28b121f3e5b0807b43583907d3b9ba",
+        "url": "https://www.gog.com/game/gods_will_fall",
+        "developer": "Cleaver Beans",
+        "publisher": "Deep Silver",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708662506",
+        "votes": "1",
+        "files": false,
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/706C149BB4",
+                            "link": "https://filecrypt.cc/Container/706C149BB4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/47BD3A2B20",
+                            "link": "https://filecrypt.cc/Container/47BD3A2B20"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/17E54E3077",
+                            "link": "https://filecrypt.cc/Container/17E54E3077"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

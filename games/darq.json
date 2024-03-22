@@ -1,0 +1,111 @@
+{
+    "href": "/game/darq",
+    "MSG": {
+        "id": "1784349020",
+        "title": "DARQ: Complete Edition",
+        "slug": "darq",
+        "thumb_id": "065829408bc5a7f1cdb8566021efc74583fe2e898b7e804186280e9698701d0b",
+        "bg_id": "912be35536e20d7288c0db7d1a6bac69f5cf54d6db6ad6f5345525b70d8eb68f",
+        "url": "https://www.gog.com/game/darq",
+        "developer": "Unfold Games",
+        "publisher": "Unfold Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709484300",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_darq_complete_edition_2.3.1_(43439).exe",
+                    "size": "1509977048"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "darq_music.zip",
+                    "size": "58567444"
+                },
+                {
+                    "name": "darq_wallpapers.zip",
+                    "size": "15887582"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/26D2543B18",
+                            "link": "https://filecrypt.cc/Container/26D2543B18"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/69F180671B",
+                            "link": "https://filecrypt.cc/Container/69F180671B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/58D0FD298D",
+                            "link": "https://filecrypt.cc/Container/58D0FD298D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/135F1B7AEF",
+                            "link": "https://filecrypt.cc/Container/135F1B7AEF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/52C2CEC81A",
+                            "link": "https://filecrypt.cc/Container/52C2CEC81A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/685391CA4E",
+                            "link": "https://filecrypt.cc/Container/685391CA4E"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

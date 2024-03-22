@@ -1,0 +1,90 @@
+{
+    "href": "/game/starlord",
+    "MSG": {
+        "id": "1099982058",
+        "title": "Starlord",
+        "slug": "starlord",
+        "thumb_id": "06d41e4f4a1528d41a44bd27afcedf75df0f9946b9cb6c4b3da1adef5b0c2c33",
+        "bg_id": "61e5e62b0c937bf413435ff5bbbe13c562cc41842a99fa342395a4dd0fb6131a",
+        "url": "https://www.gog.com/game/starlord",
+        "developer": "Third Millenium Software",
+        "publisher": "Retroism",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1703856323",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_starlord_1.0_(6087).exe",
+                    "size": "56453024"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/19831C2867",
+                            "link": "https://filecrypt.cc/Container/19831C2867"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A4799E702F",
+                            "link": "https://filecrypt.cc/Container/A4799E702F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/10C6C59782",
+                            "link": "https://filecrypt.cc/Container/10C6C59782"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2BF954781F",
+                            "link": "https://filecrypt.cc/Container/2BF954781F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6B7FEFBE66",
+                            "link": "https://filecrypt.cc/Container/6B7FEFBE66"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

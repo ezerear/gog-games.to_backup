@@ -1,0 +1,80 @@
+{
+    "href": "/game/holomento",
+    "MSG": {
+        "id": "1604863666",
+        "title": "Holomento",
+        "slug": "holomento",
+        "thumb_id": "1c8bc9fec3e89c5a6f9930dbfa4d7cce3e254c2f1b8d3b5c2a772d9335534476",
+        "bg_id": "07aefe5272a62a18a99171b94897b1270c6e5e68ce4f546ed01e793172c84d7f",
+        "url": "https://www.gog.com/game/holomento",
+        "developer": "Sean Weech",
+        "publisher": "Deck13",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710438520",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_holomento_0.6.3_(64bit)_(63995)-1.bin",
+                    "size": "4293964286"
+                },
+                {
+                    "name": "setup_holomento_0.6.3_(64bit)_(63995)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_holomento_0.6.3_(64bit)_(63995)-3.bin",
+                    "size": "254450116"
+                },
+                {
+                    "name": "setup_holomento_0.6.3_(64bit)_(63995).exe",
+                    "size": "1012936"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9049471F16",
+                            "link": "https://filecrypt.cc/Container/9049471F16"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8B5C9A8835",
+                            "link": "https://filecrypt.cc/Container/8B5C9A8835"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/55520B1C13",
+                            "link": "https://filecrypt.cc/Container/55520B1C13"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

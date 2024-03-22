@@ -1,0 +1,72 @@
+{
+    "href": "/game/hotel_giant_2",
+    "MSG": {
+        "id": "1826911978",
+        "title": "Hotel Giant 2",
+        "slug": "hotel_giant_2",
+        "thumb_id": "a2253d7e8be8fae98fb17b30d9ccd2592c909659dcb8d4027fe8b76fc436329b",
+        "bg_id": "7bcef317549b26476615d4074f1ae09378442bc542f5dd0be0e618f0ddf8530f",
+        "url": "https://www.gog.com/en/game/hotel_giant_2",
+        "developer": "Enlight Software Limited, PerspectX",
+        "publisher": "Toplitz Productions",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1708778218",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hotel_giant_2_1.0.0.1._(53582)-1.bin",
+                    "size": "951069569"
+                },
+                {
+                    "name": "setup_hotel_giant_2_1.0.0.1._(53582).exe",
+                    "size": "897696"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F30B7F3D17",
+                            "link": "https://filecrypt.cc/Container/F30B7F3D17"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DD9FD7009A",
+                            "link": "https://filecrypt.cc/Container/DD9FD7009A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0F56912459",
+                            "link": "https://filecrypt.cc/Container/0F56912459"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,79 @@
+{
+    "href": "/game/jars",
+    "MSG": {
+        "id": "1159645322",
+        "title": "JARS",
+        "slug": "jars",
+        "thumb_id": "7b4e0090071441666954d9380c4a1d588f37007b68e6bc0beab90dbe9cb4790b",
+        "bg_id": "b89132c7df702b05165189b886ed2b665fda41294bc1c0bec52a056fe86a7659",
+        "url": "https://www.gog.com/game/jars",
+        "developer": "Mousetrap Games",
+        "publisher": "Daedalic Entertainment",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1703469277",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_jars_1.0.1110_(51492).exe",
+                    "size": "570964584"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9856EFEABA",
+                            "link": "https://filecrypt.cc/Container/9856EFEABA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D305E32461",
+                            "link": "https://filecrypt.cc/Container/D305E32461"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/70CE46DC75",
+                            "link": "https://filecrypt.cc/Container/70CE46DC75"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A59506AB0B",
+                            "link": "https://filecrypt.cc/Container/A59506AB0B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,111 @@
+{
+    "href": "/game/gone_viral",
+    "MSG": {
+        "id": "2136402319",
+        "title": "Gone Viral",
+        "slug": "gone_viral",
+        "thumb_id": "fc957abcb09b9d1c8710451758aaec6b89e90bb2071d38c0974ab3bd9cbdc2b6",
+        "bg_id": "46b1b311e5c48e3682fb492a3978c749574664da8c7a94d0ffa0517bc2cdd276",
+        "url": "https://www.gog.com/game/gone_viral",
+        "developer": "Skullbot Games",
+        "publisher": "Akupara Games, Surefire.Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710948849",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_gone_viral_1.02_(64bit)_(55358).exe",
+                    "size": "990457672"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "gone_viral_soundtrack_mp3.zip",
+                    "size": "51334357"
+                },
+                {
+                    "name": "gone_viral_soundtrack_wav.zip",
+                    "size": "393990942"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/571A8FF0C7",
+                            "link": "https://filecrypt.cc/Container/571A8FF0C7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/216193F006",
+                            "link": "https://filecrypt.cc/Container/216193F006"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5CE89EC532",
+                            "link": "https://filecrypt.cc/Container/5CE89EC532"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E04865BE1C",
+                            "link": "https://filecrypt.cc/Container/E04865BE1C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/87C7C8F598",
+                            "link": "https://filecrypt.cc/Container/87C7C8F598"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6A14E20220",
+                            "link": "https://filecrypt.cc/Container/6A14E20220"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

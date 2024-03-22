@@ -1,0 +1,76 @@
+{
+    "href": "/game/the_whispering_valley",
+    "MSG": {
+        "id": "2044656083",
+        "title": "The Whispering Valley",
+        "slug": "the_whispering_valley",
+        "thumb_id": "9885c8a225f6b7ce87e9e636e30b4c3056a7ac45f20f663985916fae7bd58405",
+        "bg_id": "45e56936ffef2b667b23a3b912c54fe40f3fb70388f9ed7ccf4974a3a917fbf3",
+        "url": "https://www.gog.com/en/game/the_whispering_valley",
+        "developer": "Studio Chien d'Or",
+        "publisher": "",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1706377162",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_whispering_valley_1.2_(63453)-1.bin",
+                    "size": "4294060542"
+                },
+                {
+                    "name": "setup_the_whispering_valley_1.2_(63453)-2.bin",
+                    "size": "1102018934"
+                },
+                {
+                    "name": "setup_the_whispering_valley_1.2_(63453).exe",
+                    "size": "916664"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4AD3C907FC",
+                            "link": "https://filecrypt.cc/Container/4AD3C907FC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F3F24F4E98",
+                            "link": "https://filecrypt.cc/Container/F3F24F4E98"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EA3F6FC950",
+                            "link": "https://filecrypt.cc/Container/EA3F6FC950"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

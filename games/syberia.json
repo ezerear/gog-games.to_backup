@@ -1,0 +1,123 @@
+{
+    "href": "/game/syberia",
+    "MSG": {
+        "id": "1207658848",
+        "title": "Syberia",
+        "slug": "syberia",
+        "thumb_id": "562431b824d67e15a3b04930a4534292f7b60ac31cdd10f64a38f809d09e7aed",
+        "bg_id": "2e4cfaf657e0d12002113e612ad2326562c3933a86385de8aabed04d5098f26e",
+        "url": "https://www.gog.com/game/syberia",
+        "developer": "Microids",
+        "publisher": "Anuman Interactive",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710024935",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_syberia_1.0.0_hotfix4_(53936)-1.bin",
+                    "size": "1170826184"
+                },
+                {
+                    "name": "setup_syberia_1.0.0_hotfix4_(53936).exe",
+                    "size": "1434408"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "Syberia_Artworks.zip",
+                    "size": "15683304"
+                },
+                {
+                    "name": "Syberia_Avatars.zip",
+                    "size": "144965"
+                },
+                {
+                    "name": "Syberia_Manual.zip",
+                    "size": "1065855"
+                },
+                {
+                    "name": "Syberia_tracks.zip",
+                    "size": "13071449"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3872B113EF",
+                            "link": "https://filecrypt.cc/Container/3872B113EF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0A39925038",
+                            "link": "https://filecrypt.cc/Container/0A39925038"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E3B60B9F2C",
+                            "link": "https://filecrypt.cc/Container/E3B60B9F2C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C22A631FBF",
+                            "link": "https://filecrypt.cc/Container/C22A631FBF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/526F1F1294",
+                            "link": "https://filecrypt.cc/Container/526F1F1294"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/941DFD0A40",
+                            "link": "https://filecrypt.cc/Container/941DFD0A40"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

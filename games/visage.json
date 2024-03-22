@@ -1,0 +1,115 @@
+{
+    "href": "/game/visage",
+    "MSG": {
+        "id": "2147483087",
+        "title": "Visage",
+        "slug": "visage",
+        "thumb_id": "1a4d265cc8f572bd3c92f05c31023573cda4f5d3489b03a19cf5a87177ac4b0f",
+        "bg_id": "178345ec5b848e2d3c74b79893dc7a9776e9682492f83aac72fc3ba2381c5577",
+        "url": "https://www.gog.com/game/visage",
+        "developer": "SadSquare Studio",
+        "publisher": "SadSquare Studio",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710544541",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_visage_3.04_(64bit)_(44156)-1.bin",
+                    "size": "4294074366"
+                },
+                {
+                    "name": "setup_visage_3.04_(64bit)_(44156)-2.bin",
+                    "size": "3866205854"
+                },
+                {
+                    "name": "setup_visage_3.04_(64bit)_(44156).exe",
+                    "size": "899480"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "visage_soundtrack_mp3.zip",
+                    "size": "245100031"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D831FB7BEB",
+                            "link": "https://filecrypt.cc/Container/D831FB7BEB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/55CCA7EC2E",
+                            "link": "https://filecrypt.cc/Container/55CCA7EC2E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/183AD9E966",
+                            "link": "https://filecrypt.cc/Container/183AD9E966"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A55E9C3963",
+                            "link": "https://filecrypt.cc/Container/A55E9C3963"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/27D4EE92BB",
+                            "link": "https://filecrypt.cc/Container/27D4EE92BB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3E674D2A68",
+                            "link": "https://filecrypt.cc/Container/3E674D2A68"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

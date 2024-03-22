@@ -1,0 +1,139 @@
+{
+    "href": "/game/alan_wake",
+    "MSG": {
+        "id": "1207659037",
+        "title": "Alan Wake",
+        "slug": "alan_wake",
+        "thumb_id": "668c29a416dba4a030547179927b8d8abf3bc473fa642c743f05020480598180",
+        "bg_id": "bdf9b35485e888464978e3003a7eabdee3fe96a8a142e1fa5fdc7e4e567e910b",
+        "url": "https://www.gog.com/game/alan_wake",
+        "developer": "Remedy Entertainment",
+        "publisher": "Remedy Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710577863",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_alan_wake_1.0_hotfix_(24778)-1.bin",
+                    "size": "4294015998"
+                },
+                {
+                    "name": "setup_alan_wake_1.0_hotfix_(24778)-2.bin",
+                    "size": "4143821500"
+                },
+                {
+                    "name": "setup_alan_wake_1.0_hotfix_(24778).exe",
+                    "size": "958560"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "alan_wake_files_book.zip",
+                    "size": "4637638"
+                },
+                {
+                    "name": "alan_wake_making_of.zip",
+                    "size": "358505470"
+                },
+                {
+                    "name": "alan_wake_manual.zip",
+                    "size": "1906260"
+                },
+                {
+                    "name": "alan_wake_music_video.zip",
+                    "size": "209482783"
+                },
+                {
+                    "name": "alan_wake_night_springs.zip",
+                    "size": "485884742"
+                },
+                {
+                    "name": "alan_wake_wallpaper.zip",
+                    "size": "976505"
+                },
+                {
+                    "name": "alan_wake_writer_in_the_cabin.zip",
+                    "size": "233592017"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1DCCFEF34A",
+                            "link": "https://filecrypt.cc/Container/1DCCFEF34A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AE3B4AE10F",
+                            "link": "https://filecrypt.cc/Container/AE3B4AE10F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/681AC29658",
+                            "link": "https://filecrypt.cc/Container/681AC29658"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CC0B07F509",
+                            "link": "https://filecrypt.cc/Container/CC0B07F509"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A0A535A166",
+                            "link": "https://filecrypt.cc/Container/A0A535A166"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/79CC74AFB4",
+                            "link": "https://filecrypt.cc/Container/79CC74AFB4"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/the_tiny_bang_story",
+    "MSG": {
+        "id": "1658358203",
+        "title": "The Tiny Bang Story",
+        "slug": "the_tiny_bang_story",
+        "thumb_id": "9f0c62725e6f41687136a51709d5c5426641043ba80efb0ce6ea7684bf58d643",
+        "bg_id": "ff9d62d32760ffa4d43a0b32e24042a715f8058e5227c5c9ec9211bb948ef911",
+        "url": "https://www.gog.com/game/the_tiny_bang_story",
+        "developer": "Colibri Games",
+        "publisher": "Colibri Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708616099",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_tiny_bang_story_gog-1(a)_(23028).exe",
+                    "size": "186787016"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/18D4CECC2D",
+                            "link": "https://filecrypt.cc/Container/18D4CECC2D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9B1C3A5EFB",
+                            "link": "https://filecrypt.cc/Container/9B1C3A5EFB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AE37C1D7A7",
+                            "link": "https://filecrypt.cc/Container/AE37C1D7A7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

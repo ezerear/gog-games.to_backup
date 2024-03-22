@@ -1,0 +1,76 @@
+{
+    "href": "/game/tomb_raider_legend",
+    "MSG": {
+        "id": "1810841502",
+        "title": "Tomb Raider: Legend",
+        "slug": "tomb_raider_legend",
+        "thumb_id": "098594caa6f1353366914f80006c997b7e3ffb0ef99c00824adcd5ccc559cec9",
+        "bg_id": "573da6b55cced4ad856fef46b22060b3ea25d318a864af8eaf423b05bb7191f0",
+        "url": "https://www.gog.com/game/tomb_raider_legend",
+        "developer": "Crystal Dynamics",
+        "publisher": "Square Enix",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708521175",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tomb_raider_legend_1.2_(48900)-1.bin",
+                    "size": "4294063102"
+                },
+                {
+                    "name": "setup_tomb_raider_legend_1.2_(48900)-2.bin",
+                    "size": "922111706"
+                },
+                {
+                    "name": "setup_tomb_raider_legend_1.2_(48900).exe",
+                    "size": "910560"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2E363FA9D8",
+                            "link": "https://filecrypt.cc/Container/2E363FA9D8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/628EE9D6B1",
+                            "link": "https://filecrypt.cc/Container/628EE9D6B1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9874299B4C",
+                            "link": "https://filecrypt.cc/Container/9874299B4C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,72 @@
+{
+    "href": "/game/sticky_business",
+    "MSG": {
+        "id": "1383151060",
+        "title": "Sticky Business",
+        "slug": "sticky_business",
+        "thumb_id": "1a31a87f501408a439fc8b9bba9bd4b444078667ded4a5d7214cbff3532c35f3",
+        "bg_id": "30ac6c026b6f68a78036acfba78cadf14dddc1019515ab1e00c30849abd681c1",
+        "url": "https://www.gog.com/en/game/sticky_business",
+        "developer": "Spellgarden Games",
+        "publisher": "Assemble Entertainment",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710851880",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sticky_business_2023.2084_(64bit)_(69872).exe",
+                    "size": "110014520"
+                },
+                {
+                    "name": "setup_sticky_business_plan_with_me_2023.2084_(64bit)_(69872).exe",
+                    "size": "6211776"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C1F0C57F42",
+                            "link": "https://filecrypt.cc/Container/C1F0C57F42"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6356E77264",
+                            "link": "https://filecrypt.cc/Container/6356E77264"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/418CE495F4",
+                            "link": "https://filecrypt.cc/Container/418CE495F4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

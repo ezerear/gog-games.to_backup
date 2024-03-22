@@ -1,0 +1,119 @@
+{
+    "href": "/game/hell_pie",
+    "MSG": {
+        "id": "1156382433",
+        "title": "Hell Pie",
+        "slug": "hell_pie",
+        "thumb_id": "31d5515d5e281160f628242733b0bcb2a702f9998c0cd55785fea3f9410a16fc",
+        "bg_id": "32c859ff228d6aa48be1966c302c33105c642c521cf169a9fb41a007ad995916",
+        "url": "https://www.gog.com/en/game/hell_pie",
+        "developer": "Sluggerfly",
+        "publisher": "Headup",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1706837749",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hell_pie_1.1.5_(59727)-1.bin",
+                    "size": "4283728589"
+                },
+                {
+                    "name": "setup_hell_pie_1.1.5_(59727).exe",
+                    "size": "869392"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "hell_pie_soundtrack_flac.zip",
+                    "size": "980633330"
+                },
+                {
+                    "name": "hell_pie_soundtrack_mp3.zip",
+                    "size": "212171527"
+                },
+                {
+                    "name": "hell_pie_soundtrack_wav.zip",
+                    "size": "1358358678"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A685B94284",
+                            "link": "https://filecrypt.cc/Container/A685B94284"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/89807ACCDA",
+                            "link": "https://filecrypt.cc/Container/89807ACCDA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A3FB72B782",
+                            "link": "https://filecrypt.cc/Container/A3FB72B782"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6E44D35092",
+                            "link": "https://filecrypt.cc/Container/6E44D35092"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A3AFCB7F56",
+                            "link": "https://filecrypt.cc/Container/A3AFCB7F56"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DD3DE815C0",
+                            "link": "https://filecrypt.cc/Container/DD3DE815C0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

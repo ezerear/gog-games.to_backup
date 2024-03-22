@@ -1,0 +1,68 @@
+{
+    "href": "/game/naylas_castle",
+    "MSG": {
+        "id": "1686449631",
+        "title": "Nayla's Castle",
+        "slug": "naylas_castle",
+        "thumb_id": "756fd6f68a8c4b23d810a6d01ffca9de7391434d52578d9656f790ca5fdc1108",
+        "bg_id": "82ea84f81ae378a6295ec44a12fb30b1ef943fde478f1497962fee33372ca84b",
+        "url": "https://www.gog.com/en/game/naylas_castle",
+        "developer": "quidev",
+        "publisher": "Shady Corner Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710216407",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_naylas_castle_1.1_(66321).exe",
+                    "size": "176670200"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/450A11F76D",
+                            "link": "https://filecrypt.cc/Container/450A11F76D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E57AE23EE0",
+                            "link": "https://filecrypt.cc/Container/E57AE23EE0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D524AF2516",
+                            "link": "https://filecrypt.cc/Container/D524AF2516"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

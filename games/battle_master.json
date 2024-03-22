@@ -1,0 +1,101 @@
+{
+    "href": "/game/battle_master",
+    "MSG": {
+        "id": "1413773160",
+        "title": "Battle Master",
+        "slug": "battle_master",
+        "thumb_id": "55180ddd995bf636624ede5f8e7058aca548f1be5b0ce1be2303c2db1c0cab80",
+        "bg_id": "953962206e2aff2f0f9ecb4d851320124a64f5afc41c3be9fb849aab832195d1",
+        "url": "https://www.gog.com/en/game/battle_master",
+        "developer": "Mirrorsoft, PSS",
+        "publisher": "Mirrorsoft",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1700314447",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_battle_master_v1.0_(60278).exe",
+                    "size": "9844088"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F2FD00FDC4",
+                            "link": "https://filecrypt.cc/Container/F2FD00FDC4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A9E43F58BB",
+                            "link": "https://filecrypt.cc/Container/A9E43F58BB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9B887F93A1",
+                            "link": "https://filecrypt.cc/Container/9B887F93A1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/38224A41B7",
+                            "link": "https://filecrypt.cc/Container/38224A41B7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F4656EEC86",
+                            "link": "https://filecrypt.cc/Container/F4656EEC86"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/371E6C87A6",
+                            "link": "https://filecrypt.cc/Container/371E6C87A6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

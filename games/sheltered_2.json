@@ -1,0 +1,72 @@
+{
+    "href": "/game/sheltered_2",
+    "MSG": {
+        "id": "1535943088",
+        "title": "Sheltered 2",
+        "slug": "sheltered_2",
+        "thumb_id": "98596a613e3dfde97de2a53bb6dd7dd5a2083955c4771891f0bb10e71bf78e3d",
+        "bg_id": "a5571abe79c18cacae5faabde284d538c5fdce269fbab1b5027d1a3fc34dd5ea",
+        "url": "https://www.gog.com/game/sheltered_2",
+        "developer": "Unicube",
+        "publisher": "Team17 Digital LTD.",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1709157991",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sheltered_2_sheltered2_rc_1_2_15_gog_(59921)-1.bin",
+                    "size": "2546878896"
+                },
+                {
+                    "name": "setup_sheltered_2_sheltered2_rc_1_2_15_gog_(59921).exe",
+                    "size": "830192"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/30C8472FA3",
+                            "link": "https://filecrypt.cc/Container/30C8472FA3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4DDB37DD56",
+                            "link": "https://filecrypt.cc/Container/4DDB37DD56"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F1F8C39033",
+                            "link": "https://filecrypt.cc/Container/F1F8C39033"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

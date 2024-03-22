@@ -1,0 +1,68 @@
+{
+    "href": "/game/kathy_rain",
+    "MSG": {
+        "id": "1460710709",
+        "title": "Kathy Rain",
+        "slug": "kathy_rain",
+        "thumb_id": "27935bddb2e2315f7395a67d3961287c36ee67e6fddea9d43e98ae5ba8546d39",
+        "bg_id": "32fba9f9c1a71ce9ff219d63d05a69d28a3727f3d62f45f0c288f463b264e139",
+        "url": "https://www.gog.com/game/kathy_rain",
+        "developer": "Clifftop Games",
+        "publisher": "Raw Fury",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1689908705",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_kathy_rain_1.0.4_(19094).exe",
+                    "size": "370148888"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/00F9B587F0",
+                            "link": "https://filecrypt.cc/Container/00F9B587F0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/62C4CACC81",
+                            "link": "https://filecrypt.cc/Container/62C4CACC81"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/977E5D4D8F",
+                            "link": "https://filecrypt.cc/Container/977E5D4D8F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

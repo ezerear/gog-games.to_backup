@@ -1,0 +1,91 @@
+{
+    "href": "/game/the_shattering",
+    "MSG": {
+        "id": "1824872244",
+        "title": "The Shattering",
+        "slug": "the_shattering",
+        "thumb_id": "08c548c2fabaf4ac31c5313f098252d34a868dc9d19408ad203786319adfcd87",
+        "bg_id": "f7aec8a7ad7e9a293f3c18ce29f3e6a89cb008b091b6eef5f1d3d50cae9024b3",
+        "url": "https://www.gog.com/game/the_shattering",
+        "developer": "Super Sexy Software",
+        "publisher": "Deck13",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1684376468",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_shattering_-_secret_room_1.1.9_(64bit)_(58674).exe",
+                    "size": "5494600"
+                },
+                {
+                    "name": "setup_the_shattering_1.1.9_(64bit)_(58674)-1.bin",
+                    "size": "4294053886"
+                },
+                {
+                    "name": "setup_the_shattering_1.1.9_(64bit)_(58674)-2.bin",
+                    "size": "61659374"
+                },
+                {
+                    "name": "setup_the_shattering_1.1.9_(64bit)_(58674).exe",
+                    "size": "923408"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E000AA4500",
+                            "link": "https://filecrypt.cc/Container/E000AA4500"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/120F261981",
+                            "link": "https://filecrypt.cc/Container/120F261981"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E1574FB3AD",
+                            "link": "https://filecrypt.cc/Container/E1574FB3AD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B5E5B04B71",
+                            "link": "https://filecrypt.cc/Container/B5E5B04B71"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

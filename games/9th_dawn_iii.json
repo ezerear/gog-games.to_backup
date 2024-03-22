@@ -1,0 +1,68 @@
+{
+    "href": "/game/9th_dawn_iii",
+    "MSG": {
+        "id": "2062750501",
+        "title": "9th Dawn III",
+        "slug": "9th_dawn_iii",
+        "thumb_id": "fa567664a92da62f8ac99a01977c5672bbf4ef42f4cda7f34e29bc25c449530f",
+        "bg_id": "5d9cc41c15a8f1415f05f9f38b198eebc4ce1cb9fad87533f0df71f86221b2e9",
+        "url": "https://www.gog.com/game/9th_dawn_iii",
+        "developer": "Valorware",
+        "publisher": "Valorware",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709772225",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_9th_dawn_iii_1.71_(48997).exe",
+                    "size": "164860160"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B55C960D9F",
+                            "link": "https://filecrypt.cc/Container/B55C960D9F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8FB4ACC0E1",
+                            "link": "https://filecrypt.cc/Container/8FB4ACC0E1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E028797604",
+                            "link": "https://filecrypt.cc/Container/E028797604"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

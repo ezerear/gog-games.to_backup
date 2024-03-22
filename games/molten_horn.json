@@ -1,0 +1,101 @@
+{
+    "href": "/game/molten_horn",
+    "MSG": {
+        "id": "1575265988",
+        "title": "Molten Horn",
+        "slug": "molten_horn",
+        "thumb_id": "abf979b4cf446b6c056a67e1b1c6089b00d67cc6317b136d42ba8c4c664f9387",
+        "bg_id": "d142dd2a217b26e65bcbafa916bff3fc35e053021eb8fd9fc018ff9cfe661372",
+        "url": "https://www.gog.com/en/game/molten_horn",
+        "developer": "Apushev Vitaly",
+        "publisher": "Meridian4",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1699568284",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_molten_horn_1.0.1_(68656).exe",
+                    "size": "90015696"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9CAD6342CD",
+                            "link": "https://filecrypt.cc/Container/9CAD6342CD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9284AF0AB6",
+                            "link": "https://filecrypt.cc/Container/9284AF0AB6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F3D2865CDD",
+                            "link": "https://filecrypt.cc/Container/F3D2865CDD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2ACF01FA20",
+                            "link": "https://filecrypt.cc/Container/2ACF01FA20"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/17A435614B",
+                            "link": "https://filecrypt.cc/Container/17A435614B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/45B0C88B09",
+                            "link": "https://filecrypt.cc/Container/45B0C88B09"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

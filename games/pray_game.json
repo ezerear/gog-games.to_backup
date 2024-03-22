@@ -1,0 +1,102 @@
+{
+    "href": "/game/pray_game",
+    "MSG": {
+        "id": "1849663611",
+        "title": "Pray Game",
+        "slug": "pray_game",
+        "thumb_id": "1531c276583013fbec53c78990d15d8be40cff220b39bec81b0c5e5185fa55ca",
+        "bg_id": "9ef2e4a0ffe74b3f53471d14a87ccfa127a5d489a2a3d8dfa31ad4d653fae547",
+        "url": "https://www.gog.com/en/game/pray_game",
+        "developer": "U-ROOM",
+        "publisher": "Kagura Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1698825414",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_pray_game_unrated_v8_(en_1.08_cn_1.05)_(68299)-1.bin",
+                    "size": "1419387923"
+                },
+                {
+                    "name": "setup_pray_game_unrated_v8_(en_1.08_cn_1.05)_(68299).exe",
+                    "size": "1364064"
+                },
+                {
+                    "name": "setup_pray_game_v8_(en_1.08_cn_1.05)_(68299)-1.bin",
+                    "size": "1319028587"
+                },
+                {
+                    "name": "setup_pray_game_v8_(en_1.08_cn_1.05)_(68299).exe",
+                    "size": "1300864"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1BDD4767E4",
+                            "link": "https://filecrypt.cc/Container/1BDD4767E4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/13DE37D834",
+                            "link": "https://filecrypt.cc/Container/13DE37D834"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/219CF3FC3D",
+                            "link": "https://filecrypt.cc/Container/219CF3FC3D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/94EBF7E83C",
+                            "link": "https://filecrypt.cc/Container/94EBF7E83C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/13DE6422F8",
+                            "link": "https://filecrypt.cc/Container/13DE6422F8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

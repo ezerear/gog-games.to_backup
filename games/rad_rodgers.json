@@ -1,0 +1,87 @@
+{
+    "href": "/game/rad_rodgers",
+    "MSG": {
+        "id": "1123684973",
+        "title": "Rad Rodgers",
+        "slug": "rad_rodgers",
+        "thumb_id": "9514527709c7bb7810f48eb2b3d59d6e58983cc446623c101f0b354a97fdbb61",
+        "bg_id": "a65567764ee81b3ddc2ffc318fa13559497650012374e964da4c38ee9f9009ea",
+        "url": "https://www.gog.com/game/rad_rodgers",
+        "developer": "Slipgate Studios",
+        "publisher": "THQ Nordic GmbH",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1706420785",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_rad_rodgers_1.5.2_(64bit)_(27873)-1.bin",
+                    "size": "4293835774"
+                },
+                {
+                    "name": "setup_rad_rodgers_1.5.2_(64bit)_(27873)-2.bin",
+                    "size": "365976959"
+                },
+                {
+                    "name": "setup_rad_rodgers_1.5.2_(64bit)_(27873).exe",
+                    "size": "1138712"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/03FD96FA33",
+                            "link": "https://filecrypt.cc/Container/03FD96FA33"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/72E56EB4B5",
+                            "link": "https://filecrypt.cc/Container/72E56EB4B5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EEA0CC861E",
+                            "link": "https://filecrypt.cc/Container/EEA0CC861E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/07F108A226",
+                            "link": "https://filecrypt.cc/Container/07F108A226"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

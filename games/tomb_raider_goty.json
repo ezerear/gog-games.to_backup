@@ -1,0 +1,88 @@
+{
+    "href": "/game/tomb_raider_goty",
+    "MSG": {
+        "id": "1724969043",
+        "title": "Tomb Raider GOTY",
+        "slug": "tomb_raider_goty",
+        "thumb_id": "74ef44a280dd89f7764b2e31a3356cb7fa90f89a0227038191e2714ccfd3cbdb",
+        "bg_id": "16f77c5b969c01f81e0d1050d59ec6456b7a667ed7c7ae023b0bb707db7c33b6",
+        "url": "https://www.gog.com/game/tomb_raider_goty",
+        "developer": "Crystal Dynamics",
+        "publisher": "Square Enix",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710687731",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tomb_raider_1.0_(47027)-1.bin",
+                    "size": "4293858814"
+                },
+                {
+                    "name": "setup_tomb_raider_1.0_(47027)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_tomb_raider_1.0_(47027)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_tomb_raider_1.0_(47027)-4.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_tomb_raider_1.0_(47027)-5.bin",
+                    "size": "671431079"
+                },
+                {
+                    "name": "setup_tomb_raider_1.0_(47027).exe",
+                    "size": "1115168"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3E47EE7D65",
+                            "link": "https://filecrypt.cc/Container/3E47EE7D65"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A03BAD1ED9",
+                            "link": "https://filecrypt.cc/Container/A03BAD1ED9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/131168DA42",
+                            "link": "https://filecrypt.cc/Container/131168DA42"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

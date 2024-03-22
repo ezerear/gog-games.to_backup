@@ -1,0 +1,84 @@
+{
+    "href": "/game/layers_of_fear_2",
+    "MSG": {
+        "id": "2032950534",
+        "title": "Layers of Fear 2",
+        "slug": "layers_of_fear_2",
+        "thumb_id": "65335b2a6922f4b4f0af79d1370d8efe5df3df42705dd752eff8f67de7022ff9",
+        "bg_id": "4446576e79027dbbea95264e2920f4be78b222a33d8011fe7e483a57ba8f7fc4",
+        "url": "https://www.gog.com/game/layers_of_fear_2",
+        "developer": "Bloober Team SA",
+        "publisher": "Gun Media",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707366912",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_lof2_1.00_(64bit)_(33441)-1.bin",
+                    "size": "4294003710"
+                },
+                {
+                    "name": "setup_lof2_1.00_(64bit)_(33441)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_lof2_1.00_(64bit)_(33441)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_lof2_1.00_(64bit)_(33441)-4.bin",
+                    "size": "1575032216"
+                },
+                {
+                    "name": "setup_lof2_1.00_(64bit)_(33441).exe",
+                    "size": "970848"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3DD571A87C",
+                            "link": "https://filecrypt.cc/Container/3DD571A87C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7E22FB84AA",
+                            "link": "https://filecrypt.cc/Container/7E22FB84AA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7BA2BF773D",
+                            "link": "https://filecrypt.cc/Container/7BA2BF773D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

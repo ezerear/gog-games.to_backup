@@ -1,0 +1,72 @@
+{
+    "href": "/game/time_lock_vr_2",
+    "MSG": {
+        "id": "1668927526",
+        "title": "Time Lock VR 2",
+        "slug": "time_lock_vr_2",
+        "thumb_id": "b99e901a45f088118f538f1b36dbdcfd429ec799f2b494fb21dc7c4cb101a4d3",
+        "bg_id": "b489ccff8b64743754670e274f3d46e8153c1b3967cfc0890a160de39ebcf6ce",
+        "url": "https://www.gog.com/en/game/time_lock_vr_2",
+        "developer": "Whale Rock Games",
+        "publisher": "Whale Rock Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1693896906",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_time_lock_vr-2_5_(67164)-1.bin",
+                    "size": "2316507815"
+                },
+                {
+                    "name": "setup_time_lock_vr-2_5_(67164).exe",
+                    "size": "825536"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2E745FABC9",
+                            "link": "https://filecrypt.cc/Container/2E745FABC9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/07BC955433",
+                            "link": "https://filecrypt.cc/Container/07BC955433"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E11E0F46A0",
+                            "link": "https://filecrypt.cc/Container/E11E0F46A0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

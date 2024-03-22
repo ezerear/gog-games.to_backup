@@ -1,0 +1,68 @@
+{
+    "href": "/game/mind_scanners",
+    "MSG": {
+        "id": "1345277440",
+        "title": "Mind Scanners",
+        "slug": "mind_scanners",
+        "thumb_id": "3a0395ca034513e7e24c5838b8eb47c604733e9f68f790a712faa9a8e11cff58",
+        "bg_id": "c9382a0ed75d596d2e21b40c5cfded38430725e0aa110a4c66c53a55908d9eb3",
+        "url": "https://www.gog.com/game/mind_scanners",
+        "developer": "The Outer Zone",
+        "publisher": "Brave At Night",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710080400",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_mind_scanners_1.1.4_(64bit)_(52163).exe",
+                    "size": "59230456"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/593BAF095D",
+                            "link": "https://filecrypt.cc/Container/593BAF095D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/124341172A",
+                            "link": "https://filecrypt.cc/Container/124341172A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D5D012E7E2",
+                            "link": "https://filecrypt.cc/Container/D5D012E7E2"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

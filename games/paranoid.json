@@ -1,0 +1,92 @@
+{
+    "href": "/game/paranoid",
+    "MSG": {
+        "id": "1400347977",
+        "title": "PARANOID",
+        "slug": "paranoid",
+        "thumb_id": "92fb4583234bedb593f2fb3c769ae36ea8faa82bc0c22c6c8e7f93ab06136554",
+        "bg_id": "914c596d529e285b2b04489197560b0d5fdb38a9d2bd886a3d444cf0eda283ba",
+        "url": "https://www.gog.com/en/game/paranoid",
+        "developer": "Madmind Studio",
+        "publisher": "Madmind Studio",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710275885",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_paranoid_10138_(64bit)_(70859)-1.bin",
+                    "size": "4293870590"
+                },
+                {
+                    "name": "setup_paranoid_10138_(64bit)_(70859)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_paranoid_10138_(64bit)_(70859)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_paranoid_10138_(64bit)_(70859)-4.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_paranoid_10138_(64bit)_(70859)-5.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_paranoid_10138_(64bit)_(70859)-6.bin",
+                    "size": "3788285716"
+                },
+                {
+                    "name": "setup_paranoid_10138_(64bit)_(70859).exe",
+                    "size": "1104048"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3251B4E7B6",
+                            "link": "https://filecrypt.cc/Container/3251B4E7B6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0AF5B5208F",
+                            "link": "https://filecrypt.cc/Container/0AF5B5208F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AF6961D8F6",
+                            "link": "https://filecrypt.cc/Container/AF6961D8F6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

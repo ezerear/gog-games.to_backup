@@ -1,0 +1,94 @@
+{
+    "href": "/game/waking",
+    "MSG": {
+        "id": "1997189723",
+        "title": "Waking",
+        "slug": "waking",
+        "thumb_id": "24602240bb5b299cb45d108c106b122dab03897e8b40c8628646b15d08ec0c49",
+        "bg_id": "05b55dccdfc02eeb644038075bdfaed090f9f34cada3bd294446ada2cbf1da02",
+        "url": "https://www.gog.com/game/waking",
+        "developer": "Jason Oda",
+        "publisher": "tinyBuild",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1703933059",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_waking_1.1_(39323)-1.bin",
+                    "size": "2004184671"
+                },
+                {
+                    "name": "setup_waking_1.1_(39323).exe",
+                    "size": "841984"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/87647A2254",
+                            "link": "https://filecrypt.cc/Container/87647A2254"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CFA1776AB5",
+                            "link": "https://filecrypt.cc/Container/CFA1776AB5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A31A6D5664",
+                            "link": "https://filecrypt.cc/Container/A31A6D5664"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D7FE77C9E9",
+                            "link": "https://filecrypt.cc/Container/D7FE77C9E9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D08842D6E3",
+                            "link": "https://filecrypt.cc/Container/D08842D6E3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

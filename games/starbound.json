@@ -1,0 +1,68 @@
+{
+    "href": "/game/starbound",
+    "MSG": {
+        "id": "1452598881",
+        "title": "Starbound",
+        "slug": "starbound",
+        "thumb_id": "4bbee40495f385b3b4a944d958edbf631a27f3ea8cec04d68fd841a4b619cb2c",
+        "bg_id": "6f4c00e2af9ade4148e0076a3d50da7776fe4c1f33f31af8600bf3e0b45999ba",
+        "url": "https://www.gog.com/game/starbound",
+        "developer": "Chucklefish",
+        "publisher": "Chucklefish",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710225970",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_starbound_1.4.4_(64bit)_(33879).exe",
+                    "size": "931637720"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C5F4999DFC",
+                            "link": "https://filecrypt.cc/Container/C5F4999DFC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A1EE53902C",
+                            "link": "https://filecrypt.cc/Container/A1EE53902C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4BDCD93AC9",
+                            "link": "https://filecrypt.cc/Container/4BDCD93AC9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

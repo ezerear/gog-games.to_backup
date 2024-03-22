@@ -1,0 +1,68 @@
+{
+    "href": "/game/ghoul_castle",
+    "MSG": {
+        "id": "1219053494",
+        "title": "Ghoul Castle 3D: Gold Edition",
+        "slug": "ghoul_castle",
+        "thumb_id": "eccd0ddd559d38ecdc8ef79f93a0934ee0fb1ad0ea549090d779509ee0f1c6cf",
+        "bg_id": "544822c4351c9fd8a4a4caa9688193ba9be83661f8fccf2b4740fbb7b8c2bada",
+        "url": "https://www.gog.com/en/game/ghoul_castle",
+        "developer": "Stepan Vakhtin",
+        "publisher": "Meridian4",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1708571377",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_ghoul_castle_2.5_(64bit)_(68658).exe",
+                    "size": "405428960"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0F49F49772",
+                            "link": "https://filecrypt.cc/Container/0F49F49772"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/258F56887D",
+                            "link": "https://filecrypt.cc/Container/258F56887D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E74B241664",
+                            "link": "https://filecrypt.cc/Container/E74B241664"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

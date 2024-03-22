@@ -1,0 +1,119 @@
+{
+    "href": "/game/foretales",
+    "MSG": {
+        "id": "1505592836",
+        "title": "Foretales",
+        "slug": "foretales",
+        "thumb_id": "d307e2073cffeb67b9cfbef6bdc612838371c102fe5eccb6ace6c02b251d1b84",
+        "bg_id": "bc585c9c3ea0ca32339222943f304f37133487f2fc375862f041dff57b77f6a2",
+        "url": "https://www.gog.com/en/game/foretales",
+        "developer": "Alkemi",
+        "publisher": "Dear Villagers",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710881952",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_foretales_v1.2.4232_(59436)-1.bin",
+                    "size": "1018713144"
+                },
+                {
+                    "name": "setup_foretales_v1.2.4232_(59436).exe",
+                    "size": "803872"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "foretales_artbook.zip",
+                    "size": "99812956"
+                },
+                {
+                    "name": "foretales_soundtrack_mp3.zip",
+                    "size": "645384236"
+                },
+                {
+                    "name": "foretales_soundtrack_wav.zip",
+                    "size": "645389764"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9DD6823F5D",
+                            "link": "https://filecrypt.cc/Container/9DD6823F5D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/34F27E94C8",
+                            "link": "https://filecrypt.cc/Container/34F27E94C8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/67071CDB90",
+                            "link": "https://filecrypt.cc/Container/67071CDB90"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4AF52AE9D2",
+                            "link": "https://filecrypt.cc/Container/4AF52AE9D2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/271EDDE595",
+                            "link": "https://filecrypt.cc/Container/271EDDE595"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FE8D2B9EA1",
+                            "link": "https://filecrypt.cc/Container/FE8D2B9EA1"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

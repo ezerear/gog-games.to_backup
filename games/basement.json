@@ -1,0 +1,68 @@
+{
+    "href": "/game/basement",
+    "MSG": {
+        "id": "1324265046",
+        "title": "Basement",
+        "slug": "basement",
+        "thumb_id": "a65aafd486b6b70a0ad4284f62c889604e6d6ce913ef67c16f87e934761728f7",
+        "bg_id": "ed08fbebe248cd12be6065eb1cbc75f88b4169d8421275aa09e9c1b9dfa6ee9a",
+        "url": "https://www.gog.com/game/basement",
+        "developer": "Halfbus",
+        "publisher": "Halfbus",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710478468",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_basement_4.2.08_(64bit)_(38900).exe",
+                    "size": "736899208"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/640781026D",
+                            "link": "https://filecrypt.cc/Container/640781026D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A6A4D1ED83",
+                            "link": "https://filecrypt.cc/Container/A6A4D1ED83"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/68D00CBC2C",
+                            "link": "https://filecrypt.cc/Container/68D00CBC2C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

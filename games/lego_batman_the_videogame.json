@@ -1,0 +1,111 @@
+{
+    "href": "/game/lego_batman_the_videogame",
+    "MSG": {
+        "id": "1423058542",
+        "title": "LEGO Batman: The Videogame",
+        "slug": "lego_batman_the_videogame",
+        "thumb_id": "581a3af024aa0ca30451595c96098536733aa99ddb68aa8041efaa5dbbde9775",
+        "bg_id": "750b641570e80236059bd95c9312e4a039af0799f004e56bd273efa8ce659ce4",
+        "url": "https://www.gog.com/game/lego_batman_the_videogame",
+        "developer": "Traveller's Tales",
+        "publisher": "Warner Bros. Interactive Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708505779",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_lego_batman_1.0_(18156)-1.bin",
+                    "size": "4283246012"
+                },
+                {
+                    "name": "setup_lego_batman_1.0_(18156).exe",
+                    "size": "752024"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "lego_batman_manual.zip",
+                    "size": "1407126"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C4E2D8EC4A",
+                            "link": "https://filecrypt.cc/Container/C4E2D8EC4A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/58620F9F87",
+                            "link": "https://filecrypt.cc/Container/58620F9F87"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/46DC1A8150",
+                            "link": "https://filecrypt.cc/Container/46DC1A8150"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F5ECB20F22",
+                            "link": "https://filecrypt.cc/Container/F5ECB20F22"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3EBD9CF38B",
+                            "link": "https://filecrypt.cc/Container/3EBD9CF38B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/170F7199B2",
+                            "link": "https://filecrypt.cc/Container/170F7199B2"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

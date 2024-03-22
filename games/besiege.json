@@ -1,0 +1,107 @@
+{
+    "href": "/game/besiege",
+    "MSG": {
+        "id": "1447947499",
+        "title": "Besiege",
+        "slug": "besiege",
+        "thumb_id": "9086e259a293bed11ecd5dd3c9b5c85d28f4474b612795a1d29c286aab481217",
+        "bg_id": "558b915620e42dc68825639c57ad100baad72c86a36d76dfbd56aff79691c943",
+        "url": "https://www.gog.com/game/besiege",
+        "developer": "Spiderling Studio",
+        "publisher": "Spiderling Studio",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1708926579",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_besiege_v1.26-20573_(64bit)_(71347).exe",
+                    "size": "1136565376"
+                }
+            ],
+            "PATCHES": [
+                {
+                    "name": "patch_besiege_1.20-17395_(56391)_to_V1.26-20573_(71347).exe",
+                    "size": "63215432"
+                }
+            ],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C8178DE2C9",
+                            "link": "https://filecrypt.cc/Container/C8178DE2C9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1E33408D50",
+                            "link": "https://filecrypt.cc/Container/1E33408D50"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C296663466",
+                            "link": "https://filecrypt.cc/Container/C296663466"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7430F4D386",
+                            "link": "https://filecrypt.cc/Container/7430F4D386"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6700F38E07",
+                            "link": "https://filecrypt.cc/Container/6700F38E07"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A88B838291",
+                            "link": "https://filecrypt.cc/Container/A88B838291"
+                        }
+                    ]
+                }
+            ],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

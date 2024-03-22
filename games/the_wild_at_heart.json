@@ -1,0 +1,90 @@
+{
+    "href": "/game/the_wild_at_heart",
+    "MSG": {
+        "id": "1704949980",
+        "title": "The Wild at Heart",
+        "slug": "the_wild_at_heart",
+        "thumb_id": "0b96007eaa1a5676b70e443f5e0214aa6625e9cc47d86bcc5316b79f835947f0",
+        "bg_id": "70ea4d0c2137bc807143be0b4557c314108d4bb7b705cfae5ccae6f011b7ad6b",
+        "url": "https://www.gog.com/game/the_wild_at_heart",
+        "developer": "Moonlight Kids",
+        "publisher": "Humble Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1702669441",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_wild_at_heart_1.1.8.0_(60283).exe",
+                    "size": "1024602752"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/275C6C89F4",
+                            "link": "https://filecrypt.cc/Container/275C6C89F4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C3DC668930",
+                            "link": "https://filecrypt.cc/Container/C3DC668930"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3252F1C201",
+                            "link": "https://filecrypt.cc/Container/3252F1C201"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7734E0D37B",
+                            "link": "https://filecrypt.cc/Container/7734E0D37B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/110B1558E5",
+                            "link": "https://filecrypt.cc/Container/110B1558E5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,87 @@
+{
+    "href": "/game/criminal_expert",
+    "MSG": {
+        "id": "1716459349",
+        "title": "Criminal Expert",
+        "slug": "criminal_expert",
+        "thumb_id": "2690f2d3be899adc06d99bf0b93662088487b834405881cbb19977224a127082",
+        "bg_id": "fbf75cf193c02b017016923fce7ce70a9d98e9409b213acc4ed8c668aac87547",
+        "url": "https://www.gog.com/en/game/criminal_expert",
+        "developer": "Forever Entertainment S. A.",
+        "publisher": "Forever Entertainment S. A.",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1704903506",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_criminal_expert_1.7_(65671)-1.bin",
+                    "size": "4294058494"
+                },
+                {
+                    "name": "setup_criminal_expert_1.7_(65671)-2.bin",
+                    "size": "10833983"
+                },
+                {
+                    "name": "setup_criminal_expert_1.7_(65671).exe",
+                    "size": "918776"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/24E62F1917",
+                            "link": "https://filecrypt.cc/Container/24E62F1917"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A011DBA7CB",
+                            "link": "https://filecrypt.cc/Container/A011DBA7CB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/761525B8BF",
+                            "link": "https://filecrypt.cc/Container/761525B8BF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7E7F7AC3A8",
+                            "link": "https://filecrypt.cc/Container/7E7F7AC3A8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

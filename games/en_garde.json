@@ -1,0 +1,115 @@
+{
+    "href": "/game/en_garde",
+    "MSG": {
+        "id": "1589319779",
+        "title": "En Garde!",
+        "slug": "en_garde",
+        "thumb_id": "9c35735590b4bd8d6942ed12b2e5f7d1a8ffaf96f2b03019da207b5856b8c517",
+        "bg_id": "3736337cc644f043cd56177438a593b8ecc8bbd5a1a33e90b2c95781e00205a0",
+        "url": "https://www.gog.com/en/game/en_garde",
+        "developer": "Fireplace Games",
+        "publisher": "Fireplace Games, Kepler Ghost",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708929716",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_en_garde_1.0_ua_update_(71314)-1.bin",
+                    "size": "4294072830"
+                },
+                {
+                    "name": "setup_en_garde_1.0_ua_update_(71314)-2.bin",
+                    "size": "2991895207"
+                },
+                {
+                    "name": "setup_en_garde_1.0_ua_update_(71314).exe",
+                    "size": "901768"
+                }
+            ],
+            "PATCHES": [
+                {
+                    "name": "patch_en_garde_RC1_(69831)_to_1.0_ua_update_(71314).exe",
+                    "size": "4991488"
+                }
+            ],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5403B7EC88",
+                            "link": "https://filecrypt.cc/Container/5403B7EC88"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/129EE7AF16",
+                            "link": "https://filecrypt.cc/Container/129EE7AF16"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/177AFF4F6D",
+                            "link": "https://filecrypt.cc/Container/177AFF4F6D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7C352324AF",
+                            "link": "https://filecrypt.cc/Container/7C352324AF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1D31B36216",
+                            "link": "https://filecrypt.cc/Container/1D31B36216"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C5E2B88DD5",
+                            "link": "https://filecrypt.cc/Container/C5E2B88DD5"
+                        }
+                    ]
+                }
+            ],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

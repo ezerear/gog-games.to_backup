@@ -1,0 +1,111 @@
+{
+    "href": "/game/port_royale",
+    "MSG": {
+        "id": "1207658791",
+        "title": "Port Royale",
+        "slug": "port_royale",
+        "thumb_id": "acfcd99913998f03387d4b9e0e5774b12f91c1bda7d5d588982e8ac9d6742ce0",
+        "bg_id": "a9fa0aa2d9a479a569efb3ab796a655c2d58510f99154b009a654b1eb465b930",
+        "url": "https://www.gog.com/game/port_royale",
+        "developer": "ASCARON Entertainment",
+        "publisher": "Kalypso Media Digital",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1708591515",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_port_royale_1.4.0.3_amd_rdna_fix_(52932).exe",
+                    "size": "505677056"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "Port_Royale_Manual.zip",
+                    "size": "1760302"
+                },
+                {
+                    "name": "Port_Royale_Map.zip",
+                    "size": "723257"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/121DEEA243",
+                            "link": "https://filecrypt.cc/Container/121DEEA243"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BE358DCDF4",
+                            "link": "https://filecrypt.cc/Container/BE358DCDF4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A96A6ED1C8",
+                            "link": "https://filecrypt.cc/Container/A96A6ED1C8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/29BA3198A5",
+                            "link": "https://filecrypt.cc/Container/29BA3198A5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/59698AC29B",
+                            "link": "https://filecrypt.cc/Container/59698AC29B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/540C0A6F57",
+                            "link": "https://filecrypt.cc/Container/540C0A6F57"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

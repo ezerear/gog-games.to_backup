@@ -1,0 +1,90 @@
+{
+    "href": "/game/nam",
+    "MSG": {
+        "id": "1575726518",
+        "title": "NAM",
+        "slug": "nam",
+        "thumb_id": "727a70e931b0fc7b8cdbab9a606a191ba2f8104b81e78d1b02feccfe39fedee2",
+        "bg_id": "36fac9b467b93aa164baf3a1f71b7371cfc7ee10f05e2f210dde08348d803216",
+        "url": "https://www.gog.com/game/nam",
+        "developer": "TNT Team",
+        "publisher": "Ziggurat",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1706398354",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_nam_1.0_(36587).exe",
+                    "size": "96269520"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/80638F6270",
+                            "link": "https://filecrypt.cc/Container/80638F6270"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E24917B31E",
+                            "link": "https://filecrypt.cc/Container/E24917B31E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DCC108E9A2",
+                            "link": "https://filecrypt.cc/Container/DCC108E9A2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/81CAEEF4EC",
+                            "link": "https://filecrypt.cc/Container/81CAEEF4EC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B58CE5C45E",
+                            "link": "https://filecrypt.cc/Container/B58CE5C45E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

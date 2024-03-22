@@ -1,0 +1,119 @@
+{
+    "href": "/game/horace",
+    "MSG": {
+        "id": "2039843838",
+        "title": "Horace",
+        "slug": "horace",
+        "thumb_id": "584bc17cac0755d371fe7ec16ae5d1d9626a8a418006f0533d7db87bba029c46",
+        "bg_id": "bf159bbb1f6d369bebfd84023d51669e6209a680f95f8e0d5d1e163cae9d226c",
+        "url": "https://www.gog.com/game/horace",
+        "developer": "Paul Helman, Sean Scaplehorn",
+        "publisher": "505 Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710846218",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_horace_1.5.5_(44673)-1.bin",
+                    "size": "4293999614"
+                },
+                {
+                    "name": "setup_horace_1.5.5_(44673)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_horace_1.5.5_(44673)-3.bin",
+                    "size": "3387008384"
+                },
+                {
+                    "name": "setup_horace_1.5.5_(44673).exe",
+                    "size": "974288"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "Horace_Soundtrack.zip",
+                    "size": "159880004"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D603E710F2",
+                            "link": "https://filecrypt.cc/Container/D603E710F2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1D95C05824",
+                            "link": "https://filecrypt.cc/Container/1D95C05824"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5DE4A3BEA6",
+                            "link": "https://filecrypt.cc/Container/5DE4A3BEA6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0583F02EC4",
+                            "link": "https://filecrypt.cc/Container/0583F02EC4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4C6F428E33",
+                            "link": "https://filecrypt.cc/Container/4C6F428E33"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BAEF4E760D",
+                            "link": "https://filecrypt.cc/Container/BAEF4E760D"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,57 @@
+{
+    "href": "/game/sword_of_the_necromancer",
+    "MSG": {
+        "id": "1724426217",
+        "title": "Sword of the Necromancer",
+        "slug": "sword_of_the_necromancer",
+        "thumb_id": "8c7037504fb29c2a7fb930bac20ce95629e08f495e876c76d9b82f45847f8008",
+        "bg_id": "f2521fa3d0092a8b9784c52690a97f7091770c35487ccb6993b48ee9cd021ecf",
+        "url": "https://www.gog.com/game/sword_of_the_necromancer",
+        "developer": "Grimorio of Games",
+        "publisher": "JanduSoft S.L",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709777292",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sword_of_the_necromancer_2.1.0_(51166).exe",
+                    "size": "1073416856"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EF9BC9A78B",
+                            "link": "https://filecrypt.cc/Container/EF9BC9A78B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/97176CC1C6",
+                            "link": "https://filecrypt.cc/Container/97176CC1C6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

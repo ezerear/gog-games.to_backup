@@ -1,0 +1,68 @@
+{
+    "href": "/game/the_captain",
+    "MSG": {
+        "id": "2011675791",
+        "title": "The Captain",
+        "slug": "the_captain",
+        "thumb_id": "b11eb790faf5aed8e44258a70c01a7a29f5c9cd0b3f8cd36a8b845c85327ff46",
+        "bg_id": "ce35d11a45e6d27a8e4a8e342711c77940863a58139e9445339060a8aa9fef85",
+        "url": "https://www.gog.com/game/the_captain",
+        "developer": "Sysiac Games",
+        "publisher": "Tomorrow Corporation",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708765739",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_captain_1.1.4_(64bit)_(64158).exe",
+                    "size": "640578488"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/50FED9CFAE",
+                            "link": "https://filecrypt.cc/Container/50FED9CFAE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/14E15DBC06",
+                            "link": "https://filecrypt.cc/Container/14E15DBC06"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6C2386EC02",
+                            "link": "https://filecrypt.cc/Container/6C2386EC02"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

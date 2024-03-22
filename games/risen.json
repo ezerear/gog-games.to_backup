@@ -1,0 +1,127 @@
+{
+    "href": "/game/risen",
+    "MSG": {
+        "id": "1207663153",
+        "title": "Risen",
+        "slug": "risen",
+        "thumb_id": "00c548e9f89355010d0bbbf0aaf4fac7948dc3297f47b4fa701afd3d2a7ef588",
+        "bg_id": "75063f2872f37d51f531cad9b549e8b042265144723bd4ee6fa3f07cf198d1a3",
+        "url": "https://www.gog.com/game/risen",
+        "developer": "Piranha Bytes",
+        "publisher": "Deep Silver",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710222731",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_risen_1.0a_port_(61937)-1.bin",
+                    "size": "4056694636"
+                },
+                {
+                    "name": "setup_risen_1.0a_port_(61937).exe",
+                    "size": "878216"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "risen_avatars.zip",
+                    "size": "1676781"
+                },
+                {
+                    "name": "risen_manual.zip",
+                    "size": "12678941"
+                },
+                {
+                    "name": "risen_soundtrack_flac.zip",
+                    "size": "364941733"
+                },
+                {
+                    "name": "risen_soundtrack_mp3.zip",
+                    "size": "120596159"
+                },
+                {
+                    "name": "risen_wallpapers.zip",
+                    "size": "9560387"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A8B3DBD2FE",
+                            "link": "https://filecrypt.cc/Container/A8B3DBD2FE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/949B35219B",
+                            "link": "https://filecrypt.cc/Container/949B35219B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/555E82999B",
+                            "link": "https://filecrypt.cc/Container/555E82999B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2BF4469990",
+                            "link": "https://filecrypt.cc/Container/2BF4469990"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/07BE13838E",
+                            "link": "https://filecrypt.cc/Container/07BE13838E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B8187F619F",
+                            "link": "https://filecrypt.cc/Container/B8187F619F"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

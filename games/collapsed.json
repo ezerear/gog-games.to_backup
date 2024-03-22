@@ -1,0 +1,79 @@
+{
+    "href": "/game/collapsed",
+    "MSG": {
+        "id": "1649028464",
+        "title": "COLLAPSED",
+        "slug": "collapsed",
+        "thumb_id": "e76d114a3038922df9c3514b7fdef902887c8b24c1f17bb9a1d1d06bee2b4372",
+        "bg_id": "ccd524f1f2bb59d8c74f9ac5029806488202ae6687462366160d6772c140407c",
+        "url": "https://www.gog.com/game/collapsed",
+        "developer": "Glaive Games",
+        "publisher": "Glaive Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1684202338",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_collapsed_1.11_(31860).exe",
+                    "size": "821171104"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6F7E0C8140",
+                            "link": "https://filecrypt.cc/Container/6F7E0C8140"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A573883831",
+                            "link": "https://filecrypt.cc/Container/A573883831"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5E6AEF033C",
+                            "link": "https://filecrypt.cc/Container/5E6AEF033C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F3432D1982",
+                            "link": "https://filecrypt.cc/Container/F3432D1982"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,83 @@
+{
+    "href": "/game/hell_division",
+    "MSG": {
+        "id": "1321737474",
+        "title": "Hell Division",
+        "slug": "hell_division",
+        "thumb_id": "6d18c97f714710995d79d7dd187b0342dd1c680e260a31fa075f0c4fd9466094",
+        "bg_id": "6864e2047649831476497b9ef96f2ab81a844ac2c1ae7792f8f5ea9d9d7ef19d",
+        "url": "https://www.gog.com/en/game/hell_division",
+        "developer": "Whale Rock Games",
+        "publisher": "Whale Rock Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1684664751",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hell_division_1.0b_(59120)-1.bin",
+                    "size": "2759515179"
+                },
+                {
+                    "name": "setup_hell_division_1.0b_(59120).exe",
+                    "size": "847376"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5494972F4D",
+                            "link": "https://filecrypt.cc/Container/5494972F4D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/969162B9C9",
+                            "link": "https://filecrypt.cc/Container/969162B9C9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BA3CD3D32F",
+                            "link": "https://filecrypt.cc/Container/BA3CD3D32F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E4B3094A19",
+                            "link": "https://filecrypt.cc/Container/E4B3094A19"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

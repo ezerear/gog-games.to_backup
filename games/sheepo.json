@@ -1,0 +1,107 @@
+{
+    "href": "/game/sheepo",
+    "MSG": {
+        "id": "2069785347",
+        "title": "SHEEPO",
+        "slug": "sheepo",
+        "thumb_id": "47cb6499f1e8de52e0b3f2513cb545ea6907c51fb0340324f1b9d5fa9c49f0c6",
+        "bg_id": "0dbb98ef88987c54aecb3272fcc366be588f93e74e4d0220ae6453f1ba1d7ee5",
+        "url": "https://www.gog.com/game/sheepo",
+        "developer": "Kyle Thompson",
+        "publisher": "Kyle Thompson",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710267784",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sheepo_sheepo1.1_(53923).exe",
+                    "size": "177210368"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "sheepo_soundtrack_mp3.zip",
+                    "size": "58605702"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FD016AF757",
+                            "link": "https://filecrypt.cc/Container/FD016AF757"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9BB63064CB",
+                            "link": "https://filecrypt.cc/Container/9BB63064CB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DD004AB7BE",
+                            "link": "https://filecrypt.cc/Container/DD004AB7BE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/10F9F86C0F",
+                            "link": "https://filecrypt.cc/Container/10F9F86C0F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DCCBAF2D80",
+                            "link": "https://filecrypt.cc/Container/DCCBAF2D80"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/24E6AE9AF9",
+                            "link": "https://filecrypt.cc/Container/24E6AE9AF9"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

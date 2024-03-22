@@ -1,0 +1,72 @@
+{
+    "href": "/game/blood_west",
+    "MSG": {
+        "id": "1901494026",
+        "title": "Blood West",
+        "slug": "blood_west",
+        "thumb_id": "e2bf09f49a06b2ad44d5189518cc191e24bac013790c500bdb23469526d0b877",
+        "bg_id": "391307fb71827851e69bfa14337860932d17a879d1d4568e2d891cef1d3805b9",
+        "url": "https://www.gog.com/en/game/blood_west",
+        "developer": "Hyperstrange",
+        "publisher": "Hyperstrange",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710272602",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_blood_west_3.0.2-hotfix_(64bit)_(69495)-1.bin",
+                    "size": "2473647093"
+                },
+                {
+                    "name": "setup_blood_west_3.0.2-hotfix_(64bit)_(69495).exe",
+                    "size": "870040"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1DBAEE5AA9",
+                            "link": "https://filecrypt.cc/Container/1DBAEE5AA9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2A4AEE5F80",
+                            "link": "https://filecrypt.cc/Container/2A4AEE5F80"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8486F5F4CD",
+                            "link": "https://filecrypt.cc/Container/8486F5F4CD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,80 @@
+{
+    "href": "/game/tin_hearts",
+    "MSG": {
+        "id": "1318552817",
+        "title": "Tin Hearts",
+        "slug": "tin_hearts",
+        "thumb_id": "4b2a106a8f6cc7def4653c0050c56172f4d2d0ebe060bbcd3f0e740c9bfa3300",
+        "bg_id": "b4c9b842fc7c6634c7129a613c29a1f164e47952872ebc70df5d900d54fee4e7",
+        "url": "https://www.gog.com/game/tin_hearts",
+        "developer": "Rogue Sun",
+        "publisher": "Wired Productions",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1706066418",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tin_hearts_1.0.9.3_(64bit)_(69665)-1.bin",
+                    "size": "4293772286"
+                },
+                {
+                    "name": "setup_tin_hearts_1.0.9.3_(64bit)_(69665)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_tin_hearts_1.0.9.3_(64bit)_(69665)-3.bin",
+                    "size": "2877345217"
+                },
+                {
+                    "name": "setup_tin_hearts_1.0.9.3_(64bit)_(69665).exe",
+                    "size": "1205192"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/127C635E9D",
+                            "link": "https://filecrypt.cc/Container/127C635E9D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/44CA93802B",
+                            "link": "https://filecrypt.cc/Container/44CA93802B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7C56DB746E",
+                            "link": "https://filecrypt.cc/Container/7C56DB746E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

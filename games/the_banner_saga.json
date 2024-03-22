@@ -1,0 +1,123 @@
+{
+    "href": "/game/the_banner_saga",
+    "MSG": {
+        "id": "1207660483",
+        "title": "Banner Saga",
+        "slug": "the_banner_saga",
+        "thumb_id": "4a859fbfed259c499317f1f13b9666abac37b01dcfb752fc81bb484f26ed0af2",
+        "bg_id": "7450531eb36ffabc522793ff115a207f66d4bec20047ff20668152a7938046d0",
+        "url": "https://www.gog.com/game/the_banner_saga",
+        "developer": "Stoic",
+        "publisher": "Versus Evil",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710757350",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_banner_saga_2.60.02_(25992)-1.bin",
+                    "size": "3227211705"
+                },
+                {
+                    "name": "setup_the_banner_saga_2.60.02_(25992).exe",
+                    "size": "2133584"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "banner_saga_ost_flac.zip",
+                    "size": "829557214"
+                },
+                {
+                    "name": "banner_saga_ost_mp3.zip",
+                    "size": "162033683"
+                },
+                {
+                    "name": "the_banner_saga_avatars.zip",
+                    "size": "1125438"
+                },
+                {
+                    "name": "the_banner_saga_wallpapers.zip",
+                    "size": "3520915"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4F89171074",
+                            "link": "https://filecrypt.cc/Container/4F89171074"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/85D2E0B7FB",
+                            "link": "https://filecrypt.cc/Container/85D2E0B7FB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3FE2DB5492",
+                            "link": "https://filecrypt.cc/Container/3FE2DB5492"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A839318E46",
+                            "link": "https://filecrypt.cc/Container/A839318E46"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7C467CA3C0",
+                            "link": "https://filecrypt.cc/Container/7C467CA3C0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DFF50BB49C",
+                            "link": "https://filecrypt.cc/Container/DFF50BB49C"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,84 @@
+{
+    "href": "/game/tainted_grail_the_fall_of_avalon",
+    "MSG": {
+        "id": "1887281589",
+        "title": "Tainted Grail: The Fall of Avalon",
+        "slug": "tainted_grail_the_fall_of_avalon",
+        "thumb_id": "e980ac6231f889bed24be1f0563a9b06d2ad9e70345d741b4458fb0210158cde",
+        "bg_id": "982842a48844903f2163c06b9e7c95445492470f3530d7ecb3b4f4a1aaa00f60",
+        "url": "https://www.gog.com/game/tainted_grail_the_fall_of_avalon",
+        "developer": "Awaken Realms Digital",
+        "publisher": "Awaken Realms Digital",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709859291",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tainted_grail_the_fall_of_avalon_0.42_(64bit)_(70736)-1.bin",
+                    "size": "4293918206"
+                },
+                {
+                    "name": "setup_tainted_grail_the_fall_of_avalon_0.42_(64bit)_(70736)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_tainted_grail_the_fall_of_avalon_0.42_(64bit)_(70736)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_tainted_grail_the_fall_of_avalon_0.42_(64bit)_(70736)-4.bin",
+                    "size": "803903067"
+                },
+                {
+                    "name": "setup_tainted_grail_the_fall_of_avalon_0.42_(64bit)_(70736).exe",
+                    "size": "1056448"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B1B4DFDB41",
+                            "link": "https://filecrypt.cc/Container/B1B4DFDB41"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2D762D040A",
+                            "link": "https://filecrypt.cc/Container/2D762D040A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B0BC72417F",
+                            "link": "https://filecrypt.cc/Container/B0BC72417F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

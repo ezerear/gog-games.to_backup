@@ -1,0 +1,79 @@
+{
+    "href": "/game/slipstream",
+    "MSG": {
+        "id": "1099471765",
+        "title": "Slipstream",
+        "slug": "slipstream",
+        "thumb_id": "68875e904fb3e49789b708fa456432062b36286ec1521e7cb730a9abd570cc6c",
+        "bg_id": "b831c9ad9074f6c62d14f4da657d4b412a8bf7fbf1d7431096805d24d03c9bc6",
+        "url": "https://www.gog.com/game/slipstream",
+        "developer": "ansdor",
+        "publisher": "ansdor",
+        "category": "Racing",
+        "uploading": "0",
+        "last_upload": "1708225767",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_slipstream_1.3.2_(64bit)_(71199).exe",
+                    "size": "226466744"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/743924AD53",
+                            "link": "https://filecrypt.cc/Container/743924AD53"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/228B6FDB20",
+                            "link": "https://filecrypt.cc/Container/228B6FDB20"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A224A6A3A4",
+                            "link": "https://filecrypt.cc/Container/A224A6A3A4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/97833C061A",
+                            "link": "https://filecrypt.cc/Container/97833C061A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

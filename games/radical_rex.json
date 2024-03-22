@@ -1,0 +1,79 @@
+{
+    "href": "/game/radical_rex",
+    "MSG": {
+        "id": "1935877702",
+        "title": "Radical Rex",
+        "slug": "radical_rex",
+        "thumb_id": "2c30c28b18fa2f05b9af8edf852bdb5639639fdc0d312fe44f1f99703ed9c015",
+        "bg_id": "ef6721d3ada8ca01dc38298380ca672e97efcfb9f23bd6d47ecf492f6f3fb76b",
+        "url": "https://www.gog.com/en/game/radical_rex",
+        "developer": "Beam Software",
+        "publisher": "Piko Interactive",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1684173185",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_radical_rex_1.0_(60661).exe",
+                    "size": "19225144"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/06D84342BF",
+                            "link": "https://filecrypt.cc/Container/06D84342BF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/45EA3BB043",
+                            "link": "https://filecrypt.cc/Container/45EA3BB043"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/16AD7F3886",
+                            "link": "https://filecrypt.cc/Container/16AD7F3886"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/90D0426992",
+                            "link": "https://filecrypt.cc/Container/90D0426992"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

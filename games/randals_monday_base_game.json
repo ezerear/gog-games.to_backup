@@ -1,0 +1,131 @@
+{
+    "href": "/game/randals_monday_base_game",
+    "MSG": {
+        "id": "1207666553",
+        "title": "Randal's Monday",
+        "slug": "randals_monday_base_game",
+        "thumb_id": "f7ccdaceeec2584bbec1f4248186e39c5b8184b1abbadba91906fd953e56cb55",
+        "bg_id": "b69b030965cdd0021dfc9986f59b6d960b6f045ec7ba208115eaa5f67a88e4c4",
+        "url": "https://www.gog.com/game/randals_monday",
+        "developer": "Nexus Game Studios",
+        "publisher": "Daedalic Entertainment",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708034301",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_randals_monday_2.1.0.4-1.bin",
+                    "size": "3522518009"
+                },
+                {
+                    "name": "setup_randals_monday_2.1.0.4.exe",
+                    "size": "31794800"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "randals_monday_calendar_de.zip",
+                    "size": "9254014"
+                },
+                {
+                    "name": "randals_monday_calendar_en.zip",
+                    "size": "9234998"
+                },
+                {
+                    "name": "randals_monday_cast_interview_de.zip",
+                    "size": "759035197"
+                },
+                {
+                    "name": "randals_monday_cast_interview_en.zip",
+                    "size": "758904656"
+                },
+                {
+                    "name": "randals_monday_ost_flac.zip",
+                    "size": "454597330"
+                },
+                {
+                    "name": "randals_monday_ost_mp3.zip",
+                    "size": "167658694"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D53D65E498",
+                            "link": "https://filecrypt.cc/Container/D53D65E498"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4DCF02C237",
+                            "link": "https://filecrypt.cc/Container/4DCF02C237"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3A4AEC134A",
+                            "link": "https://filecrypt.cc/Container/3A4AEC134A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/74D75B55DD",
+                            "link": "https://filecrypt.cc/Container/74D75B55DD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/63A39FF7DB",
+                            "link": "https://filecrypt.cc/Container/63A39FF7DB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/79A2054AFD",
+                            "link": "https://filecrypt.cc/Container/79A2054AFD"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

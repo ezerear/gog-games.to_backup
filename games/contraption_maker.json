@@ -1,0 +1,76 @@
+{
+    "href": "/game/contraption_maker",
+    "MSG": {
+        "id": "1381752221",
+        "title": "Contraption Maker",
+        "slug": "contraption_maker",
+        "thumb_id": "da42ecebc8bc753291375245f92aab7bfbf5dedb37d621d093ee16117d581e1b",
+        "bg_id": "2abed036445ef56aadad8d56096d73667092da5dd17a93f9c527dd5e2ba3c1da",
+        "url": "https://www.gog.com/en/game/contraption_maker",
+        "developer": "Kevin Ryan",
+        "publisher": "Top Meadow",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1708972676",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_contraption_maker_1.4.11_(68997).exe",
+                    "size": "269088808"
+                },
+                {
+                    "name": "setup_contraption_maker_battling_cards_-_parts__puzzles_expansion_pack_1.4.11_(68997).exe",
+                    "size": "7367568"
+                },
+                {
+                    "name": "setup_wonderstructs_-_part__puzzle_expansion_pack_1.4.11_(68997).exe",
+                    "size": "6686928"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B6D97F555D",
+                            "link": "https://filecrypt.cc/Container/B6D97F555D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5EB9C6F374",
+                            "link": "https://filecrypt.cc/Container/5EB9C6F374"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/33CE234660",
+                            "link": "https://filecrypt.cc/Container/33CE234660"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,79 @@
+{
+    "href": "/game/fields_of_glory",
+    "MSG": {
+        "id": "1960412353",
+        "title": "Fields of Glory",
+        "slug": "fields_of_glory",
+        "thumb_id": "4f1643b1f6b6a9ae03f63a537865c145048b2b2ecf8a1e7c3b272f390582790c",
+        "bg_id": "61ee470a5a6a5e0f607224d62db8f98e38948661cb68404dce5ee1a151ad17d4",
+        "url": "https://www.gog.com/game/fields_of_glory",
+        "developer": "MicroProse Ltd.",
+        "publisher": "Ziggurat",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1686784594",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_fields_of_glory_1.0_(36780).exe",
+                    "size": "19967024"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5CC8447195",
+                            "link": "https://filecrypt.cc/Container/5CC8447195"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A0C821F35E",
+                            "link": "https://filecrypt.cc/Container/A0C821F35E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/554BCA69AB",
+                            "link": "https://filecrypt.cc/Container/554BCA69AB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/760D096B3B",
+                            "link": "https://filecrypt.cc/Container/760D096B3B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

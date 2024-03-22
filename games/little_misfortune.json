@@ -1,0 +1,127 @@
+{
+    "href": "/game/little_misfortune",
+    "MSG": {
+        "id": "1677361061",
+        "title": "Little Misfortune",
+        "slug": "little_misfortune",
+        "thumb_id": "76f4f98533e18752ac08511c124539932d693259178b820792436146e0a975cd",
+        "bg_id": "de7bbb9ac6e62073f09af2d55b2ef8105240a7894c733d0eb3936e148b2c8f0d",
+        "url": "https://www.gog.com/game/little_misfortune",
+        "developer": "Killmonday Games",
+        "publisher": "Killmonday Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708744272",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_little_misfortune_1.0_(32526)-1.bin",
+                    "size": "2194056609"
+                },
+                {
+                    "name": "setup_little_misfortune_1.0_(32526).exe",
+                    "size": "911424"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "little_misfortune_artbook.zip",
+                    "size": "84253314"
+                },
+                {
+                    "name": "little_misfortune_soundtrack_flac.zip",
+                    "size": "742475554"
+                },
+                {
+                    "name": "little_misfortune_soundtrack_mp3.zip",
+                    "size": "598500110"
+                },
+                {
+                    "name": "little_misfortune_soundtrack_wav.zip",
+                    "size": "1001623596"
+                },
+                {
+                    "name": "little_misfortune_wallpapers.zip",
+                    "size": "33294588"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FD0E5F2409",
+                            "link": "https://filecrypt.cc/Container/FD0E5F2409"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FFE5C1F879",
+                            "link": "https://filecrypt.cc/Container/FFE5C1F879"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BD09F46F55",
+                            "link": "https://filecrypt.cc/Container/BD09F46F55"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/84C398FFD2",
+                            "link": "https://filecrypt.cc/Container/84C398FFD2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E0F16EE705",
+                            "link": "https://filecrypt.cc/Container/E0F16EE705"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D8C2CB1DCB",
+                            "link": "https://filecrypt.cc/Container/D8C2CB1DCB"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

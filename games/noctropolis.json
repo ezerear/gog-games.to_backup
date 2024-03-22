@@ -1,0 +1,127 @@
+{
+    "href": "/game/noctropolis",
+    "MSG": {
+        "id": "1444206831",
+        "title": "Noctropolis",
+        "slug": "noctropolis",
+        "thumb_id": "d7eb2d300f629e1a6fd852563bc8d7e002e5610bcb4ae8776bde0c0803e51f6a",
+        "bg_id": "b7465c641bcde05d3dbaa545c792d0640307736b9d44ec0a120feb6a97889c18",
+        "url": "https://www.gog.com/game/noctropolis",
+        "developer": "Flashpoint Studios, Night Dive Studios",
+        "publisher": "Night Dive Studios",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709158697",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_noctropolis_1.0_(16596).exe",
+                    "size": "543156032"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "noctropolis_avatars.zip",
+                    "size": "62522"
+                },
+                {
+                    "name": "noctropolis_comic.zip",
+                    "size": "50574356"
+                },
+                {
+                    "name": "noctropolis_hint_book.zip",
+                    "size": "18289507"
+                },
+                {
+                    "name": "noctropolis_install_guide.zip",
+                    "size": "2449821"
+                },
+                {
+                    "name": "noctropolis_manual.zip",
+                    "size": "4696237"
+                },
+                {
+                    "name": "noctropolis_sketches.zip",
+                    "size": "1099768"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E388A5B611",
+                            "link": "https://filecrypt.cc/Container/E388A5B611"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/952CA59F5D",
+                            "link": "https://filecrypt.cc/Container/952CA59F5D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CB1A576BED",
+                            "link": "https://filecrypt.cc/Container/CB1A576BED"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/160B128203",
+                            "link": "https://filecrypt.cc/Container/160B128203"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C2F2E310B4",
+                            "link": "https://filecrypt.cc/Container/C2F2E310B4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A846637649",
+                            "link": "https://filecrypt.cc/Container/A846637649"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

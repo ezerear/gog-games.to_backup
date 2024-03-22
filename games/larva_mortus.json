@@ -1,0 +1,101 @@
+{
+    "href": "/game/larva_mortus",
+    "MSG": {
+        "id": "1974785923",
+        "title": "Larva Mortus",
+        "slug": "larva_mortus",
+        "thumb_id": "e44be2f0075675c7c250b51f1c06e0b6bbb3fd023d2b04b8a5ce6e9644f56c8b",
+        "bg_id": "75ff33bb680d2d7ca21b0ecb2d55d76deaa27aee961ce2b0b1cdba9bf73b2947",
+        "url": "https://www.gog.com/en/game/larva_mortus",
+        "developer": "Meridian4",
+        "publisher": "Meridian4",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1702062483",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_larva_mortus_1.0.2_(55857).exe",
+                    "size": "62576632"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/16D988218D",
+                            "link": "https://filecrypt.cc/Container/16D988218D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8435EFF9F6",
+                            "link": "https://filecrypt.cc/Container/8435EFF9F6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/98CAC81BBD",
+                            "link": "https://filecrypt.cc/Container/98CAC81BBD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/79421A9501",
+                            "link": "https://filecrypt.cc/Container/79421A9501"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F6B7D51A1D",
+                            "link": "https://filecrypt.cc/Container/F6B7D51A1D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7EBC026E52",
+                            "link": "https://filecrypt.cc/Container/7EBC026E52"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

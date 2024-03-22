@@ -1,0 +1,90 @@
+{
+    "href": "/game/links_puzzle",
+    "MSG": {
+        "id": "1629868789",
+        "title": "Links Puzzle",
+        "slug": "links_puzzle",
+        "thumb_id": "4cd22ba553f5b3a87077af0d25d5c45434dd274c42f36fb48e8da2266617ecc4",
+        "bg_id": "bba0b67e28e97ac3853c713c8d016638e54cdce88d2d05e05cf917f595f84f95",
+        "url": "https://www.gog.com/en/game/links_puzzle",
+        "developer": "Alexis Clemente",
+        "publisher": "AleC Games",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1704840345",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_links_puzzle_1.0.1_(70326).exe",
+                    "size": "14346128"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/43E524896D",
+                            "link": "https://filecrypt.cc/Container/43E524896D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6281B38E2C",
+                            "link": "https://filecrypt.cc/Container/6281B38E2C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/270FF8CB57",
+                            "link": "https://filecrypt.cc/Container/270FF8CB57"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ABD72D3019",
+                            "link": "https://filecrypt.cc/Container/ABD72D3019"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8086BCD645",
+                            "link": "https://filecrypt.cc/Container/8086BCD645"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,72 @@
+{
+    "href": "/game/recursive_ruin",
+    "MSG": {
+        "id": "2080382263",
+        "title": "Recursive Ruin",
+        "slug": "recursive_ruin",
+        "thumb_id": "f711fff1eaef570078d0c3d5b4a85284458f1d7263bc0117885adc6bd4c0e318",
+        "bg_id": "1d30bca8b5181ed21190e0e7efcbd6a107b05eea86433c076c2acae2ef17a261",
+        "url": "https://www.gog.com/en/game/recursive_ruin",
+        "developer": "Bit Rot",
+        "publisher": "Iceberg Interactive",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708273724",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_recursive_ruin_22.05.17_(64bit)_(55883)-1.bin",
+                    "size": "3333408449"
+                },
+                {
+                    "name": "setup_recursive_ruin_22.05.17_(64bit)_(55883).exe",
+                    "size": "819008"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2A85CAE5B5",
+                            "link": "https://filecrypt.cc/Container/2A85CAE5B5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8095F7C648",
+                            "link": "https://filecrypt.cc/Container/8095F7C648"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AE77D5637E",
+                            "link": "https://filecrypt.cc/Container/AE77D5637E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

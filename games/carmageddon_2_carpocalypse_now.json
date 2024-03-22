@@ -1,0 +1,104 @@
+{
+    "href": "/game/carmageddon_2_carpocalypse_now",
+    "MSG": {
+        "id": "1207659963",
+        "title": "Carmageddon 2: Carpocalypse Now",
+        "slug": "carmageddon_2_carpocalypse_now",
+        "thumb_id": "1d3dde3965076c3acf9638e3c9e4c1e03865083719fda3ffadb1f77fc94ae17b",
+        "bg_id": "e90c179a9bc6586613a9a70a219db10829b24ddff3fa41dc62104e41949fa87a",
+        "url": "https://www.gog.com/game/carmageddon_2_carpocalypse_now",
+        "developer": "Stainless Software",
+        "publisher": "THQ Nordic GmbH",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708980539",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_carmageddon2_2.1.0.28.exe",
+                    "size": "165409144"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "carmageddon_2_avatar.zip",
+                    "size": "230541"
+                },
+                {
+                    "name": "carmageddon_2_manual.zip",
+                    "size": "309941"
+                },
+                {
+                    "name": "carmageddon_2_wallpapers.zip",
+                    "size": "1126746"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FFDD9709CB",
+                            "link": "https://filecrypt.cc/Container/FFDD9709CB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/609E8C8214",
+                            "link": "https://filecrypt.cc/Container/609E8C8214"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/65BEA596D6",
+                            "link": "https://filecrypt.cc/Container/65BEA596D6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2439F0EEB1",
+                            "link": "https://filecrypt.cc/Container/2439F0EEB1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CDA8F489A2",
+                            "link": "https://filecrypt.cc/Container/CDA8F489A2"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

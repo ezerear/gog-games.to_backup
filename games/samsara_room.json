@@ -1,0 +1,90 @@
+{
+    "href": "/game/samsara_room",
+    "MSG": {
+        "id": "1772252890",
+        "title": "Samsara Room",
+        "slug": "samsara_room",
+        "thumb_id": "3d11abfeccdd38b8559911edb4fd7d492c0048a3d3d0faa0e2b4aae5f44c1689",
+        "bg_id": "7b8a20255b6e6baccce4a00b8bac16085b1b3bccd789d3175e0c4158bd822a0d",
+        "url": "https://www.gog.com/en/game/samsara_room",
+        "developer": "Rusty Lake",
+        "publisher": "",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707435662",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_samsara_room_1.2_(62508).exe",
+                    "size": "72549808"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E254833ECA",
+                            "link": "https://filecrypt.cc/Container/E254833ECA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A3A6AF923F",
+                            "link": "https://filecrypt.cc/Container/A3A6AF923F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/01FFD02D60",
+                            "link": "https://filecrypt.cc/Container/01FFD02D60"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/85B6A790EC",
+                            "link": "https://filecrypt.cc/Container/85B6A790EC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D6D0A4A798",
+                            "link": "https://filecrypt.cc/Container/D6D0A4A798"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

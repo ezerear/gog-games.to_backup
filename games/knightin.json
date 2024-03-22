@@ -1,0 +1,79 @@
+{
+    "href": "/game/knightin",
+    "MSG": {
+        "id": "1841559796",
+        "title": "Knightin'+",
+        "slug": "knightin",
+        "thumb_id": "2e94d863b0f061fb9aafb45e20be3b7f4c12d7653e38584a8a11a478cbe6ca83",
+        "bg_id": "17fde98f5e68a679c3269a3cce46e05e829b16134f52c166176993c9801c40d5",
+        "url": "https://www.gog.com/game/knightin",
+        "developer": "Muzt Die Studios",
+        "publisher": "Muzt Die Studios",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1684097893",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_knightin_1.2.2_(64bit)_(36109).exe",
+                    "size": "202350560"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C835D82A21",
+                            "link": "https://filecrypt.cc/Container/C835D82A21"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B29DFF07DC",
+                            "link": "https://filecrypt.cc/Container/B29DFF07DC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9B3945E214",
+                            "link": "https://filecrypt.cc/Container/9B3945E214"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/95650003AC",
+                            "link": "https://filecrypt.cc/Container/95650003AC"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

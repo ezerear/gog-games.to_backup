@@ -1,0 +1,94 @@
+{
+    "href": "/game/wrestlequest",
+    "MSG": {
+        "id": "1170727025",
+        "title": "WrestleQuest",
+        "slug": "wrestlequest",
+        "thumb_id": "0004edc34268b29c462d3137e8ee32d0a5bca8d4d3f73473d49d91efe881787e",
+        "bg_id": "f3e24f4e2e669809c577bbc702c3e60d898816d4d1eed537e6027af5cc57f56e",
+        "url": "https://www.gog.com/en/game/wrestlequest",
+        "developer": "Mega Cat Studios",
+        "publisher": "",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707271662",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_wrestlequest_0.2.1.94.3b_(67633)-1.bin",
+                    "size": "1976279171"
+                },
+                {
+                    "name": "setup_wrestlequest_0.2.1.94.3b_(67633).exe",
+                    "size": "1135712"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4616B0BB99",
+                            "link": "https://filecrypt.cc/Container/4616B0BB99"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/458D4FC1E1",
+                            "link": "https://filecrypt.cc/Container/458D4FC1E1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BBD36F1604",
+                            "link": "https://filecrypt.cc/Container/BBD36F1604"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ACA97295CE",
+                            "link": "https://filecrypt.cc/Container/ACA97295CE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C1D2187D3A",
+                            "link": "https://filecrypt.cc/Container/C1D2187D3A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

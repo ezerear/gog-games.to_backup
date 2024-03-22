@@ -1,0 +1,90 @@
+{
+    "href": "/game/pesterquest",
+    "MSG": {
+        "id": "1610575852",
+        "title": "Pesterquest",
+        "slug": "pesterquest",
+        "thumb_id": "d68b1fd65f3fde689a5f192e5ffe41160e99d20bec5be8b3c3747d10beca2716",
+        "bg_id": "39226b876e95a1ed0900f84d2c6d65ce9db442d93307b23487d5ebf0f21504df",
+        "url": "https://www.gog.com/game/pesterquest",
+        "developer": "What Pumpkin Games Inc.",
+        "publisher": "Fellow Traveller",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1703489026",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_pesterquest_1.0_(44697).exe",
+                    "size": "1353862832"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/26DB6B37C3",
+                            "link": "https://filecrypt.cc/Container/26DB6B37C3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E4D7B3423E",
+                            "link": "https://filecrypt.cc/Container/E4D7B3423E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/609E50EFE0",
+                            "link": "https://filecrypt.cc/Container/609E50EFE0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1E4B2CA79D",
+                            "link": "https://filecrypt.cc/Container/1E4B2CA79D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BF15647BC0",
+                            "link": "https://filecrypt.cc/Container/BF15647BC0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

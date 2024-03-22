@@ -1,0 +1,80 @@
+{
+    "href": "/game/neptunia_sisters_vs_sisters",
+    "MSG": {
+        "id": "1945838465",
+        "title": "Neptunia Sisters VS Sisters",
+        "slug": "neptunia_sisters_vs_sisters",
+        "thumb_id": "bd7d83b5149ace23e69bf9a842b4e74750460c40b26c4a18fa06efca81ca419f",
+        "bg_id": "b7570a239ee0e4070825b1d2c6f4bce2efeb66b5b47ef61c8c9e776085c1d985",
+        "url": "https://www.gog.com/en/game/neptunia_sisters_vs_sisters",
+        "developer": "Idea Factory",
+        "publisher": "Idea Factory International",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1706419214",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_neptunia_sisters_vs_sisters_1.01.2023072016522261_(64bit)_(66174)-1.bin",
+                    "size": "4293726718"
+                },
+                {
+                    "name": "setup_neptunia_sisters_vs_sisters_1.01.2023072016522261_(64bit)_(66174)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_neptunia_sisters_vs_sisters_1.01.2023072016522261_(64bit)_(66174)-3.bin",
+                    "size": "3834458650"
+                },
+                {
+                    "name": "setup_neptunia_sisters_vs_sisters_1.01.2023072016522261_(64bit)_(66174).exe",
+                    "size": "1250440"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/581E295DE5",
+                            "link": "https://filecrypt.cc/Container/581E295DE5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B6624E47BA",
+                            "link": "https://filecrypt.cc/Container/B6624E47BA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4F18083DD6",
+                            "link": "https://filecrypt.cc/Container/4F18083DD6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

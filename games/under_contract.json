@@ -1,0 +1,100 @@
+{
+    "href": "/game/under_contract",
+    "MSG": {
+        "id": "1554463044",
+        "title": "Under Contract",
+        "slug": "under_contract",
+        "thumb_id": "d42f94da21a6d9fc7f61d6401fd4ec395bb55c97b72c80d51825ed80105e49a4",
+        "bg_id": "bb4366b0954ae5ac3049bcf8e6bfb2a531bc6c3361f915d39b9c9a6e4922c03e",
+        "url": "https://www.gog.com/en/game/under_contract",
+        "developer": "Kinky Fridays",
+        "publisher": "",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709776747",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_under_contract_v0.4.7_(64bit)_(68704).exe",
+                    "size": "993131776"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "under_contract_the_paper_jams_original_soundtrack_flac.zip",
+                    "size": "374628687"
+                },
+                {
+                    "name": "under_contract_the_paper_jams_original_soundtrack_mp3.zip",
+                    "size": "92394892"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FEEE2BB5FA",
+                            "link": "https://filecrypt.cc/Container/FEEE2BB5FA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DA3EA4E53B",
+                            "link": "https://filecrypt.cc/Container/DA3EA4E53B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B085CBEB4A",
+                            "link": "https://filecrypt.cc/Container/B085CBEB4A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F4D49A6B28",
+                            "link": "https://filecrypt.cc/Container/F4D49A6B28"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CB8B6ADBE1",
+                            "link": "https://filecrypt.cc/Container/CB8B6ADBE1"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,90 @@
+{
+    "href": "/game/roadwarden",
+    "MSG": {
+        "id": "1763268053",
+        "title": "Roadwarden",
+        "slug": "roadwarden",
+        "thumb_id": "59727aff5e99ecabca58796777a8ba9ff9ebc292a3f8581f91d6855630f7ee7f",
+        "bg_id": "e09f4e5d92a1931b29d7b25f5dba36d136d320709d4a2895fecf3c508f527811",
+        "url": "https://www.gog.com/game/roadwarden",
+        "developer": "Moral Anxiety Studio",
+        "publisher": "Assemble Entertainment",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1706885680",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_roadwarden_1.1.31_(67618).exe",
+                    "size": "929232688"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D65BBDE608",
+                            "link": "https://filecrypt.cc/Container/D65BBDE608"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/58D4EFA83B",
+                            "link": "https://filecrypt.cc/Container/58D4EFA83B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4C112B0D81",
+                            "link": "https://filecrypt.cc/Container/4C112B0D81"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3BF0695C4D",
+                            "link": "https://filecrypt.cc/Container/3BF0695C4D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/172CC7FFB5",
+                            "link": "https://filecrypt.cc/Container/172CC7FFB5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

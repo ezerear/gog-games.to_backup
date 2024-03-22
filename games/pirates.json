@@ -1,0 +1,115 @@
+{
+    "href": "/game/pirates",
+    "MSG": {
+        "id": "1207661643",
+        "title": "Pirates!",
+        "slug": "pirates",
+        "thumb_id": "872719371348a9728cd56a300d86ec14ff5c4e7b713104f5bd19cac8bc96185c",
+        "bg_id": "fcdd6a23f85b6af471c6b6cb8076cfccc9607f60d21be72b73c5446170ef2b4c",
+        "url": "https://www.gog.com/game/pirates_gold_plus",
+        "developer": "MicroProse",
+        "publisher": "Retroism",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710948082",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_pirates_432.02_(28044).exe",
+                    "size": "24522632"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "pirates_gold_manuals.zip",
+                    "size": "13475374"
+                },
+                {
+                    "name": "pirates_gold_map.zip",
+                    "size": "3051850"
+                },
+                {
+                    "name": "pirates_gold_soundtrack.zip",
+                    "size": "2706288"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E1BF091F7D",
+                            "link": "https://filecrypt.cc/Container/E1BF091F7D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FDFC034157",
+                            "link": "https://filecrypt.cc/Container/FDFC034157"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/614593F9DB",
+                            "link": "https://filecrypt.cc/Container/614593F9DB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/89FF6F2BB4",
+                            "link": "https://filecrypt.cc/Container/89FF6F2BB4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8E505BADE2",
+                            "link": "https://filecrypt.cc/Container/8E505BADE2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9D1AB40838",
+                            "link": "https://filecrypt.cc/Container/9D1AB40838"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

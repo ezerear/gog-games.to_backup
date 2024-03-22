@@ -1,0 +1,90 @@
+{
+    "href": "/game/cube_escape_collection",
+    "MSG": {
+        "id": "1628751300",
+        "title": "Cube Escape Collection",
+        "slug": "cube_escape_collection",
+        "thumb_id": "25e42bc99015849254600c791a9252df1aa1a82d668815311caac0e9a5df1b09",
+        "bg_id": "83d8ab9a3fdf5d6198e8f03cb200d1942bd71549fc5c8366d85e3d4acdfc2139",
+        "url": "https://www.gog.com/game/cube_escape_collection",
+        "developer": "Rusty Lake",
+        "publisher": "Rusty Lake",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707435764",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_cube_escape_collection_1.0_(43930).exe",
+                    "size": "112266296"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/38622425FF",
+                            "link": "https://filecrypt.cc/Container/38622425FF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3282017CF5",
+                            "link": "https://filecrypt.cc/Container/3282017CF5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A63514E093",
+                            "link": "https://filecrypt.cc/Container/A63514E093"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E98C375F5D",
+                            "link": "https://filecrypt.cc/Container/E98C375F5D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C3FB2BD3D1",
+                            "link": "https://filecrypt.cc/Container/C3FB2BD3D1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

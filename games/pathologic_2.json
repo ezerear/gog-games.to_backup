@@ -1,0 +1,143 @@
+{
+    "href": "/game/pathologic_2",
+    "MSG": {
+        "id": "1076642617",
+        "title": "Pathologic 2",
+        "slug": "pathologic_2",
+        "thumb_id": "fb2fd36f67e09357086e9dadf0692770676f98026a68e5e87d9725c8b005a079",
+        "bg_id": "a362b347c09c345314179946ea2278fcd35d66e6c62ed769d09dccdfafb3dedb",
+        "url": "https://www.gog.com/game/pathologic_2",
+        "developer": "Ice-Pick Lodge",
+        "publisher": "tinyBuild",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708169438",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_pathologic_2_1.5.30038-rel-dev-st__mn_(64bit)_(34187)-1.bin",
+                    "size": "4293655038"
+                },
+                {
+                    "name": "setup_pathologic_2_1.5.30038-rel-dev-st__mn_(64bit)_(34187)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_pathologic_2_1.5.30038-rel-dev-st__mn_(64bit)_(34187)-3.bin",
+                    "size": "3512575716"
+                },
+                {
+                    "name": "setup_pathologic_2_1.5.30038-rel-dev-st__mn_(64bit)_(34187).exe",
+                    "size": "1319568"
+                },
+                {
+                    "name": "setup_pathologic_2_marble_nest_1.5.30038-rel-dev-st__mn_(64bit)_(34187).exe",
+                    "size": "7744200"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "mushroomer_mp3.zip",
+                    "size": "348041026"
+                },
+                {
+                    "name": "mushroomer_wav.zip",
+                    "size": "2393081073"
+                },
+                {
+                    "name": "pathologic2_artbook_eng.zip",
+                    "size": "325572361"
+                },
+                {
+                    "name": "pathologic2_artbook_rus.zip",
+                    "size": "325816822"
+                },
+                {
+                    "name": "theodor_bastard_mp3.zip",
+                    "size": "105739677"
+                },
+                {
+                    "name": "theodor_bastard_wav.zip",
+                    "size": "447706030"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/714AEAB116",
+                            "link": "https://filecrypt.cc/Container/714AEAB116"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4F9704EA88",
+                            "link": "https://filecrypt.cc/Container/4F9704EA88"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/55227E1EA6",
+                            "link": "https://filecrypt.cc/Container/55227E1EA6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B9EC289BA1",
+                            "link": "https://filecrypt.cc/Container/B9EC289BA1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8494BBB73F",
+                            "link": "https://filecrypt.cc/Container/8494BBB73F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1C2622BB58",
+                            "link": "https://filecrypt.cc/Container/1C2622BB58"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

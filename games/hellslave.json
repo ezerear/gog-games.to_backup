@@ -1,0 +1,68 @@
+{
+    "href": "/game/hellslave",
+    "MSG": {
+        "id": "1856724519",
+        "title": "Hellslave",
+        "slug": "hellslave",
+        "thumb_id": "f2665af2bfbe82166ca2a9970469bcd4ac8846f484c41abc128f136b50c4a9c8",
+        "bg_id": "07c5301ea1353b5655115db05716fe7550757b439c2f83acbcbdd255be14c52d",
+        "url": "https://www.gog.com/game/hellslave",
+        "developer": "ARS GOETIA",
+        "publisher": "PID Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709496448",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hellslave_1.44_(57581).exe",
+                    "size": "647417584"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BF4D134E71",
+                            "link": "https://filecrypt.cc/Container/BF4D134E71"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A04A896E25",
+                            "link": "https://filecrypt.cc/Container/A04A896E25"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B15AEDFD3F",
+                            "link": "https://filecrypt.cc/Container/B15AEDFD3F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

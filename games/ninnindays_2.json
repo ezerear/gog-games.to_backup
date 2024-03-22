@@ -1,0 +1,72 @@
+{
+    "href": "/game/ninnindays_2",
+    "MSG": {
+        "id": "2044734641",
+        "title": "NinNinDays 2",
+        "slug": "ninnindays_2",
+        "thumb_id": "60ed8f737e7c5f86e89675fb52905c41b8ac2c4b1e5b63448115b49a13b3e9e1",
+        "bg_id": "3de9519dc61cb620bb4b8de9746c94186d14fd01bb51f0f34240f68473ccae9b",
+        "url": "https://www.gog.com/en/game/ninnindays_2",
+        "developer": "qureate, iMel Inc.",
+        "publisher": "qureate",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708775759",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_ninnindays_2_-_unrated_patch_final_(60817).exe",
+                    "size": "1527518248"
+                },
+                {
+                    "name": "setup_ninnindays_2_final_(60817).exe",
+                    "size": "1379698512"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5E553ED205",
+                            "link": "https://filecrypt.cc/Container/5E553ED205"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9AD9142C29",
+                            "link": "https://filecrypt.cc/Container/9AD9142C29"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6C4098FE75",
+                            "link": "https://filecrypt.cc/Container/6C4098FE75"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

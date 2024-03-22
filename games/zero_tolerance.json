@@ -1,0 +1,79 @@
+{
+    "href": "/game/zero_tolerance",
+    "MSG": {
+        "id": "2134863368",
+        "title": "Zero Tolerance",
+        "slug": "zero_tolerance",
+        "thumb_id": "01493275b8baaf6a9ea10eebf2e16534ffdddc68f36d58f23ab3d3123d58c4af",
+        "bg_id": "7d00329a616b2777851f7e0cd8408a8187706c5d3a4ffb1e0aed4d21f90ade43",
+        "url": "https://www.gog.com/en/game/zero_tolerance",
+        "developer": "Technopop",
+        "publisher": "Piko Interactive",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1703470470",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_zero_tolerance_1.0_(54180).exe",
+                    "size": "14969560"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4B68EFB04B",
+                            "link": "https://filecrypt.cc/Container/4B68EFB04B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/44DED931AD",
+                            "link": "https://filecrypt.cc/Container/44DED931AD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/199869CCD6",
+                            "link": "https://filecrypt.cc/Container/199869CCD6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/463C70D87A",
+                            "link": "https://filecrypt.cc/Container/463C70D87A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,111 @@
+{
+    "href": "/game/the_whisperer",
+    "MSG": {
+        "id": "1426240474",
+        "title": "The Whisperer",
+        "slug": "the_whisperer",
+        "thumb_id": "7a9268e5b5afe8c5821bb2cd46c2930137ca316e7b67507fa3d5247e7df7b799",
+        "bg_id": "af20b986faeb683d0d2888d63e5cd525375bd23d8213f695814d24a0c5586354",
+        "url": "https://www.gog.com/en/game/the_whisperer",
+        "developer": "Studio Chien d'Or",
+        "publisher": "Studio Chien d'Or",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1689446911",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_whisperer_1.3.1_(66039)-1.bin",
+                    "size": "2336643618"
+                },
+                {
+                    "name": "setup_the_whisperer_1.3.1_(66039).exe",
+                    "size": "845432"
+                }
+            ],
+            "PATCHES": [
+                {
+                    "name": "patch_the_whisperer_1.3_(63451)_to_1.3.1_(66039).exe",
+                    "size": "32072240"
+                }
+            ],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/85EFA58DF4",
+                            "link": "https://filecrypt.cc/Container/85EFA58DF4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9562D34245",
+                            "link": "https://filecrypt.cc/Container/9562D34245"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/776B096D60",
+                            "link": "https://filecrypt.cc/Container/776B096D60"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/67BEC21BFD",
+                            "link": "https://filecrypt.cc/Container/67BEC21BFD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0213B54657",
+                            "link": "https://filecrypt.cc/Container/0213B54657"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9017A9D71D",
+                            "link": "https://filecrypt.cc/Container/9017A9D71D"
+                        }
+                    ]
+                }
+            ],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

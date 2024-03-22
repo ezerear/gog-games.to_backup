@@ -1,0 +1,83 @@
+{
+    "href": "/game/mesmer",
+    "MSG": {
+        "id": "1957863547",
+        "title": "Mesmer",
+        "slug": "mesmer",
+        "thumb_id": "3e149862e69231708a9b3063687b9bc76d1e07eed13e18efdca0131095d24fa7",
+        "bg_id": "560f9f78a99a1d86b0a7793711426491c18589ab01087f60df522cf696dbfda0",
+        "url": "https://www.gog.com/game/mesmer",
+        "developer": "Rain Games",
+        "publisher": "Rain Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1682523962",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_mesmer_1.0.4_(64bit)_(42662)-1.bin",
+                    "size": "1960521320"
+                },
+                {
+                    "name": "setup_mesmer_1.0.4_(64bit)_(42662).exe",
+                    "size": "860856"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "uploadbuzz",
+                    "name": "UploadBuzz",
+                    "icon": "<img src=\"/static/img/hoster_logos/uploadbuzz.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/Skz4fUc",
+                            "link": "https://safelinking.net/Skz4fUc"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8C914D6EB2",
+                            "link": "https://filecrypt.cc/Container/8C914D6EB2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/djTRWxJ",
+                            "link": "https://safelinking.net/djTRWxJ"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6321BC2786",
+                            "link": "https://filecrypt.cc/Container/6321BC2786"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

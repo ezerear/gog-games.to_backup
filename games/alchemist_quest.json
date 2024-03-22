@@ -1,0 +1,76 @@
+{
+    "href": "/game/alchemist_quest",
+    "MSG": {
+        "id": "1404707143",
+        "title": "Alchemist Quest",
+        "slug": "alchemist_quest",
+        "thumb_id": "e68fb9f3cec8e80f4daea696474e4da67fa7586c3ecdecf6c317f2aac38b22ec",
+        "bg_id": "585c7aee054b3edf2c62231c7a4a71c13e16827bed547f6851877ca8d7e6625e",
+        "url": "https://www.gog.com/en/game/alchemist_quest",
+        "developer": "ShiroKuroSoft",
+        "publisher": "Kagura Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708970890",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_alchemist_quest_unrated_v1_(en_1.00_cn_1.00)_(71006).exe",
+                    "size": "556109872"
+                },
+                {
+                    "name": "setup_alchemist_quest_v1_(en_1.00_cn_1.00)_(71006)-1.bin",
+                    "size": "1224016567"
+                },
+                {
+                    "name": "setup_alchemist_quest_v1_(en_1.00_cn_1.00)_(71006).exe",
+                    "size": "1211976"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0D1C3AB621",
+                            "link": "https://filecrypt.cc/Container/0D1C3AB621"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/218944B640",
+                            "link": "https://filecrypt.cc/Container/218944B640"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0DBDF41AC7",
+                            "link": "https://filecrypt.cc/Container/0DBDF41AC7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

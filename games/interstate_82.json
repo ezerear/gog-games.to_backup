@@ -1,0 +1,115 @@
+{
+    "href": "/game/interstate_82",
+    "MSG": {
+        "id": "1207659076",
+        "title": "Interstate '82",
+        "slug": "interstate_82",
+        "thumb_id": "dd9f1227fb2968282e2af6bb512c05b33b560ced690a81e3380be7b2bb5b7579",
+        "bg_id": "b66cf68a9dbf997c9ec914a1e6bed7265bb1484cbfbade35f210593928de7d75",
+        "url": "https://www.gog.com/game/interstate_82",
+        "developer": "Activision",
+        "publisher": "Activision",
+        "category": "Racing",
+        "uploading": "0",
+        "last_upload": "1710267741",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_interstate82_2.0.0.8.exe",
+                    "size": "453094296"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "i82_avatar.zip",
+                    "size": "36380"
+                },
+                {
+                    "name": "i82_manual.zip",
+                    "size": "1683266"
+                },
+                {
+                    "name": "i82_qrc.zip",
+                    "size": "79930"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6C91BC9DFC",
+                            "link": "https://filecrypt.cc/Container/6C91BC9DFC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FEC72FE6A1",
+                            "link": "https://filecrypt.cc/Container/FEC72FE6A1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B71A7433F9",
+                            "link": "https://filecrypt.cc/Container/B71A7433F9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0FA13F99F5",
+                            "link": "https://filecrypt.cc/Container/0FA13F99F5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/36D3B04313",
+                            "link": "https://filecrypt.cc/Container/36D3B04313"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AA8F0D74AB",
+                            "link": "https://filecrypt.cc/Container/AA8F0D74AB"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

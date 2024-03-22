@@ -1,0 +1,79 @@
+{
+    "href": "/game/out_of_line",
+    "MSG": {
+        "id": "2024195572",
+        "title": "Out of Line",
+        "slug": "out_of_line",
+        "thumb_id": "f93fa530bffd77c2d6a30d39d0db6ea958e4caffa2859111c634520cb0088361",
+        "bg_id": "a6eeb0e35845d9779dc29e43d15644d4c97e2c27bb376e9f59553f5371496786",
+        "url": "https://www.gog.com/game/out_of_line",
+        "developer": "Nerd Monkeys",
+        "publisher": "Hatinh Interactive",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708255000",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_out_of_line_1.0.1.2_(50411).exe",
+                    "size": "355683968"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DE86C9ED6F",
+                            "link": "https://filecrypt.cc/Container/DE86C9ED6F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FFFE815BE2",
+                            "link": "https://filecrypt.cc/Container/FFFE815BE2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D896A24AA3",
+                            "link": "https://filecrypt.cc/Container/D896A24AA3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6B311CD785",
+                            "link": "https://filecrypt.cc/Container/6B311CD785"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

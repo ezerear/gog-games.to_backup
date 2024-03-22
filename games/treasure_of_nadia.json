@@ -1,0 +1,76 @@
+{
+    "href": "/game/treasure_of_nadia",
+    "MSG": {
+        "id": "1592693763",
+        "title": "Treasure of Nadia",
+        "slug": "treasure_of_nadia",
+        "thumb_id": "a31ed6a1be0bb9c362650bbf2cf39fc0a66985b538d16c8cc000ce60b9db17de",
+        "bg_id": "b21c9f9bd093873709d529acfce79f85bc1f64d2b4eeb42ebd5e2ffdf78e9710",
+        "url": "https://www.gog.com/en/game/treasure_of_nadia",
+        "developer": "NLT Media",
+        "publisher": "",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1706124761",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_treasure_of_nadia_1.0117_(64025)-1.bin",
+                    "size": "4292591102"
+                },
+                {
+                    "name": "setup_treasure_of_nadia_1.0117_(64025)-2.bin",
+                    "size": "3812865160"
+                },
+                {
+                    "name": "setup_treasure_of_nadia_1.0117_(64025).exe",
+                    "size": "2386144"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A0AC88DAB2",
+                            "link": "https://filecrypt.cc/Container/A0AC88DAB2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3BFACC3FC2",
+                            "link": "https://filecrypt.cc/Container/3BFACC3FC2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C0BD38EADA",
+                            "link": "https://filecrypt.cc/Container/C0BD38EADA"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

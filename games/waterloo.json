@@ -1,0 +1,79 @@
+{
+    "href": "/game/waterloo",
+    "MSG": {
+        "id": "1356354968",
+        "title": "Waterloo",
+        "slug": "waterloo",
+        "thumb_id": "0230d388a92415f1eb91c47d3e28fa3190eff4c6011b11a673b0e5f527cafc1f",
+        "bg_id": "d796465b2869b32f17ffced812eb68a81fe0f75b767e003c47d2451f9e1aaf61",
+        "url": "https://www.gog.com/en/game/waterloo",
+        "developer": "Turcan Research Systems",
+        "publisher": "Throwback Entertainment",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1684797712",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_waterloo_v1.0_(60596).exe",
+                    "size": "9180216"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/23B8CD2456",
+                            "link": "https://filecrypt.cc/Container/23B8CD2456"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1975BD876C",
+                            "link": "https://filecrypt.cc/Container/1975BD876C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5DA3EF25B5",
+                            "link": "https://filecrypt.cc/Container/5DA3EF25B5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/57BF30D52C",
+                            "link": "https://filecrypt.cc/Container/57BF30D52C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

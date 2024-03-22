@@ -1,0 +1,84 @@
+{
+    "href": "/game/the_witch_of_fern_island",
+    "MSG": {
+        "id": "1303262246",
+        "title": "The Witch of Fern Island",
+        "slug": "the_witch_of_fern_island",
+        "thumb_id": "4cf9396936b0f5e44781170a6e2f85c57b462ae350126e657083cda160059378",
+        "bg_id": "53a944b4152b3612fee712d55414bcc4b7b149291278b0a45870672d0d156e3e",
+        "url": "https://www.gog.com/en/game/the_witch_of_fern_island",
+        "developer": "Enjoy Studio S.A.",
+        "publisher": "Freedom Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709139811",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_witch_of_fern_island_1.0b_(64bit)_(71513)-1.bin",
+                    "size": "4293823486"
+                },
+                {
+                    "name": "setup_the_witch_of_fern_island_1.0b_(64bit)_(71513)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_the_witch_of_fern_island_1.0b_(64bit)_(71513)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_the_witch_of_fern_island_1.0b_(64bit)_(71513)-4.bin",
+                    "size": "249251184"
+                },
+                {
+                    "name": "setup_the_witch_of_fern_island_1.0b_(64bit)_(71513).exe",
+                    "size": "1150784"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/87679113AF",
+                            "link": "https://filecrypt.cc/Container/87679113AF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0F2358BE99",
+                            "link": "https://filecrypt.cc/Container/0F2358BE99"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9595EC12E6",
+                            "link": "https://filecrypt.cc/Container/9595EC12E6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

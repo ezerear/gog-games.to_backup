@@ -1,0 +1,57 @@
+{
+    "href": "/game/gato_roboto",
+    "MSG": {
+        "id": "1727534143",
+        "title": "Gato Roboto",
+        "slug": "gato_roboto",
+        "thumb_id": "f3a053b8ed0024c0f03263b90283bc434d8b11e891fb2981966a4d424338fa43",
+        "bg_id": "58b8888d40b0d7a0909fa3d9136b5f926c1fce15087024ecffe5f4c27185b429",
+        "url": "https://www.gog.com/game/gato_roboto",
+        "developer": "doinksoft",
+        "publisher": "Devolver Digital",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709470016",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_gato_roboto_1.0.4_(31845).exe",
+                    "size": "405643368"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DAEEE25F0D",
+                            "link": "https://filecrypt.cc/Container/DAEEE25F0D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9353DE0EF8",
+                            "link": "https://filecrypt.cc/Container/9353DE0EF8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

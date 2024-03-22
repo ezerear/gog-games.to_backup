@@ -1,0 +1,123 @@
+{
+    "href": "/game/synthetic_lover",
+    "MSG": {
+        "id": "1585794858",
+        "title": "Synthetic Lover",
+        "slug": "synthetic_lover",
+        "thumb_id": "71002350d7c97bea1e2069503c0696426db3a3ef13eb6531977f4a10f46ada05",
+        "bg_id": "3fd446ba961feb9d6af306322a3a722c7eef79bc21853fd14e60a860dd9d73f4",
+        "url": "https://www.gog.com/en/game/synthetic_lover",
+        "developer": "HeartCore Dev",
+        "publisher": "",
+        "category": "Visual Novel",
+        "uploading": "0",
+        "last_upload": "1708478538",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_synthetic_lover_-_18_adult_only_patch_1.0_(61929).exe",
+                    "size": "86692384"
+                },
+                {
+                    "name": "setup_synthetic_lover_1.0_(61929).exe",
+                    "size": "1059595656"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "synthetic_lover_artbook.pdf",
+                    "size": "100166718"
+                },
+                {
+                    "name": "synthetic_lover_official_choice_guide.pdf",
+                    "size": "1786418"
+                },
+                {
+                    "name": "synthetic_lover_soundtrack.mp3.zip",
+                    "size": "59899748"
+                },
+                {
+                    "name": "synthetic_lover_soundtrack.wav.zip",
+                    "size": "665941186"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FD163E3BEA",
+                            "link": "https://filecrypt.cc/Container/FD163E3BEA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E640CC1D9E",
+                            "link": "https://filecrypt.cc/Container/E640CC1D9E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/08D82B4D1E",
+                            "link": "https://filecrypt.cc/Container/08D82B4D1E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/99EF6DDA79",
+                            "link": "https://filecrypt.cc/Container/99EF6DDA79"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3F0FD1FA52",
+                            "link": "https://filecrypt.cc/Container/3F0FD1FA52"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/05ACBCED95",
+                            "link": "https://filecrypt.cc/Container/05ACBCED95"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

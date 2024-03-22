@@ -1,0 +1,68 @@
+{
+    "href": "/game/a_legionarys_life",
+    "MSG": {
+        "id": "1901298062",
+        "title": "A Legionary's Life",
+        "slug": "a_legionarys_life",
+        "thumb_id": "be8b484f6877fdf75a2faf5f221568e4fa17b70f5923b0352f5e7c12d2806a50",
+        "bg_id": "86e56628a22ceeffd2c9162f3ccf6e28d6671e43cbd6e413e00935058901501c",
+        "url": "https://www.gog.com/game/a_legionarys_life",
+        "developer": "Alessandro Roberti",
+        "publisher": "Alessandro Roberti",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709738120",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_a_legionarys_life_1.3.14_(41172).exe",
+                    "size": "46848192"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/15298C01FA",
+                            "link": "https://filecrypt.cc/Container/15298C01FA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/482D765138",
+                            "link": "https://filecrypt.cc/Container/482D765138"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/61AD24DE0C",
+                            "link": "https://filecrypt.cc/Container/61AD24DE0C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

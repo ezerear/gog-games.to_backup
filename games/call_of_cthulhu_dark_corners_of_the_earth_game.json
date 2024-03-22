@@ -1,0 +1,68 @@
+{
+    "href": "/game/call_of_cthulhu_dark_corners_of_the_earth_game",
+    "MSG": {
+        "id": "1189711155",
+        "title": "Call of Cthulhu: Dark Corners of the Earth",
+        "slug": "call_of_cthulhu_dark_corners_of_the_earth_game",
+        "thumb_id": "07cd03167273e87564ff3914e2ef2087048070037ed9820c1f4f8cd399880a2c",
+        "bg_id": "976771f5a06f1a3c492029ff5e8591a52aacbfc5a918eddc34ed4826d8df71ef",
+        "url": "https://www.gog.com/game/call_of_cthulhu_dark_corners_of_the_earth",
+        "developer": "Headfirst Productions",
+        "publisher": "Bethesda Softworks LLC",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710678705",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_call_of_cthulhu_dark_corners_of_the_earth_1.0(a)_(33564).exe",
+                    "size": "1332512176"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/72715DCC32",
+                            "link": "https://filecrypt.cc/Container/72715DCC32"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/06600BC45B",
+                            "link": "https://filecrypt.cc/Container/06600BC45B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/28DCEF154A",
+                            "link": "https://filecrypt.cc/Container/28DCEF154A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

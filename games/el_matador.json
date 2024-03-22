@@ -1,0 +1,123 @@
+{
+    "href": "/game/el_matador",
+    "MSG": {
+        "id": "1651577736",
+        "title": "El Matador",
+        "slug": "el_matador",
+        "thumb_id": "e33dc061a72f412d1544035dbc80ff01e0b13b637bd8eb4e698de22143ab64f2",
+        "bg_id": "7c8f99c61a3910d42de7b1ad80de67dfa677a901a847eef2cf0317bdf2e4e49f",
+        "url": "https://www.gog.com/en/game/el_matador",
+        "developer": "Plastic Reality Technologies",
+        "publisher": "Fulqrum Publishing",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709130959",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_el_matador_1.1_(59096)-1.bin",
+                    "size": "2722712610"
+                },
+                {
+                    "name": "setup_el_matador_1.1_(59096).exe",
+                    "size": "833680"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "el_matador_artworks.zip",
+                    "size": "3251782"
+                },
+                {
+                    "name": "el_matador_posters.zip",
+                    "size": "4950410"
+                },
+                {
+                    "name": "el_matador_renders.zip",
+                    "size": "33434241"
+                },
+                {
+                    "name": "el_matador_sketches.zip",
+                    "size": "46971029"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/22C4292159",
+                            "link": "https://filecrypt.cc/Container/22C4292159"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A3F273E586",
+                            "link": "https://filecrypt.cc/Container/A3F273E586"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/56AD4B48DC",
+                            "link": "https://filecrypt.cc/Container/56AD4B48DC"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2F2FA56924",
+                            "link": "https://filecrypt.cc/Container/2F2FA56924"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DE9E8A2E34",
+                            "link": "https://filecrypt.cc/Container/DE9E8A2E34"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D1C9583131",
+                            "link": "https://filecrypt.cc/Container/D1C9583131"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

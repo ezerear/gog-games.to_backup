@@ -1,0 +1,94 @@
+{
+    "href": "/game/no_son_of_mine",
+    "MSG": {
+        "id": "1958481686",
+        "title": "No Son of Mine",
+        "slug": "no_son_of_mine",
+        "thumb_id": "4f426259c18983f020eac59dd8d6e5517d28cb281ff719233dd0d61a9f874607",
+        "bg_id": "a05db415c4006e9e36e4b56a499f06bd33e191452bf639ecb096e61e32cb7077",
+        "url": "https://www.gog.com/en/game/no_son_of_mine",
+        "developer": "Maciej Radwański",
+        "publisher": "Feardemic",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1704848877",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_no_son_of_mine_1.0.0_(64bit)_(66469)-1.bin",
+                    "size": "2464819280"
+                },
+                {
+                    "name": "setup_no_son_of_mine_1.0.0_(64bit)_(66469).exe",
+                    "size": "810000"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/05EF0098F5",
+                            "link": "https://filecrypt.cc/Container/05EF0098F5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F31063381B",
+                            "link": "https://filecrypt.cc/Container/F31063381B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/066630342B",
+                            "link": "https://filecrypt.cc/Container/066630342B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FD3A17EE7E",
+                            "link": "https://filecrypt.cc/Container/FD3A17EE7E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/628E7F698E",
+                            "link": "https://filecrypt.cc/Container/628E7F698E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

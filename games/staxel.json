@@ -1,0 +1,90 @@
+{
+    "href": "/game/staxel",
+    "MSG": {
+        "id": "1780262881",
+        "title": "Staxel",
+        "slug": "staxel",
+        "thumb_id": "80744886c162744651a894b4bf60aff12b78460cf16a9c32dcbe227ee8f3c153",
+        "bg_id": "edab6c97b3d31bba7a85350788c812c237258a85028c3dc64feada9416016883",
+        "url": "https://www.gog.com/game/staxel",
+        "developer": "Plukit",
+        "publisher": "Humble Bundle",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1707343984",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_staxel_staxel_1.5.63_(210927a)_(64bit)_(51513).exe",
+                    "size": "1141721024"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/13C2B38B49",
+                            "link": "https://filecrypt.cc/Container/13C2B38B49"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B88640896E",
+                            "link": "https://filecrypt.cc/Container/B88640896E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/05723E4C8D",
+                            "link": "https://filecrypt.cc/Container/05723E4C8D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9CDD5C5F92",
+                            "link": "https://filecrypt.cc/Container/9CDD5C5F92"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C5E4012FA4",
+                            "link": "https://filecrypt.cc/Container/C5E4012FA4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

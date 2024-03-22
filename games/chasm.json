@@ -1,0 +1,68 @@
+{
+    "href": "/game/chasm",
+    "MSG": {
+        "id": "1114021228",
+        "title": "Chasm",
+        "slug": "chasm",
+        "thumb_id": "74b75c678074af8a3d67f70d7fe9a533f7e067fcce1655f9cccf2eed908b6a13",
+        "bg_id": "1eff1df36481809f7a1ba7d246d2dc0813a6f81610b4a366788da3450f9eb4a2",
+        "url": "https://www.gog.com/game/chasm",
+        "developer": "Bit Kid, Inc.",
+        "publisher": "Bit Kid, Inc.",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709151788",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_chasm_1.090_(70239).exe",
+                    "size": "765294160"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/08C66D7637",
+                            "link": "https://filecrypt.cc/Container/08C66D7637"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D8B6F0791D",
+                            "link": "https://filecrypt.cc/Container/D8B6F0791D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6A7531FEF9",
+                            "link": "https://filecrypt.cc/Container/6A7531FEF9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

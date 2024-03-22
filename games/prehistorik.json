@@ -1,0 +1,68 @@
+{
+    "href": "/game/prehistorik",
+    "MSG": {
+        "id": "1430912792",
+        "title": "Prehistorik",
+        "slug": "prehistorik",
+        "thumb_id": "1df6b3c401817b86bc6ca64984d1ab0a94c03576b2f4e4276ea2406d8e3fa2f0",
+        "bg_id": "f23511e8e3b27f0dbd404b348e46af68939a5b3954413eb6cb8af414fff50aa0",
+        "url": "https://www.gog.com/game/prehistorik_12",
+        "developer": "Titus Interactive",
+        "publisher": "Interplay",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710054013",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_prehistorik_2.0.0.2.exe",
+                    "size": "17172976"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0025B8B0A5",
+                            "link": "https://filecrypt.cc/Container/0025B8B0A5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ADACB6F552",
+                            "link": "https://filecrypt.cc/Container/ADACB6F552"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4DAE942D88",
+                            "link": "https://filecrypt.cc/Container/4DAE942D88"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

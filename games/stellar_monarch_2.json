@@ -1,0 +1,57 @@
+{
+    "href": "/game/stellar_monarch_2",
+    "MSG": {
+        "id": "1440420772",
+        "title": "Stellar Monarch 2",
+        "slug": "stellar_monarch_2",
+        "thumb_id": "c8109adf77f13274fb43801b41dbed32a71c74765690c5e61332e06e0bbd9653",
+        "bg_id": "521994b3ae2da560d6fe7420e1d7d9e97df728da4a6b93079a8640d812a9ece7",
+        "url": "https://www.gog.com/en/game/stellar_monarch_2",
+        "developer": "Silver Lemur Games",
+        "publisher": "Silver Lemur Games",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710120585",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_stellar_monarch_2_v1.18_(71700).exe",
+                    "size": "113169032"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7CFD30EFA9",
+                            "link": "https://filecrypt.cc/Container/7CFD30EFA9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4CB12A2DA3",
+                            "link": "https://filecrypt.cc/Container/4CB12A2DA3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,127 @@
+{
+    "href": "/game/xenonauts",
+    "MSG": {
+        "id": "1207664803",
+        "title": "Xenonauts",
+        "slug": "xenonauts",
+        "thumb_id": "56febf3ac5222f34bfdf9b4e8eae47fa9b25041cd5ef78e75e91dd62f2a49528",
+        "bg_id": "7c447037d5886bf89244b1b1aaae27203374bbe4f029ce82374214d9ac796a7a",
+        "url": "https://www.gog.com/game/xenonauts",
+        "developer": "Goldhawk Interactive",
+        "publisher": "Goldhawk Interactive",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710450245",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_xenonauts_2.3.0.13-1.bin",
+                    "size": "2658032836"
+                },
+                {
+                    "name": "setup_xenonauts_2.3.0.13.exe",
+                    "size": "34032256"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "xenonauts_avatars.zip",
+                    "size": "977700"
+                },
+                {
+                    "name": "xenonauts_instructions.zip",
+                    "size": "294450"
+                },
+                {
+                    "name": "xenonauts_quickstart_guide.zip",
+                    "size": "718398"
+                },
+                {
+                    "name": "xenonauts_soundtrack.zip",
+                    "size": "185639939"
+                },
+                {
+                    "name": "xenonauts_wallpapers.zip",
+                    "size": "2247909"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DDD6C358CE",
+                            "link": "https://filecrypt.cc/Container/DDD6C358CE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/87AE4774F8",
+                            "link": "https://filecrypt.cc/Container/87AE4774F8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B7BDF1D80E",
+                            "link": "https://filecrypt.cc/Container/B7BDF1D80E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/83027A9C6D",
+                            "link": "https://filecrypt.cc/Container/83027A9C6D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/163107AEBE",
+                            "link": "https://filecrypt.cc/Container/163107AEBE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1A8D77B329",
+                            "link": "https://filecrypt.cc/Container/1A8D77B329"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

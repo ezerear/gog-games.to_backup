@@ -1,0 +1,76 @@
+{
+    "href": "/game/the_raven_legacy_of_a_master_thief",
+    "MSG": {
+        "id": "1207659783",
+        "title": "The Raven: Legacy of a Master Thief",
+        "slug": "the_raven_legacy_of_a_master_thief",
+        "thumb_id": "b8def14e5fae3875c8092bb563d67c149168fed60a04d58235098f05ea9550eb",
+        "bg_id": "d92989551c9f442092ad58625246b8a8870972669f341376c83c7abb5b400d70",
+        "url": "https://web.archive.org/web/20170128024802/https://www.gog.com/game/the_raven_legacy_of_a_master_thief",
+        "developer": "KING Art",
+        "publisher": "THQ Nordic GmbH",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709104196",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_raven_3.1.0_(18922)-1.bin",
+                    "size": "4294168062"
+                },
+                {
+                    "name": "setup_the_raven_3.1.0_(18922)-2.bin",
+                    "size": "927369500"
+                },
+                {
+                    "name": "setup_the_raven_3.1.0_(18922).exe",
+                    "size": "806248"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4AFFB18416",
+                            "link": "https://filecrypt.cc/Container/4AFFB18416"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B4B0D3C997",
+                            "link": "https://filecrypt.cc/Container/B4B0D3C997"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9AEB39973B",
+                            "link": "https://filecrypt.cc/Container/9AEB39973B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

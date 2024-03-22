@@ -1,0 +1,79 @@
+{
+    "href": "/game/space_rangers_quest",
+    "MSG": {
+        "id": "2085898015",
+        "title": "Space Rangers: Quest",
+        "slug": "space_rangers_quest",
+        "thumb_id": "82b861dee0483bc89a267c7ea1e8c63dc870d8db8ac09fff763297134896be6c",
+        "bg_id": "374bbf2fa8b40c51d8c8de3db677b089f40337b8273918cee99dd0041a7dee05",
+        "url": "https://www.gog.com/game/space_rangers_quest",
+        "developer": "SNK-Games Ltd.",
+        "publisher": "1C Publishing",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1684573673",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_space_rangers_quest_2.0.0.3.exe",
+                    "size": "226357456"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8C4E74BD27",
+                            "link": "https://filecrypt.cc/Container/8C4E74BD27"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/867B224687",
+                            "link": "https://filecrypt.cc/Container/867B224687"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/79E3B30607",
+                            "link": "https://filecrypt.cc/Container/79E3B30607"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/45D6DAA51F",
+                            "link": "https://filecrypt.cc/Container/45D6DAA51F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,94 @@
+{
+    "href": "/game/cyberpunk_sfx",
+    "MSG": {
+        "id": "1638321975",
+        "title": "Cyberpunk SFX",
+        "slug": "cyberpunk_sfx",
+        "thumb_id": "500e5247642a9d27fc73a09db334e14461d6c0165c9af8917e8b855694bb2d94",
+        "bg_id": "39100459ad273b27457ea3f4f4f4a72c5f6fce57e5422f8af2c7572abe906e91",
+        "url": "https://www.gog.com/en/game/cyberpunk_sfx",
+        "developer": "Whale Rock Games",
+        "publisher": "Whale Rock Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1704187634",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_cyberpunk_sfx_1.0_(64bit)_(59966)-1.bin",
+                    "size": "1774086131"
+                },
+                {
+                    "name": "setup_cyberpunk_sfx_1.0_(64bit)_(59966).exe",
+                    "size": "827120"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FCC09A3E47",
+                            "link": "https://filecrypt.cc/Container/FCC09A3E47"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3D5622B933",
+                            "link": "https://filecrypt.cc/Container/3D5622B933"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/31768A8968",
+                            "link": "https://filecrypt.cc/Container/31768A8968"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ECCCBE458F",
+                            "link": "https://filecrypt.cc/Container/ECCCBE458F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FD2A01B2CD",
+                            "link": "https://filecrypt.cc/Container/FD2A01B2CD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

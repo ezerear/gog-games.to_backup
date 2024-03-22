@@ -1,0 +1,87 @@
+{
+    "href": "/game/the_alchemist_of_ars_magna",
+    "MSG": {
+        "id": "1674992368",
+        "title": "The Alchemist of Ars Magna",
+        "slug": "the_alchemist_of_ars_magna",
+        "thumb_id": "7048f2f4df9ddd428233de41a7bf1644ad9e5978405857932d58aa8b254f28bd",
+        "bg_id": "dbec88097d213e02af7397e7f7665b6a834eb3fe6d6b7fd3c03e5f0d17e8f63c",
+        "url": "https://www.gog.com/en/game/the_alchemist_of_ars_magna",
+        "developer": "ninetail",
+        "publisher": "MediBang Inc.",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1707753746",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_alchemist_of_ars_magna_1.0_(63410)-1.bin",
+                    "size": "4291252734"
+                },
+                {
+                    "name": "setup_the_alchemist_of_ars_magna_1.0_(63410)-2.bin",
+                    "size": "1014945288"
+                },
+                {
+                    "name": "setup_the_alchemist_of_ars_magna_1.0_(63410).exe",
+                    "size": "3724720"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/71C9E6ACD8",
+                            "link": "https://filecrypt.cc/Container/71C9E6ACD8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2435C004AF",
+                            "link": "https://filecrypt.cc/Container/2435C004AF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FFE19BB22E",
+                            "link": "https://filecrypt.cc/Container/FFE19BB22E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8AACE68E29",
+                            "link": "https://filecrypt.cc/Container/8AACE68E29"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

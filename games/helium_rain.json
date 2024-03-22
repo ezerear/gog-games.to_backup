@@ -1,0 +1,79 @@
+{
+    "href": "/game/helium_rain",
+    "MSG": {
+        "id": "1807214820",
+        "title": "Helium Rain",
+        "slug": "helium_rain",
+        "thumb_id": "dca7d9d55eb53b17b1cbe5efa14af5ec7f6de294eb29fcff6bd3fa02ac4aa28a",
+        "bg_id": "c100d4466e84d1962a704ff817999397fdc398f33b2b0669fcfc9af138bdc86a",
+        "url": "https://www.gog.com/game/helium_rain",
+        "developer": "Deimos Games",
+        "publisher": "Deimos Games",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1704563587",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_helium_rain_1.3.6_(64bit)_(27263).exe",
+                    "size": "1511785096"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5AD0815E9A",
+                            "link": "https://filecrypt.cc/Container/5AD0815E9A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1206E77EAE",
+                            "link": "https://filecrypt.cc/Container/1206E77EAE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4FEAD1CEE7",
+                            "link": "https://filecrypt.cc/Container/4FEAD1CEE7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7D2A65AA1A",
+                            "link": "https://filecrypt.cc/Container/7D2A65AA1A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

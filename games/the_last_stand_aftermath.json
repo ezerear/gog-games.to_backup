@@ -1,0 +1,83 @@
+{
+    "href": "/game/the_last_stand_aftermath",
+    "MSG": {
+        "id": "1890543378",
+        "title": "The Last Stand: Aftermath",
+        "slug": "the_last_stand_aftermath",
+        "thumb_id": "21fdafa372281b4b0e2f761430dd39804ab407dd241ace857616ded984203cd4",
+        "bg_id": "b046ef08779333eeaea8cdd719f5e2e952c82ef01129ae3478777fd2feeb9178",
+        "url": "https://www.gog.com/game/the_last_stand_aftermath",
+        "developer": "Con Artist Games",
+        "publisher": "Armor Games Studios",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708157619",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_last_stand_aftermath_1.2.0.19_(64bit)_(62808)-1.bin",
+                    "size": "3939268431"
+                },
+                {
+                    "name": "setup_the_last_stand_aftermath_1.2.0.19_(64bit)_(62808).exe",
+                    "size": "844144"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4803E74903",
+                            "link": "https://filecrypt.cc/Container/4803E74903"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/776AE69441",
+                            "link": "https://filecrypt.cc/Container/776AE69441"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2766C8014F",
+                            "link": "https://filecrypt.cc/Container/2766C8014F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CA95D229DB",
+                            "link": "https://filecrypt.cc/Container/CA95D229DB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

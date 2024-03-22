@@ -1,0 +1,123 @@
+{
+    "href": "/game/slain",
+    "MSG": {
+        "id": "1458053826",
+        "title": "Slain: Back From Hell",
+        "slug": "slain",
+        "thumb_id": "7e6e18a3faf8275d872bd03c6e5f266c47a713a34948a84eaa3948be10f4bfed",
+        "bg_id": "3330e0ff39872e75d8f57aad20c9625de9ca47a065ae07790a1838f37216e7ee",
+        "url": "https://www.gog.com/game/slain",
+        "developer": "Andrew Gilmour",
+        "publisher": "Digerati",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709982740",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_slain_back_from_hell_(16908).exe",
+                    "size": "288044032"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "slain_bfh_artworks.zip",
+                    "size": "1252476"
+                },
+                {
+                    "name": "slain_bfh_poster.zip",
+                    "size": "533296"
+                },
+                {
+                    "name": "slain_bfh_soundtrack_mp3.zip",
+                    "size": "203083038"
+                },
+                {
+                    "name": "slain_bfh_wallpaper.zip",
+                    "size": "247970"
+                },
+                {
+                    "name": "slain_wallpaper.zip",
+                    "size": "84921"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0F03AFF876",
+                            "link": "https://filecrypt.cc/Container/0F03AFF876"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3C4D8A0B2E",
+                            "link": "https://filecrypt.cc/Container/3C4D8A0B2E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/94FF051CDA",
+                            "link": "https://filecrypt.cc/Container/94FF051CDA"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2512CC7D96",
+                            "link": "https://filecrypt.cc/Container/2512CC7D96"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BAFE29F2FC",
+                            "link": "https://filecrypt.cc/Container/BAFE29F2FC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/82FF1CB77E",
+                            "link": "https://filecrypt.cc/Container/82FF1CB77E"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

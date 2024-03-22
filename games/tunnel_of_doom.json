@@ -1,0 +1,112 @@
+{
+    "href": "/game/tunnel_of_doom",
+    "MSG": {
+        "id": "2064116822",
+        "title": "Tunnel of Doom",
+        "slug": "tunnel_of_doom",
+        "thumb_id": "aafdc9de41cb60ded273a04dc26f333bbf982881f0bb5070964795da2661d1e9",
+        "bg_id": "093503134c83d7bb6fb43a9443496767f1a9e59a4ac54bd5592c400864cf4d66",
+        "url": "https://www.gog.com/game/tunnel_of_doom",
+        "developer": "Antti Vaihia",
+        "publisher": "Digerati Distribution",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1693571601",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tunnel_of_doom_1.4_(53240).exe",
+                    "size": "59279400"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/37D4AF5838",
+                            "link": "https://filecrypt.cc/Container/37D4AF5838"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F86DFBA5AA",
+                            "link": "https://filecrypt.cc/Container/F86DFBA5AA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2E83D29317",
+                            "link": "https://filecrypt.cc/Container/2E83D29317"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5FA71B8CCA",
+                            "link": "https://filecrypt.cc/Container/5FA71B8CCA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FC3A83178D",
+                            "link": "https://filecrypt.cc/Container/FC3A83178D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "uptobox",
+                    "name": "Uptobox",
+                    "icon": "<img src=\"/static/img/hoster_logos/uptobox.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0AAA50CE0F",
+                            "link": "https://filecrypt.cc/Container/0AAA50CE0F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FAB1369ABC",
+                            "link": "https://filecrypt.cc/Container/FAB1369ABC"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

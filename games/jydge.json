@@ -1,0 +1,72 @@
+{
+    "href": "/game/jydge",
+    "MSG": {
+        "id": "1352176936",
+        "title": "JYDGE",
+        "slug": "jydge",
+        "thumb_id": "827572cbd9e709c9f38a52d27b95c28f28950708b134c54c8aa8ae27b2f45371",
+        "bg_id": "f137838eff574481d21c0d14498d204487eb99476fa66d2a362a2e0112243ac9",
+        "url": "https://www.gog.com/game/jydge",
+        "developer": "10tons",
+        "publisher": "10tons",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1707853502",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_jydge_1.2.1.4_(26890)-1.bin",
+                    "size": "360158096"
+                },
+                {
+                    "name": "setup_jydge_1.2.1.4_(26890).exe",
+                    "size": "791824"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7E8F0F5D67",
+                            "link": "https://filecrypt.cc/Container/7E8F0F5D67"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DEBA1F1594",
+                            "link": "https://filecrypt.cc/Container/DEBA1F1594"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7089835D35",
+                            "link": "https://filecrypt.cc/Container/7089835D35"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,72 @@
+{
+    "href": "/game/virtual_maid_streamer_ramie",
+    "MSG": {
+        "id": "1656606894",
+        "title": "Virtual Maid Streamer Ramie",
+        "slug": "virtual_maid_streamer_ramie",
+        "thumb_id": "30e09fcdc244da3bb1d0313bed44d07d480c91f9e090df45dbf528e1900c59da",
+        "bg_id": "38a2073d79416f357459ca0854be53a2306b780c092f6972eedff2c2818fe6bc",
+        "url": "https://www.gog.com/en/game/virtual_maid_streamer_ramie",
+        "developer": "monime",
+        "publisher": "MediBang Inc.",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710851168",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_virtual_maid_streamer_ramie_1.1_(67345).exe",
+                    "size": "640517792"
+                },
+                {
+                    "name": "setup_virtual_maid_streamer_ramie_unrated_patch_1.2_(67369).exe",
+                    "size": "311457048"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4343B339B5",
+                            "link": "https://filecrypt.cc/Container/4343B339B5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9900281B0B",
+                            "link": "https://filecrypt.cc/Container/9900281B0B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D5A00ABC25",
+                            "link": "https://filecrypt.cc/Container/D5A00ABC25"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

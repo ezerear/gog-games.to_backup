@@ -1,0 +1,76 @@
+{
+    "href": "/game/unheard_voices_of_crime",
+    "MSG": {
+        "id": "1221558384",
+        "title": "Unheard - Voices of Crime",
+        "slug": "unheard_voices_of_crime",
+        "thumb_id": "582c213fa6a7c9a19e34118b6d34c0c4d12dbe7ef0fb59edcc03b60648a363d2",
+        "bg_id": "a0abfe63e40954b34cea9e274797942dc2c488d12f5cb60cd58ec29290519e7b",
+        "url": "https://www.gog.com/en/game/unheard_voices_of_crime",
+        "developer": "NEXT Studios",
+        "publisher": "505 Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708776541",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_unheard_-_voices_of_crime_1.0_(67214)-1.bin",
+                    "size": "4294064638"
+                },
+                {
+                    "name": "setup_unheard_-_voices_of_crime_1.0_(67214)-2.bin",
+                    "size": "830291889"
+                },
+                {
+                    "name": "setup_unheard_-_voices_of_crime_1.0_(67214).exe",
+                    "size": "912760"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/332B8441A6",
+                            "link": "https://filecrypt.cc/Container/332B8441A6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/57E1970CD7",
+                            "link": "https://filecrypt.cc/Container/57E1970CD7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3880F1A058",
+                            "link": "https://filecrypt.cc/Container/3880F1A058"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

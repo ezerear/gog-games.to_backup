@@ -1,0 +1,94 @@
+{
+    "href": "/game/wavetale",
+    "MSG": {
+        "id": "1827430975",
+        "title": "Wavetale",
+        "slug": "wavetale",
+        "thumb_id": "b090d0ed0bf4b3bb87997be929fcf8a6a272ae1d72a0db65d7f90327e743455b",
+        "bg_id": "621c8349489f2156705c334f60ab3b2dc595e0b198d9ffaf0dcf30b1f0069e05",
+        "url": "https://www.gog.com/en/game/wavetale",
+        "developer": "Thunderful Development",
+        "publisher": "Thunderful Publishing",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1706236713",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_wavetale_1.0_(60446)-1.bin",
+                    "size": "2439060187"
+                },
+                {
+                    "name": "setup_wavetale_1.0_(60446).exe",
+                    "size": "882344"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D59F5B671A",
+                            "link": "https://filecrypt.cc/Container/D59F5B671A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/73C2BBA44A",
+                            "link": "https://filecrypt.cc/Container/73C2BBA44A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FC54C05626",
+                            "link": "https://filecrypt.cc/Container/FC54C05626"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7E4FCD8F0C",
+                            "link": "https://filecrypt.cc/Container/7E4FCD8F0C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3F16E7684A",
+                            "link": "https://filecrypt.cc/Container/3F16E7684A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

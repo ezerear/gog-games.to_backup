@@ -1,0 +1,68 @@
+{
+    "href": "/game/swordship",
+    "MSG": {
+        "id": "1652014822",
+        "title": "SwordShip",
+        "slug": "swordship",
+        "thumb_id": "b7a4572db90d7e828c152561a828705830c087b8093d4fd3df6c424b08a383a7",
+        "bg_id": "61dfd83a16748d00b63bdbc64848ae63a2f1dbe28534ff42c4772c7f33f5d7cb",
+        "url": "https://www.gog.com/en/game/swordship",
+        "developer": "Digital Kingdom",
+        "publisher": "Thunderful Publishing",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709699767",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_swordship_1473.b262ff1cfd0888bbc78e87c043cac704649eca71_(64808).exe",
+                    "size": "573085936"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0736F3442F",
+                            "link": "https://filecrypt.cc/Container/0736F3442F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8A4A67D45C",
+                            "link": "https://filecrypt.cc/Container/8A4A67D45C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0FC2302331",
+                            "link": "https://filecrypt.cc/Container/0FC2302331"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

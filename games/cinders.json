@@ -1,0 +1,68 @@
+{
+    "href": "/game/cinders",
+    "MSG": {
+        "id": "1098996397",
+        "title": "Cinders",
+        "slug": "cinders",
+        "thumb_id": "0ef3e542f40fbd672a6647a9b0cee5aed42fb7b39f6d0de1dfc21744b95e3214",
+        "bg_id": "6ad7f3c0437fa4e28dbfbe6fa3da6023adfbb7b2a74faa59958b93ab52bdf750",
+        "url": "https://www.gog.com/game/cinders",
+        "developer": " MoaCube",
+        "publisher": " MoaCube",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710102062",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_cinders_1.2.7_(27636).exe",
+                    "size": "258119344"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FB5C04417B",
+                            "link": "https://filecrypt.cc/Container/FB5C04417B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1A8474A57B",
+                            "link": "https://filecrypt.cc/Container/1A8474A57B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3C6F8BB717",
+                            "link": "https://filecrypt.cc/Container/3C6F8BB717"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

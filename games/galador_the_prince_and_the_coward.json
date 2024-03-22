@@ -1,0 +1,105 @@
+{
+    "href": "/game/galador_the_prince_and_the_coward",
+    "MSG": {
+        "id": "2014998256",
+        "title": "Galador - The Prince and the Coward",
+        "slug": "galador_the_prince_and_the_coward",
+        "thumb_id": "59aecb88120de6fee80d78b4e5cfdd7e141efd55ca854fa70d00da33ad691eb9",
+        "bg_id": "b94e5a575f29e77ac05984fda7d01ba578d500fb6b6c6f9073177955bc979da2",
+        "url": "https://www.gog.com/game/galador_the_prince_and_the_coward",
+        "developer": "Metropolis Software",
+        "publisher": "TopWare Interactive",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1700274578",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_galador_1.0_(51319)-1.bin",
+                    "size": "701946635"
+                },
+                {
+                    "name": "setup_galador_1.0_(51319).exe",
+                    "size": "794016"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/04CAD8B446",
+                            "link": "https://filecrypt.cc/Container/04CAD8B446"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EF7CEF1E0D",
+                            "link": "https://filecrypt.cc/Container/EF7CEF1E0D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/59A19C9927",
+                            "link": "https://filecrypt.cc/Container/59A19C9927"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/248E67B4ED",
+                            "link": "https://filecrypt.cc/Container/248E67B4ED"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B8AA1284A7",
+                            "link": "https://filecrypt.cc/Container/B8AA1284A7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/562EB2F2AB",
+                            "link": "https://filecrypt.cc/Container/562EB2F2AB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,76 @@
+{
+    "href": "/game/fallout_new_vegas_ultimate_edition_game",
+    "MSG": {
+        "id": "1454587428",
+        "title": "Fallout: New Vegas Ultimate Edition",
+        "slug": "fallout_new_vegas_ultimate_edition_game",
+        "thumb_id": "d18b14716866d6edda0361a30661f25a4e326698561e03d3b5ac1ce15d97e884",
+        "bg_id": "0d0b8100fad7d0554a549052958294ed044b4dc50d4ed16a2a83601793e1ebc9",
+        "url": "https://www.gog.com/game/fallout_new_vegas_ultimate_edition",
+        "developer": "Obsidian Entertainment",
+        "publisher": "Bethesda Softworks LLC",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709991361",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_fallout_new_vegas_1.4.0.525(a)_(55068)-1.bin",
+                    "size": "4294043646"
+                },
+                {
+                    "name": "setup_fallout_new_vegas_1.4.0.525(a)_(55068)-2.bin",
+                    "size": "4106248245"
+                },
+                {
+                    "name": "setup_fallout_new_vegas_1.4.0.525(a)_(55068).exe",
+                    "size": "932448"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CB8B960A62",
+                            "link": "https://filecrypt.cc/Container/CB8B960A62"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/41A271A5EE",
+                            "link": "https://filecrypt.cc/Container/41A271A5EE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C6240A9F90",
+                            "link": "https://filecrypt.cc/Container/C6240A9F90"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

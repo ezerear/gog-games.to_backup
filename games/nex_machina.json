@@ -1,0 +1,101 @@
+{
+    "href": "/game/nex_machina",
+    "MSG": {
+        "id": "1124718952",
+        "title": "Nex Machina",
+        "slug": "nex_machina",
+        "thumb_id": "d6116860e1e5dab40feb7a4b360a2c96adf3835bbe1a7f514168d98d5223f75b",
+        "bg_id": "4bb79d8d67926d88e007b3d37a0ed3ce842344a55bd660b98b9d1cb2bc3b1824",
+        "url": "https://www.gog.com/game/nex_machina",
+        "developer": "Housemarque",
+        "publisher": "Housemarque",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1696194425",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_nex_machina_v1.06_0073_(16715).exe",
+                    "size": "1028280512"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BDC17DAA05",
+                            "link": "https://filecrypt.cc/Container/BDC17DAA05"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CF97E5F509",
+                            "link": "https://filecrypt.cc/Container/CF97E5F509"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BC6AB4E88D",
+                            "link": "https://filecrypt.cc/Container/BC6AB4E88D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1CE38EF065",
+                            "link": "https://filecrypt.cc/Container/1CE38EF065"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DBDE94D7D7",
+                            "link": "https://filecrypt.cc/Container/DBDE94D7D7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8830F05054",
+                            "link": "https://filecrypt.cc/Container/8830F05054"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

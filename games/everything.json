@@ -1,0 +1,68 @@
+{
+    "href": "/game/everything",
+    "MSG": {
+        "id": "1549149082",
+        "title": "Everything",
+        "slug": "everything",
+        "thumb_id": "59025560f2a9194656f2f8e43eb39ded464342e9c3b5f11467ab9312b1a652ab",
+        "bg_id": "975e97bf35e0ae0211f01a7ba7c0b5448e48ce4eb15a1228834b9aaeda54ffd4",
+        "url": "https://web.archive.org/web/20180407030522/https://www.gog.com/game/everything",
+        "developer": "David OReilly",
+        "publisher": "David OReilly, Double Fine Presents",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1709389180",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_everything_1.06.01_(11709).exe",
+                    "size": "1270629776"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1843D82F54",
+                            "link": "https://filecrypt.cc/Container/1843D82F54"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D3DAD9892F",
+                            "link": "https://filecrypt.cc/Container/D3DAD9892F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D278CDB238",
+                            "link": "https://filecrypt.cc/Container/D278CDB238"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

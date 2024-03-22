@@ -1,0 +1,72 @@
+{
+    "href": "/game/magical_swordmaiden",
+    "MSG": {
+        "id": "1378922940",
+        "title": "Magical Swordmaiden",
+        "slug": "magical_swordmaiden",
+        "thumb_id": "a86691e33b9d0090d02df7935d47757209e4aaba55cb07b26702cc660c9768df",
+        "bg_id": "4c940eab583186c0173de58213499f91b8dc0f46c93133b8636d0c38b8d90fdc",
+        "url": "https://www.gog.com/en/game/magical_swordmaiden",
+        "developer": "Lunasoft",
+        "publisher": "Kagura Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710320714",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_magical_swordmaiden_unrated_v1_(59581).exe",
+                    "size": "409188960"
+                },
+                {
+                    "name": "setup_magical_swordmaiden_v1_(59581).exe",
+                    "size": "132455840"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ED0ADB9797",
+                            "link": "https://filecrypt.cc/Container/ED0ADB9797"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/789017CC1B",
+                            "link": "https://filecrypt.cc/Container/789017CC1B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/528D472A82",
+                            "link": "https://filecrypt.cc/Container/528D472A82"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

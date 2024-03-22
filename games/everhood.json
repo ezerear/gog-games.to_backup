@@ -1,0 +1,85 @@
+{
+    "href": "/game/everhood",
+    "MSG": {
+        "id": "1695476092",
+        "title": "Everhood",
+        "slug": "everhood",
+        "thumb_id": "f9db820cf62148ee786c34da23f1848f297e9369d8efa628a05855f36cc8270d",
+        "bg_id": "89fef74c0e9c313a3ac64525c04d32160d58296704727989f99c080fef5f9fbb",
+        "url": "https://www.gog.com/game/everhood",
+        "developer": "Foreign Gnomes",
+        "publisher": "Foreign Gnomes",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710176376",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_everhood_1.1.3_(64bit)_(51111).exe",
+                    "size": "686501928"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "everhood_ost.zip",
+                    "size": "321927718"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CD07BC547F",
+                            "link": "https://filecrypt.cc/Container/CD07BC547F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1706C24667",
+                            "link": "https://filecrypt.cc/Container/1706C24667"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4944FD41D3",
+                            "link": "https://filecrypt.cc/Container/4944FD41D3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B3195F5B88",
+                            "link": "https://filecrypt.cc/Container/B3195F5B88"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,135 @@
+{
+    "href": "/game/homeworld_remastered_collection",
+    "MSG": {
+        "id": "2114871440",
+        "title": "Homeworld® Remastered Collection",
+        "slug": "homeworld_remastered_collection",
+        "thumb_id": "dce7a50009085fcaf3d7e6f1f52623b70de6f5118a065952b26c1c8e4c604d58",
+        "bg_id": "86546fbe2cc29e335412bd3083e8eab33e6f6252290d659c84104db37c2b8018",
+        "url": "https://www.gog.com/game/homeworld_remastered_collection",
+        "developer": "Gearbox Software",
+        "publisher": "Gearbox Software",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710267510",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_homeworld_remastered_2.1_(18586)-1.bin",
+                    "size": "4294223358"
+                },
+                {
+                    "name": "setup_homeworld_remastered_2.1_(18586)-2.bin",
+                    "size": "3773431597"
+                },
+                {
+                    "name": "setup_homeworld_remastered_2.1_(18586).exe",
+                    "size": "750840"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "homeworld_2_remastered_ost_flac.zip",
+                    "size": "495764796"
+                },
+                {
+                    "name": "homeworld_2_remastered_ost_mp3.zip",
+                    "size": "194572987"
+                },
+                {
+                    "name": "homeworld_remastered_making_of.zip",
+                    "size": "625833863"
+                },
+                {
+                    "name": "homeworld_remastered_ost_flac.zip",
+                    "size": "339353723"
+                },
+                {
+                    "name": "homeworld_remastered_ost_mp3.zip",
+                    "size": "117292130"
+                },
+                {
+                    "name": "homeworld_remastered_wallpapers.zip",
+                    "size": "12465597"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/36487A0402",
+                            "link": "https://filecrypt.cc/Container/36487A0402"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/874468D133",
+                            "link": "https://filecrypt.cc/Container/874468D133"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D8A2E6270B",
+                            "link": "https://filecrypt.cc/Container/D8A2E6270B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F011E42F7C",
+                            "link": "https://filecrypt.cc/Container/F011E42F7C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/393756D950",
+                            "link": "https://filecrypt.cc/Container/393756D950"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EC535CC745",
+                            "link": "https://filecrypt.cc/Container/EC535CC745"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

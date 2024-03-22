@@ -1,0 +1,68 @@
+{
+    "href": "/game/40_winks",
+    "MSG": {
+        "id": "1760158980",
+        "title": "40 Winks",
+        "slug": "40_winks",
+        "thumb_id": "366c6325ca4e5cc27f86564a2ad0697b57221313f1c8b82911b029d2f61f8356",
+        "bg_id": "d040b4d7a986dd1efa098bd5c6169019ca42c483076bb91d838d7e3d0b94dcc6",
+        "url": "https://www.gog.com/en/game/40_winks",
+        "developer": "Eurocom",
+        "publisher": "Piko Interactive",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710449698",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_40_winks_1.0_(60661).exe",
+                    "size": "422985384"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B7A48F5404",
+                            "link": "https://filecrypt.cc/Container/B7A48F5404"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/47A5305D97",
+                            "link": "https://filecrypt.cc/Container/47A5305D97"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/56E00A7BCB",
+                            "link": "https://filecrypt.cc/Container/56E00A7BCB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

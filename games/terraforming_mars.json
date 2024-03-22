@@ -1,0 +1,80 @@
+{
+    "href": "/game/terraforming_mars",
+    "MSG": {
+        "id": "2013033253",
+        "title": "Terraforming Mars",
+        "slug": "terraforming_mars",
+        "thumb_id": "9e14e8725123c40ddef0672b72f9cc8afc683cc546f34de25a5763482c8f84ec",
+        "bg_id": "ab30fc7be834c87359d43cb5e4a062f534b41d9a7aed9fa48aeaf61949facfb7",
+        "url": "https://www.gog.com/game/terraforming_mars",
+        "developer": "Asmodee Digital",
+        "publisher": " Asmodee Digital",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1708481606",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_terraforming_mars_-_hellas__elysium_2.4.1.130129_master_(64bit)_(69904).exe",
+                    "size": "5528896"
+                },
+                {
+                    "name": "setup_terraforming_mars_-_prelude_2.4.1.130129_master_(64bit)_(69904).exe",
+                    "size": "6739936"
+                },
+                {
+                    "name": "setup_terraforming_mars_-_venus_next_2.4.1.130129_master_(64bit)_(69904).exe",
+                    "size": "6557216"
+                },
+                {
+                    "name": "setup_terraforming_mars_2.4.1.130129_master_(64bit)_(69904).exe",
+                    "size": "220783072"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1C1ED8374F",
+                            "link": "https://filecrypt.cc/Container/1C1ED8374F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D0A918EEF0",
+                            "link": "https://filecrypt.cc/Container/D0A918EEF0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F8091669A7",
+                            "link": "https://filecrypt.cc/Container/F8091669A7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

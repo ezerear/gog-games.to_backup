@@ -1,0 +1,79 @@
+{
+    "href": "/game/dark_quest_2",
+    "MSG": {
+        "id": "1781196387",
+        "title": "Dark Quest 2",
+        "slug": "dark_quest_2",
+        "thumb_id": "2554e281a23c1670dbd6f116d84591cadd96611d7e27b543e492ac75ec3f2a5f",
+        "bg_id": "caa9e9bea2acd5e42766d4247fb4355489262a0cd4786d6d59a30aa2be48edc2",
+        "url": "https://www.gog.com/game/dark_quest_1_2",
+        "developer": "Brain Seal Ltd",
+        "publisher": "Brain Seal Ltd",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1708013048",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dark_quest_2_1.0.0_(36776).exe",
+                    "size": "376964328"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1306491C41",
+                            "link": "https://filecrypt.cc/Container/1306491C41"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/260ECF5EAC",
+                            "link": "https://filecrypt.cc/Container/260ECF5EAC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C8E30D6C5B",
+                            "link": "https://filecrypt.cc/Container/C8E30D6C5B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A01F506CB4",
+                            "link": "https://filecrypt.cc/Container/A01F506CB4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

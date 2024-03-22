@@ -1,0 +1,90 @@
+{
+    "href": "/game/out_zone",
+    "MSG": {
+        "id": "1865494483",
+        "title": "Out Zone",
+        "slug": "out_zone",
+        "thumb_id": "802e8f351bfe087fe693194c1c25cbdbd10bb46a0025afdfd26620b79093f40c",
+        "bg_id": "9cb61f18d625ebbf388100b049e389cff93865e951b7b5e5d91bc396a916c702",
+        "url": "https://www.gog.com/en/game/out_zone",
+        "developer": "Bitwave Games",
+        "publisher": "Bitwave Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707046778",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_out_zone_35_(64bit)_(70879).exe",
+                    "size": "12949504"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EE5C0E6C2D",
+                            "link": "https://filecrypt.cc/Container/EE5C0E6C2D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FCE821F2F7",
+                            "link": "https://filecrypt.cc/Container/FCE821F2F7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/31F79C8239",
+                            "link": "https://filecrypt.cc/Container/31F79C8239"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D448AF9B16",
+                            "link": "https://filecrypt.cc/Container/D448AF9B16"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D7A7158D72",
+                            "link": "https://filecrypt.cc/Container/D7A7158D72"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

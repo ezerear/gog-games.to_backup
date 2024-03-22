@@ -1,0 +1,68 @@
+{
+    "href": "/game/flynn_son_of_crimson",
+    "MSG": {
+        "id": "1217831807",
+        "title": "Flynn: Son of Crimson",
+        "slug": "flynn_son_of_crimson",
+        "thumb_id": "02698cdac80db2247017f075da6865a6f36eb7d7e6fb71ff5613e38952044090",
+        "bg_id": "224ee555956825723268992f5e0f00684c729cdc6999227518596476c4c092a5",
+        "url": "https://www.gog.com/game/flynn_son_of_crimson",
+        "developer": "Studio Thunderhorse",
+        "publisher": "Humble Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709756190",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_flynn_son_of_crimson_1.1.0.3_(53182).exe",
+                    "size": "274391904"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BF62A85ADC",
+                            "link": "https://filecrypt.cc/Container/BF62A85ADC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E048B62F9E",
+                            "link": "https://filecrypt.cc/Container/E048B62F9E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1A1A726D1A",
+                            "link": "https://filecrypt.cc/Container/1A1A726D1A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

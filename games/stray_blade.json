@@ -1,0 +1,84 @@
+{
+    "href": "/game/stray_blade",
+    "MSG": {
+        "id": "1709153510",
+        "title": "Stray Blade",
+        "slug": "stray_blade",
+        "thumb_id": "94f8d4346c1cd5187ec20700c8ac8c87da8bc2a07fc81337cb7c3879c62d3b02",
+        "bg_id": "f78cd9296fdbcb57cc43daf46bf25411acba7c723664e4eab3188bb356896a92",
+        "url": "https://www.gog.com/en/game/stray_blade",
+        "developer": "Point Blank Games",
+        "publisher": "505 Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710532330",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_stray_blade_1.7.4_(64bit)_(69136)-1.bin",
+                    "size": "4293881342"
+                },
+                {
+                    "name": "setup_stray_blade_1.7.4_(64bit)_(69136)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_stray_blade_1.7.4_(64bit)_(69136)-3.bin",
+                    "size": "2588218683"
+                },
+                {
+                    "name": "setup_stray_blade_1.7.4_(64bit)_(69136).exe",
+                    "size": "1096248"
+                },
+                {
+                    "name": "setup_stray_blade__valley_of_strays_1.7.4_(64bit)_(69136).exe",
+                    "size": "6591992"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C32ACE5297",
+                            "link": "https://filecrypt.cc/Container/C32ACE5297"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0468BB6B6E",
+                            "link": "https://filecrypt.cc/Container/0468BB6B6E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7E53F7FAEB",
+                            "link": "https://filecrypt.cc/Container/7E53F7FAEB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

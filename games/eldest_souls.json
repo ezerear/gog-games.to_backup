@@ -1,0 +1,68 @@
+{
+    "href": "/game/eldest_souls",
+    "MSG": {
+        "id": "1112497208",
+        "title": "Eldest Souls",
+        "slug": "eldest_souls",
+        "thumb_id": "48b061ba36bf2237d8f457e7decc94a1298b46dc6467560c03e2106c776361f3",
+        "bg_id": "b29136cfe841779b2849fb6ce8c75f50b2a3d48f9be481f3d69f7963dd0e7eaa",
+        "url": "https://www.gog.com/game/eldest_souls",
+        "developer": "Fallen Flag Studio",
+        "publisher": "United Label, CI Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710563550",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_eldest_souls_1.1.23f2-master_(55370).exe",
+                    "size": "745746872"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E98C31531C",
+                            "link": "https://filecrypt.cc/Container/E98C31531C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C3439E4430",
+                            "link": "https://filecrypt.cc/Container/C3439E4430"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/37C9B4814B",
+                            "link": "https://filecrypt.cc/Container/37C9B4814B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

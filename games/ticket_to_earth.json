@@ -1,0 +1,83 @@
+{
+    "href": "/game/ticket_to_earth",
+    "MSG": {
+        "id": "1196334484",
+        "title": "Ticket to Earth",
+        "slug": "ticket_to_earth",
+        "thumb_id": "0354f58ab9c4c896841fe6fbcc3c007642208b4d7e12a8bf2927cc5aec227ca0",
+        "bg_id": "228749b9f6cdcc7a843c6e97e61af8e3483cc4e09d74a64ccf13a9b9e6b990d8",
+        "url": "https://www.gog.com/game/ticket_to_earth",
+        "developer": "Robot Circus",
+        "publisher": "Robot Circus",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1684296790",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_ticket_to_earth_4.6.1_(64bit)_(48677)-1.bin",
+                    "size": "901524484"
+                },
+                {
+                    "name": "setup_ticket_to_earth_4.6.1_(64bit)_(48677).exe",
+                    "size": "837000"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2D9EE446F6",
+                            "link": "https://filecrypt.cc/Container/2D9EE446F6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D218A4254B",
+                            "link": "https://filecrypt.cc/Container/D218A4254B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E41F6DD962",
+                            "link": "https://filecrypt.cc/Container/E41F6DD962"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BFD8BFEC7D",
+                            "link": "https://filecrypt.cc/Container/BFD8BFEC7D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

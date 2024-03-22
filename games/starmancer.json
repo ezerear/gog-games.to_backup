@@ -1,0 +1,68 @@
+{
+    "href": "/game/starmancer",
+    "MSG": {
+        "id": "2066583773",
+        "title": "Starmancer",
+        "slug": "starmancer",
+        "thumb_id": "6155fea74f39873093119c74eae3694934745c8fa03db00b6722af7855faa86b",
+        "bg_id": "c0ff23118a2a286b82e9253904fb78f9a462bb1604f290e94dbcd81fdd293bbe",
+        "url": "https://www.gog.com/game/starmancer",
+        "developer": "Ominux Games",
+        "publisher": "Chucklefish",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1708426764",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_starmancer_0.2.17_(68514).exe",
+                    "size": "199298872"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/WfoQsdk",
+                            "link": "https://safelinking.net/WfoQsdk"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/awrl5rs",
+                            "link": "https://safelinking.net/awrl5rs"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/NBeaNQc",
+                            "link": "https://safelinking.net/NBeaNQc"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,137 @@
+{
+    "href": "/game/the_feeble_files",
+    "MSG": {
+        "id": "1207658703",
+        "title": "The Feeble Files",
+        "slug": "the_feeble_files",
+        "thumb_id": "1126359a412c27cdf5a61bececf1b2c667d16941d10e1b06289a96dc0e218a78",
+        "bg_id": "1671ad3c0fd0bba5d9888e2b4d858f80995a92e8f4614e6fa336807a1a9aaf0c",
+        "url": "https://www.gog.com/game/the_feeble_files",
+        "developer": "Adventure Soft",
+        "publisher": "Adventure Soft",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1685964041",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_feeble_files_1.0_(20270)-1.bin",
+                    "size": "2630305286"
+                },
+                {
+                    "name": "setup_the_feeble_files_1.0_(20270).exe",
+                    "size": "974360"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "feeble_files_gog_guide.zip",
+                    "size": "9306728"
+                },
+                {
+                    "name": "feeble_files_manual.zip",
+                    "size": "639932"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E13C319D89",
+                            "link": "https://filecrypt.cc/Container/E13C319D89"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DD60ACD14A",
+                            "link": "https://filecrypt.cc/Container/DD60ACD14A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/949EE443A7",
+                            "link": "https://filecrypt.cc/Container/949EE443A7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D3D0154979",
+                            "link": "https://filecrypt.cc/Container/D3D0154979"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FFBFB07346",
+                            "link": "https://filecrypt.cc/Container/FFBFB07346"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/85F965B654",
+                            "link": "https://filecrypt.cc/Container/85F965B654"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/387197ED3A",
+                            "link": "https://filecrypt.cc/Container/387197ED3A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A7E244D548",
+                            "link": "https://filecrypt.cc/Container/A7E244D548"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

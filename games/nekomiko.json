@@ -1,0 +1,105 @@
+{
+    "href": "/game/nekomiko",
+    "MSG": {
+        "id": "1927550310",
+        "title": "NekoMiko",
+        "slug": "nekomiko",
+        "thumb_id": "43bcc51c0745c4dc76319b783291abf5adda8b02288e86a0b43d27b646a3680a",
+        "bg_id": "24e08bfc76571419fd20be1cfb77a5b435776a8acf448545522e85b3ffac9a61",
+        "url": "https://www.gog.com/en/game/nekomiko",
+        "developer": "qureate, iMel Inc.",
+        "publisher": "qureate",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1701186334",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_nekomiko_-_unrated_patch_1.2_(final)_(60793).exe",
+                    "size": "835623592"
+                },
+                {
+                    "name": "setup_nekomiko_1.2_(final)_(60793).exe",
+                    "size": "764263608"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/865B41B543",
+                            "link": "https://filecrypt.cc/Container/865B41B543"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/800270A013",
+                            "link": "https://filecrypt.cc/Container/800270A013"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B8C8409B47",
+                            "link": "https://filecrypt.cc/Container/B8C8409B47"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A47514946A",
+                            "link": "https://filecrypt.cc/Container/A47514946A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/915EB2EAE5",
+                            "link": "https://filecrypt.cc/Container/915EB2EAE5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1FC4A23F13",
+                            "link": "https://filecrypt.cc/Container/1FC4A23F13"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

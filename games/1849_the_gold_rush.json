@@ -1,0 +1,111 @@
+{
+    "href": "/game/1849_the_gold_rush",
+    "MSG": {
+        "id": "1207664483",
+        "title": "1849: Gold Edition",
+        "slug": "1849_the_gold_rush",
+        "thumb_id": "74e03193d526c2c79d38e559c260ee36c1ae819e0d3b32827e74ef231dc3b704",
+        "bg_id": "7ec9a6b2db2bf5b175344bc0edd02d8bd4f491553cb8474f0184bf9176f2af58",
+        "url": "https://www.gog.com/game/1849_the_gold_rush",
+        "developer": "SomaSim",
+        "publisher": "SomaSim",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1709693824",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_1849_2.0.7_(19810).exe",
+                    "size": "75754304"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "1849_avatars.zip",
+                    "size": "958230"
+                },
+                {
+                    "name": "1849_wallpapers.zip",
+                    "size": "1949380"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5F79A22C08",
+                            "link": "https://filecrypt.cc/Container/5F79A22C08"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F2D36DA432",
+                            "link": "https://filecrypt.cc/Container/F2D36DA432"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2B85E4BFAB",
+                            "link": "https://filecrypt.cc/Container/2B85E4BFAB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5F52A9E408",
+                            "link": "https://filecrypt.cc/Container/5F52A9E408"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D310674999",
+                            "link": "https://filecrypt.cc/Container/D310674999"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EB3E029DD3",
+                            "link": "https://filecrypt.cc/Container/EB3E029DD3"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

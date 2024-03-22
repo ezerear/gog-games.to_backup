@@ -1,0 +1,76 @@
+{
+    "href": "/game/late_shift",
+    "MSG": {
+        "id": "2110881038",
+        "title": "Late Shift",
+        "slug": "late_shift",
+        "thumb_id": "cca0af6b4dd578990f1d6d0c7d292d514d5d589d3b1c80e4576f9b76bbd711de",
+        "bg_id": "bae03ad618570cde9ed96f8d5404f6d5acc35a84344ddeba4da2a0a1026e33bb",
+        "url": "https://www.gog.com/game/late_shift",
+        "developer": "CtrlMovie",
+        "publisher": "Wales Interactive",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710714945",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_late_shift_20200107_(35388)-1.bin",
+                    "size": "4292911614"
+                },
+                {
+                    "name": "setup_late_shift_20200107_(35388)-2.bin",
+                    "size": "4106597553"
+                },
+                {
+                    "name": "setup_late_shift_20200107_(35388).exe",
+                    "size": "2062888"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A04EE8F7E6",
+                            "link": "https://filecrypt.cc/Container/A04EE8F7E6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/29C49562A6",
+                            "link": "https://filecrypt.cc/Container/29C49562A6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/06E5F2A8B2",
+                            "link": "https://filecrypt.cc/Container/06E5F2A8B2"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

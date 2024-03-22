@@ -1,0 +1,68 @@
+{
+    "href": "/game/return_of_the_phantom",
+    "MSG": {
+        "id": "1559996859",
+        "title": "Return of the Phantom",
+        "slug": "return_of_the_phantom",
+        "thumb_id": "7952937934c8c45b4d4f81d1bc144ffb2d068cab8a3db4bb86459d65e1f12204",
+        "bg_id": "cd0619d90892d4964344faad0e772c1715220e3f0425a5ef83869592ff4e9353",
+        "url": "https://www.gog.com/game/return_of_the_phantom",
+        "developer": "MPS Labs",
+        "publisher": "Ziggurat Interactive",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710490533",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_return_of_the_phantom_1.01_(45140).exe",
+                    "size": "238950768"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D232DA7552",
+                            "link": "https://filecrypt.cc/Container/D232DA7552"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2F3818307D",
+                            "link": "https://filecrypt.cc/Container/2F3818307D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4A7C6C05FB",
+                            "link": "https://filecrypt.cc/Container/4A7C6C05FB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

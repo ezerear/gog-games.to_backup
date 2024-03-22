@@ -1,0 +1,76 @@
+{
+    "href": "/game/adeptus_titanicus_dominus",
+    "MSG": {
+        "id": "1607008216",
+        "title": "Adeptus Titanicus: Dominus",
+        "slug": "adeptus_titanicus_dominus",
+        "thumb_id": "9ce81f18fd385e78a98db313347367c202e02ee04a1cc124c5d39c8c08bfd9a8",
+        "bg_id": "6f44d5bd9792c92d85fcbb54b8dcb350cd503db00c52ef044bd959cb62611c8c",
+        "url": "https://www.gog.com/game/adeptus_titanicus_dominus",
+        "developer": "Membraine Studios",
+        "publisher": "Membraine Studios",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1706511046",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_adeptus_titanicus_dominus_version_1.0_build_490bbb6861852fc6aa28fdcfc045aff4a_(47480)-1.bin",
+                    "size": "4293974526"
+                },
+                {
+                    "name": "setup_adeptus_titanicus_dominus_version_1.0_build_490bbb6861852fc6aa28fdcfc045aff4a_(47480)-2.bin",
+                    "size": "495527746"
+                },
+                {
+                    "name": "setup_adeptus_titanicus_dominus_version_1.0_build_490bbb6861852fc6aa28fdcfc045aff4a_(47480).exe",
+                    "size": "998904"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9F1E23A398",
+                            "link": "https://filecrypt.cc/Container/9F1E23A398"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3E6BC7CAA1",
+                            "link": "https://filecrypt.cc/Container/3E6BC7CAA1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E12AB6F4D7",
+                            "link": "https://filecrypt.cc/Container/E12AB6F4D7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,101 @@
+{
+    "href": "/game/blasphemous",
+    "MSG": {
+        "id": "2068474256",
+        "title": "Blasphemous",
+        "slug": "blasphemous",
+        "thumb_id": "67d5ff6c49065c7212d89cac336bf2fb3e2e484dffca192c3c03bdad5c3511d2",
+        "bg_id": "071b5709ef8f232be7a960e986a913165f8c54365b837ed9f998af3837971916",
+        "url": "https://www.gog.com/game/blasphemous",
+        "developer": "The Game Kitchen",
+        "publisher": "Team17 Digital LTD.",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710130882",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_blasphemous_4.0.67_(64bit)_(50827).exe",
+                    "size": "745101072"
+                },
+                {
+                    "name": "setup_blasphemous__alloy_of_sin_character_skin_4.0.67_(64bit)_(50827).exe",
+                    "size": "6439040"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "blasphemous_artbook_digital_edition.zip",
+                    "size": "32616313"
+                },
+                {
+                    "name": "blasphemous_comic_en.zip",
+                    "size": "4841181"
+                },
+                {
+                    "name": "blasphemous_comic_es.zip",
+                    "size": "4105887"
+                },
+                {
+                    "name": "blasphemous_original_soundtrack_mp3.zip",
+                    "size": "299676571"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/041C50048C",
+                            "link": "https://filecrypt.cc/Container/041C50048C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F1FCCFF6C8",
+                            "link": "https://filecrypt.cc/Container/F1FCCFF6C8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9C2B57C207",
+                            "link": "https://filecrypt.cc/Container/9C2B57C207"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BB1E0D7F79",
+                            "link": "https://filecrypt.cc/Container/BB1E0D7F79"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

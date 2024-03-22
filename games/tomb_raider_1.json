@@ -1,0 +1,119 @@
+{
+    "href": "/game/tomb_raider_1",
+    "MSG": {
+        "id": "1207663463",
+        "title": "Tomb Raider 1",
+        "slug": "tomb_raider_1",
+        "thumb_id": "e6d7203221477b5d04bc2084d8f2033235c020bd00533c49b794f2669e536c18",
+        "bg_id": "3d4f9590913671675d5851ad9b776d40978ec4eb1bab149b27cdd778a95e97ba",
+        "url": "https://www.gog.com/game/tomb_raider_123",
+        "developer": "Core Design",
+        "publisher": "Square Enix",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710025160",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tomb_raider_1_20180105_(17652).exe",
+                    "size": "254769280"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "tomb_raider_123_artworks.zip",
+                    "size": "13472048"
+                },
+                {
+                    "name": "tomb_raider_123_avatars.zip",
+                    "size": "1547494"
+                },
+                {
+                    "name": "tomb_raider_123_manuals.zip",
+                    "size": "5426717"
+                },
+                {
+                    "name": "tomb_raider_123_renders.zip",
+                    "size": "4535731"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/62E96D161D",
+                            "link": "https://filecrypt.cc/Container/62E96D161D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/61C5275F21",
+                            "link": "https://filecrypt.cc/Container/61C5275F21"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F288907542",
+                            "link": "https://filecrypt.cc/Container/F288907542"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BDA90171CF",
+                            "link": "https://filecrypt.cc/Container/BDA90171CF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/982021AE63",
+                            "link": "https://filecrypt.cc/Container/982021AE63"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D8B84F76FE",
+                            "link": "https://filecrypt.cc/Container/D8B84F76FE"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

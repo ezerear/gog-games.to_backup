@@ -1,0 +1,68 @@
+{
+    "href": "/game/rance_02",
+    "MSG": {
+        "id": "1340653519",
+        "title": "Rance 02",
+        "slug": "rance_02",
+        "thumb_id": "3148254ac92f5b80d0feb80879e7e1790092a5efcdbb98eb1069e711f41cc4a1",
+        "bg_id": "682e2521d8fedb685e720b78c9e2e67c5abf2e79e09627b76638cecda2cf5c70",
+        "url": "https://www.gog.com/en/game/rance_01_02",
+        "developer": "Alicesoft",
+        "publisher": "MangaGamer",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710946032",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_rance_02_v10_gog_(60468).exe",
+                    "size": "326057696"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9B1BFB2997",
+                            "link": "https://filecrypt.cc/Container/9B1BFB2997"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/211AA14CD5",
+                            "link": "https://filecrypt.cc/Container/211AA14CD5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BE62048DD8",
+                            "link": "https://filecrypt.cc/Container/BE62048DD8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

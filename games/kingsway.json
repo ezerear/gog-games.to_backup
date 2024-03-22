@@ -1,0 +1,57 @@
+{
+    "href": "/game/kingsway",
+    "MSG": {
+        "id": "1902803915",
+        "title": "Kingsway",
+        "slug": "kingsway",
+        "thumb_id": "615cb9a7cc7624b1b28211bc168f93efe064d4a9c15555980f1fb83affced972",
+        "bg_id": "09782443a6123a0a545fd326e7244b94cb145d2253e15d7914671051c88af2c6",
+        "url": "https://www.gog.com/game/kingsway",
+        "developer": "Andrew Morrish",
+        "publisher": "Adult Swim",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710154249",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_kingsway_1.2.1_(64096).exe",
+                    "size": "56356232"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D3418A61AC",
+                            "link": "https://filecrypt.cc/Container/D3418A61AC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D71BC41CC0",
+                            "link": "https://filecrypt.cc/Container/D71BC41CC0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

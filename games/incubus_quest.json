@@ -1,0 +1,76 @@
+{
+    "href": "/game/incubus_quest",
+    "MSG": {
+        "id": "1784604387",
+        "title": "Incubus Quest",
+        "slug": "incubus_quest",
+        "thumb_id": "3cff95f3a7bf97305939dd6ed9f39c82c69da0a78cdd6254d6b38c9ca82b294b",
+        "bg_id": "066e569b6869d3ed0cef54114bdf96524e7c217686e825277610fc6cc7e21da0",
+        "url": "https://www.gog.com/en/game/incubus_quest",
+        "developer": "SweetRaspberry",
+        "publisher": "Kagura Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1708993805",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_incubus_quest_unrated_v3_(en_1.04_cn_1.01)_(70574)-1.bin",
+                    "size": "1833368548"
+                },
+                {
+                    "name": "setup_incubus_quest_unrated_v3_(en_1.04_cn_1.01)_(70574).exe",
+                    "size": "1666120"
+                },
+                {
+                    "name": "setup_incubus_quest_v3_(en_1.04_cn_1.01)_(70574).exe",
+                    "size": "667114816"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0390FB39A6",
+                            "link": "https://filecrypt.cc/Container/0390FB39A6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E9672601A3",
+                            "link": "https://filecrypt.cc/Container/E9672601A3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CC59B15AD7",
+                            "link": "https://filecrypt.cc/Container/CC59B15AD7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

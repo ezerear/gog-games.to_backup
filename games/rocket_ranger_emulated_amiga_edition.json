@@ -1,0 +1,111 @@
+{
+    "href": "/game/rocket_ranger_emulated_amiga_edition",
+    "MSG": {
+        "id": "1207666773",
+        "title": "Rocket Ranger (Emulated Amiga Edition)",
+        "slug": "rocket_ranger_emulated_amiga_edition",
+        "thumb_id": "770ce152eea58367088dc75fb2149161aa4fa43e1089d895c6dfb0149abe628b",
+        "bg_id": "ef8d1567f776176d01277c543a6f28c69d5c84d29c860927cbaebee260ebad23",
+        "url": "https://www.gog.com/game/rocket_ranger_emulated_amiga_edition",
+        "developer": "Cinemaware",
+        "publisher": "Cinemaware",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709539057",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_rocket_ranger_2.0.0.1.exe",
+                    "size": "15920512"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "rocket_ranger_manual.zip",
+                    "size": "1694227"
+                },
+                {
+                    "name": "setup_rocket_ranger_german_2.0.0.1.exe",
+                    "size": "12689664"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CCA7D46434",
+                            "link": "https://filecrypt.cc/Container/CCA7D46434"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2CEFD8D39D",
+                            "link": "https://filecrypt.cc/Container/2CEFD8D39D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CBB6BC6D99",
+                            "link": "https://filecrypt.cc/Container/CBB6BC6D99"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3CCC502C27",
+                            "link": "https://filecrypt.cc/Container/3CCC502C27"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0A1070D11A",
+                            "link": "https://filecrypt.cc/Container/0A1070D11A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FFE29F23C3",
+                            "link": "https://filecrypt.cc/Container/FFE29F23C3"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

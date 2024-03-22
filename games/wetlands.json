@@ -1,0 +1,111 @@
+{
+    "href": "/game/wetlands",
+    "MSG": {
+        "id": "1465732730",
+        "title": "Wetlands",
+        "slug": "wetlands",
+        "thumb_id": "63476fa68b6fa52d12ef734447de6a6f30895f38cc4bc7311816997e287ebd99",
+        "bg_id": "c2b03542ca82ba6bf1fb473c87cdd0986426a9845c4e78eb9c4353b1486fb72e",
+        "url": "https://www.gog.com/game/wetlands",
+        "developer": "New World Computing, Inc.",
+        "publisher": "Ziggurat Interactive",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710776429",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_wetlands_1.0_(43415).exe",
+                    "size": "616842504"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "wetlands_bonus_artwork.zip",
+                    "size": "12503544"
+                },
+                {
+                    "name": "wetlands_manual_english.zip",
+                    "size": "895994"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/056D994F9A",
+                            "link": "https://filecrypt.cc/Container/056D994F9A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BB266BD903",
+                            "link": "https://filecrypt.cc/Container/BB266BD903"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ADADA39A83",
+                            "link": "https://filecrypt.cc/Container/ADADA39A83"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ED2019F68E",
+                            "link": "https://filecrypt.cc/Container/ED2019F68E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C62419C6B6",
+                            "link": "https://filecrypt.cc/Container/C62419C6B6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0E1E90FCC0",
+                            "link": "https://filecrypt.cc/Container/0E1E90FCC0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

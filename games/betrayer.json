@@ -1,0 +1,94 @@
+{
+    "href": "/game/betrayer",
+    "MSG": {
+        "id": "1090734724",
+        "title": "Betrayer",
+        "slug": "betrayer",
+        "thumb_id": "798b87f729fa965e96455dff61c7983d54eb86a450675e05de2583b78b134973",
+        "bg_id": "a49063e087c843c186789811da79494ede6e8a0697835e488aef26a37abdee3a",
+        "url": "https://www.gog.com/en/game/betrayer",
+        "developer": "Blackpowder Games",
+        "publisher": "Blackpowder Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1691817456",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_betrayer_1.9.6844.2_(65784)-1.bin",
+                    "size": "3085628010"
+                },
+                {
+                    "name": "setup_betrayer_1.9.6844.2_(65784).exe",
+                    "size": "896336"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E339AF0FAC",
+                            "link": "https://filecrypt.cc/Container/E339AF0FAC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D8FB1C451E",
+                            "link": "https://filecrypt.cc/Container/D8FB1C451E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/10CCED90BB",
+                            "link": "https://filecrypt.cc/Container/10CCED90BB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D9E54AE1EE",
+                            "link": "https://filecrypt.cc/Container/D9E54AE1EE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C0AD0240DF",
+                            "link": "https://filecrypt.cc/Container/C0AD0240DF"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,132 @@
+{
+    "href": "/game/read_only_memories",
+    "MSG": {
+        "id": "1444027604",
+        "title": "2064: Read Only Memories",
+        "slug": "read_only_memories",
+        "thumb_id": "6ec3f742827b26cdf46b890c0f75a6151a86fa2989e87a741729d13e092c909a",
+        "bg_id": "ce7e2c15a40e632dfe46ebf520a6d9be8b6e0bfef99cff69ccb3072a1e750b99",
+        "url": "https://www.gog.com/game/read_only_memories",
+        "developer": "MidBoss",
+        "publisher": "MidBoss LLC",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709376360",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_2064_-_read_only_memories_64_64.1.1_(17042).exe",
+                    "size": "684032448"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "2064_rom_ost_flac.zip",
+                    "size": "746666706"
+                },
+                {
+                    "name": "2064_rom_ost_mp3.zip",
+                    "size": "310218786"
+                },
+                {
+                    "name": "read_only_memories_linux.zip",
+                    "size": "115392146"
+                },
+                {
+                    "name": "read_only_memories_osx.zip",
+                    "size": "118755039"
+                },
+                {
+                    "name": "read_only_memories_win.zip",
+                    "size": "192585807"
+                },
+                {
+                    "name": "rom_2064_artbook.zip",
+                    "size": "9548658"
+                },
+                {
+                    "name": "rom_artbook.zip",
+                    "size": "10756178"
+                },
+                {
+                    "name": "rom_character_artworks.zip",
+                    "size": "2156567"
+                },
+                {
+                    "name": "rom_ost_flac.zip",
+                    "size": "559063299"
+                },
+                {
+                    "name": "rom_ost_mp3.zip",
+                    "size": "233262467"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/73053A231C",
+                            "link": "https://filecrypt.cc/Container/73053A231C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/493793F407",
+                            "link": "https://filecrypt.cc/Container/493793F407"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/522CA2220D",
+                            "link": "https://filecrypt.cc/Container/522CA2220D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1BA750AA2D",
+                            "link": "https://filecrypt.cc/Container/1BA750AA2D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D75D0E1E58",
+                            "link": "https://filecrypt.cc/Container/D75D0E1E58"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

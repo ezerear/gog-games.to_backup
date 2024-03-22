@@ -1,0 +1,76 @@
+{
+    "href": "/game/return_to_monkey_island",
+    "MSG": {
+        "id": "1436760537",
+        "title": "Return to Monkey Island",
+        "slug": "return_to_monkey_island",
+        "thumb_id": "f744339c7f1e0d3b7069b75744de56e61b20b9da631f00d360e7a2f286800c78",
+        "bg_id": "b050133c63ea38341bd3dd0fa0f4066b3931f328b9ff56222734527b9a756466",
+        "url": "https://www.gog.com/en/game/return_to_monkey_island",
+        "developer": "Terrible Toybox",
+        "publisher": "Devolver Digital",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708155908",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_return_to_monkey_island_1.5_(570741)_(62263)-1.bin",
+                    "size": "4294130174"
+                },
+                {
+                    "name": "setup_return_to_monkey_island_1.5_(570741)_(62263)-2.bin",
+                    "size": "273119498"
+                },
+                {
+                    "name": "setup_return_to_monkey_island_1.5_(570741)_(62263).exe",
+                    "size": "847280"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/14518ECFE7",
+                            "link": "https://filecrypt.cc/Container/14518ECFE7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E4D8AE65EA",
+                            "link": "https://filecrypt.cc/Container/E4D8AE65EA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C3C3FF6C9D",
+                            "link": "https://filecrypt.cc/Container/C3C3FF6C9D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

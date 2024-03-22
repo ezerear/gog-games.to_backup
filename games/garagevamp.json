@@ -1,0 +1,90 @@
+{
+    "href": "/game/garagevamp",
+    "MSG": {
+        "id": "1101011608",
+        "title": "garage:VAMP",
+        "slug": "garagevamp",
+        "thumb_id": "1788500b2d34368eeeae7c8c6af4ba3cc41e2da5a57ca4c5068463cd4224ccdf",
+        "bg_id": "0c2d99a9f06a6d12ced14442de21ba5c8e4ba93586d20bcc5da66da90a520616",
+        "url": "https://www.gog.com/en/game/garagevamp",
+        "developer": "Hyanmaru Games",
+        "publisher": "TinyHat Studios",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1702585420",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_garagevamp_1.0_(67191).exe",
+                    "size": "673457128"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/972F1B9AB6",
+                            "link": "https://filecrypt.cc/Container/972F1B9AB6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/596AA24950",
+                            "link": "https://filecrypt.cc/Container/596AA24950"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9DEE906161",
+                            "link": "https://filecrypt.cc/Container/9DEE906161"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/646F5A9104",
+                            "link": "https://filecrypt.cc/Container/646F5A9104"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8F293AA3F4",
+                            "link": "https://filecrypt.cc/Container/8F293AA3F4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

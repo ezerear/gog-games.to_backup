@@ -1,0 +1,83 @@
+{
+    "href": "/game/eastward",
+    "MSG": {
+        "id": "1116987509",
+        "title": "Eastward",
+        "slug": "eastward",
+        "thumb_id": "7aa83639e6b2bacebeb8635fd4150a2ecaacf446041da68794776a871777ebd2",
+        "bg_id": "8d780fb07f70bf4eef06fe9a77f9e760bcfd6a761b59d423e91fc1835cea4de8",
+        "url": "https://www.gog.com/game/eastward",
+        "developer": "Pixpil",
+        "publisher": "Chucklefish",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1708289419",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_eastward_-_octopia_v1.2.1dlc2_(64bit)_(71047).exe",
+                    "size": "272970080"
+                },
+                {
+                    "name": "setup_eastward_v1.2.1dlc2_(64bit)_(71047).exe",
+                    "size": "1326080520"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/yAX69pg",
+                            "link": "https://safelinking.net/yAX69pg"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/abkYboN",
+                            "link": "https://safelinking.net/abkYboN"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/pE5c66n",
+                            "link": "https://safelinking.net/pE5c66n"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/o1sfKYZ",
+                            "link": "https://safelinking.net/o1sfKYZ"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

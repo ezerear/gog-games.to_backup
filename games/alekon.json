@@ -1,0 +1,115 @@
+{
+    "href": "/game/alekon",
+    "MSG": {
+        "id": "1381791359",
+        "title": "Alekon",
+        "slug": "alekon",
+        "thumb_id": "740267c8b748dc8a5710fedc13ed55803dbbc3432f26d4714dd3706a4d067fd2",
+        "bg_id": "0a0bd1b0c5485af79303540ceab72f6175317f4e20a80566db7ccbff0e7a8613",
+        "url": "https://www.gog.com/en/game/alekon",
+        "developer": "The Alekon Company",
+        "publisher": "The Alekon Company",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710295333",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_alekon_1.3.gog3_(64bit)_(64606)-1.bin",
+                    "size": "1778567077"
+                },
+                {
+                    "name": "setup_alekon_1.3.gog3_(64bit)_(64606).exe",
+                    "size": "804400"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "Alekon_OST_MP3.zip",
+                    "size": "433582792"
+                },
+                {
+                    "name": "Alekon_OST_WAV.zip",
+                    "size": "1301263163"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D98CAA3CAB",
+                            "link": "https://filecrypt.cc/Container/D98CAA3CAB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DA3B4261EA",
+                            "link": "https://filecrypt.cc/Container/DA3B4261EA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4ACC89AED7",
+                            "link": "https://filecrypt.cc/Container/4ACC89AED7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/016A6E42DA",
+                            "link": "https://filecrypt.cc/Container/016A6E42DA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/458281CAF6",
+                            "link": "https://filecrypt.cc/Container/458281CAF6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/20729DE685",
+                            "link": "https://filecrypt.cc/Container/20729DE685"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

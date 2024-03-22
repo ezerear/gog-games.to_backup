@@ -1,0 +1,68 @@
+{
+    "href": "/game/dark_devotion",
+    "MSG": {
+        "id": "1487359513",
+        "title": "Dark Devotion",
+        "slug": "dark_devotion",
+        "thumb_id": "103617e09cbbb1d9622b90caef9f5e02c6ffb97e82acb9b4f6766d0e1c6af995",
+        "bg_id": "239463bef757373418fdaf0f25d852593a33062dee49a9df78e54fa04ec69bb4",
+        "url": "https://www.gog.com/game/dark_devotion",
+        "developer": "Hibernian Workshop",
+        "publisher": " The Arcade Crew, Maple Whispering Co., Ltd.",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709755489",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dark_devotion_1.0.44_(32602).exe",
+                    "size": "1521723992"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6615B0A204",
+                            "link": "https://filecrypt.cc/Container/6615B0A204"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2E100721DF",
+                            "link": "https://filecrypt.cc/Container/2E100721DF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B9C7C84239",
+                            "link": "https://filecrypt.cc/Container/B9C7C84239"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

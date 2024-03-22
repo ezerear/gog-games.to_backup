@@ -1,0 +1,68 @@
+{
+    "href": "/game/paradigm",
+    "MSG": {
+        "id": "1223700729",
+        "title": "Paradigm",
+        "slug": "paradigm",
+        "thumb_id": "415ed850ed0919e94886a1dceff234b4907606691e03cbefef99cfe913370a18",
+        "bg_id": "4916d36ad8e5682aa89a0c5cc976df923fe29bb1a92861198b95cad0f887a39d",
+        "url": "https://www.gog.com/game/paradigm",
+        "developer": "Jacob Janerka",
+        "publisher": "Jacob Janerka",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710265629",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_paradigm_1.02_(15752).exe",
+                    "size": "1577546432"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2A156DBDF9",
+                            "link": "https://filecrypt.cc/Container/2A156DBDF9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ED20F45CA1",
+                            "link": "https://filecrypt.cc/Container/ED20F45CA1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4C9C5FB0CD",
+                            "link": "https://filecrypt.cc/Container/4C9C5FB0CD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

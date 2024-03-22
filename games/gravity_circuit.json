@@ -1,0 +1,111 @@
+{
+    "href": "/game/gravity_circuit",
+    "MSG": {
+        "id": "1201648069",
+        "title": "Gravity Circuit",
+        "slug": "gravity_circuit",
+        "thumb_id": "a29ba91b484159000030d7b6485c055884472c5537cdd6ad6638f91a94c08d0b",
+        "bg_id": "6153054e8f7a168a7f91f3e4b6f48a6a3f261a6fd26ecbdc67d9ccc22e95bebb",
+        "url": "https://www.gog.com/en/game/gravity_circuit",
+        "developer": "Domesticated Ant Games",
+        "publisher": "PID Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710196742",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_gravity_circuit_1.1.0c_(70237).exe",
+                    "size": "316972736"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "gravity_circuit_soundtrack_flac.zip",
+                    "size": "1385176015"
+                },
+                {
+                    "name": "gravity_circuit_soundtrack_mp3.zip",
+                    "size": "276355832"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E40D6A7DE9",
+                            "link": "https://filecrypt.cc/Container/E40D6A7DE9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/241E309193",
+                            "link": "https://filecrypt.cc/Container/241E309193"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/43AF90D3CE",
+                            "link": "https://filecrypt.cc/Container/43AF90D3CE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8DDB4E3FD5",
+                            "link": "https://filecrypt.cc/Container/8DDB4E3FD5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6BEA4FDEAC",
+                            "link": "https://filecrypt.cc/Container/6BEA4FDEAC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9EFB337D8F",
+                            "link": "https://filecrypt.cc/Container/9EFB337D8F"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

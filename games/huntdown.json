@@ -1,0 +1,71 @@
+{
+    "href": "/game/huntdown",
+    "MSG": {
+        "id": "2094700167",
+        "title": "HUNTDOWN",
+        "slug": "huntdown",
+        "thumb_id": "ad79170dea248b08761569c1af05bfd96a85d30b0aed00021f895bda7ac8a2b7",
+        "bg_id": "9c2abe67c61effd9a32ce95fcf96c0df12bbae84803eb969f572865374fd2a0f",
+        "url": "https://www.gog.com/game/huntdown",
+        "developer": "Easy Trigger Games",
+        "publisher": "Coffee Stain Publishing",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1709459165",
+        "votes": "1",
+        "files": false,
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/21BE62B676",
+                            "link": "https://filecrypt.cc/Container/21BE62B676"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/17E7920109",
+                            "link": "https://filecrypt.cc/Container/17E7920109"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9A5D4861A4",
+                            "link": "https://filecrypt.cc/Container/9A5D4861A4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4F0A451572",
+                            "link": "https://filecrypt.cc/Container/4F0A451572"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

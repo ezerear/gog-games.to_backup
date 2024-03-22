@@ -1,0 +1,68 @@
+{
+    "href": "/game/blockhood",
+    "MSG": {
+        "id": "1457531523",
+        "title": "Block'hood",
+        "slug": "blockhood",
+        "thumb_id": "306a42f232d2826dee6b595458aaf88505fb2f9dd6bdff99ed1a31668f912b9d",
+        "bg_id": "60c9340d896afaa4da6d4941e7ee3cbd5b037e7e4a7fc8440ff3694893ce3628",
+        "url": "https://www.gog.com/game/blockhood",
+        "developer": "Plethora-Project LLC",
+        "publisher": "Devolver Digital",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710366759",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_blockhood_1.1.25_(25307).exe",
+                    "size": "418477304"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/925E1B3071",
+                            "link": "https://filecrypt.cc/Container/925E1B3071"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A4B3454210",
+                            "link": "https://filecrypt.cc/Container/A4B3454210"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7D7446FC4E",
+                            "link": "https://filecrypt.cc/Container/7D7446FC4E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

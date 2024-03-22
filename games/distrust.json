@@ -1,0 +1,79 @@
+{
+    "href": "/game/distrust",
+    "MSG": {
+        "id": "1484448851",
+        "title": "Distrust",
+        "slug": "distrust",
+        "thumb_id": "960314181c628e51ab621dce0ae3a229915820322dcdcb280aa2528c76bf4650",
+        "bg_id": "092f8894ac8c4c816fe9a53ed5a2c8614fd20db2a764e2a1046fb671d4e19b75",
+        "url": "https://www.gog.com/game/distrust",
+        "developer": "Cheerdealers",
+        "publisher": "Alawar Premium",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708175223",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_distrust_1.1.5.2_(27724).exe",
+                    "size": "757077344"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/31B6A675C3",
+                            "link": "https://filecrypt.cc/Container/31B6A675C3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B45BCBDCFB",
+                            "link": "https://filecrypt.cc/Container/B45BCBDCFB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/794E5510C5",
+                            "link": "https://filecrypt.cc/Container/794E5510C5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2AC7D4456F",
+                            "link": "https://filecrypt.cc/Container/2AC7D4456F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

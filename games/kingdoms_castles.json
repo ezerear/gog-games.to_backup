@@ -1,0 +1,68 @@
+{
+    "href": "/game/kingdoms_castles",
+    "MSG": {
+        "id": "2067763543",
+        "title": "Kingdoms and Castles",
+        "slug": "kingdoms_castles",
+        "thumb_id": "239f94729f55602322cf6489798c57bed482b84ea7e253bb3bf716328619878a",
+        "bg_id": "89188227226773723946a875c6e1a2d93dcae1c0b20bc42561fca5c4b9df91c5",
+        "url": "https://www.gog.com/game/kingdoms_castles",
+        "developer": "Lion Shield",
+        "publisher": "Lion Shield",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710632146",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_kingdoms_and_castles_121r4_(66000).exe",
+                    "size": "511510392"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F9A89F30BA",
+                            "link": "https://filecrypt.cc/Container/F9A89F30BA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/61EBBD3A93",
+                            "link": "https://filecrypt.cc/Container/61EBBD3A93"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/21CC7E33C3",
+                            "link": "https://filecrypt.cc/Container/21CC7E33C3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

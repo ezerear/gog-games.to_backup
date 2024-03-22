@@ -1,0 +1,84 @@
+{
+    "href": "/game/mortal_shell",
+    "MSG": {
+        "id": "1586537281",
+        "title": "Mortal Shell",
+        "slug": "mortal_shell",
+        "thumb_id": "644260d5fc6269d149448d6bee821de689d4cce075323b5a51e667553000beed",
+        "bg_id": "93563408b1244edfbe60d6dfa9e962fe42fece0fa8d5135ddc27dcd9523d1591",
+        "url": "https://www.gog.com/game/mortal_shell",
+        "developer": "Cold Symmetry",
+        "publisher": "Playstack",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708184155",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_mortal_shell_-_the_virtuous_cycle_1.014707_(64bit)_(49535).exe",
+                    "size": "6476528"
+                },
+                {
+                    "name": "setup_mortal_shell_1.014707_(64bit)_(49535)-1.bin",
+                    "size": "4294013438"
+                },
+                {
+                    "name": "setup_mortal_shell_1.014707_(64bit)_(49535)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_mortal_shell_1.014707_(64bit)_(49535)-3.bin",
+                    "size": "505453937"
+                },
+                {
+                    "name": "setup_mortal_shell_1.014707_(64bit)_(49535).exe",
+                    "size": "960464"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/25F28FA722",
+                            "link": "https://filecrypt.cc/Container/25F28FA722"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1FB7B8D947",
+                            "link": "https://filecrypt.cc/Container/1FB7B8D947"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BB2FB5F8DF",
+                            "link": "https://filecrypt.cc/Container/BB2FB5F8DF"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

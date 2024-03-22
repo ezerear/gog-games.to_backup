@@ -1,0 +1,119 @@
+{
+    "href": "/game/sid_meiers_covert_action",
+    "MSG": {
+        "id": "1207660463",
+        "title": "Sid Meier's Covert Action",
+        "slug": "sid_meiers_covert_action",
+        "thumb_id": "c175ef241058581f41a0c5bdb1372cd169909d3aac6870fa4795612ac09cbce0",
+        "bg_id": "c4a9026ab62544c14899cfd20faddff9e2ab2f6bce1156200f7c044da0cca952",
+        "url": "https://www.gog.com/game/sid_meiers_covert_action",
+        "developer": "MicroProse",
+        "publisher": "Retroism",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1708982221",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sid_meiers_covert_action_447.01_(28045).exe",
+                    "size": "11494544"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "covert_action_manual_de.zip",
+                    "size": "9371981"
+                },
+                {
+                    "name": "covert_action_manual_eng.zip",
+                    "size": "140609313"
+                },
+                {
+                    "name": "covert_action_reference_card.zip",
+                    "size": "3482990"
+                },
+                {
+                    "name": "covert_action_tech_supplement.zip",
+                    "size": "19284759"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F2EFF581A6",
+                            "link": "https://filecrypt.cc/Container/F2EFF581A6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/764F5E9866",
+                            "link": "https://filecrypt.cc/Container/764F5E9866"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4C8533B5CD",
+                            "link": "https://filecrypt.cc/Container/4C8533B5CD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A8DD18ACF3",
+                            "link": "https://filecrypt.cc/Container/A8DD18ACF3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C0004737A3",
+                            "link": "https://filecrypt.cc/Container/C0004737A3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9F36B2F409",
+                            "link": "https://filecrypt.cc/Container/9F36B2F409"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

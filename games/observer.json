@@ -1,0 +1,76 @@
+{
+    "href": "/game/observer",
+    "MSG": {
+        "id": "1449856523",
+        "title": ">observer_",
+        "slug": "observer",
+        "thumb_id": "500910d581534b6a81ac7551b04388d8f037d8dcfb4f8d7d3d55fa0cdaa35870",
+        "bg_id": "4b7f1a7542b8726a7e8c154006091cd92e79e1122941144ce670cf0f5b3b116c",
+        "url": "https://web.archive.org/web/20200104025208/https://www.gog.com/game/observer",
+        "developer": "Bloober Team SA",
+        "publisher": "Aspyr",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709463219",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_observer_02.07.2018_(21921)-1.bin",
+                    "size": "4293815806"
+                },
+                {
+                    "name": "setup_observer_02.07.2018_(21921)-2.bin",
+                    "size": "4239356829"
+                },
+                {
+                    "name": "setup_observer_02.07.2018_(21921).exe",
+                    "size": "1158384"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6ED933E2CE",
+                            "link": "https://filecrypt.cc/Container/6ED933E2CE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5ABC86BEF2",
+                            "link": "https://filecrypt.cc/Container/5ABC86BEF2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3AB392CF82",
+                            "link": "https://filecrypt.cc/Container/3AB392CF82"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

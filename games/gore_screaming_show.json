@@ -1,0 +1,83 @@
+{
+    "href": "/game/gore_screaming_show",
+    "MSG": {
+        "id": "1108345769",
+        "title": "Gore Screaming Show",
+        "slug": "gore_screaming_show",
+        "thumb_id": "de036fa5ccfa3f9e0b2076f48862316f1a22367dda77f6e4254c861c11af9810",
+        "bg_id": "65194bd96c506e283423bd2195b9be5bc5f9c514785ef0a1b560ed40b9f5bd66",
+        "url": "https://www.gog.com/en/game/gore_screaming_show",
+        "developer": "Black Cyc",
+        "publisher": "JAST USA",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708112803",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_gore_screaming_show_1.0.2dlc_(60223).exe",
+                    "size": "878852864"
+                },
+                {
+                    "name": "setup_gore_screaming_show_unrated_patch_1.0.2dlc_(60223).exe",
+                    "size": "1014534848"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1DE624FE93",
+                            "link": "https://filecrypt.cc/Container/1DE624FE93"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6F59B65245",
+                            "link": "https://filecrypt.cc/Container/6F59B65245"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/15B97DD0BF",
+                            "link": "https://filecrypt.cc/Container/15B97DD0BF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E8CE9AD716",
+                            "link": "https://filecrypt.cc/Container/E8CE9AD716"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

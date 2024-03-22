@@ -1,0 +1,98 @@
+{
+    "href": "/game/succubus_prison",
+    "MSG": {
+        "id": "1109712506",
+        "title": "Succubus Prison",
+        "slug": "succubus_prison",
+        "thumb_id": "f6532692dfb536d544dce94ae8e11a15ad7354561bdbbcea847d6d2be06ba635",
+        "bg_id": "40a6d7e7687f07ba561828dce569cb246dbc44218f7ed7ea8098a97d610b67a8",
+        "url": "https://www.gog.com/en/game/succubus_prison",
+        "developer": "Tokinokogiri",
+        "publisher": "Kagura Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1703120891",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_succubus_prison_unrated_v4_(en_1.03_cn_1.01)_(67794)-1.bin",
+                    "size": "1698199109"
+                },
+                {
+                    "name": "setup_succubus_prison_unrated_v4_(en_1.03_cn_1.01)_(67794).exe",
+                    "size": "801992"
+                },
+                {
+                    "name": "setup_succubus_prison_v4_(en_1.03_cn_1.01)_(67794).exe",
+                    "size": "402333752"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DE439433DE",
+                            "link": "https://filecrypt.cc/Container/DE439433DE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/42222A27F5",
+                            "link": "https://filecrypt.cc/Container/42222A27F5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/18556CAB66",
+                            "link": "https://filecrypt.cc/Container/18556CAB66"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/84243186F8",
+                            "link": "https://filecrypt.cc/Container/84243186F8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9DDC67C6B4",
+                            "link": "https://filecrypt.cc/Container/9DDC67C6B4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

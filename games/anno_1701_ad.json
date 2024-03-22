@@ -1,0 +1,72 @@
+{
+    "href": "/game/anno_1701_ad",
+    "MSG": {
+        "id": "1438075172",
+        "title": "Anno 1701 A.D.",
+        "slug": "anno_1701_ad",
+        "thumb_id": "a0cd62b860084a083a48b606d0e7bc9ebe56b36fef881a73e16d8d9c43cdfcdd",
+        "bg_id": "3a5af9fd5ea21da598f8a497a33a326d9793327c7db51b00cd44c930fd09283c",
+        "url": "https://www.gog.com/game/anno_1701_ad",
+        "developer": "Related Designs",
+        "publisher": "Ubisoft",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1708570709",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_anno_1701_2.0.0.4-1.bin",
+                    "size": "3117855976"
+                },
+                {
+                    "name": "setup_anno_1701_2.0.0.4.exe",
+                    "size": "29726032"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/574732D62E",
+                            "link": "https://filecrypt.cc/Container/574732D62E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FBABF18AE6",
+                            "link": "https://filecrypt.cc/Container/FBABF18AE6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DFD2218DAA",
+                            "link": "https://filecrypt.cc/Container/DFD2218DAA"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

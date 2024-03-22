@@ -1,0 +1,68 @@
+{
+    "href": "/game/a_space_for_the_unbound",
+    "MSG": {
+        "id": "1918442274",
+        "title": "A Space for the Unbound",
+        "slug": "a_space_for_the_unbound",
+        "thumb_id": "ab43a83575f16e1455a0c63fadd40730171adfffd197080e77d1de76f81c6611",
+        "bg_id": "7c9b0961f8c5ad4c03f4488f548d1f2043b95673766bf823840d6c49b53d251a",
+        "url": "https://www.gog.com/game/a_space_for_the_unbound",
+        "developer": "Mojiken",
+        "publisher": "Toge Productions",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709729126",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_a_space_for_the_unbound_1.0.33.0_(66678).exe",
+                    "size": "359303328"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/50C3F1D3DE",
+                            "link": "https://filecrypt.cc/Container/50C3F1D3DE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BE830804F0",
+                            "link": "https://filecrypt.cc/Container/BE830804F0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/716F6089F8",
+                            "link": "https://filecrypt.cc/Container/716F6089F8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

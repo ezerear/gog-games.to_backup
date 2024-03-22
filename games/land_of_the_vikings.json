@@ -1,0 +1,115 @@
+{
+    "href": "/game/land_of_the_vikings",
+    "MSG": {
+        "id": "1959273870",
+        "title": "Land of the Vikings",
+        "slug": "land_of_the_vikings",
+        "thumb_id": "003cebce1c9cd0e200442ac9e8b8eee5523755c0bfb56ba6c3b430885d553bc7",
+        "bg_id": "dea8cf9f5726def6c7b04f9e5edf69009051f82cbaadb0a666d25a9454f612b8",
+        "url": "https://www.gog.com/en/game/land_of_the_vikings",
+        "developer": "Laps Games",
+        "publisher": "Iceberg Interactive",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1708238668",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_land_of_the_vikings_1.1.0a_(64bit)_(71223)-1.bin",
+                    "size": "4294060542"
+                },
+                {
+                    "name": "setup_land_of_the_vikings_1.1.0a_(64bit)_(71223)-2.bin",
+                    "size": "1014499084"
+                },
+                {
+                    "name": "setup_land_of_the_vikings_1.1.0a_(64bit)_(71223).exe",
+                    "size": "913872"
+                }
+            ],
+            "PATCHES": [
+                {
+                    "name": "patch_land_of_the_vikings_1.0.0c_(68722)_to_1.1.0a_(71223)-1.bin",
+                    "size": "1990690264"
+                }
+            ],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7A7A5E9191",
+                            "link": "https://filecrypt.cc/Container/7A7A5E9191"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5AF76E8753",
+                            "link": "https://filecrypt.cc/Container/5AF76E8753"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6951BC2A76",
+                            "link": "https://filecrypt.cc/Container/6951BC2A76"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/635C3DFBB3",
+                            "link": "https://filecrypt.cc/Container/635C3DFBB3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/16319191E8",
+                            "link": "https://filecrypt.cc/Container/16319191E8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EDA82C5B76",
+                            "link": "https://filecrypt.cc/Container/EDA82C5B76"
+                        }
+                    ]
+                }
+            ],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

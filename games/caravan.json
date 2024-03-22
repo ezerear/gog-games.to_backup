@@ -1,0 +1,79 @@
+{
+    "href": "/game/caravan",
+    "MSG": {
+        "id": "1284364409",
+        "title": "Caravan",
+        "slug": "caravan",
+        "thumb_id": "00ec45850c93ee0c913c36ba600601f6a87f898b10ed1d676720fa27b5d42039",
+        "bg_id": "8535d5a809cd4e7f049143efa943b22086097302ac3ac5330dcb1cbe56e1834a",
+        "url": "https://www.gog.com/game/caravan",
+        "developer": "it Matters Games",
+        "publisher": "Daedalic Entertainment",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1708034885",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_caravan_1.1.19786_(16597).exe",
+                    "size": "155308368"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9BD6A697B2",
+                            "link": "https://filecrypt.cc/Container/9BD6A697B2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C91E79C0E5",
+                            "link": "https://filecrypt.cc/Container/C91E79C0E5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/29B96F9EE4",
+                            "link": "https://filecrypt.cc/Container/29B96F9EE4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DBD6C2BA44",
+                            "link": "https://filecrypt.cc/Container/DBD6C2BA44"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

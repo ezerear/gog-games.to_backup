@@ -1,0 +1,83 @@
+{
+    "href": "/game/the_inheritance_of_crimson_manor",
+    "MSG": {
+        "id": "1403834217",
+        "title": "The Inheritance of Crimson Manor",
+        "slug": "the_inheritance_of_crimson_manor",
+        "thumb_id": "27c33470e05cc07f8e12a49d73a201d0e1dd6e8f3ccd339835a2e808c885eba7",
+        "bg_id": "26a7f690082999609396cabb24d14ffba8908379337b9f8edf39cafcc1d544f2",
+        "url": "https://www.gog.com/en/game/the_inheritance_of_crimson_manor",
+        "developer": "MediaCity Games",
+        "publisher": "MediaCity Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1686599584",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_inheritance_of_crimson_manor_1.11_(64096)-1.bin",
+                    "size": "2072004568"
+                },
+                {
+                    "name": "setup_the_inheritance_of_crimson_manor_1.11_(64096).exe",
+                    "size": "833736"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D0546B0D90",
+                            "link": "https://filecrypt.cc/Container/D0546B0D90"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3F27E922C6",
+                            "link": "https://filecrypt.cc/Container/3F27E922C6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EF2BB9CD32",
+                            "link": "https://filecrypt.cc/Container/EF2BB9CD32"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E2CB8BED63",
+                            "link": "https://filecrypt.cc/Container/E2CB8BED63"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,111 @@
+{
+    "href": "/game/donut_county",
+    "MSG": {
+        "id": "1402984756",
+        "title": "Donut County",
+        "slug": "donut_county",
+        "thumb_id": "0e9bd43f8d6a2134c00e197e7a067f338e548d63f2b267c133f2c5431f302c88",
+        "bg_id": "e6d559f28a61fd7604163be5225f98041ed318151b9acfdd96f76617fa3e57c0",
+        "url": "https://www.gog.com/game/donut_county",
+        "developer": "Ben Esposito",
+        "publisher": "Annapurna Interactive",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709983267",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_donut_county_1.1.0_(64bit)_(25035).exe",
+                    "size": "296751368"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "donut_county_ost_mp3.zip",
+                    "size": "256437957"
+                },
+                {
+                    "name": "donut_county_ost_wav.zip",
+                    "size": "1033760547"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/41C4A40A32",
+                            "link": "https://filecrypt.cc/Container/41C4A40A32"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/68A08F8DDD",
+                            "link": "https://filecrypt.cc/Container/68A08F8DDD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6B769A2D64",
+                            "link": "https://filecrypt.cc/Container/6B769A2D64"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0DDA85DF3C",
+                            "link": "https://filecrypt.cc/Container/0DDA85DF3C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/09E2C9248A",
+                            "link": "https://filecrypt.cc/Container/09E2C9248A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5E37B09F17",
+                            "link": "https://filecrypt.cc/Container/5E37B09F17"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

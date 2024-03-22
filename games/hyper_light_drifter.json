@@ -1,0 +1,68 @@
+{
+    "href": "/game/hyper_light_drifter",
+    "MSG": {
+        "id": "1452863689",
+        "title": "Hyper Light Drifter",
+        "slug": "hyper_light_drifter",
+        "thumb_id": "fdc6ee70ba6aee36a86086a9391fbea1ac146ff15cfef037f19ea42046ffa1ca",
+        "bg_id": "6a10ed0f35babaafb326431bfba4523809bbede4b2666cba3745b42e3c164003",
+        "url": "https://www.gog.com/game/hyper_light_drifter",
+        "developer": "Heart Machine",
+        "publisher": "Heart Machine",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710232063",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hyper_light_drifter_7212017_hotfix_(29670).exe",
+                    "size": "928232760"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A22303CB0D",
+                            "link": "https://filecrypt.cc/Container/A22303CB0D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/743EEAD7EE",
+                            "link": "https://filecrypt.cc/Container/743EEAD7EE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5546F186E9",
+                            "link": "https://filecrypt.cc/Container/5546F186E9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

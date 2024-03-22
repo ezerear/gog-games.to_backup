@@ -1,0 +1,131 @@
+{
+    "href": "/game/risen_2_dark_waters",
+    "MSG": {
+        "id": "1207663193",
+        "title": "Risen 2: Dark Waters",
+        "slug": "risen_2_dark_waters",
+        "thumb_id": "6d002bb58762d1bf37d2fd6e9f46af305d322e5a7ed60e9e814472e388a10f32",
+        "bg_id": "0dbfff852e810f2b223f679e26c8339331aaba53fc2957a9c310fa7412431f36",
+        "url": "https://www.gog.com/game/risen_2_dark_waters",
+        "developer": "Piranha Bytes",
+        "publisher": "Deep Silver",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707626040",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_risen_2_-_dark_waters_1.0_(18732)-1.bin",
+                    "size": "4294235646"
+                },
+                {
+                    "name": "setup_risen_2_-_dark_waters_1.0_(18732)-2.bin",
+                    "size": "2645489108"
+                },
+                {
+                    "name": "setup_risen_2_-_dark_waters_1.0_(18732).exe",
+                    "size": "738496"
+                },
+                {
+                    "name": "setup_risen_2_gold_edition_1.0_(18732).exe",
+                    "size": "5568008"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "risen2_artworks.zip",
+                    "size": "1959178"
+                },
+                {
+                    "name": "risen2_avatars.zip",
+                    "size": "512230"
+                },
+                {
+                    "name": "risen2_wallpaper.zip",
+                    "size": "804522"
+                },
+                {
+                    "name": "risen_2_instructions.zip",
+                    "size": "4031415"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/129EEC4C17",
+                            "link": "https://filecrypt.cc/Container/129EEC4C17"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BBB2839DC8",
+                            "link": "https://filecrypt.cc/Container/BBB2839DC8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DC991130BB",
+                            "link": "https://filecrypt.cc/Container/DC991130BB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BB0C7DFDCF",
+                            "link": "https://filecrypt.cc/Container/BB0C7DFDCF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9B373BC18E",
+                            "link": "https://filecrypt.cc/Container/9B373BC18E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/72D401E97D",
+                            "link": "https://filecrypt.cc/Container/72D401E97D"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

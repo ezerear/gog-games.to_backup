@@ -1,0 +1,111 @@
+{
+    "href": "/game/decarnation",
+    "MSG": {
+        "id": "1786810222",
+        "title": "Decarnation",
+        "slug": "decarnation",
+        "thumb_id": "0ef079443ce3fff80a9b95c50991669e99ca05b75e0b0fb92ae6bd0f9262b8f4",
+        "bg_id": "5fd085606914ac53646cd4a20c65de1457aa1090cca6a7c96cd994b4a7d61e32",
+        "url": "https://www.gog.com/en/game/decarnation",
+        "developer": "Atelier QDB",
+        "publisher": "Shiro Unlimited",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709053619",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_decarnation_1.0.2_(67806).exe",
+                    "size": "320086952"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "decarnation_soundtrack_cauchemar_mp3.zip",
+                    "size": "204160099"
+                },
+                {
+                    "name": "decarnation_soundtrack_reve_mp3.zip",
+                    "size": "88228689"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D8239D515A",
+                            "link": "https://filecrypt.cc/Container/D8239D515A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CE872CA23F",
+                            "link": "https://filecrypt.cc/Container/CE872CA23F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7A832564C2",
+                            "link": "https://filecrypt.cc/Container/7A832564C2"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/50ACF8A71C",
+                            "link": "https://filecrypt.cc/Container/50ACF8A71C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E49A99BEC0",
+                            "link": "https://filecrypt.cc/Container/E49A99BEC0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/39E60DFC7F",
+                            "link": "https://filecrypt.cc/Container/39E60DFC7F"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

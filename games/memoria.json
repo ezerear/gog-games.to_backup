@@ -1,0 +1,127 @@
+{
+    "href": "/game/memoria",
+    "MSG": {
+        "id": "1207659803",
+        "title": "Memoria",
+        "slug": "memoria",
+        "thumb_id": "8cd8ee0340dc6ef06126ad97dadeb91206fde33fadc1371f26fe917c1e76d3e3",
+        "bg_id": "bddbe2dee183acf12a4f6486ed912107d4984ff404b18b54aac9bc507ef66f09",
+        "url": "https://www.gog.com/game/memoria",
+        "developer": "Daedalic Entertainment",
+        "publisher": "Daedalic Entertainment",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1705679352",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_memoria_1.2.3.0341_(18923)-1.bin",
+                    "size": "4294210558"
+                },
+                {
+                    "name": "setup_memoria_1.2.3.0341_(18923)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_memoria_1.2.3.0341_(18923)-3.bin",
+                    "size": "410331399"
+                },
+                {
+                    "name": "setup_memoria_1.2.3.0341_(18923).exe",
+                    "size": "763744"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "memoria_artworks.zip",
+                    "size": "25560366"
+                },
+                {
+                    "name": "memoria_avatars.zip",
+                    "size": "1504293"
+                },
+                {
+                    "name": "memoria_wallpapers.zip",
+                    "size": "7534162"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A7D4EEE96D",
+                            "link": "https://filecrypt.cc/Container/A7D4EEE96D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3BB957B491",
+                            "link": "https://filecrypt.cc/Container/3BB957B491"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FB47674D09",
+                            "link": "https://filecrypt.cc/Container/FB47674D09"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6AE9A8ECBC",
+                            "link": "https://filecrypt.cc/Container/6AE9A8ECBC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E12E1CEEBE",
+                            "link": "https://filecrypt.cc/Container/E12E1CEEBE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8ECE3B5253",
+                            "link": "https://filecrypt.cc/Container/8ECE3B5253"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

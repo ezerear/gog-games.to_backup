@@ -1,0 +1,72 @@
+{
+    "href": "/game/big_pharma",
+    "MSG": {
+        "id": "1440407371",
+        "title": "Big Pharma",
+        "slug": "big_pharma",
+        "thumb_id": "c9ae6d26013daefaafa4406bd02bb1a8ec46c76f26bbedc7f4a0b5f3761e9c27",
+        "bg_id": "c7a9cd2cc241ed4fb0101218172328b8ad5805cd3599a9eb87789ad0a22cca6f",
+        "url": "https://www.gog.com/game/big_pharma",
+        "developer": "Twice Circled",
+        "publisher": "Positech Games",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1709928332",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_big_pharma_1.08.12_(32771).exe",
+                    "size": "338077408"
+                },
+                {
+                    "name": "setup_big_pharma_marketing_and_malpractice_1.08.12_(32771).exe",
+                    "size": "7154120"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1E82A081B5",
+                            "link": "https://filecrypt.cc/Container/1E82A081B5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/16A521A766",
+                            "link": "https://filecrypt.cc/Container/16A521A766"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B5E591D315",
+                            "link": "https://filecrypt.cc/Container/B5E591D315"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

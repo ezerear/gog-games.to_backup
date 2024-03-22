@@ -1,0 +1,79 @@
+{
+    "href": "/game/crystal_crisis",
+    "MSG": {
+        "id": "1760883023",
+        "title": "Crystal Crisis",
+        "slug": "crystal_crisis",
+        "thumb_id": "4d5363efb060d250f363df67d33829c7532a72406e3a41757156412396908b61",
+        "bg_id": "7f55c09ca16717ed56bfc9943e2cc619ab0cb281e8afb9eafb0d65fcadbf9cce",
+        "url": "https://www.gog.com/en/game/crystal_crisis",
+        "developer": "Nicalis, Inc.",
+        "publisher": "Nicalis, Inc.",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1684279523",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_crystal_crisis_0.0.0.1f_(53063).exe",
+                    "size": "1452645832"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/71796D14EB",
+                            "link": "https://filecrypt.cc/Container/71796D14EB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/830A626E8F",
+                            "link": "https://filecrypt.cc/Container/830A626E8F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6ECDE23E2D",
+                            "link": "https://filecrypt.cc/Container/6ECDE23E2D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3935AB990F",
+                            "link": "https://filecrypt.cc/Container/3935AB990F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

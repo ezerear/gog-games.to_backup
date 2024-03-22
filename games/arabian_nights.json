@@ -1,0 +1,90 @@
+{
+    "href": "/game/arabian_nights",
+    "MSG": {
+        "id": "1679826562",
+        "title": "Arabian Nights",
+        "slug": "arabian_nights",
+        "thumb_id": "0bbf66da7655aa99ca0a98ad6621f887cc4614de0f9f129ebf61403929b2ff61",
+        "bg_id": "dd9cf24349a52d461b1310702de6f6ea5bac1b53f56585ad7c752531b8838b24",
+        "url": "https://www.gog.com/game/arabian_nights",
+        "developer": "Silmarils",
+        "publisher": "Silmarils",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1702490548",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_arabian_nights_2.07_(34783).exe",
+                    "size": "360438472"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4073611B4C",
+                            "link": "https://filecrypt.cc/Container/4073611B4C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/71BAAA6C31",
+                            "link": "https://filecrypt.cc/Container/71BAAA6C31"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0D3CF4AF75",
+                            "link": "https://filecrypt.cc/Container/0D3CF4AF75"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E17C6988D5",
+                            "link": "https://filecrypt.cc/Container/E17C6988D5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DAF6902ED7",
+                            "link": "https://filecrypt.cc/Container/DAF6902ED7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

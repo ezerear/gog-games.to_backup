@@ -1,0 +1,68 @@
+{
+    "href": "/game/beat_refle",
+    "MSG": {
+        "id": "1437080923",
+        "title": "beat refle",
+        "slug": "beat_refle",
+        "thumb_id": "a6c74620e27b5c73071d2bd0dc8ac0d3c1c1afaa941d0d753a37fe099fa985ac",
+        "bg_id": "aa9ad10f29c3496f9f436909e71864d67972a3b84d60125d3fa48ba090abe0bc",
+        "url": "https://www.gog.com/en/game/beat_refle",
+        "developer": "qureate, Orgesta Inc.",
+        "publisher": "qureate",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1708660088",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_beat_refle_1.0_(61611).exe",
+                    "size": "1372878112"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0AD86106E7",
+                            "link": "https://filecrypt.cc/Container/0AD86106E7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/82A86BCD7B",
+                            "link": "https://filecrypt.cc/Container/82A86BCD7B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/002798044D",
+                            "link": "https://filecrypt.cc/Container/002798044D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

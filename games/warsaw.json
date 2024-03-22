@@ -1,0 +1,105 @@
+{
+    "href": "/game/warsaw",
+    "MSG": {
+        "id": "1751163083",
+        "title": "WARSAW",
+        "slug": "warsaw",
+        "thumb_id": "ab4e339809ef9e1394e0c6ff1fd9345a42b13938f1fa5239fcd83fca3bbf960b",
+        "bg_id": "2293a1de0768dc01642d3b97b0c8d16f0b93f39fef157bb7d1c896254679897f",
+        "url": "https://www.gog.com/game/warsaw",
+        "developer": "Pixelated Milk",
+        "publisher": "gaming company",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1700829321",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_warsaw_111_(36728)-1.bin",
+                    "size": "1842721695"
+                },
+                {
+                    "name": "setup_warsaw_111_(36728).exe",
+                    "size": "957328"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3D163C0706",
+                            "link": "https://filecrypt.cc/Container/3D163C0706"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A658FF3F9D",
+                            "link": "https://filecrypt.cc/Container/A658FF3F9D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/88EB3CD967",
+                            "link": "https://filecrypt.cc/Container/88EB3CD967"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/300623B0CB",
+                            "link": "https://filecrypt.cc/Container/300623B0CB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1B1718576A",
+                            "link": "https://filecrypt.cc/Container/1B1718576A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8553DEDE8A",
+                            "link": "https://filecrypt.cc/Container/8553DEDE8A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

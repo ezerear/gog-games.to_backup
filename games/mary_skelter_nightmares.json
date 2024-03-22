@@ -1,0 +1,76 @@
+{
+    "href": "/game/mary_skelter_nightmares",
+    "MSG": {
+        "id": "1533798723",
+        "title": "Mary Skelter: Nightmares",
+        "slug": "mary_skelter_nightmares",
+        "thumb_id": "00f6c0c0a1204516766b020f53525a5d382981446c90b98e51a0a448d0d29abd",
+        "bg_id": "5951b5277651a52acc82f43f76bab7292c664c27a0117de19b3d049b814339f9",
+        "url": "https://www.gog.com/game/mary_skelter_nightmares",
+        "developer": "Idea Factory",
+        "publisher": "Ghostlight LTD",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1704407024",
+        "votes": "2",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_mary_skelter_nightmares_v1.00_(22308)-1.bin",
+                    "size": "4294158334"
+                },
+                {
+                    "name": "setup_mary_skelter_nightmares_v1.00_(22308)-2.bin",
+                    "size": "701300800"
+                },
+                {
+                    "name": "setup_mary_skelter_nightmares_v1.00_(22308).exe",
+                    "size": "816176"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0BD041C01A",
+                            "link": "https://filecrypt.cc/Container/0BD041C01A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B640D1C7EB",
+                            "link": "https://filecrypt.cc/Container/B640D1C7EB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/83F194B74A",
+                            "link": "https://filecrypt.cc/Container/83F194B74A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

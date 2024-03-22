@@ -1,0 +1,72 @@
+{
+    "href": "/game/supraland",
+    "MSG": {
+        "id": "1451970551",
+        "title": "Supraland",
+        "slug": "supraland",
+        "thumb_id": "8855dea36694f1f83e613986c4eee86e8e15d9ce78a1cc9c8a2553ee87bd4de8",
+        "bg_id": "283dd36bf492cfc0354ae9438cc26939d664445003dec3d61218a27cc5ae7788",
+        "url": "https://web.archive.org/web/20200107094458/https://www.gog.com/game/supraland",
+        "developer": "Supra Games",
+        "publisher": "Supra Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1705384932",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_supraland_1.13.2_(64bit)_(35467)-1.bin",
+                    "size": "2403106660"
+                },
+                {
+                    "name": "setup_supraland_1.13.2_(64bit)_(35467).exe",
+                    "size": "801664"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A3A195BD8D",
+                            "link": "https://filecrypt.cc/Container/A3A195BD8D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/249FE81F3B",
+                            "link": "https://filecrypt.cc/Container/249FE81F3B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7A6451EC3F",
+                            "link": "https://filecrypt.cc/Container/7A6451EC3F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/starless",
+    "MSG": {
+        "id": "1514054773",
+        "title": "Starless",
+        "slug": "starless",
+        "thumb_id": "05a18206c18c1dc14b50d71a43e97d9234f55b3ddcb8e812464a773ecef3d882",
+        "bg_id": "c6f59402f8b3d359451dc52ee168b030583945672a7dcadf1fe2334c3c4330c7",
+        "url": "https://www.gog.com/en/game/starless",
+        "developer": "Petr Sapozhnikov",
+        "publisher": "Meridian4",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1690505921",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_starless_1.01_(62145).exe",
+                    "size": "199927440"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9AEF8380DF",
+                            "link": "https://filecrypt.cc/Container/9AEF8380DF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/30AC65909D",
+                            "link": "https://filecrypt.cc/Container/30AC65909D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/93C0D3622E",
+                            "link": "https://filecrypt.cc/Container/93C0D3622E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

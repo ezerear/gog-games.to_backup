@@ -1,0 +1,80 @@
+{
+    "href": "/game/xiii_remake",
+    "MSG": {
+        "id": "1169744036",
+        "title": "XIII - Remake",
+        "slug": "xiii_remake",
+        "thumb_id": "a06cfd4d3c288d7dccc6e09a0c8ce123d02c662b844057770557f8f3bcc1d6ea",
+        "bg_id": "501b658c50ea09318a80cff844f4c017e01ba23da813b8c45d6d3a76fb725f71",
+        "url": "https://www.gog.com/game/xiii_remake",
+        "developer": "PlayMagic",
+        "publisher": "Microids",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710061957",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_xiii_-_remake_1.7.8247_(62078)-1.bin",
+                    "size": "4293943294"
+                },
+                {
+                    "name": "setup_xiii_-_remake_1.7.8247_(62078)-2.bin",
+                    "size": "3198045233"
+                },
+                {
+                    "name": "setup_xiii_-_remake_1.7.8247_(62078).exe",
+                    "size": "1033936"
+                },
+                {
+                    "name": "setup_xiii_-_remake_classic_gold_weapon_pack_(pre-order_bonus)_1.7.8247_(62078).exe",
+                    "size": "5869528"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/85199C57B5",
+                            "link": "https://filecrypt.cc/Container/85199C57B5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9F6E853472",
+                            "link": "https://filecrypt.cc/Container/9F6E853472"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E33743A68C",
+                            "link": "https://filecrypt.cc/Container/E33743A68C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,128 @@
+{
+    "href": "/game/deus_ex",
+    "MSG": {
+        "id": "1207658995",
+        "title": "Deus Ex™ GOTY Edition",
+        "slug": "deus_ex",
+        "thumb_id": "79429e097ac499290497415f13c0a1747a07659fc7b53f8cc07f1b0afd569333",
+        "bg_id": "dc3c4cfbc9ec2fae5c5e1be6956fb926fc0028df2854c8447c73ac0b8807126c",
+        "url": "https://www.gog.com/game/deus_ex",
+        "developer": "Ion Storm Inc.",
+        "publisher": "Square Enix",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1708879626",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_deus_ex_goty_1.112fm(revision_1.6.3.0)_(51757).exe",
+                    "size": "550072224"
+                },
+                {
+                    "name": "setup_deus_ex_revision_1.112fm(revision_1.6.3.0)_(51757)-1.bin",
+                    "size": "3453730076"
+                },
+                {
+                    "name": "setup_deus_ex_revision_1.112fm(revision_1.6.3.0)_(51757).exe",
+                    "size": "904128"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "deus_ex_avatar.zip",
+                    "size": "23728"
+                },
+                {
+                    "name": "deus_ex_manual.zip",
+                    "size": "3200151"
+                },
+                {
+                    "name": "deus_ex_newspaper_handout.zip",
+                    "size": "256364"
+                },
+                {
+                    "name": "deus_ex_reference_card.zip",
+                    "size": "1262859"
+                },
+                {
+                    "name": "deus_ex_soundtrack.zip",
+                    "size": "151161315"
+                },
+                {
+                    "name": "deus_ex_wallpapers.zip",
+                    "size": "6955578"
+                },
+                {
+                    "name": "revision_full_achievements_list.zip",
+                    "size": "3512017"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D04A6F1F74",
+                            "link": "https://filecrypt.cc/Container/D04A6F1F74"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B9C85DC04E",
+                            "link": "https://filecrypt.cc/Container/B9C85DC04E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7AB5251115",
+                            "link": "https://filecrypt.cc/Container/7AB5251115"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/38B25F00DC",
+                            "link": "https://filecrypt.cc/Container/38B25F00DC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/29896B7877",
+                            "link": "https://filecrypt.cc/Container/29896B7877"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

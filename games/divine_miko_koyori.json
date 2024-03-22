@@ -1,0 +1,72 @@
+{
+    "href": "/game/divine_miko_koyori",
+    "MSG": {
+        "id": "1401917620",
+        "title": "Divine Miko Koyori",
+        "slug": "divine_miko_koyori",
+        "thumb_id": "82fa973aee4b5bb6b91b875b4cf39f899451c072d70db20bb253de0ab8bd49cf",
+        "bg_id": "8582a2ecf01f9a6470e81d95e47ae7345dcb396985847b8030ed5630cd0467b7",
+        "url": "https://www.gog.com/en/game/divine_miko_koyori",
+        "developer": "Circle Poison",
+        "publisher": "Kagura Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709593921",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_divine_miko_koyori_unrated_v1_(58887).exe",
+                    "size": "381524872"
+                },
+                {
+                    "name": "setup_divine_miko_koyori_v1_(58887).exe",
+                    "size": "725558520"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9529A4509F",
+                            "link": "https://filecrypt.cc/Container/9529A4509F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/99D616DA24",
+                            "link": "https://filecrypt.cc/Container/99D616DA24"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/43CF8A1488",
+                            "link": "https://filecrypt.cc/Container/43CF8A1488"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

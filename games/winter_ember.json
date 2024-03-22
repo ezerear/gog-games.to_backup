@@ -1,0 +1,83 @@
+{
+    "href": "/game/winter_ember",
+    "MSG": {
+        "id": "1804958929",
+        "title": "Winter Ember",
+        "slug": "winter_ember",
+        "thumb_id": "b681a72a227748ab6c13cad9cc1c32965c42796c365fc099ad521549fa2cf544",
+        "bg_id": "ddd990c0c8b548a6b667d8e14030ef57ab2a4b900401f5d124d2e4c966a8db28",
+        "url": "https://www.gog.com/game/winter_ember",
+        "developer": "Skymachine Studios",
+        "publisher": "Blowfish Studios",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1685198605",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_winterember_shipping_1.6.0_526e457_(57261)-1.bin",
+                    "size": "3797227054"
+                },
+                {
+                    "name": "setup_winterember_shipping_1.6.0_526e457_(57261).exe",
+                    "size": "868552"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/577B1B49ED",
+                            "link": "https://filecrypt.cc/Container/577B1B49ED"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/369E152DA4",
+                            "link": "https://filecrypt.cc/Container/369E152DA4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/384F2CCE78",
+                            "link": "https://filecrypt.cc/Container/384F2CCE78"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/740EEF26CB",
+                            "link": "https://filecrypt.cc/Container/740EEF26CB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

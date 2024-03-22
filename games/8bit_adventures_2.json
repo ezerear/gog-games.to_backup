@@ -1,0 +1,68 @@
+{
+    "href": "/game/8bit_adventures_2",
+    "MSG": {
+        "id": "1757325641",
+        "title": "8-Bit Adventures 2",
+        "slug": "8bit_adventures_2",
+        "thumb_id": "ac6467d06f5851603ee57caeaeeb042e1223b3b2730a6cd7815738c6de8b1585",
+        "bg_id": "7870d2711dff4946b761949610fee013511d5f26ca8f0e15e131e3c99d435c87",
+        "url": "https://www.gog.com/game/8bit_adventures_2",
+        "developer": "Critical Games",
+        "publisher": "Critical Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709259871",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_8-bit_adventures_2_1.23_(71470).exe",
+                    "size": "541217032"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5E79157C98",
+                            "link": "https://filecrypt.cc/Container/5E79157C98"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5980CC5DE8",
+                            "link": "https://filecrypt.cc/Container/5980CC5DE8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3212A072B8",
+                            "link": "https://filecrypt.cc/Container/3212A072B8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,90 @@
+{
+    "href": "/game/power_of_ten",
+    "MSG": {
+        "id": "1627253638",
+        "title": "Power of Ten",
+        "slug": "power_of_ten",
+        "thumb_id": "c1dc2a3981113070e59da4eec48f89865ca7a4bab90d731afed57c69cb71c7bd",
+        "bg_id": "7af82a97b4c65062acaaf954fef31c9da9b5dd06e8e4b0163e96dd4519b84c9f",
+        "url": "https://www.gog.com/en/game/power_of_ten",
+        "developer": "Pew Times Three",
+        "publisher": "Pew Times Three",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1706617880",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_power_of_ten_1.3.1_(64245).exe",
+                    "size": "144230136"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3B0D6F6BF2",
+                            "link": "https://filecrypt.cc/Container/3B0D6F6BF2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D3FF34D6B5",
+                            "link": "https://filecrypt.cc/Container/D3FF34D6B5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AD0604AAEF",
+                            "link": "https://filecrypt.cc/Container/AD0604AAEF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/09CF53E7B5",
+                            "link": "https://filecrypt.cc/Container/09CF53E7B5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/00124ECC18",
+                            "link": "https://filecrypt.cc/Container/00124ECC18"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

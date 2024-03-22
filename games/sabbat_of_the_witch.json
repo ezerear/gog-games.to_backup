@@ -1,0 +1,76 @@
+{
+    "href": "/game/sabbat_of_the_witch",
+    "MSG": {
+        "id": "1814107259",
+        "title": "Sabbat of the Witch",
+        "slug": "sabbat_of_the_witch",
+        "thumb_id": "d27649abf57e43fa5702b8c80228a95b4fde392010ecfd9de9a5915fdc136c9b",
+        "bg_id": "e2fffef8acdb67452df34a603426e793ce5ea46960211e55ec2c1b660d1095d2",
+        "url": "https://www.gog.com/en/game/sabbat_of_the_witch",
+        "developer": "Yuzusoft",
+        "publisher": "NekoNyan Ltd., HIKARI FIELD",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708647627",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sabbat_of_the_witch_gog_1.1_(55910)-1.bin",
+                    "size": "2954282595"
+                },
+                {
+                    "name": "setup_sabbat_of_the_witch_gog_1.1_(55910).exe",
+                    "size": "821776"
+                },
+                {
+                    "name": "setup_sabbat_of_the_witch_unrated_gog_1.1_(55910).exe",
+                    "size": "887998688"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A988992A5B",
+                            "link": "https://filecrypt.cc/Container/A988992A5B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3A6FDA726B",
+                            "link": "https://filecrypt.cc/Container/3A6FDA726B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8D4FB91909",
+                            "link": "https://filecrypt.cc/Container/8D4FB91909"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

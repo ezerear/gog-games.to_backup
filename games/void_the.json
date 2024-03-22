@@ -1,0 +1,127 @@
+{
+    "href": "/game/void_the",
+    "MSG": {
+        "id": "1207666183",
+        "title": "The Void",
+        "slug": "void_the",
+        "thumb_id": "71be357a057077d55fe61826d0c588ee898bfe5bc0a71acbe37dcc934ee84ff4",
+        "bg_id": "24c271aad14e104f85b93a7fddf0f8ddcfb60366f172aba6d79f46d2e79c06a3",
+        "url": "https://www.gog.com/game/void_the",
+        "developer": "Ice-Pick Lodge",
+        "publisher": "Ice-Pick Lodge",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708838854",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_void_2.1.0.2-1.bin",
+                    "size": "4194304000"
+                },
+                {
+                    "name": "setup_the_void_2.1.0.2-2.bin",
+                    "size": "57454945"
+                },
+                {
+                    "name": "setup_the_void_2.1.0.2.exe",
+                    "size": "28969440"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "the_void_manual_pl.zip",
+                    "size": "6733823"
+                },
+                {
+                    "name": "the_void_manual_ru.zip",
+                    "size": "707769"
+                },
+                {
+                    "name": "void_handbuch.zip",
+                    "size": "20738895"
+                },
+                {
+                    "name": "void_manual.zip",
+                    "size": "3130586"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D1B0768D38",
+                            "link": "https://filecrypt.cc/Container/D1B0768D38"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/279E7EE76D",
+                            "link": "https://filecrypt.cc/Container/279E7EE76D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7C68F551B0",
+                            "link": "https://filecrypt.cc/Container/7C68F551B0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AC60C06B4F",
+                            "link": "https://filecrypt.cc/Container/AC60C06B4F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D5D01D3AA3",
+                            "link": "https://filecrypt.cc/Container/D5D01D3AA3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/78F9F3B436",
+                            "link": "https://filecrypt.cc/Container/78F9F3B436"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

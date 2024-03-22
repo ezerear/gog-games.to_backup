@@ -1,0 +1,123 @@
+{
+    "href": "/game/enter_the_gungeon",
+    "MSG": {
+        "id": "1456912569",
+        "title": "Enter the Gungeon",
+        "slug": "enter_the_gungeon",
+        "thumb_id": "e57d5c1d31fc4c1b89f8de4c440d6688eca7107d17c71d46f33ee9a991caeb62",
+        "bg_id": "b7d83406fd545f7636c010f47f7e4018bf7b215bdbe50f7b540b059357a0ba4b",
+        "url": "https://www.gog.com/game/enter_the_gungeon",
+        "developer": "Dodge Roll",
+        "publisher": "Devolver Digital",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710513211",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_enter_the_gungeon_2.1.9_(64bit)_(29557).exe",
+                    "size": "382662456"
+                },
+                {
+                    "name": "setup_microtransaction_gun_2.1.9_(29557).exe",
+                    "size": "8151464"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "enter_the_gungeon_digital_comic.zip",
+                    "size": "45502181"
+                },
+                {
+                    "name": "enter_the_gungeon_ost_flac.zip",
+                    "size": "731871825"
+                },
+                {
+                    "name": "enter_the_gungeon_ost_mp3.zip",
+                    "size": "293622016"
+                },
+                {
+                    "name": "enter_the_gungeon_wallpaper.zip",
+                    "size": "1732183"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/60F6994004",
+                            "link": "https://filecrypt.cc/Container/60F6994004"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5D85E2352B",
+                            "link": "https://filecrypt.cc/Container/5D85E2352B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2BC22508DB",
+                            "link": "https://filecrypt.cc/Container/2BC22508DB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2A2DFD6247",
+                            "link": "https://filecrypt.cc/Container/2A2DFD6247"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B9F4083E70",
+                            "link": "https://filecrypt.cc/Container/B9F4083E70"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3E5B8544B1",
+                            "link": "https://filecrypt.cc/Container/3E5B8544B1"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

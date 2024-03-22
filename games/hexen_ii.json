@@ -1,0 +1,90 @@
+{
+    "href": "/game/hexen_ii",
+    "MSG": {
+        "id": "1798886022",
+        "title": "Hexen II",
+        "slug": "hexen_ii",
+        "thumb_id": "8981ad43ca04da71a8794fbf9744c0131fdfe1db5f4562c3df84b5535f42e825",
+        "bg_id": "0e01d3bd46b2906016cd0a51c9bd329ddeaec9fa740fe0d0576b269420111521",
+        "url": "https://www.gog.com/game/hexen_ii",
+        "developer": "Raven Software",
+        "publisher": "id Software",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707604683",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hexen_ii_1.11_music_fix_(45370).exe",
+                    "size": "302570936"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CBBAFC6370",
+                            "link": "https://filecrypt.cc/Container/CBBAFC6370"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/36225BD697",
+                            "link": "https://filecrypt.cc/Container/36225BD697"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9743A1199E",
+                            "link": "https://filecrypt.cc/Container/9743A1199E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/355A18A041",
+                            "link": "https://filecrypt.cc/Container/355A18A041"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/25F4575DFA",
+                            "link": "https://filecrypt.cc/Container/25F4575DFA"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

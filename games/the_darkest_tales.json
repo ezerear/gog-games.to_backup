@@ -1,0 +1,76 @@
+{
+    "href": "/game/the_darkest_tales",
+    "MSG": {
+        "id": "1154330606",
+        "title": "The Darkest Tales",
+        "slug": "the_darkest_tales",
+        "thumb_id": "8afc9fd53b9ff3827f3ff669a60757ac4e10449a68547623d2e17da5538ba917",
+        "bg_id": "8b6e264d4d46ffad2a310ab91afdde1a7c4c3bc987995312a827cf998dfd58a2",
+        "url": "https://www.gog.com/en/game/the_darkest_tales",
+        "developer": "Trinity Team",
+        "publisher": "101XP",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708121179",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_darkest_tales_1.07_(64bit)_(61258)-1.bin",
+                    "size": "4294006270"
+                },
+                {
+                    "name": "setup_the_darkest_tales_1.07_(64bit)_(61258)-2.bin",
+                    "size": "441417457"
+                },
+                {
+                    "name": "setup_the_darkest_tales_1.07_(64bit)_(61258).exe",
+                    "size": "971104"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3DFD4902B4",
+                            "link": "https://filecrypt.cc/Container/3DFD4902B4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B18D669819",
+                            "link": "https://filecrypt.cc/Container/B18D669819"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0FB6461180",
+                            "link": "https://filecrypt.cc/Container/0FB6461180"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

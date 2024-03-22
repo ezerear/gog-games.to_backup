@@ -1,0 +1,127 @@
+{
+    "href": "/game/brutal_legend",
+    "MSG": {
+        "id": "1207659253",
+        "title": "Brutal Legend",
+        "slug": "brutal_legend",
+        "thumb_id": "7476c5c06f7967d3009efd2cc5bc1209ab879eff2b2178b819e58b35a3590c93",
+        "bg_id": "59f124a01ee9c97f73abd6aa9ceb55ac4b1a4442eca41c0728468ff5ecc77df5",
+        "url": "https://www.gog.com/game/brutal_legend",
+        "developer": "Double Fine Productions",
+        "publisher": "Double Fine Productions",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710797816",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_brutal_legend_1.0_(18996)-1.bin",
+                    "size": "4294196222"
+                },
+                {
+                    "name": "setup_brutal_legend_1.0_(18996)-2.bin",
+                    "size": "4046535828"
+                },
+                {
+                    "name": "setup_brutal_legend_1.0_(18996).exe",
+                    "size": "778272"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "brutal_legend_artworks.zip",
+                    "size": "18290241"
+                },
+                {
+                    "name": "brutal_legend_avatar.zip",
+                    "size": "191574"
+                },
+                {
+                    "name": "brutal_legend_concept_art.zip",
+                    "size": "5417604"
+                },
+                {
+                    "name": "brutal_legend_wallpaper.zip",
+                    "size": "14745364"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5D15F7DB18",
+                            "link": "https://filecrypt.cc/Container/5D15F7DB18"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/08BDA9068B",
+                            "link": "https://filecrypt.cc/Container/08BDA9068B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F891AC142E",
+                            "link": "https://filecrypt.cc/Container/F891AC142E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F5A63DEB76",
+                            "link": "https://filecrypt.cc/Container/F5A63DEB76"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/619FF6ACC8",
+                            "link": "https://filecrypt.cc/Container/619FF6ACC8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/24DC73DBD2",
+                            "link": "https://filecrypt.cc/Container/24DC73DBD2"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,76 @@
+{
+    "href": "/game/mark_of_the_ninja_remastered",
+    "MSG": {
+        "id": "2048070308",
+        "title": "Mark of the Ninja: Remastered",
+        "slug": "mark_of_the_ninja_remastered",
+        "thumb_id": "79d512ab1f2552e2c6479b65d656fad82aec6f8e24a177214aff9aa8bff803c2",
+        "bg_id": "b14bc732deb394f83c3f27b141564cf4de8af31e6a4c5fed5aa5351d5851f578",
+        "url": "https://www.gog.com/game/mark_of_the_ninja_remastered",
+        "developer": "Klei Entertainment",
+        "publisher": "Klei Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708995252",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_mark_of_the_ninja_remastered_1.0_rc1_(42657)-1.bin",
+                    "size": "4293597182"
+                },
+                {
+                    "name": "setup_mark_of_the_ninja_remastered_1.0_rc1_(42657)-2.bin",
+                    "size": "3099672291"
+                },
+                {
+                    "name": "setup_mark_of_the_ninja_remastered_1.0_rc1_(42657).exe",
+                    "size": "1377400"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EB5B5023BC",
+                            "link": "https://filecrypt.cc/Container/EB5B5023BC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FDD9271E8A",
+                            "link": "https://filecrypt.cc/Container/FDD9271E8A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C7027DB94A",
+                            "link": "https://filecrypt.cc/Container/C7027DB94A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

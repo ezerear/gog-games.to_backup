@@ -1,0 +1,79 @@
+{
+    "href": "/game/steamworld_build",
+    "MSG": {
+        "id": "1992215964",
+        "title": "SteamWorld Build",
+        "slug": "steamworld_build",
+        "thumb_id": "1a4270cc5fd7c29ee8c5548f1dc16ddb9eaf6bac0689561080832906be69c1e7",
+        "bg_id": "995481f208888cb69015e33a406055517322a7a765232f210de22fff777faf4a",
+        "url": "https://www.gog.com/en/game/steamworld_build",
+        "developer": "Thunderful Development",
+        "publisher": "Thunderful Publishing",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1707878062",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_steamworld_build_1.0.4_(64bit)_(69900).exe",
+                    "size": "1330613448"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/28CC94032F",
+                            "link": "https://filecrypt.cc/Container/28CC94032F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/39578789F3",
+                            "link": "https://filecrypt.cc/Container/39578789F3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1715FD2634",
+                            "link": "https://filecrypt.cc/Container/1715FD2634"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F12D4C39B2",
+                            "link": "https://filecrypt.cc/Container/F12D4C39B2"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

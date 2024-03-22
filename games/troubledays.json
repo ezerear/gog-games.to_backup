@@ -1,0 +1,83 @@
+{
+    "href": "/game/troubledays",
+    "MSG": {
+        "id": "2000830629",
+        "title": "TroubleDays",
+        "slug": "troubledays",
+        "thumb_id": "16fb51551ab268825d77c6e1d29122c4bdc63395d21a0309b45ff98f17065255",
+        "bg_id": "0413baaa8d129cba0c7e98a8b09da1843905334d8e218b6823c51ab47895efc6",
+        "url": "https://www.gog.com/en/game/troubledays",
+        "developer": "qureate, iMel Inc.",
+        "publisher": "qureate",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707995349",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_troubledays_-_unrated_patch_1.26_(final)_(60899).exe",
+                    "size": "839679968"
+                },
+                {
+                    "name": "setup_troubledays_1.26_(final)_(60899).exe",
+                    "size": "572079104"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/35999A40DD",
+                            "link": "https://filecrypt.cc/Container/35999A40DD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E997D50979",
+                            "link": "https://filecrypt.cc/Container/E997D50979"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/44EF762B52",
+                            "link": "https://filecrypt.cc/Container/44EF762B52"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D073D3E972",
+                            "link": "https://filecrypt.cc/Container/D073D3E972"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

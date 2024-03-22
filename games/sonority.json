@@ -1,0 +1,68 @@
+{
+    "href": "/game/sonority",
+    "MSG": {
+        "id": "2069388635",
+        "title": "Sonority",
+        "slug": "sonority",
+        "thumb_id": "9bb3ff70542c07a2efd4580f30edfe3a4205231d6e54580b56f374260540c782",
+        "bg_id": "512f00f3f4b85e055aac3329b30062cbeabd390dca2b0bb677d8ca9c5d95f31d",
+        "url": "https://www.gog.com/en/game/sonority",
+        "developer": "Hanging Gardens Interactive",
+        "publisher": "Application Systems Heidelberg",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1687845931",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sonority_1.6.2_(64bit)_(61596).exe",
+                    "size": "1558857032"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/837B8231D9",
+                            "link": "https://filecrypt.cc/Container/837B8231D9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/920A88BC30",
+                            "link": "https://filecrypt.cc/Container/920A88BC30"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/909D6DDA2B",
+                            "link": "https://filecrypt.cc/Container/909D6DDA2B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

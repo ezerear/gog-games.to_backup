@@ -1,0 +1,68 @@
+{
+    "href": "/game/goblins_of_elderstone",
+    "MSG": {
+        "id": "1986838564",
+        "title": "Goblins of Elderstone",
+        "slug": "goblins_of_elderstone",
+        "thumb_id": "a255832caf7ecc7a5ac0c677e432c41514e5d893b766723563da9ade844f9364",
+        "bg_id": "e07d8ae1797d03805c90b59c3ad78bcb8682772d36cca0d6c9503e43992b8d61",
+        "url": "https://www.gog.com/en/game/goblins_of_elderstone",
+        "developer": "Outerdawn, Lost Goblin",
+        "publisher": "Outerdawn",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1709769545",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_goblins_of_elderstone_1.2.0_(69686).exe",
+                    "size": "1474532288"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/501A7097F7",
+                            "link": "https://filecrypt.cc/Container/501A7097F7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E01BCC9052",
+                            "link": "https://filecrypt.cc/Container/E01BCC9052"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C69392BA64",
+                            "link": "https://filecrypt.cc/Container/C69392BA64"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

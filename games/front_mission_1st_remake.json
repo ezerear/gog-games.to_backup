@@ -1,0 +1,80 @@
+{
+    "href": "/game/front_mission_1st_remake",
+    "MSG": {
+        "id": "1111530020",
+        "title": "FRONT MISSION 1st: Remake",
+        "slug": "front_mission_1st_remake",
+        "thumb_id": "8337ea517062d8723f41b1ae197b4cb15ee8ca9ac831134ba269c07d5bb746a1",
+        "bg_id": "f983c6b08118a434d954416d2d7d93640555072790cc39c670655444a516fb36",
+        "url": "https://www.gog.com/en/game/front_mission_1st_remake",
+        "developer": "Forever Entertainment S. A.",
+        "publisher": "Forever Entertainment S. A.",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1706826361",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_front_mission_1st_remake_11_(64bit)_(66100)-1.bin",
+                    "size": "4293913086"
+                },
+                {
+                    "name": "setup_front_mission_1st_remake_11_(64bit)_(66100)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_front_mission_1st_remake_11_(64bit)_(66100)-3.bin",
+                    "size": "3453258683"
+                },
+                {
+                    "name": "setup_front_mission_1st_remake_11_(64bit)_(66100).exe",
+                    "size": "1064272"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6CC7A48171",
+                            "link": "https://filecrypt.cc/Container/6CC7A48171"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C2836F994C",
+                            "link": "https://filecrypt.cc/Container/C2836F994C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/331FE8B34A",
+                            "link": "https://filecrypt.cc/Container/331FE8B34A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,72 @@
+{
+    "href": "/game/beholder",
+    "MSG": {
+        "id": "2146639343",
+        "title": "Beholder",
+        "slug": "beholder",
+        "thumb_id": "5e22cca102d40d1bbee73924cbf6b180c0cd15accc0c3e9fd4823187e0a41ebc",
+        "bg_id": "dc2b3fad50410a289f8dc7392d9fbe23791af3e5ef14e1a72e532ac08c153e10",
+        "url": "https://www.gog.com/game/beholder",
+        "developer": "Warm Lamp Games",
+        "publisher": "Alawar Premium",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710449299",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_beholder_-_blissful_sleep_1.6.0.12741_(32340).exe",
+                    "size": "450447856"
+                },
+                {
+                    "name": "setup_beholder_1.6.0.12741_(32340).exe",
+                    "size": "662233224"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BA095D5445",
+                            "link": "https://filecrypt.cc/Container/BA095D5445"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F068D7A2AC",
+                            "link": "https://filecrypt.cc/Container/F068D7A2AC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CFC427663D",
+                            "link": "https://filecrypt.cc/Container/CFC427663D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,80 @@
+{
+    "href": "/game/stellar_tactics",
+    "MSG": {
+        "id": "1170879692",
+        "title": "Stellar Tactics",
+        "slug": "stellar_tactics",
+        "thumb_id": "c82acd0f780ec5533b43e128318a2e6121f9f6a46c5cf8f4f7f65a1adc0e9c40",
+        "bg_id": "d001cc6b3633f909dba0f57b8001b36f0d41580b10c774ff51862048a3ed013b",
+        "url": "https://www.gog.com/game/stellar_tactics",
+        "developer": "Maverick Games",
+        "publisher": "Maverick Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709486512",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_stellar_tactics_0.723_(64bit)_(69854)-1.bin",
+                    "size": "4294070270"
+                },
+                {
+                    "name": "setup_stellar_tactics_0.723_(64bit)_(69854)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_stellar_tactics_0.723_(64bit)_(69854)-3.bin",
+                    "size": "198020617"
+                },
+                {
+                    "name": "setup_stellar_tactics_0.723_(64bit)_(69854).exe",
+                    "size": "907048"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D4306AA2C5",
+                            "link": "https://filecrypt.cc/Container/D4306AA2C5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/62D7AF2489",
+                            "link": "https://filecrypt.cc/Container/62D7AF2489"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6105F89D47",
+                            "link": "https://filecrypt.cc/Container/6105F89D47"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

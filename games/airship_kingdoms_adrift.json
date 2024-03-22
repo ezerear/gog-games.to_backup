@@ -1,0 +1,76 @@
+{
+    "href": "/game/airship_kingdoms_adrift",
+    "MSG": {
+        "id": "1154473702",
+        "title": "Airship: Kingdoms Adrift",
+        "slug": "airship_kingdoms_adrift",
+        "thumb_id": "8a80ea1b1998027d028df4d06e53200911d0ad5a2a6eefad6a1dbc6bf8c2568e",
+        "bg_id": "a76cb8ffdcfb7c942e7258dba0aa169e347d544dd0355e6976ae6ffa252fc48f",
+        "url": "https://www.gog.com/en/game/airship_kingdoms_adrift",
+        "developer": "Revolution Industry",
+        "publisher": "Freedom Games, Gamersky Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708906562",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_airship_kingdoms_adrift_1.5.2.5_(71410)-1.bin",
+                    "size": "4293710846"
+                },
+                {
+                    "name": "setup_airship_kingdoms_adrift_1.5.2.5_(71410)-2.bin",
+                    "size": "1612615849"
+                },
+                {
+                    "name": "setup_airship_kingdoms_adrift_1.5.2.5_(71410).exe",
+                    "size": "1263288"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C5E074B86B",
+                            "link": "https://filecrypt.cc/Container/C5E074B86B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5F88C7E9A0",
+                            "link": "https://filecrypt.cc/Container/5F88C7E9A0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/241EF0EABE",
+                            "link": "https://filecrypt.cc/Container/241EF0EABE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

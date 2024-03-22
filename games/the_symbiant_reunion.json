@@ -1,0 +1,72 @@
+{
+    "href": "/game/the_symbiant_reunion",
+    "MSG": {
+        "id": "1842121625",
+        "title": "The Symbiant Re:Union",
+        "slug": "the_symbiant_reunion",
+        "thumb_id": "013d970343a09d6afacc501a97d0e3d426c08b1c8ba16e6803f08a22359c7b69",
+        "bg_id": "c90399f23de0633e0574b5137b663bf1176fe676fe6c682b594496dc75f8f558",
+        "url": "https://www.gog.com/en/game/the_symbiant_reunion",
+        "developer": "HeartCoreDev",
+        "publisher": "HeartCoreDev",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710779761",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_symbiant_reunion_-_adult_patch_1.0.0_(64bit)_(71706).exe",
+                    "size": "47904296"
+                },
+                {
+                    "name": "setup_the_symbiant_reunion_1.0.0_(64bit)_(71706).exe",
+                    "size": "658786120"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/93CB7C0FAD",
+                            "link": "https://filecrypt.cc/Container/93CB7C0FAD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F78F22053E",
+                            "link": "https://filecrypt.cc/Container/F78F22053E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/30896525A4",
+                            "link": "https://filecrypt.cc/Container/30896525A4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

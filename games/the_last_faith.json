@@ -1,0 +1,59 @@
+{
+    "href": "/game/the_last_faith",
+    "MSG": {
+        "id": "1916795609",
+        "title": "The Last Faith",
+        "slug": "the_last_faith",
+        "thumb_id": "3285102f5bf65dfc5ed25297d35de11e78c5ccbd0c47d0369a5fc149b82f853d",
+        "bg_id": "ff1973285399e046a512bce4264baf9307876ffe956a211111d467bf6e789b8c",
+        "url": "https://www.gog.com/en/game/the_last_faith",
+        "developer": "Kumi Souls Games",
+        "publisher": "Playstack",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709380265",
+        "votes": "1",
+        "files": false,
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A55735B912",
+                            "link": "https://filecrypt.cc/Container/A55735B912"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EEFE7BC12E",
+                            "link": "https://filecrypt.cc/Container/EEFE7BC12E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FDD70E4354",
+                            "link": "https://filecrypt.cc/Container/FDD70E4354"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

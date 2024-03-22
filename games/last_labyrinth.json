@@ -1,0 +1,94 @@
+{
+    "href": "/game/last_labyrinth",
+    "MSG": {
+        "id": "1581889157",
+        "title": "Last Labyrinth",
+        "slug": "last_labyrinth",
+        "thumb_id": "33eb4ed4ea393fa1a0a5478725053faabe38cb703c045b7cd495a5516d72e4a4",
+        "bg_id": "789676e59ac0953457eefe151a30ce174e4bcc2ffadd6da50bd10ead025d0434",
+        "url": "https://www.gog.com/en/game/last_labyrinth",
+        "developer": "AMATA K.K.",
+        "publisher": "AMATA K.K.",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1692809467",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_last_labyrinth_1.0.1_(64bit)_(66846)-1.bin",
+                    "size": "3305117197"
+                },
+                {
+                    "name": "setup_last_labyrinth_1.0.1_(64bit)_(66846).exe",
+                    "size": "903760"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0C3761A3A2",
+                            "link": "https://filecrypt.cc/Container/0C3761A3A2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E222E910C2",
+                            "link": "https://filecrypt.cc/Container/E222E910C2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F1182BBE38",
+                            "link": "https://filecrypt.cc/Container/F1182BBE38"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C9350968F5",
+                            "link": "https://filecrypt.cc/Container/C9350968F5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EC58AE0CC5",
+                            "link": "https://filecrypt.cc/Container/EC58AE0CC5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

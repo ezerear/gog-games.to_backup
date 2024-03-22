@@ -1,0 +1,111 @@
+{
+    "href": "/game/the_moment_of_silence",
+    "MSG": {
+        "id": "1448280389",
+        "title": "The Moment of Silence",
+        "slug": "the_moment_of_silence",
+        "thumb_id": "f9ec268f6daad63d71ae97891dd15c80bdf636a7c6691342d3c1d2c85e04941e",
+        "bg_id": "845d8d808b0e58ec887780aae141175e35d97d730d373d14da929a601ef2affe",
+        "url": "https://www.gog.com/game/the_moment_of_silence",
+        "developer": "House of Tales",
+        "publisher": "HandyGames",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709119361",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_moment_of_silence_2.0.0.2-1.bin",
+                    "size": "2495142343"
+                },
+                {
+                    "name": "setup_the_moment_of_silence_2.0.0.2.exe",
+                    "size": "32001408"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "tmos_manual.zip",
+                    "size": "7151547"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/07C6BFFB3B",
+                            "link": "https://filecrypt.cc/Container/07C6BFFB3B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4EB245212D",
+                            "link": "https://filecrypt.cc/Container/4EB245212D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B0F91B341D",
+                            "link": "https://filecrypt.cc/Container/B0F91B341D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/34965D206E",
+                            "link": "https://filecrypt.cc/Container/34965D206E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A92C883F19",
+                            "link": "https://filecrypt.cc/Container/A92C883F19"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F4FC0FC278",
+                            "link": "https://filecrypt.cc/Container/F4FC0FC278"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,167 @@
+{
+    "href": "/game/frozen_synapse_game",
+    "MSG": {
+        "id": "1438076423",
+        "title": "Frozen Synapse",
+        "slug": "frozen_synapse_game",
+        "thumb_id": "91900dd4ed25b7338528a6805e1f9caf3bd8c9e7202c59dbc0e7f85265bd238f",
+        "bg_id": "db4c7ed9bffe03da92d1fce70baf1cbfd6011d10c6415b3b324600fed0bd0017",
+        "url": "https://www.gog.com/game/frozen_synapse",
+        "developer": "Mode 7",
+        "publisher": "Mode 7",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1704325572",
+        "votes": "2",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_frozen_synapse_red_ver_35_(19497).exe",
+                    "size": "6752104"
+                },
+                {
+                    "name": "setup_frozen_synapse_ver_35_(19497).exe",
+                    "size": "228887744"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "ensnare_impeccable_micro_flac.zip",
+                    "size": "277903158"
+                },
+                {
+                    "name": "ensnare_impeccable_micro_mp3.zip",
+                    "size": "80976450"
+                },
+                {
+                    "name": "frozen_synapse_red_ost_flac.zip",
+                    "size": "233628256"
+                },
+                {
+                    "name": "frozen_synapse_red_ost_mp3.zip",
+                    "size": "81003772"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3F50663BEC",
+                            "link": "https://filecrypt.cc/Container/3F50663BEC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/231B277FBC",
+                            "link": "https://filecrypt.cc/Container/231B277FBC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/732F55F42F",
+                            "link": "https://filecrypt.cc/Container/732F55F42F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/755C0131CD",
+                            "link": "https://filecrypt.cc/Container/755C0131CD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/69FC1ECCAA",
+                            "link": "https://filecrypt.cc/Container/69FC1ECCAA"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/499552617E",
+                            "link": "https://filecrypt.cc/Container/499552617E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/323D410AA3",
+                            "link": "https://filecrypt.cc/Container/323D410AA3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8A67D05A7F",
+                            "link": "https://filecrypt.cc/Container/8A67D05A7F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C531CD2E3D",
+                            "link": "https://filecrypt.cc/Container/C531CD2E3D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/895C0183AE",
+                            "link": "https://filecrypt.cc/Container/895C0183AE"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

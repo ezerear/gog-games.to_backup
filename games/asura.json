@@ -1,0 +1,72 @@
+{
+    "href": "/game/asura",
+    "MSG": {
+        "id": "1765791028",
+        "title": "Asura: Vengeance Edition",
+        "slug": "asura",
+        "thumb_id": "c91f1cbc87537a8a2f7f3e8252d8aacf558947964bdd0b41e38c8dcaa4e9ad21",
+        "bg_id": "83d04e0e534b701cb05c7e42eccd7a9940ae5f8385cdfb845a5c86061e0ea16b",
+        "url": "https://www.gog.com/game/asura",
+        "developer": "Ogre Head Studio",
+        "publisher": "Ogre Head Studio, Coconut Island Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709743089",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_asura_29081(for_live)_(16620)-1.bin",
+                    "size": "1177893280"
+                },
+                {
+                    "name": "setup_asura_29081(for_live)_(16620).exe",
+                    "size": "733264"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/14E1A1F496",
+                            "link": "https://filecrypt.cc/Container/14E1A1F496"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/44F571953C",
+                            "link": "https://filecrypt.cc/Container/44F571953C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/34D6F09479",
+                            "link": "https://filecrypt.cc/Container/34D6F09479"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

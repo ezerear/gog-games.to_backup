@@ -1,0 +1,72 @@
+{
+    "href": "/game/demon_turf",
+    "MSG": {
+        "id": "1083780425",
+        "title": "Demon Turf",
+        "slug": "demon_turf",
+        "thumb_id": "a04845aaff0952f13cf6391a3803e5491f6989dc61cb753cb2a82811f89d184a",
+        "bg_id": "75481258c037658048b810233f9b07ec5411981994e2e7aae99e163ac5017e70",
+        "url": "https://www.gog.com/game/demon_turf",
+        "developer": "Fabraz",
+        "publisher": "Playtonic Friends",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708533475",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_demon_turf_1.2f_(64bit)_(63090)-1.bin",
+                    "size": "3905072398"
+                },
+                {
+                    "name": "setup_demon_turf_1.2f_(64bit)_(63090).exe",
+                    "size": "1044952"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/53ABD3BB23",
+                            "link": "https://filecrypt.cc/Container/53ABD3BB23"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/89B3C213BA",
+                            "link": "https://filecrypt.cc/Container/89B3C213BA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EEE1E634FF",
+                            "link": "https://filecrypt.cc/Container/EEE1E634FF"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

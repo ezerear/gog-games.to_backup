@@ -1,0 +1,76 @@
+{
+    "href": "/game/fallout_3_game_of_the_year_edition",
+    "MSG": {
+        "id": "1454315831",
+        "title": "Fallout 3: Game of the Year Edition",
+        "slug": "fallout_3_game_of_the_year_edition",
+        "thumb_id": "ba4ee4cbc04910b91f58115d2dbb5a0fecb6819b7d8abe6176e6300e9200ca48",
+        "bg_id": "e00c83a1923a0a845901a899a9e83b0178bb2b48ead062c45388fc90831f29a4",
+        "url": "https://www.gog.com/game/fallout_3_game_of_the_year_edition",
+        "developer": "Bethesda Game Studios",
+        "publisher": "Bethesda Softworks LLC",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1708180536",
+        "votes": "2",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_fallout_3_1.7.0.3_(12034)-1.bin",
+                    "size": "4294207998"
+                },
+                {
+                    "name": "setup_fallout_3_1.7.0.3_(12034)-2.bin",
+                    "size": "3282886305"
+                },
+                {
+                    "name": "setup_fallout_3_1.7.0.3_(12034).exe",
+                    "size": "766632"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/44201347AD",
+                            "link": "https://filecrypt.cc/Container/44201347AD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8133DF561E",
+                            "link": "https://filecrypt.cc/Container/8133DF561E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C5F06986AB",
+                            "link": "https://filecrypt.cc/Container/C5F06986AB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,84 @@
+{
+    "href": "/game/strategic_mind_blitzkrieg",
+    "MSG": {
+        "id": "1126865870",
+        "title": "Strategic Mind: Blitzkrieg",
+        "slug": "strategic_mind_blitzkrieg",
+        "thumb_id": "cf71513eb9ded395d18c196be4028aba96426e06247a4f2b92a370a7fdb7e9b0",
+        "bg_id": "d5de51df75ece1153fc8bba3b02a2644aec373133de83307d69d1a31dba437bf",
+        "url": "https://www.gog.com/game/strategic_mind_blitzkrieg",
+        "developer": "Starni Games",
+        "publisher": "Starni Games",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710514527",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_strategic_mind_blitzkrieg_2.0_(64bit)_(42637)-1.bin",
+                    "size": "4292290558"
+                },
+                {
+                    "name": "setup_strategic_mind_blitzkrieg_2.0_(64bit)_(42637)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_strategic_mind_blitzkrieg_2.0_(64bit)_(42637)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_strategic_mind_blitzkrieg_2.0_(64bit)_(42637)-4.bin",
+                    "size": "1457659074"
+                },
+                {
+                    "name": "setup_strategic_mind_blitzkrieg_2.0_(64bit)_(42637).exe",
+                    "size": "2683936"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C137DDB3B3",
+                            "link": "https://filecrypt.cc/Container/C137DDB3B3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C677F88174",
+                            "link": "https://filecrypt.cc/Container/C677F88174"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7F41D0D3A5",
+                            "link": "https://filecrypt.cc/Container/7F41D0D3A5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,72 @@
+{
+    "href": "/game/de_blob",
+    "MSG": {
+        "id": "1466287699",
+        "title": "de Blob",
+        "slug": "de_blob",
+        "thumb_id": "13c9c6b52c508b73ed2c482bed7e0b4bb0298a5dd83789c1289937bd56699657",
+        "bg_id": "f641b557bc822900fff1bd848a8dc0e3d5090390f6826abd666daeedf99cbe8f",
+        "url": "https://www.gog.com/game/de_blob",
+        "developer": "Blue Tongue Entertainment, Blitworks",
+        "publisher": "THQ Nordic GmbH",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1701920499",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_de_blob_0.28b_(16117)-1.bin",
+                    "size": "4272333728"
+                },
+                {
+                    "name": "setup_de_blob_0.28b_(16117).exe",
+                    "size": "1056824"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A82E93E0B1",
+                            "link": "https://filecrypt.cc/Container/A82E93E0B1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4D9BDDC283",
+                            "link": "https://filecrypt.cc/Container/4D9BDDC283"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B91A9E311E",
+                            "link": "https://filecrypt.cc/Container/B91A9E311E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

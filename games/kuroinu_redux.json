@@ -1,0 +1,76 @@
+{
+    "href": "/game/kuroinu_redux",
+    "MSG": {
+        "id": "1717855275",
+        "title": "Kuroinu Redux",
+        "slug": "kuroinu_redux",
+        "thumb_id": "ee976205ff87633a913b3b6339164eb73b3ccfda70492c52606c56b50da73abe",
+        "bg_id": "88fa0fde411078a863b9b811caefa8cb9e7cadc103772152343c4024211ea4e8",
+        "url": "https://www.gog.com/en/game/kuroinu_redux",
+        "developer": "Liquid",
+        "publisher": "Shiravune",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710905617",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_kuroinu_redux_1.0.0_(69726).exe",
+                    "size": "424171816"
+                },
+                {
+                    "name": "setup_kuroinu_redux_unrated_1.0.0_(69726)-1.bin",
+                    "size": "3214752029"
+                },
+                {
+                    "name": "setup_kuroinu_redux_unrated_1.0.0_(69726).exe",
+                    "size": "805200"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9F5CB68466",
+                            "link": "https://filecrypt.cc/Container/9F5CB68466"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E8FF92412A",
+                            "link": "https://filecrypt.cc/Container/E8FF92412A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/39E56AE59B",
+                            "link": "https://filecrypt.cc/Container/39E56AE59B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

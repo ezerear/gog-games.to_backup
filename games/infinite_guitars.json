@@ -1,0 +1,115 @@
+{
+    "href": "/game/infinite_guitars",
+    "MSG": {
+        "id": "1384598170",
+        "title": "INFINITE GUITARS",
+        "slug": "infinite_guitars",
+        "thumb_id": "35fde14812273ed8a49d1d37d37879e1f105c0d1e990e8b8aeab57351d615a5b",
+        "bg_id": "ccd8993b57d69689236d77e7d7f10ca83627be1e68ca331e50702a492cd0a8bc",
+        "url": "https://www.gog.com/en/game/infinite_guitars",
+        "developer": "Nikko Nikko",
+        "publisher": "Humble Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710008906",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_infinite_guitars_1.7_(64613)-1.bin",
+                    "size": "1890189547"
+                },
+                {
+                    "name": "setup_infinite_guitars_1.7_(64613).exe",
+                    "size": "934680"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "infinite_guitars_soundtrack_mp3.zip",
+                    "size": "32981389"
+                },
+                {
+                    "name": "infinite_guitars_soundtrack_wav.zip",
+                    "size": "639035300"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/12A1BDA8B4",
+                            "link": "https://filecrypt.cc/Container/12A1BDA8B4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2A87C21E22",
+                            "link": "https://filecrypt.cc/Container/2A87C21E22"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C031307146",
+                            "link": "https://filecrypt.cc/Container/C031307146"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/852521C353",
+                            "link": "https://filecrypt.cc/Container/852521C353"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2B64CFEE27",
+                            "link": "https://filecrypt.cc/Container/2B64CFEE27"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8E219624F1",
+                            "link": "https://filecrypt.cc/Container/8E219624F1"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/trash_sailors",
+    "MSG": {
+        "id": "2024097383",
+        "title": "Trash Sailors",
+        "slug": "trash_sailors",
+        "thumb_id": "6c4ecfe10b2ac053b5fde3421db3b62df14c81e940cc764c9d4bb5602a63bb51",
+        "bg_id": "172a448c93cac4e837bf6a1b7d212d23e5a83f8bbfbff25d22fbade8b16417b9",
+        "url": "https://www.gog.com/game/trash_sailors",
+        "developer": " fluckyMachine",
+        "publisher": "tinyBuild",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1687558177",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_trash_sailors_1.3.18_(64bit)_(61096).exe",
+                    "size": "1027960320"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8B31D11E94",
+                            "link": "https://filecrypt.cc/Container/8B31D11E94"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/12A91C0377",
+                            "link": "https://filecrypt.cc/Container/12A91C0377"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CE0FEB5114",
+                            "link": "https://filecrypt.cc/Container/CE0FEB5114"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

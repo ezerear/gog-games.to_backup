@@ -1,0 +1,68 @@
+{
+    "href": "/game/sclash",
+    "MSG": {
+        "id": "1821299814",
+        "title": "Sclash",
+        "slug": "sclash",
+        "thumb_id": "566e37b1e70d44ad3247bfb37c2be1019832d9bd0d1b0e69c7b5dcb7a6dcb5fd",
+        "bg_id": "f60270984a786900fb40b5586bacd6d31f94f3f5207bdad0bcc96ba08b64c72b",
+        "url": "https://www.gog.com/en/game/sclash",
+        "developer": "Bevel bakery",
+        "publisher": "Abiding Bridge",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708651423",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sclash_1.1.4_(67689).exe",
+                    "size": "462024080"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/69826280E1",
+                            "link": "https://filecrypt.cc/Container/69826280E1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C8A65B13AE",
+                            "link": "https://filecrypt.cc/Container/C8A65B13AE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C5B43CF095",
+                            "link": "https://filecrypt.cc/Container/C5B43CF095"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

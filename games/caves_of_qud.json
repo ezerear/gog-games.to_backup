@@ -1,0 +1,111 @@
+{
+    "href": "/game/caves_of_qud",
+    "MSG": {
+        "id": "1625207125",
+        "title": "Caves of Qud",
+        "slug": "caves_of_qud",
+        "thumb_id": "1017356fe36345fcd47bcea5670420a40e1de5c593e5f98f7b9035920a12c149",
+        "bg_id": "69b2928b90997fdf512b8c5efe259763c4ffe70b7ce8cbcb52904757bc71c5a9",
+        "url": "https://www.gog.com/game/caves_of_qud",
+        "developer": "Freehold Games",
+        "publisher": "Freehold Games",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710377788",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_caves_of_qud_2.0.206.68_(71764).exe",
+                    "size": "727876200"
+                }
+            ],
+            "PATCHES": [
+                {
+                    "name": "patch_caves_of_qud_2.0.206.66_(71424)_to_2.0.206.67_(71589).exe",
+                    "size": "7886536"
+                },
+                {
+                    "name": "patch_caves_of_qud_2.0.206.67_(71589)_to_2.0.206.68_(71764).exe",
+                    "size": "6515432"
+                }
+            ],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6BB28CCF8F",
+                            "link": "https://filecrypt.cc/Container/6BB28CCF8F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0C0DF80271",
+                            "link": "https://filecrypt.cc/Container/0C0DF80271"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7C59E69C1A",
+                            "link": "https://filecrypt.cc/Container/7C59E69C1A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C2A564D97D",
+                            "link": "https://filecrypt.cc/Container/C2A564D97D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/11FD733D1A",
+                            "link": "https://filecrypt.cc/Container/11FD733D1A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/531E7D7C22",
+                            "link": "https://filecrypt.cc/Container/531E7D7C22"
+                        }
+                    ]
+                }
+            ],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

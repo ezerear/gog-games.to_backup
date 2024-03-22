@@ -1,0 +1,76 @@
+{
+    "href": "/game/spec_ops_the_line",
+    "MSG": {
+        "id": "1710761915",
+        "title": "Spec Ops: The Line",
+        "slug": "spec_ops_the_line",
+        "thumb_id": "7b1e0ac15607877fcdcb7f0d26c34d21ed252d6a7f3fdcee2b2565050333dc3b",
+        "bg_id": "edff1bb4a002a8f28adc55cd36376b3a7831d9396783a509a6723b72bb735f88",
+        "url": "https://www.gog.com/game/spec_ops_the_line",
+        "developer": "YAGER",
+        "publisher": "2K Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708604954",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_spec_ops_the_line_1.0.689_hotfix_(29698)-1.bin",
+                    "size": "4293431806"
+                },
+                {
+                    "name": "setup_spec_ops_the_line_1.0.689_hotfix_(29698)-2.bin",
+                    "size": "3503380924"
+                },
+                {
+                    "name": "setup_spec_ops_the_line_1.0.689_hotfix_(29698).exe",
+                    "size": "1542744"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1045C3AA21",
+                            "link": "https://filecrypt.cc/Container/1045C3AA21"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FDFF112428",
+                            "link": "https://filecrypt.cc/Container/FDFF112428"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E822DCC4B1",
+                            "link": "https://filecrypt.cc/Container/E822DCC4B1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

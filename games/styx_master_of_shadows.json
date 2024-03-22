@@ -1,0 +1,76 @@
+{
+    "href": "/game/styx_master_of_shadows",
+    "MSG": {
+        "id": "2038001955",
+        "title": "Styx: Master of Shadows",
+        "slug": "styx_master_of_shadows",
+        "thumb_id": "87c2bd831e65e36a46ae52a047d233674266da04c66502b0136a3ab0b285d932",
+        "bg_id": "49a9d3e14aa8cc1c760f93ff98b3dae86b2b4e39ab8c069f8925ba91904b1993",
+        "url": "https://www.gog.com/game/styx_master_of_shadows",
+        "developer": "Cyanide Studio",
+        "publisher": "Nacon",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710393893",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_styx_master_of_shadows_1.02_(64bit)_(35532)-1.bin",
+                    "size": "4293805054"
+                },
+                {
+                    "name": "setup_styx_master_of_shadows_1.02_(64bit)_(35532)-2.bin",
+                    "size": "2211132028"
+                },
+                {
+                    "name": "setup_styx_master_of_shadows_1.02_(64bit)_(35532).exe",
+                    "size": "1169488"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/827BC2B56F",
+                            "link": "https://filecrypt.cc/Container/827BC2B56F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BF8997943A",
+                            "link": "https://filecrypt.cc/Container/BF8997943A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/78A32FCD38",
+                            "link": "https://filecrypt.cc/Container/78A32FCD38"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

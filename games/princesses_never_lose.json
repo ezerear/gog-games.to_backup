@@ -1,0 +1,91 @@
+{
+    "href": "/game/princesses_never_lose",
+    "MSG": {
+        "id": "1217450320",
+        "title": "Princesses Never Lose!",
+        "slug": "princesses_never_lose",
+        "thumb_id": "4dc715628fe12b6759d29ea5c8e24a6b632618297b2cb7fd7a4e8c2b3bb94d57",
+        "bg_id": "f64d6f8887865ff65fc1ae30ded39d2370461f7d857ade57f4cd4284af8367b4",
+        "url": "https://www.gog.com/en/game/princesses_never_lose",
+        "developer": "AVANTGARDE",
+        "publisher": "Kagura Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1705208180",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_princesses_never_lose_unrated_v1_(59511)-1.bin",
+                    "size": "1859019071"
+                },
+                {
+                    "name": "setup_princesses_never_lose_unrated_v1_(59511).exe",
+                    "size": "1542432"
+                },
+                {
+                    "name": "setup_princesses_never_lose_v1_(59511)-1.bin",
+                    "size": "816559777"
+                },
+                {
+                    "name": "setup_princesses_never_lose_v1_(59511).exe",
+                    "size": "1111576"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C8C2974E1D",
+                            "link": "https://filecrypt.cc/Container/C8C2974E1D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BD61992670",
+                            "link": "https://filecrypt.cc/Container/BD61992670"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/94D512B969",
+                            "link": "https://filecrypt.cc/Container/94D512B969"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B6D99A7D60",
+                            "link": "https://filecrypt.cc/Container/B6D99A7D60"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

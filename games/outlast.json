@@ -1,0 +1,123 @@
+{
+    "href": "/game/outlast",
+    "MSG": {
+        "id": "1207660064",
+        "title": "Outlast",
+        "slug": "outlast",
+        "thumb_id": "01f30d7e58567757353953d17654a9812ce460c35cd6e9f3b96897c0d7cbfeb6",
+        "bg_id": "1ae7e786a0cf9963273b0824259da621072cf520be128ed8708b0ff501962534",
+        "url": "https://www.gog.com/game/outlast",
+        "developer": "Red Barrels",
+        "publisher": "Red Barrels",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708850869",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_outlast_1.0(a)_(47147)-1.bin",
+                    "size": "3281005219"
+                },
+                {
+                    "name": "setup_outlast_1.0(a)_(47147).exe",
+                    "size": "927736"
+                },
+                {
+                    "name": "setup_outlast_whistleblower_1.0(a)_(47147)-1.bin",
+                    "size": "2118709976"
+                },
+                {
+                    "name": "setup_outlast_whistleblower_1.0(a)_(47147).exe",
+                    "size": "831504"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "outlast_wallpaper.zip",
+                    "size": "1277348"
+                },
+                {
+                    "name": "whistleblower_wallpapers.zip",
+                    "size": "2549256"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/35F3CCFA4D",
+                            "link": "https://filecrypt.cc/Container/35F3CCFA4D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D4D99842DF",
+                            "link": "https://filecrypt.cc/Container/D4D99842DF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BE53F5B0D4",
+                            "link": "https://filecrypt.cc/Container/BE53F5B0D4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1B70E9D1FF",
+                            "link": "https://filecrypt.cc/Container/1B70E9D1FF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/101037644D",
+                            "link": "https://filecrypt.cc/Container/101037644D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/61FF39CAC6",
+                            "link": "https://filecrypt.cc/Container/61FF39CAC6"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

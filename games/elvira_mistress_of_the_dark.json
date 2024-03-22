@@ -1,0 +1,79 @@
+{
+    "href": "/game/elvira_mistress_of_the_dark",
+    "MSG": {
+        "id": "1403214533",
+        "title": "Elvira: Mistress of the Dark",
+        "slug": "elvira_mistress_of_the_dark",
+        "thumb_id": "fbb10fbd3c8d0be0bc566479d360e95471485cdbdc266246fb517d833ca01c59",
+        "bg_id": "d02f1878a264113713b68c1cc061c3773baa28897db15d5dce5154cfdd0c8187",
+        "url": "https://www.gog.com/game/elvira_mistress_of_the_dark",
+        "developer": "Adventure Soft",
+        "publisher": "Adventure Soft",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1685964344",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_elvira_mistress_of_the_dark_1.08_(50217).exe",
+                    "size": "14742416"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CD3DC777C0",
+                            "link": "https://filecrypt.cc/Container/CD3DC777C0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/85655652A1",
+                            "link": "https://filecrypt.cc/Container/85655652A1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2295DD003C",
+                            "link": "https://filecrypt.cc/Container/2295DD003C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1415A7F872",
+                            "link": "https://filecrypt.cc/Container/1415A7F872"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

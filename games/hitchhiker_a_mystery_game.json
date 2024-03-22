@@ -1,0 +1,68 @@
+{
+    "href": "/game/hitchhiker_a_mystery_game",
+    "MSG": {
+        "id": "1772414934",
+        "title": "Hitchhiker - A Mystery Game",
+        "slug": "hitchhiker_a_mystery_game",
+        "thumb_id": "5f27ca43338e37bd20c83b9c2607d23e6955e5884063d2ea97476d7668d762ee",
+        "bg_id": "af989235291da6187accd057ddfaaea9bda81592f28debd3e3a05dcdd0e709cf",
+        "url": "https://www.gog.com/game/hitchhiker_a_mystery_game",
+        "developer": "Mad About Pandas",
+        "publisher": "Versus Evil",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709326887",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hitchhiker_-_a_mystery_game_1.0.60c_(64bit)_(45882).exe",
+                    "size": "1268637440"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ED14C1C380",
+                            "link": "https://filecrypt.cc/Container/ED14C1C380"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C606F97BED",
+                            "link": "https://filecrypt.cc/Container/C606F97BED"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D8053F7C76",
+                            "link": "https://filecrypt.cc/Container/D8053F7C76"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

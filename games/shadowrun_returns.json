@@ -1,0 +1,123 @@
+{
+    "href": "/game/shadowrun_returns",
+    "MSG": {
+        "id": "1207660413",
+        "title": "Shadowrun Returns",
+        "slug": "shadowrun_returns",
+        "thumb_id": "6c35ecb988f57725cc0f385acf860241082da16eda9fab66115f4da883dae3d1",
+        "bg_id": "a6ee88aed8f046df9993b96a6aec9d1d48e9bbada856c994700a8a4f28172e60",
+        "url": "https://www.gog.com/game/shadowrun_returns",
+        "developer": "Harebrained Schemes",
+        "publisher": "Paradox Interactive",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709635171",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_shadowrun_returns_1.2.7_(a)_(10017)-1.bin",
+                    "size": "941633446"
+                },
+                {
+                    "name": "setup_shadowrun_returns_1.2.7_(a)_(10017).exe",
+                    "size": "1819296"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "ShadowrunReturnsAnthology.pdf",
+                    "size": "15874882"
+                },
+                {
+                    "name": "ShadowrunReturnsSoundtrack.zip",
+                    "size": "82353739"
+                },
+                {
+                    "name": "shadowrun_returns_avatar.zip",
+                    "size": "319308"
+                },
+                {
+                    "name": "srr_wallpaper.zip",
+                    "size": "1195787"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4EEF46E56B",
+                            "link": "https://filecrypt.cc/Container/4EEF46E56B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A37C83445B",
+                            "link": "https://filecrypt.cc/Container/A37C83445B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8BF2B78133",
+                            "link": "https://filecrypt.cc/Container/8BF2B78133"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/85B56B5570",
+                            "link": "https://filecrypt.cc/Container/85B56B5570"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7DF50E0EE6",
+                            "link": "https://filecrypt.cc/Container/7DF50E0EE6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CF44FBF46F",
+                            "link": "https://filecrypt.cc/Container/CF44FBF46F"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

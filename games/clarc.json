@@ -1,0 +1,115 @@
+{
+    "href": "/game/clarc",
+    "MSG": {
+        "id": "1207664563",
+        "title": "CLARC",
+        "slug": "clarc",
+        "thumb_id": "cbe71654ff23d09092b9e5439cce3c319a8e7754824dc674dfd21e5bffc516e6",
+        "bg_id": "70e31c37dbada8b41136bf372d39eaf6b57050f7d709f62e967516828e57afbd",
+        "url": "https://www.gog.com/game/clarc",
+        "developer": "GoldenTricycle",
+        "publisher": "Hahn Film AG",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709983765",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_clarc_1.0_(20676).exe",
+                    "size": "311532928"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "clarc_avatars.zip",
+                    "size": "702825"
+                },
+                {
+                    "name": "clarc_soundtrack_mp3.zip",
+                    "size": "50781479"
+                },
+                {
+                    "name": "clarc_wallpaper.zip",
+                    "size": "2039505"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/874E6BED03",
+                            "link": "https://filecrypt.cc/Container/874E6BED03"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/53E934C7F6",
+                            "link": "https://filecrypt.cc/Container/53E934C7F6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F0CA4165CD",
+                            "link": "https://filecrypt.cc/Container/F0CA4165CD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1430CD5504",
+                            "link": "https://filecrypt.cc/Container/1430CD5504"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9DC57BDC13",
+                            "link": "https://filecrypt.cc/Container/9DC57BDC13"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7AA253AA79",
+                            "link": "https://filecrypt.cc/Container/7AA253AA79"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

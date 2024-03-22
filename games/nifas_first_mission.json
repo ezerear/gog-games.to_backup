@@ -1,0 +1,80 @@
+{
+    "href": "/game/nifas_first_mission",
+    "MSG": {
+        "id": "1363711216",
+        "title": "Nifa's First Mission",
+        "slug": "nifas_first_mission",
+        "thumb_id": "dd4db6f5887715d977a03b414b9548734dce82fd75528a6d428bb0e723298ea1",
+        "bg_id": "25c7b31715f99be02722092d039b1033e3f6bb3849f3eb3de37d89e0e96f649d",
+        "url": "https://www.gog.com/en/game/nifas_first_mission",
+        "developer": "Ponkotsu Maker",
+        "publisher": "Kagura Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710320592",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_nifas_first_mission_unrated_v2_(en_1.00_cn_1.00)_(66337)-1.bin",
+                    "size": "822526416"
+                },
+                {
+                    "name": "setup_nifas_first_mission_unrated_v2_(en_1.00_cn_1.00)_(66337).exe",
+                    "size": "787712"
+                },
+                {
+                    "name": "setup_nifas_first_mission_v2_(en_1.00_cn_1.00)_(66337)-1.bin",
+                    "size": "864307014"
+                },
+                {
+                    "name": "setup_nifas_first_mission_v2_(en_1.00_cn_1.00)_(66337).exe",
+                    "size": "805032"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/190B48873D",
+                            "link": "https://filecrypt.cc/Container/190B48873D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/22CEF03DAC",
+                            "link": "https://filecrypt.cc/Container/22CEF03DAC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A511AE1CA1",
+                            "link": "https://filecrypt.cc/Container/A511AE1CA1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

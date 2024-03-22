@@ -1,0 +1,94 @@
+{
+    "href": "/game/masters_of_anima",
+    "MSG": {
+        "id": "2053215456",
+        "title": "Masters of Anima",
+        "slug": "masters_of_anima",
+        "thumb_id": "e1ef27f1c9da27aa32b3664320eb62c12bb33db9fc9b072480ba468f1a79889a",
+        "bg_id": "e7399de4bc2b095411390e8d459679a69bed9854ba69572bf617db616c991423",
+        "url": "https://www.gog.com/game/masters_of_anima",
+        "developer": "Passtech Games",
+        "publisher": "Focus Home Interactive",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1695915891",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_masters_of_anima_1.0.0.1_(33544)-1.bin",
+                    "size": "849605664"
+                },
+                {
+                    "name": "setup_masters_of_anima_1.0.0.1_(33544).exe",
+                    "size": "1572400"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9C81226794",
+                            "link": "https://filecrypt.cc/Container/9C81226794"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A29A5947C2",
+                            "link": "https://filecrypt.cc/Container/A29A5947C2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4ECDAF8FB1",
+                            "link": "https://filecrypt.cc/Container/4ECDAF8FB1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/92A90AFCDF",
+                            "link": "https://filecrypt.cc/Container/92A90AFCDF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2DDE2A1B39",
+                            "link": "https://filecrypt.cc/Container/2DDE2A1B39"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

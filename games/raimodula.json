@@ -1,0 +1,101 @@
+{
+    "href": "/game/raimodula",
+    "MSG": {
+        "id": "1328719553",
+        "title": "Raimodula",
+        "slug": "raimodula",
+        "thumb_id": "2a59dfe1274bd96bcc8e47a3c3912273c33120424bd950f012c18df47f20aca1",
+        "bg_id": "8cd501d4056c142ecadaf9cd9efea3fdee9156d09dc55bc8a38801cdf2625425",
+        "url": "https://www.gog.com/en/game/raimodula",
+        "developer": "Roborar Digital Ltda",
+        "publisher": "Roborar Digital Ltda",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1695281819",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_raimodula_1.1.1.1_(64bit)_(67507).exe",
+                    "size": "44661416"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7ECD21FC6A",
+                            "link": "https://filecrypt.cc/Container/7ECD21FC6A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FFD324D619",
+                            "link": "https://filecrypt.cc/Container/FFD324D619"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7E14C3271A",
+                            "link": "https://filecrypt.cc/Container/7E14C3271A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5979AE9BDF",
+                            "link": "https://filecrypt.cc/Container/5979AE9BDF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4D6F0D1FBE",
+                            "link": "https://filecrypt.cc/Container/4D6F0D1FBE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C5FF9A1F04",
+                            "link": "https://filecrypt.cc/Container/C5FF9A1F04"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

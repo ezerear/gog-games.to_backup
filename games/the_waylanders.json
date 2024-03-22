@@ -1,0 +1,100 @@
+{
+    "href": "/game/the_waylanders",
+    "MSG": {
+        "id": "2130726931",
+        "title": "The Waylanders",
+        "slug": "the_waylanders",
+        "thumb_id": "10652b8dac195d72e19212cf49ab3b12fdf5858f44a31924facdd126cc5a4075",
+        "bg_id": "b4b90f7443d884a461c55d63e0e58b5b9b8ebc6f330b4773e5ff559aed4251d8",
+        "url": "https://www.gog.com/game/the_waylanders",
+        "developer": "GATO STUDIO",
+        "publisher": "GATO STUDIO",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710402441",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_waylanders_1.10_(64bit)_(55410)-1.bin",
+                    "size": "4293385214"
+                },
+                {
+                    "name": "setup_the_waylanders_1.10_(64bit)_(55410)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_the_waylanders_1.10_(64bit)_(55410)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_the_waylanders_1.10_(64bit)_(55410)-4.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_the_waylanders_1.10_(64bit)_(55410)-5.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_the_waylanders_1.10_(64bit)_(55410)-6.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_the_waylanders_1.10_(64bit)_(55410)-7.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_the_waylanders_1.10_(64bit)_(55410)-8.bin",
+                    "size": "1549039550"
+                },
+                {
+                    "name": "setup_the_waylanders_1.10_(64bit)_(55410).exe",
+                    "size": "1591136"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CB23368424",
+                            "link": "https://filecrypt.cc/Container/CB23368424"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4B31801FDE",
+                            "link": "https://filecrypt.cc/Container/4B31801FDE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ECF503C886",
+                            "link": "https://filecrypt.cc/Container/ECF503C886"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

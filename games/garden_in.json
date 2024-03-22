@@ -1,0 +1,68 @@
+{
+    "href": "/game/garden_in",
+    "MSG": {
+        "id": "1428013675",
+        "title": "Garden In!",
+        "slug": "garden_in",
+        "thumb_id": "9fdb91e8ba55aef43700ff3bac656b7b6d1f3b47620c89d8cdc9c6b5f778346d",
+        "bg_id": "72a4b976e2737b73710f4c53ed7ce7594e6d23b9522d39d783410673615f9b57",
+        "url": "https://www.gog.com/en/game/garden_in",
+        "developer": "Dramatic Iceberg",
+        "publisher": "Bonus Stage Publishing",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710376548",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_garden_in_1.3.6_(64bit)_(71654).exe",
+                    "size": "728374152"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/97D9C7E798",
+                            "link": "https://filecrypt.cc/Container/97D9C7E798"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6B6791F435",
+                            "link": "https://filecrypt.cc/Container/6B6791F435"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C1E05CBFF4",
+                            "link": "https://filecrypt.cc/Container/C1E05CBFF4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

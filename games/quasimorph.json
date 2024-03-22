@@ -1,0 +1,68 @@
+{
+    "href": "/game/quasimorph",
+    "MSG": {
+        "id": "1429058266",
+        "title": "Quasimorph",
+        "slug": "quasimorph",
+        "thumb_id": "27af5532988dc9ac493417424e89d1ecf1715aadaf60b692c2f129d4d925854c",
+        "bg_id": "2ea9cd84ab0975e0e20e2a228855999f9d40f2588b651c78c3d9b2ab0bbc5dd0",
+        "url": "https://www.gog.com/en/game/quasimorph",
+        "developer": "Magnum Scriptum",
+        "publisher": "HypeTrain Digital",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1708980903",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_quasimorph_0.5.2_88307f_(64bit)_(70551).exe",
+                    "size": "520907168"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/12BE801179",
+                            "link": "https://filecrypt.cc/Container/12BE801179"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1727E05605",
+                            "link": "https://filecrypt.cc/Container/1727E05605"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9D3A8BA3D9",
+                            "link": "https://filecrypt.cc/Container/9D3A8BA3D9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

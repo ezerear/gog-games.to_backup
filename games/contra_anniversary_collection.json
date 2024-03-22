@@ -1,0 +1,68 @@
+{
+    "href": "/game/contra_anniversary_collection",
+    "MSG": {
+        "id": "2028570892",
+        "title": "Contra Anniversary Collection",
+        "slug": "contra_anniversary_collection",
+        "thumb_id": "9d5859a46629e435d8c7264b5de278865797ad0845f69fce75a61b595730fa8a",
+        "bg_id": "028f8e634a9484dd322529d02b86dfe710348a6e1444526d9d4bfdb49703ab23",
+        "url": "https://www.gog.com/en/game/contra_anniversary_collection",
+        "developer": "Konami Digital Entertainment",
+        "publisher": "Konami Digital Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709379502",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_contra_anniversary_collection_1.1.0_(56742).exe",
+                    "size": "808449224"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/98AC8BC7DA",
+                            "link": "https://filecrypt.cc/Container/98AC8BC7DA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/004D081522",
+                            "link": "https://filecrypt.cc/Container/004D081522"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CD0539E299",
+                            "link": "https://filecrypt.cc/Container/CD0539E299"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

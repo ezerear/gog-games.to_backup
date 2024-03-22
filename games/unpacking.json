@@ -1,0 +1,68 @@
+{
+    "href": "/game/unpacking",
+    "MSG": {
+        "id": "1179488779",
+        "title": "Unpacking",
+        "slug": "unpacking",
+        "thumb_id": "ac5ee6145136f0ec71d2874a114b9fb4ea1688163a0785171c665c08d67761d4",
+        "bg_id": "5399ea3b678005715e77221add73fbaa73aa8d1f628eee8d8825deb95c6b26a5",
+        "url": "https://www.gog.com/game/unpacking",
+        "developer": "Witch Beam",
+        "publisher": "Humble Games",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1708377195",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_unpacking_1.3_(64bit)_(53619).exe",
+                    "size": "339863920"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/E1HnoaF",
+                            "link": "https://safelinking.net/E1HnoaF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/sY9bqm1",
+                            "link": "https://safelinking.net/sY9bqm1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/AGJGEtl",
+                            "link": "https://safelinking.net/AGJGEtl"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

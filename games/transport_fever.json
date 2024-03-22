@@ -1,0 +1,76 @@
+{
+    "href": "/game/transport_fever",
+    "MSG": {
+        "id": "1720767912",
+        "title": "Transport Fever",
+        "slug": "transport_fever",
+        "thumb_id": "2808b3989c282347c502210bbd067b2fd1520363bf42ccdf10804ce1f0e348c2",
+        "bg_id": "20700a0fcc80a371bcfc290745e817f108cfd4a26c75722e29fde23d2a4fbeff",
+        "url": "https://www.gog.com/game/transport_fever",
+        "developer": "Urban Games",
+        "publisher": "Good Shepherd Entertainment\t",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710511173",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_transport_fever_19002_(63350)-1.bin",
+                    "size": "4290515454"
+                },
+                {
+                    "name": "setup_transport_fever_19002_(63350)-2.bin",
+                    "size": "1846735724"
+                },
+                {
+                    "name": "setup_transport_fever_19002_(63350).exe",
+                    "size": "4461664"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E4815FFCCB",
+                            "link": "https://filecrypt.cc/Container/E4815FFCCB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/01100F0266",
+                            "link": "https://filecrypt.cc/Container/01100F0266"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D49D3665FA",
+                            "link": "https://filecrypt.cc/Container/D49D3665FA"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

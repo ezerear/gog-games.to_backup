@@ -1,0 +1,79 @@
+{
+    "href": "/game/neversynth",
+    "MSG": {
+        "id": "1936549150",
+        "title": "NeverSynth",
+        "slug": "neversynth",
+        "thumb_id": "50e9b3bf5435243fd545c1ffeb24794ceb4c002bff062879a49f074a975f0d01",
+        "bg_id": "e12cba8f4c8eaf2f1b917d0cd7906ecbbe0804053388c8aef6cbd422097d233d",
+        "url": "https://www.gog.com/en/game/neversynth",
+        "developer": "Whale Rock Games",
+        "publisher": "Whale Rock Games",
+        "category": "Racing",
+        "uploading": "0",
+        "last_upload": "1684204194",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_neversynth_1.0_(59771).exe",
+                    "size": "760791976"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/49E498767C",
+                            "link": "https://filecrypt.cc/Container/49E498767C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6D641E8BC7",
+                            "link": "https://filecrypt.cc/Container/6D641E8BC7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AEEC363124",
+                            "link": "https://filecrypt.cc/Container/AEEC363124"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EC717C946E",
+                            "link": "https://filecrypt.cc/Container/EC717C946E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

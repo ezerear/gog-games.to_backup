@@ -1,0 +1,119 @@
+{
+    "href": "/game/fist_puncher",
+    "MSG": {
+        "id": "1207660303",
+        "title": "Fist Puncher",
+        "slug": "fist_puncher",
+        "thumb_id": "11b70058af485da7173971d911524601fdd50246ce4c1f24ce17f4490c3c89e2",
+        "bg_id": "fe04da3d960d21dc387d94e2e416e9f609bcde4392883e71748051588cafbe17",
+        "url": "https://www.gog.com/game/fist_puncher",
+        "developer": "Team2Bit",
+        "publisher": "Team2Bit",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710348079",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_fist_puncher_2.2.0.4.exe",
+                    "size": "219969304"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "fist_puncher_artworks.zip",
+                    "size": "980761"
+                },
+                {
+                    "name": "fist_puncher_avatars.zip",
+                    "size": "596961"
+                },
+                {
+                    "name": "fist_puncher_soundtrack.zip",
+                    "size": "76779225"
+                },
+                {
+                    "name": "fist_puncher_wallpaper.zip",
+                    "size": "719457"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/132CDFEE2C",
+                            "link": "https://filecrypt.cc/Container/132CDFEE2C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9D72DC60FF",
+                            "link": "https://filecrypt.cc/Container/9D72DC60FF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B19BC00087",
+                            "link": "https://filecrypt.cc/Container/B19BC00087"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/525BB9FA65",
+                            "link": "https://filecrypt.cc/Container/525BB9FA65"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/84CF721602",
+                            "link": "https://filecrypt.cc/Container/84CF721602"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/786A89564B",
+                            "link": "https://filecrypt.cc/Container/786A89564B"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

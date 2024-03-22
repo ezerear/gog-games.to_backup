@@ -1,0 +1,76 @@
+{
+    "href": "/game/despair_blood_curse",
+    "MSG": {
+        "id": "1367031750",
+        "title": "Despair: Blood Curse",
+        "slug": "despair_blood_curse",
+        "thumb_id": "4f334b8222a9d9d767507c03dcc79d7d5a79a18a8ab72b90da404025fa9de7a0",
+        "bg_id": "90b5d557538cff4b305a64931f61c72d6751c76e200d412b2d99e77448b0137e",
+        "url": "https://www.gog.com/en/game/despair_blood_curse",
+        "developer": "Crimson Sequence",
+        "publisher": "Crimson Sequence",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1705000536",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_despair_blood_curse_1.0.5_(64bit)_(69909)-1.bin",
+                    "size": "4294089214"
+                },
+                {
+                    "name": "setup_despair_blood_curse_1.0.5_(64bit)_(69909)-2.bin",
+                    "size": "3584990040"
+                },
+                {
+                    "name": "setup_despair_blood_curse_1.0.5_(64bit)_(69909).exe",
+                    "size": "887992"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/71244C98F2",
+                            "link": "https://filecrypt.cc/Container/71244C98F2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F34B3AF192",
+                            "link": "https://filecrypt.cc/Container/F34B3AF192"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/28AEAFB41C",
+                            "link": "https://filecrypt.cc/Container/28AEAFB41C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

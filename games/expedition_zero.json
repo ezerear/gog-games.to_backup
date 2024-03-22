@@ -1,0 +1,80 @@
+{
+    "href": "/game/expedition_zero",
+    "MSG": {
+        "id": "1255442130",
+        "title": "Expedition Zero",
+        "slug": "expedition_zero",
+        "thumb_id": "02cb96304589c093ef970ef905ee82945f29fa73726156abe89b60aac7e9b6dc",
+        "bg_id": "1ff6f80f1319e1757e4e88f054620b0a2b3ba6ef948b1a9b1374a01da4872775",
+        "url": "https://www.gog.com/en/game/expedition_zero",
+        "developer": "Enigmatic Machines",
+        "publisher": "tinyBuild",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708792924",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_expedition_zero_1.12.0_(56435)-1.bin",
+                    "size": "4293960190"
+                },
+                {
+                    "name": "setup_expedition_zero_1.12.0_(56435)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_expedition_zero_1.12.0_(56435)-3.bin",
+                    "size": "1983798736"
+                },
+                {
+                    "name": "setup_expedition_zero_1.12.0_(56435).exe",
+                    "size": "1015536"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/703CABD3B5",
+                            "link": "https://filecrypt.cc/Container/703CABD3B5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/48A7ACC139",
+                            "link": "https://filecrypt.cc/Container/48A7ACC139"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4D60337A31",
+                            "link": "https://filecrypt.cc/Container/4D60337A31"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,79 @@
+{
+    "href": "/game/drod_the_second_sky",
+    "MSG": {
+        "id": "1207665683",
+        "title": "DROD: The Second Sky",
+        "slug": "drod_the_second_sky",
+        "thumb_id": "391d5b2ddc0be10ba7cddda99c83818d4dad18c5725ac486ebd054160703a29e",
+        "bg_id": "bc24c3c5510d8837f656d3707fa36a14a581998a31ed92b00ca433c05db5c7c5",
+        "url": "https://www.gog.com/game/drod_the_second_sky",
+        "developer": "Caravel Games",
+        "publisher": "Caravel Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1684760046",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_drod_the_second_sky_2.2.0.3.exe",
+                    "size": "649315768"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A7C1D3EC95",
+                            "link": "https://filecrypt.cc/Container/A7C1D3EC95"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C8875851C8",
+                            "link": "https://filecrypt.cc/Container/C8875851C8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A2EF18D679",
+                            "link": "https://filecrypt.cc/Container/A2EF18D679"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2DDAB4490A",
+                            "link": "https://filecrypt.cc/Container/2DDAB4490A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

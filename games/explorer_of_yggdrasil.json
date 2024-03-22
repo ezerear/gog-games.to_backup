@@ -1,0 +1,83 @@
+{
+    "href": "/game/explorer_of_yggdrasil",
+    "MSG": {
+        "id": "2069102326",
+        "title": "Explorer of Yggdrasil",
+        "slug": "explorer_of_yggdrasil",
+        "thumb_id": "cfe19feec726cb9289d47a302eddcd4974266b2ff3e9c31301eae3fce62cc051",
+        "bg_id": "d6db23878b5634ea1bea2a9b31b812e3be2caf784a60575c20bddb04d28785ee",
+        "url": "https://www.gog.com/en/game/explorer_of_yggdrasil",
+        "developer": "Black Train",
+        "publisher": "Kagura Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1707982040",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_explorer_of_yggdrasil_unrated_v1_(59579).exe",
+                    "size": "567533544"
+                },
+                {
+                    "name": "setup_explorer_of_yggdrasil_v1_(59579).exe",
+                    "size": "112110952"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/591B65A705",
+                            "link": "https://filecrypt.cc/Container/591B65A705"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EE9F51598A",
+                            "link": "https://filecrypt.cc/Container/EE9F51598A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/741A05326E",
+                            "link": "https://filecrypt.cc/Container/741A05326E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6C24ED381D",
+                            "link": "https://filecrypt.cc/Container/6C24ED381D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/monster_tribe",
+    "MSG": {
+        "id": "1973436461",
+        "title": "Monster Tribe",
+        "slug": "monster_tribe",
+        "thumb_id": "b6a741df0d3b85e5ee12ff67f86077ee5a7586aa5e53852c750238e31f8fb0d2",
+        "bg_id": "60e0790cd046c37bed8e3bb56f70eef270f9bdcf6d03262fab77af38e319ca57",
+        "url": "https://www.gog.com/en/game/monster_tribe",
+        "developer": "Boundless Games",
+        "publisher": "Freedom Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708943897",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_monster_tribe_1.0_(64116).exe",
+                    "size": "358690200"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F5C4DEB7FC",
+                            "link": "https://filecrypt.cc/Container/F5C4DEB7FC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B31E796115",
+                            "link": "https://filecrypt.cc/Container/B31E796115"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B5B58FE265",
+                            "link": "https://filecrypt.cc/Container/B5B58FE265"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

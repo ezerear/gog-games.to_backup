@@ -1,0 +1,72 @@
+{
+    "href": "/game/idoldays",
+    "MSG": {
+        "id": "1527570882",
+        "title": "IdolDays",
+        "slug": "idoldays",
+        "thumb_id": "63243652076ed8289eaaf6e31e555aac65fb00dc82579a40381c37e8ff173124",
+        "bg_id": "b9e508b4e191bf4611238548131cf5f643834e50ecb5b608019a233b6329b1ed",
+        "url": "https://www.gog.com/en/game/idoldays",
+        "developer": "qureate, iMel Inc.",
+        "publisher": "qureate",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709792846",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_idoldays_-_unrated_patch_1.0_(final)_(60651).exe",
+                    "size": "1062137944"
+                },
+                {
+                    "name": "setup_idoldays_1.0_(final)_(60651).exe",
+                    "size": "946443376"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/035171CD3D",
+                            "link": "https://filecrypt.cc/Container/035171CD3D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D9AF074180",
+                            "link": "https://filecrypt.cc/Container/D9AF074180"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E322D76260",
+                            "link": "https://filecrypt.cc/Container/E322D76260"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

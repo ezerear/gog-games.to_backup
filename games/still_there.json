@@ -1,0 +1,68 @@
+{
+    "href": "/game/still_there",
+    "MSG": {
+        "id": "1215985085",
+        "title": "Still There",
+        "slug": "still_there",
+        "thumb_id": "8832a43b084fda85f855954822ba131fd1965d1eb38e24084c55241881fb5b3f",
+        "bg_id": "cb20d0f034c7d75ff35a50e41be51c8a99f9daec851ebb7e255582e5ba307778",
+        "url": "https://www.gog.com/game/still_there",
+        "developer": "GhostShark",
+        "publisher": "Iceberg Interactive",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709983985",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_still_there_1.07_(64bit)_(40001).exe",
+                    "size": "310480320"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/454B8278D7",
+                            "link": "https://filecrypt.cc/Container/454B8278D7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/340FEC8463",
+                            "link": "https://filecrypt.cc/Container/340FEC8463"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/539907B394",
+                            "link": "https://filecrypt.cc/Container/539907B394"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,90 @@
+{
+    "href": "/game/swipepi",
+    "MSG": {
+        "id": "1397903409",
+        "title": "Swipepi",
+        "slug": "swipepi",
+        "thumb_id": "e7d155b26ed7cec1ea325194d59c0f0be01c2469c93d0cb28727e290b0d8d408",
+        "bg_id": "c3d07c26f41c1b6a6c61d9e02922bb56e8f2de25acbed2b87d1b80e42f4490a4",
+        "url": "https://www.gog.com/en/game/swipepi",
+        "developer": "Alexis Clemente",
+        "publisher": "AleC Games",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1704912987",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_swipepi_1.0.1_(67004).exe",
+                    "size": "20889456"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/74CD339FA4",
+                            "link": "https://filecrypt.cc/Container/74CD339FA4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2DA9A3F775",
+                            "link": "https://filecrypt.cc/Container/2DA9A3F775"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/220430C740",
+                            "link": "https://filecrypt.cc/Container/220430C740"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D720AD5DE8",
+                            "link": "https://filecrypt.cc/Container/D720AD5DE8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7A7A485201",
+                            "link": "https://filecrypt.cc/Container/7A7A485201"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

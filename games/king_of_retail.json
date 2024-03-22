@@ -1,0 +1,94 @@
+{
+    "href": "/game/king_of_retail",
+    "MSG": {
+        "id": "1863909997",
+        "title": "King of Retail",
+        "slug": "king_of_retail",
+        "thumb_id": "29179ed415d81cf4e7b3d11d9406131ceb089a5a423b84b02fc7fd45c9d0b316",
+        "bg_id": "112ba565bce200766c1f4a24fce653585e230d2b9db2f36bc5907479a6c825a5",
+        "url": "https://www.gog.com/en/game/king_of_retail",
+        "developer": "Freaking Games",
+        "publisher": "Iceberg Interactive",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1707801660",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_king_of_retail_1.0.0.2_(64bit)_(59147)-1.bin",
+                    "size": "2420564897"
+                },
+                {
+                    "name": "setup_king_of_retail_1.0.0.2_(64bit)_(59147).exe",
+                    "size": "865584"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E8C0FC2740",
+                            "link": "https://filecrypt.cc/Container/E8C0FC2740"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CAAD9540DE",
+                            "link": "https://filecrypt.cc/Container/CAAD9540DE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/71336AB34F",
+                            "link": "https://filecrypt.cc/Container/71336AB34F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D63F7E1DAD",
+                            "link": "https://filecrypt.cc/Container/D63F7E1DAD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B464B92F65",
+                            "link": "https://filecrypt.cc/Container/B464B92F65"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

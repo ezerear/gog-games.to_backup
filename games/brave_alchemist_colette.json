@@ -1,0 +1,102 @@
+{
+    "href": "/game/brave_alchemist_colette",
+    "MSG": {
+        "id": "1809056267",
+        "title": "Brave Alchemist Colette",
+        "slug": "brave_alchemist_colette",
+        "thumb_id": "d88147b447b3a03e0cee86b3cc70dc7a04eff05e82dce589f0200bcf54bfe11c",
+        "bg_id": "ccb0a7f6b840c118905a39ae7aa6ee5afac09f9244b1f9d8a5fd6d70a75db28b",
+        "url": "https://www.gog.com/en/game/brave_alchemist_colette",
+        "developer": "Acerola",
+        "publisher": "Kagura Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1704959335",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_brave_alchemist_colette_unrated_v1_(58838)-1.bin",
+                    "size": "1517106504"
+                },
+                {
+                    "name": "setup_brave_alchemist_colette_unrated_v1_(58838).exe",
+                    "size": "795952"
+                },
+                {
+                    "name": "setup_brave_alchemist_colette_v1_(58838)-1.bin",
+                    "size": "886188728"
+                },
+                {
+                    "name": "setup_brave_alchemist_colette_v1_(58838).exe",
+                    "size": "788032"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E860833F2C",
+                            "link": "https://filecrypt.cc/Container/E860833F2C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AF6AC392CA",
+                            "link": "https://filecrypt.cc/Container/AF6AC392CA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8909926D4D",
+                            "link": "https://filecrypt.cc/Container/8909926D4D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1A02F8E117",
+                            "link": "https://filecrypt.cc/Container/1A02F8E117"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/93A2DA0F81",
+                            "link": "https://filecrypt.cc/Container/93A2DA0F81"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

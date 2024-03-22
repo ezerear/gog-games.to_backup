@@ -1,0 +1,76 @@
+{
+    "href": "/game/nantucket",
+    "MSG": {
+        "id": "1263289061",
+        "title": "Nantucket",
+        "slug": "nantucket",
+        "thumb_id": "74786cb80e3c77b67a432e259731e09e6fa80220e4d889c1ef35f4e5d5544304",
+        "bg_id": "a65966e28044632517c7486b67a0a5559cab10603f185b76e84745a7f95d6f19",
+        "url": "https://www.gog.com/game/nantucket",
+        "developer": "Picaresque Studio",
+        "publisher": " Fish Eagle",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1708480904",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_nantucket_-_master_of_the_seven_seas_1.4.1_(32873).exe",
+                    "size": "7612552"
+                },
+                {
+                    "name": "setup_nantucket_-_songs_of_the_braves_1.4.1_(32873).exe",
+                    "size": "47320768"
+                },
+                {
+                    "name": "setup_nantucket_1.4.1_(32873).exe",
+                    "size": "648113704"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E475F6DDF3",
+                            "link": "https://filecrypt.cc/Container/E475F6DDF3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AAA932D3BE",
+                            "link": "https://filecrypt.cc/Container/AAA932D3BE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/29CF31C844",
+                            "link": "https://filecrypt.cc/Container/29CF31C844"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

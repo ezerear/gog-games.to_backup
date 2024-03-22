@@ -1,0 +1,90 @@
+{
+    "href": "/game/dins_legacy",
+    "MSG": {
+        "id": "1472462985",
+        "title": "Din's Legacy",
+        "slug": "dins_legacy",
+        "thumb_id": "caf64d1704b4d41205a3dcbb9e30eee10e4cc584695bb5b8cad866866cc18563",
+        "bg_id": "ff7b6f1121ca97b4448a16c8455b2131c839afee82117e8d183ef7a9af988f82",
+        "url": "https://www.gog.com/game/dins_legacy",
+        "developer": "Soldak Entertainment",
+        "publisher": "Soldak Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1703989787",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dins_legacy_1.013_(54067).exe",
+                    "size": "565924056"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C23E0696DD",
+                            "link": "https://filecrypt.cc/Container/C23E0696DD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B0B2F736FA",
+                            "link": "https://filecrypt.cc/Container/B0B2F736FA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5364C9D14D",
+                            "link": "https://filecrypt.cc/Container/5364C9D14D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/120E3471D5",
+                            "link": "https://filecrypt.cc/Container/120E3471D5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1B36BFFD52",
+                            "link": "https://filecrypt.cc/Container/1B36BFFD52"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,76 @@
+{
+    "href": "/game/lust_epidemic",
+    "MSG": {
+        "id": "1686331123",
+        "title": "Lust Epidemic",
+        "slug": "lust_epidemic",
+        "thumb_id": "bcdea79d48918b86c241e14b526299e0eb5e0e1c50a9c8d769382b3864abbafc",
+        "bg_id": "04fa57d2a3503607b020ae3df0f0d30f0cb3ef9192733ee2abf4357515097b50",
+        "url": "https://www.gog.com/en/game/lust_epidemic",
+        "developer": "NLT Media",
+        "publisher": "",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710628322",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_lust_epidemic_1.0_(64026)-1.bin",
+                    "size": "4292555774"
+                },
+                {
+                    "name": "setup_lust_epidemic_1.0_(64026)-2.bin",
+                    "size": "204608029"
+                },
+                {
+                    "name": "setup_lust_epidemic_1.0_(64026).exe",
+                    "size": "2421640"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4F336BADBA",
+                            "link": "https://filecrypt.cc/Container/4F336BADBA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A436D1FA13",
+                            "link": "https://filecrypt.cc/Container/A436D1FA13"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5453751C12",
+                            "link": "https://filecrypt.cc/Container/5453751C12"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,119 @@
+{
+    "href": "/game/freedom_planet",
+    "MSG": {
+        "id": "1207667013",
+        "title": "Freedom Planet",
+        "slug": "freedom_planet",
+        "thumb_id": "77941728f2cd386aa3a3acd97e28fb4818e0004beb5b5d10c556aa643b00ad7f",
+        "bg_id": "767a21d9cacac8ef579e734b5e07cd2e4cdadc79f108d2ca74ebb5c6f84abca3",
+        "url": "https://www.gog.com/game/freedom_planet",
+        "developer": "Galaxy Trail",
+        "publisher": "Galaxy Trail",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709814163",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_freedom_planet_1.21.5_(20180831)_(23366).exe",
+                    "size": "339299920"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "freedom_planet_avatars.zip",
+                    "size": "2580703"
+                },
+                {
+                    "name": "freedom_planet_characters.zip",
+                    "size": "3795474"
+                },
+                {
+                    "name": "freedom_planet_sketches.zip",
+                    "size": "5734733"
+                },
+                {
+                    "name": "freedom_planet_wallpapers.zip",
+                    "size": "1660595"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4DEE40AA96",
+                            "link": "https://filecrypt.cc/Container/4DEE40AA96"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/58A84D0BA5",
+                            "link": "https://filecrypt.cc/Container/58A84D0BA5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/10D67D0228",
+                            "link": "https://filecrypt.cc/Container/10D67D0228"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6B3E6B8A45",
+                            "link": "https://filecrypt.cc/Container/6B3E6B8A45"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4285D17DDE",
+                            "link": "https://filecrypt.cc/Container/4285D17DDE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/30FD127623",
+                            "link": "https://filecrypt.cc/Container/30FD127623"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

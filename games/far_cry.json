@@ -1,0 +1,131 @@
+{
+    "href": "/game/far_cry",
+    "MSG": {
+        "id": "1207658750",
+        "title": "Far Cry®",
+        "slug": "far_cry",
+        "thumb_id": "cd587d720d85c97fdfe8a6863925eb494050061e8451d76a3c77aa0c761b7edc",
+        "bg_id": "ec9511e5d06786be8fff27264b3a431924a4478193ef64bef050700c1bf27fa0",
+        "url": "https://www.gog.com/game/far_cry",
+        "developer": "Crytek Studios",
+        "publisher": "Ubisoft",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1708780985",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_far_cry_1.40_hotfix_(29940)-1.bin",
+                    "size": "2921094987"
+                },
+                {
+                    "name": "setup_far_cry_1.40_hotfix_(29940).exe",
+                    "size": "1138272"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "far_cry_avatars.zip",
+                    "size": "88312"
+                },
+                {
+                    "name": "far_cry_editor_manual.zip",
+                    "size": "5829470"
+                },
+                {
+                    "name": "far_cry_handbuch.zip",
+                    "size": "638240"
+                },
+                {
+                    "name": "far_cry_manual.zip",
+                    "size": "519787"
+                },
+                {
+                    "name": "far_cry_manual_fr.zip",
+                    "size": "473751"
+                },
+                {
+                    "name": "far_cry_wallpapers.zip",
+                    "size": "15226366"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EFDF6C4414",
+                            "link": "https://filecrypt.cc/Container/EFDF6C4414"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2FBF724EA0",
+                            "link": "https://filecrypt.cc/Container/2FBF724EA0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E5F712DA24",
+                            "link": "https://filecrypt.cc/Container/E5F712DA24"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CDEF9B5166",
+                            "link": "https://filecrypt.cc/Container/CDEF9B5166"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C3DFEFEBF2",
+                            "link": "https://filecrypt.cc/Container/C3DFEFEBF2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/477EBDE44A",
+                            "link": "https://filecrypt.cc/Container/477EBDE44A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

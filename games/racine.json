@@ -1,0 +1,68 @@
+{
+    "href": "/game/racine",
+    "MSG": {
+        "id": "1192621307",
+        "title": "Racine",
+        "slug": "racine",
+        "thumb_id": "bb61c6fff267c53d214ee2c9a4941533db1755a2eecab72834b6b5a01d5bf89a",
+        "bg_id": "2d18eb4bfbe58c87efe7cb14ed62d54808eb3aa0686560787c3355efba485951",
+        "url": "https://www.gog.com/en/game/racine",
+        "developer": "Antoine Descoubet, Hugues Laborde",
+        "publisher": "Abiding Bridge",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709008759",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_racine_1.0.5_(68967).exe",
+                    "size": "591226752"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6E17F6A67C",
+                            "link": "https://filecrypt.cc/Container/6E17F6A67C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/46748C7874",
+                            "link": "https://filecrypt.cc/Container/46748C7874"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A87907AA76",
+                            "link": "https://filecrypt.cc/Container/A87907AA76"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

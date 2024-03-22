@@ -1,0 +1,68 @@
+{
+    "href": "/game/the_humans",
+    "MSG": {
+        "id": "1701588882",
+        "title": "The Humans",
+        "slug": "the_humans",
+        "thumb_id": "f710090214e13a63fe8d542149b684c1fe0842045cef1d4422a406c1f73e6ead",
+        "bg_id": "ce2e0db181c079b62b6c52424a4692c40a253837a4bd0d84ba9d5354f6828619",
+        "url": "https://www.gog.com/game/the_humans_bundle",
+        "developer": "Imagitec Design",
+        "publisher": "Piko Interactive",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710398559",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_humans_1.0_(13354).exe",
+                    "size": "32677784"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E56C18C05B",
+                            "link": "https://filecrypt.cc/Container/E56C18C05B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/22023F4DD9",
+                            "link": "https://filecrypt.cc/Container/22023F4DD9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8498155B3B",
+                            "link": "https://filecrypt.cc/Container/8498155B3B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

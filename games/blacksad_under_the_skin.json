@@ -1,0 +1,84 @@
+{
+    "href": "/game/blacksad_under_the_skin",
+    "MSG": {
+        "id": "1772238447",
+        "title": "Blacksad: Under the Skin",
+        "slug": "blacksad_under_the_skin",
+        "thumb_id": "d2c19968517912c99a96f6c0b636536c41c6e35adf789c3befd6463f85a308a2",
+        "bg_id": "4c6edeba6994d34c5223e89e7358cd961b6207cf074498c6a21d2f47fa6a96cf",
+        "url": "https://www.gog.com/game/blacksad_under_the_skin",
+        "developer": "YS Interactive, Pendulo Studios",
+        "publisher": "Anuman Interactive",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708477934",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_blacksad_under_the_skin_1.0.5_12210.2935.2020040301_(37312)-1.bin",
+                    "size": "4293060094"
+                },
+                {
+                    "name": "setup_blacksad_under_the_skin_1.0.5_12210.2935.2020040301_(37312)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_blacksad_under_the_skin_1.0.5_12210.2935.2020040301_(37312)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_blacksad_under_the_skin_1.0.5_12210.2935.2020040301_(37312)-4.bin",
+                    "size": "743694320"
+                },
+                {
+                    "name": "setup_blacksad_under_the_skin_1.0.5_12210.2935.2020040301_(37312).exe",
+                    "size": "1914368"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6C5ECFC10D",
+                            "link": "https://filecrypt.cc/Container/6C5ECFC10D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0AB30DF7F3",
+                            "link": "https://filecrypt.cc/Container/0AB30DF7F3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/39ADBA5F92",
+                            "link": "https://filecrypt.cc/Container/39ADBA5F92"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,76 @@
+{
+    "href": "/game/telling_lies",
+    "MSG": {
+        "id": "1905966578",
+        "title": "Telling Lies",
+        "slug": "telling_lies",
+        "thumb_id": "659aff2da7fe6ff2a8413bae778ebe4c311e936fdc6046309404c25421228d7e",
+        "bg_id": "56138ad6268dcabe7ead8cb1cad1905f2f50ee84c3a785030a662bf3f948aac1",
+        "url": "https://www.gog.com/game/telling_lies",
+        "developer": "Sam Barlow, Furious Bee Limited",
+        "publisher": "Annapurna Interactive",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1698391348",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_telling_lies_1.5_(64bit)_(32219)-1.bin",
+                    "size": "4294067710"
+                },
+                {
+                    "name": "setup_telling_lies_1.5_(64bit)_(32219)-2.bin",
+                    "size": "1289859728"
+                },
+                {
+                    "name": "setup_telling_lies_1.5_(64bit)_(32219).exe",
+                    "size": "906608"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FAA54AF9E7",
+                            "link": "https://filecrypt.cc/Container/FAA54AF9E7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5F6A67CDC5",
+                            "link": "https://filecrypt.cc/Container/5F6A67CDC5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D94EA4FA2C",
+                            "link": "https://filecrypt.cc/Container/D94EA4FA2C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

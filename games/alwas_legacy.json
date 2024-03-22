@@ -1,0 +1,101 @@
+{
+    "href": "/game/alwas_legacy",
+    "MSG": {
+        "id": "2118716711",
+        "title": "Alwa's Legacy",
+        "slug": "alwas_legacy",
+        "thumb_id": "7ca673b852208781ea5f24c29f3dae70ec47d67bc6d27c813067b2651993f383",
+        "bg_id": "70e83b07ddd8090deea4b6f98dbbffbec3c4056333f2b8a49127a8511a411fbc",
+        "url": "https://www.gog.com/game/alwas_legacy",
+        "developer": "Elden Pixels",
+        "publisher": "Elden Pixels",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1693830332",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_alwas_legacy_1.3.6.7516_(64bit)_(55071).exe",
+                    "size": "182217824"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7D57068073",
+                            "link": "https://filecrypt.cc/Container/7D57068073"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8B1E223369",
+                            "link": "https://filecrypt.cc/Container/8B1E223369"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0922416BD1",
+                            "link": "https://filecrypt.cc/Container/0922416BD1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9F37FA224A",
+                            "link": "https://filecrypt.cc/Container/9F37FA224A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "uptobox",
+                    "name": "Uptobox",
+                    "icon": "<img src=\"/static/img/hoster_logos/uptobox.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A711D48BEB",
+                            "link": "https://filecrypt.cc/Container/A711D48BEB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1D26083C8A",
+                            "link": "https://filecrypt.cc/Container/1D26083C8A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

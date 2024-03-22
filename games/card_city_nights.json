@@ -1,0 +1,119 @@
+{
+    "href": "/game/card_city_nights",
+    "MSG": {
+        "id": "1446823701",
+        "title": "Card City Nights",
+        "slug": "card_city_nights",
+        "thumb_id": "ff96372ceec8b1b750b61c17231b44c63ec91c27e1a87f795b6927e5157713bd",
+        "bg_id": "ff56b1717edb1c98c3235b8167088f2673991f9790809bda1b78fe56f33f5c05",
+        "url": "https://www.gog.com/game/card_city_nights",
+        "developer": "Ludosity",
+        "publisher": "Ludosity",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710016101",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_card_city_nights_2.1.0.3.exe",
+                    "size": "120858872"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "ccn_avatars.zip",
+                    "size": "67704"
+                },
+                {
+                    "name": "ccn_ost_flac.zip",
+                    "size": "433057794"
+                },
+                {
+                    "name": "ccn_ost_mp3.zip",
+                    "size": "195384976"
+                },
+                {
+                    "name": "ccn_wallpapers.zip",
+                    "size": "1242891"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/361C05BDAB",
+                            "link": "https://filecrypt.cc/Container/361C05BDAB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/14B5917B5E",
+                            "link": "https://filecrypt.cc/Container/14B5917B5E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E2896412A4",
+                            "link": "https://filecrypt.cc/Container/E2896412A4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D1C8882022",
+                            "link": "https://filecrypt.cc/Container/D1C8882022"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EF53F7E18D",
+                            "link": "https://filecrypt.cc/Container/EF53F7E18D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/021B50D4F0",
+                            "link": "https://filecrypt.cc/Container/021B50D4F0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

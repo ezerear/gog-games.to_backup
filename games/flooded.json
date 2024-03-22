@@ -1,0 +1,68 @@
+{
+    "href": "/game/flooded",
+    "MSG": {
+        "id": "1734211869",
+        "title": "Flooded",
+        "slug": "flooded",
+        "thumb_id": "1a811d0fd44c7115450ed88e58044b1f5c3cbad0f3f2f4ad0297267549bf2617",
+        "bg_id": "b3aaa1e7f5b3f03ccbc7cab92d5bf4bc96a75e3f989a53947edeaa5b3011c5e3",
+        "url": "https://www.gog.com/en/game/flooded",
+        "developer": "Artificial Disasters",
+        "publisher": "Artificial Disasters",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710850342",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_flooded_1.0.8.1_(64bit)_(70093).exe",
+                    "size": "489540416"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/85599A9672",
+                            "link": "https://filecrypt.cc/Container/85599A9672"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2451E3508D",
+                            "link": "https://filecrypt.cc/Container/2451E3508D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EBFFAFDADD",
+                            "link": "https://filecrypt.cc/Container/EBFFAFDADD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,98 @@
+{
+    "href": "/game/earthlock",
+    "MSG": {
+        "id": "1301333630",
+        "title": "EARTHLOCK",
+        "slug": "earthlock",
+        "thumb_id": "08ab1e5d2a6d868efd54769dec8385cebd3ce66b500ff51bc8c2f7e7d6af9907",
+        "bg_id": "fadff1b5602f3b191ce61edbb96c797d8728c4e620f22978479343d20de32c99",
+        "url": "https://www.gog.com/game/earthlock",
+        "developer": "Snowcastle Games",
+        "publisher": "Snowcastle Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1702376996",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_earthlock_1.1.0_(35125)-1.bin",
+                    "size": "2321170209"
+                },
+                {
+                    "name": "setup_earthlock_1.1.0_(35125).exe",
+                    "size": "925320"
+                },
+                {
+                    "name": "setup_earthlock_comic_book_1_1.1.0_(35125).exe",
+                    "size": "6432888"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/36FD971D8B",
+                            "link": "https://filecrypt.cc/Container/36FD971D8B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7372DEC017",
+                            "link": "https://filecrypt.cc/Container/7372DEC017"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/771BC535CF",
+                            "link": "https://filecrypt.cc/Container/771BC535CF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/52B7BA8B90",
+                            "link": "https://filecrypt.cc/Container/52B7BA8B90"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ECF2AFC00A",
+                            "link": "https://filecrypt.cc/Container/ECF2AFC00A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

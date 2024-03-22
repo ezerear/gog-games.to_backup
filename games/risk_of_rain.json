@@ -1,0 +1,68 @@
+{
+    "href": "/game/risk_of_rain",
+    "MSG": {
+        "id": "1207660563",
+        "title": "Risk of Rain",
+        "slug": "risk_of_rain",
+        "thumb_id": "8635618289182b5b5f05d49f4a23bbc782aef19c9f4aad13c68de4b9ba9bd686",
+        "bg_id": "d1b54ab18006e4e8accdc75262eae126afccf5dbb0f30b7c9c5d7bce7f24cfc9",
+        "url": "https://www.gog.com/game/risk_of_rain",
+        "developer": "Hopoo Games",
+        "publisher": "Chucklefish",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709283500",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_risk_of_rain_2.10.0.14.exe",
+                    "size": "199682544"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FF489689F9",
+                            "link": "https://filecrypt.cc/Container/FF489689F9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0B6264A706",
+                            "link": "https://filecrypt.cc/Container/0B6264A706"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CB322FA048",
+                            "link": "https://filecrypt.cc/Container/CB322FA048"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

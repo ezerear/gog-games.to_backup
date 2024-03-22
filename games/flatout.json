@@ -1,0 +1,130 @@
+{
+    "href": "/game/flatout",
+    "MSG": {
+        "id": "1207658693",
+        "title": "FlatOut",
+        "slug": "flatout",
+        "thumb_id": "ff7b111c6ba2299cda2f49c3fffd68ea2d9d4e5a69964c6221a2b619278caee8",
+        "bg_id": "d83efed4534fed26ecfd93cd28443624f70b2fd987d28f7b79f68d5f8817b354",
+        "url": "https://www.gog.com/game/flatout",
+        "developer": "Bugbear Entertainment",
+        "publisher": "Strategy First",
+        "category": "Racing",
+        "uploading": "0",
+        "last_upload": "1707959089",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_flatout_1.1_(17772).exe",
+                    "size": "969343144"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "flatout_manual.zip",
+                    "size": "182479"
+                },
+                {
+                    "name": "flatout_screensaver.zip",
+                    "size": "2784336"
+                },
+                {
+                    "name": "flatout_soundtrack.zip",
+                    "size": "140776812"
+                },
+                {
+                    "name": "flatout_wallpapers.zip",
+                    "size": "7624617"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F96444F86B",
+                            "link": "https://filecrypt.cc/Container/F96444F86B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BA6A248012",
+                            "link": "https://filecrypt.cc/Container/BA6A248012"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6A1C09E149",
+                            "link": "https://filecrypt.cc/Container/6A1C09E149"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/06CA64B9DB",
+                            "link": "https://filecrypt.cc/Container/06CA64B9DB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AF0D655EAA",
+                            "link": "https://filecrypt.cc/Container/AF0D655EAA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8539BBD906",
+                            "link": "https://filecrypt.cc/Container/8539BBD906"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F68CC6798B",
+                            "link": "https://filecrypt.cc/Container/F68CC6798B"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

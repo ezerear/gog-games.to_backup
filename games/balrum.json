@@ -1,0 +1,111 @@
+{
+    "href": "/game/balrum",
+    "MSG": {
+        "id": "1769415595",
+        "title": "Balrum",
+        "slug": "balrum",
+        "thumb_id": "242e80f2210c5f938e6c3b95f4e70dc5d5eeb9551c8600d01534c97222cd5008",
+        "bg_id": "91f51a8126ed6bd55aee5b8fd965cf6e441592e489585d6e68f6e10da0debb0f",
+        "url": "https://www.gog.com/game/balrum",
+        "developer": "Balcony Team",
+        "publisher": "Balcony Team",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710244901",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_balrum_1.7_(64bit)_(63107).exe",
+                    "size": "204071312"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "balrum_manual.zip",
+                    "size": "1360586"
+                },
+                {
+                    "name": "balrum_wallpapers.zip",
+                    "size": "2229231"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F16B9584B3",
+                            "link": "https://filecrypt.cc/Container/F16B9584B3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D06A17D217",
+                            "link": "https://filecrypt.cc/Container/D06A17D217"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2F2247D493",
+                            "link": "https://filecrypt.cc/Container/2F2247D493"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/883CD2BEA9",
+                            "link": "https://filecrypt.cc/Container/883CD2BEA9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6C1C9E1784",
+                            "link": "https://filecrypt.cc/Container/6C1C9E1784"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E32FDDD1D4",
+                            "link": "https://filecrypt.cc/Container/E32FDDD1D4"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

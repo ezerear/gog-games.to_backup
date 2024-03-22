@@ -1,0 +1,61 @@
+{
+    "href": "/game/tokyo_42",
+    "MSG": {
+        "id": "1300381715",
+        "title": "Tokyo 42",
+        "slug": "tokyo_42",
+        "thumb_id": "e80d8564145eefd309c68c896fd2f725806d982c0752b23276efa98ec4d8bf66",
+        "bg_id": "54ad539a061c93466b69a6b7994b59912f5972cc08b796b2e8e17f537d565639",
+        "url": "https://www.gog.com/game/tokyo_42",
+        "developer": "SMAC Games",
+        "publisher": "Mode 7",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1706097141",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_smaceshis_castles_1.1.2_(21614).exe",
+                    "size": "6168040"
+                },
+                {
+                    "name": "setup_tokyo_42_1.1.2_(21614).exe",
+                    "size": "797973480"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/954F294345",
+                            "link": "https://filecrypt.cc/Container/954F294345"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C220105553",
+                            "link": "https://filecrypt.cc/Container/C220105553"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

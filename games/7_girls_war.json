@@ -1,0 +1,76 @@
+{
+    "href": "/game/7_girls_war",
+    "MSG": {
+        "id": "1862815164",
+        "title": "7 Girls War",
+        "slug": "7_girls_war",
+        "thumb_id": "19b0174901c3a80374b2a945e35bfcd2807ed7008ed67ab632a81a0054967489",
+        "bg_id": "11e6e35e711a02141988dfb62a6b2b2fc2b22343d83a9ddc53522ccdc31eb0f1",
+        "url": "https://www.gog.com/en/game/7_girls_war",
+        "developer": "StudioDobby",
+        "publisher": "Kagura Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709899056",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_7_girls_war_unrated_v1_(60050)-1.bin",
+                    "size": "1248864272"
+                },
+                {
+                    "name": "setup_7_girls_war_unrated_v1_(60050).exe",
+                    "size": "1362440"
+                },
+                {
+                    "name": "setup_7_girls_war_v1_(60050).exe",
+                    "size": "530306112"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ECE1DCD5C7",
+                            "link": "https://filecrypt.cc/Container/ECE1DCD5C7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0B55590667",
+                            "link": "https://filecrypt.cc/Container/0B55590667"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E34720531C",
+                            "link": "https://filecrypt.cc/Container/E34720531C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

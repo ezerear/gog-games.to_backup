@@ -1,0 +1,119 @@
+{
+    "href": "/game/beyond_good_and_evil",
+    "MSG": {
+        "id": "1207658746",
+        "title": "Beyond Good & Evil™",
+        "slug": "beyond_good_and_evil",
+        "thumb_id": "30e9f0f572e965b8431a79d99d6e5ebb348ae9a6c77e28b0788cfcfd563aa4e6",
+        "bg_id": "1f09c6c848caece3cb1e4d95c8159b1e0292d35aedb4e88c3a960c44d2a62c8e",
+        "url": "https://www.gog.com/game/beyond_good_and_evil",
+        "developer": "Ubisoft",
+        "publisher": "Ubisoft",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710494596",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_beyond_good_and_evil_2.1.0.9.exe",
+                    "size": "1518968232"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "bge_artworks.zip",
+                    "size": "2112431"
+                },
+                {
+                    "name": "bge_manual.zip",
+                    "size": "168012"
+                },
+                {
+                    "name": "bge_soundtrack.zip",
+                    "size": "134650495"
+                },
+                {
+                    "name": "bge_wallpapers.zip",
+                    "size": "13802267"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0BFA6068F3",
+                            "link": "https://filecrypt.cc/Container/0BFA6068F3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FCAB72F80F",
+                            "link": "https://filecrypt.cc/Container/FCAB72F80F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CB7F7D994F",
+                            "link": "https://filecrypt.cc/Container/CB7F7D994F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F49352178F",
+                            "link": "https://filecrypt.cc/Container/F49352178F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D102A1603E",
+                            "link": "https://filecrypt.cc/Container/D102A1603E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3F97B2410C",
+                            "link": "https://filecrypt.cc/Container/3F97B2410C"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

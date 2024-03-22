@@ -1,0 +1,72 @@
+{
+    "href": "/game/sinking_island",
+    "MSG": {
+        "id": "1999825584",
+        "title": "Sinking Island",
+        "slug": "sinking_island",
+        "thumb_id": "a4de7aad5581b15975946e919f49ec8c6881500a06794a1066750982557979af",
+        "bg_id": "ff40c1973dd916024eeeb467fe37dbda37d71cb4c7a24bbd7ac4ba937d9b5710",
+        "url": "https://www.gog.com/en/game/sinking_island",
+        "developer": "White Birds Productions",
+        "publisher": "Microids",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709327102",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sinking_island_1.0_(57221)-1.bin",
+                    "size": "2341937816"
+                },
+                {
+                    "name": "setup_sinking_island_1.0_(57221).exe",
+                    "size": "1290552"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/081CDAB56E",
+                            "link": "https://filecrypt.cc/Container/081CDAB56E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0C11CE14B0",
+                            "link": "https://filecrypt.cc/Container/0C11CE14B0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/46572B1358",
+                            "link": "https://filecrypt.cc/Container/46572B1358"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

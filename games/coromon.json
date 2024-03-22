@@ -1,0 +1,79 @@
+{
+    "href": "/game/coromon",
+    "MSG": {
+        "id": "1950069341",
+        "title": "Coromon",
+        "slug": "coromon",
+        "thumb_id": "9e2fb1698fb7887d058f26daa3441927dda314004a324e241fba5aa0e24c5990",
+        "bg_id": "6f3d015c3029fea5221ccd9802de5e2f92c6afccc0196b15540677341936a656",
+        "url": "https://www.gog.com/en/game/coromon",
+        "developer": "TRAGsoft",
+        "publisher": "Freedom Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708110904",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_coromon_1.2.5c_(68993).exe",
+                    "size": "926463712"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/784C57066B",
+                            "link": "https://filecrypt.cc/Container/784C57066B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CF3E91D8DB",
+                            "link": "https://filecrypt.cc/Container/CF3E91D8DB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8381612D43",
+                            "link": "https://filecrypt.cc/Container/8381612D43"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4EFE8B3D75",
+                            "link": "https://filecrypt.cc/Container/4EFE8B3D75"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,123 @@
+{
+    "href": "/game/call_of_cthulhu",
+    "MSG": {
+        "id": "1522289470",
+        "title": "Call of Cthulhu®",
+        "slug": "call_of_cthulhu",
+        "thumb_id": "17313f2ca09f07b7a8e63700834e248521dc0c4c5ccde786d4fbfd11216214de",
+        "bg_id": "0a847e45c962a1e0538c741af9cc4a384f02f4e272d309e7064f2b9ce541b56f",
+        "url": "https://www.gog.com/game/call_of_cthulhu",
+        "developer": "Cyanide Studios",
+        "publisher": "Focus Home Interactive",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710312285",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_call_of_cthulhu_4.15.2_(64bit)_(33442)-1.bin",
+                    "size": "4293009918"
+                },
+                {
+                    "name": "setup_call_of_cthulhu_4.15.2_(64bit)_(33442)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_call_of_cthulhu_4.15.2_(64bit)_(33442)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_call_of_cthulhu_4.15.2_(64bit)_(33442)-4.bin",
+                    "size": "125209709"
+                },
+                {
+                    "name": "setup_call_of_cthulhu_4.15.2_(64bit)_(33442).exe",
+                    "size": "1964560"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "call_of_cthulhu_wallpaper.zip",
+                    "size": "1622528"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/175A6A89D5",
+                            "link": "https://filecrypt.cc/Container/175A6A89D5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1795FAEE21",
+                            "link": "https://filecrypt.cc/Container/1795FAEE21"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B11627996D",
+                            "link": "https://filecrypt.cc/Container/B11627996D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C083DEA2F1",
+                            "link": "https://filecrypt.cc/Container/C083DEA2F1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8B496436C1",
+                            "link": "https://filecrypt.cc/Container/8B496436C1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/13FFAFA976",
+                            "link": "https://filecrypt.cc/Container/13FFAFA976"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

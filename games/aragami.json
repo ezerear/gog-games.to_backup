@@ -1,0 +1,139 @@
+{
+    "href": "/game/aragami",
+    "MSG": {
+        "id": "1846445578",
+        "title": "Aragami",
+        "slug": "aragami",
+        "thumb_id": "5b43aed257195ddb90f1fda045d8be1c38e77d05f12813b0d349ad112ca17d98",
+        "bg_id": "fdc9a404cd95bc6efa169077059ba92f17a9fc288b74d57a5a6e2e87014724e3",
+        "url": "https://www.gog.com/game/aragami",
+        "developer": "Lince Works",
+        "publisher": "Lince Works",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710394727",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_aragami_1.09.10_(21420)-1.bin",
+                    "size": "3480729845"
+                },
+                {
+                    "name": "setup_aragami_1.09.10_(21420).exe",
+                    "size": "895576"
+                },
+                {
+                    "name": "setup_aragami_nightfall_1.09.10_(21420).exe",
+                    "size": "5911672"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "aragami_artbook.zip",
+                    "size": "60176742"
+                },
+                {
+                    "name": "aragami_avatar.zip",
+                    "size": "226822"
+                },
+                {
+                    "name": "aragami_dev_diary.zip",
+                    "size": "7868314"
+                },
+                {
+                    "name": "aragami_nightfall_wallpaper.zip",
+                    "size": "699011"
+                },
+                {
+                    "name": "aragami_ost_flac.zip",
+                    "size": "381970853"
+                },
+                {
+                    "name": "aragami_ost_mp3.zip",
+                    "size": "171542970"
+                },
+                {
+                    "name": "aragami_wallpaper.zip",
+                    "size": "701780"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EE7D5EA6EF",
+                            "link": "https://filecrypt.cc/Container/EE7D5EA6EF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BDFA3BA677",
+                            "link": "https://filecrypt.cc/Container/BDFA3BA677"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D6CD68D787",
+                            "link": "https://filecrypt.cc/Container/D6CD68D787"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/40E905E26F",
+                            "link": "https://filecrypt.cc/Container/40E905E26F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6970B04A8C",
+                            "link": "https://filecrypt.cc/Container/6970B04A8C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3D573F924F",
+                            "link": "https://filecrypt.cc/Container/3D573F924F"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

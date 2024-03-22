@@ -1,0 +1,76 @@
+{
+    "href": "/game/sovereign_syndicate",
+    "MSG": {
+        "id": "1496535867",
+        "title": "Sovereign Syndicate",
+        "slug": "sovereign_syndicate",
+        "thumb_id": "6f16de32e936d616325e516a17b9f3f1376a49c6b02813a09f9d0108eac07b1c",
+        "bg_id": "1ec64f7f24b970c60eacb559bb03c25f96782951f62a5307182892242dc2b4e2",
+        "url": "https://www.gog.com/en/game/sovereign_syndicate",
+        "developer": "Crimson Herring Studios",
+        "publisher": "Crimson Herring Studios",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710730598",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sovereign_syndicate_1.0.31_(64bit)_(70875)-1.bin",
+                    "size": "4293966846"
+                },
+                {
+                    "name": "setup_sovereign_syndicate_1.0.31_(64bit)_(70875)-2.bin",
+                    "size": "1518543350"
+                },
+                {
+                    "name": "setup_sovereign_syndicate_1.0.31_(64bit)_(70875).exe",
+                    "size": "1007592"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7097FC9DDA",
+                            "link": "https://filecrypt.cc/Container/7097FC9DDA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/862CE968D7",
+                            "link": "https://filecrypt.cc/Container/862CE968D7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/89262F7604",
+                            "link": "https://filecrypt.cc/Container/89262F7604"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

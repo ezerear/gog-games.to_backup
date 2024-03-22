@@ -1,0 +1,94 @@
+{
+    "href": "/game/about_a_boy",
+    "MSG": {
+        "id": "1795196666",
+        "title": "About a Boy",
+        "slug": "about_a_boy",
+        "thumb_id": "6292a3b6ce1fa0825b7dcb278d7c2c5ce19de454e448f7a3964c669bb7f23514",
+        "bg_id": "433efc7d6e95d56ca36da745233e196dcf1f0149378aa8f6d5956d62bc9852f6",
+        "url": "https://www.gog.com/en/game/about_a_boy",
+        "developer": "Return 0 Game Studio",
+        "publisher": "Return 0 Game Studio",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707511447",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_about_a_boy_1.01_(69856)-1.bin",
+                    "size": "2716231185"
+                },
+                {
+                    "name": "setup_about_a_boy_1.01_(69856).exe",
+                    "size": "896608"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/551B12A945",
+                            "link": "https://filecrypt.cc/Container/551B12A945"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/63D087F667",
+                            "link": "https://filecrypt.cc/Container/63D087F667"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3C654CC9DD",
+                            "link": "https://filecrypt.cc/Container/3C654CC9DD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4FE67176C8",
+                            "link": "https://filecrypt.cc/Container/4FE67176C8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7D3BE2610C",
+                            "link": "https://filecrypt.cc/Container/7D3BE2610C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

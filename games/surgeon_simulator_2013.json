@@ -1,0 +1,101 @@
+{
+    "href": "/game/surgeon_simulator_2013",
+    "MSG": {
+        "id": "1207659833",
+        "title": "Surgeon Simulator 2013",
+        "slug": "surgeon_simulator_2013",
+        "thumb_id": "ec1fc2d951afd68ed21d1abb968387ba98a7ea62cea4d0d756260fe7bb2a2d87",
+        "bg_id": "b338f1eab490997f1eb1e1778015d00f454f251910c7b5d3b3d2de3b1c720adb",
+        "url": "https://www.gog.com/game/surgeon_simulator",
+        "developer": "Bossa Studios",
+        "publisher": "Bossa Studios",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710167289",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_surgeon_simulator2013_2.0.0.5.exe",
+                    "size": "346586832"
+                },
+                {
+                    "name": "setup_surgeon_simulator2013_anniversary_edition_2.0.0.5.exe",
+                    "size": "525237872"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "ss2013_avatar.zip",
+                    "size": "174933"
+                },
+                {
+                    "name": "ss2013_soundtrack.zip",
+                    "size": "59385980"
+                },
+                {
+                    "name": "ss2013_wallpaper.zip",
+                    "size": "466898"
+                },
+                {
+                    "name": "ss_ae_wallpaper.zip",
+                    "size": "1567018"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7740A4A40D",
+                            "link": "https://filecrypt.cc/Container/7740A4A40D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9F89CD0F54",
+                            "link": "https://filecrypt.cc/Container/9F89CD0F54"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E14DAE6A86",
+                            "link": "https://filecrypt.cc/Container/E14DAE6A86"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FB7DFB40C2",
+                            "link": "https://filecrypt.cc/Container/FB7DFB40C2"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

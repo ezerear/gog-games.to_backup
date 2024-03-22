@@ -1,0 +1,94 @@
+{
+    "href": "/game/outerverse",
+    "MSG": {
+        "id": "2076435096",
+        "title": "Outerverse",
+        "slug": "outerverse",
+        "thumb_id": "c4c13a0aa87d5fe47f4fcebe82c6164edbe66871ffcf3b626cb03b51639e59e5",
+        "bg_id": "bc5a82e67596257fb99f3eed91bc2035d623d76c912a2325db32a637cae7862c",
+        "url": "https://www.gog.com/en/game/outerverse",
+        "developer": "Tbjbu2",
+        "publisher": "Freedom Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1694094649",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_outerverse_1.0_(64bit)_(63091)-1.bin",
+                    "size": "2559641400"
+                },
+                {
+                    "name": "setup_outerverse_1.0_(64bit)_(63091).exe",
+                    "size": "991504"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/156114BC09",
+                            "link": "https://filecrypt.cc/Container/156114BC09"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3DB9FD292F",
+                            "link": "https://filecrypt.cc/Container/3DB9FD292F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/192FB223AD",
+                            "link": "https://filecrypt.cc/Container/192FB223AD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FD49C1FA4A",
+                            "link": "https://filecrypt.cc/Container/FD49C1FA4A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0A6FC990DE",
+                            "link": "https://filecrypt.cc/Container/0A6FC990DE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

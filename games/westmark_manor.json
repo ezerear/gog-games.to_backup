@@ -1,0 +1,83 @@
+{
+    "href": "/game/westmark_manor",
+    "MSG": {
+        "id": "2062288372",
+        "title": "Westmark Manor",
+        "slug": "westmark_manor",
+        "thumb_id": "0da97598450095152daa62933aa8152c567e7946b491433c83705374b9ce282c",
+        "bg_id": "b56374450ada9b02cc45bedb62338f1ffc69fc58b1467a766f8196d9fd473d87",
+        "url": "https://www.gog.com/game/westmark_manor",
+        "developer": "Nodbrim Interactive",
+        "publisher": "Toadman Interactive",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1702126641",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_westmark_manor_1.042_(64bit)_(49211)-1.bin",
+                    "size": "2428607324"
+                },
+                {
+                    "name": "setup_westmark_manor_1.042_(64bit)_(49211).exe",
+                    "size": "1868696"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FEE1180C79",
+                            "link": "https://filecrypt.cc/Container/FEE1180C79"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A0570D1344",
+                            "link": "https://filecrypt.cc/Container/A0570D1344"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7914D91265",
+                            "link": "https://filecrypt.cc/Container/7914D91265"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5837C56497",
+                            "link": "https://filecrypt.cc/Container/5837C56497"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

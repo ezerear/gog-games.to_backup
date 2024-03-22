@@ -1,0 +1,94 @@
+{
+    "href": "/game/the_town_of_light",
+    "MSG": {
+        "id": "1655492231",
+        "title": "The Town of Light",
+        "slug": "the_town_of_light",
+        "thumb_id": "bb4907beed163eb684519438e9167c3f6be79160bd16daf0e4c126688e46d90f",
+        "bg_id": "bcf4a9ef33b00e9fba6e2d0631e86bf1db8559dcd07d76cc9bbf81b87e45308d",
+        "url": "https://www.gog.com/game/the_town_of_light",
+        "developer": "LKA",
+        "publisher": "Wired Productions",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707620291",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_town_of_light_1.01_(48852)-1.bin",
+                    "size": "4009106991"
+                },
+                {
+                    "name": "setup_the_town_of_light_1.01_(48852).exe",
+                    "size": "1203480"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3CEDDE2704",
+                            "link": "https://filecrypt.cc/Container/3CEDDE2704"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A41DFD6F61",
+                            "link": "https://filecrypt.cc/Container/A41DFD6F61"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/73D97AFBFB",
+                            "link": "https://filecrypt.cc/Container/73D97AFBFB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EF14A524B4",
+                            "link": "https://filecrypt.cc/Container/EF14A524B4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/82D284751F",
+                            "link": "https://filecrypt.cc/Container/82D284751F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

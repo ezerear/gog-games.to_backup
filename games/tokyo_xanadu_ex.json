@@ -1,0 +1,88 @@
+{
+    "href": "/game/tokyo_xanadu_ex",
+    "MSG": {
+        "id": "1908505665",
+        "title": "Tokyo Xanadu eX+",
+        "slug": "tokyo_xanadu_ex",
+        "thumb_id": "fffd87a40b8374509c17c39aa506b7c05445916ffcb36b021989448c83f6c51b",
+        "bg_id": "fd926b7f13597c058aaf157286e92d7c86b186bce5f70de9eeff918811293ac5",
+        "url": "https://www.gog.com/game/tokyo_xanadu_ex",
+        "developer": "Nihon Falcom Corporation",
+        "publisher": "Aksys Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709072505",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_item_bundle_v1.08_(18828).exe",
+                    "size": "6314912"
+                },
+                {
+                    "name": "setup_outfit__accessory_bundle_v1.08_(18828).exe",
+                    "size": "6883224"
+                },
+                {
+                    "name": "setup_s-pom_treat_bundle_v1.08_(18828).exe",
+                    "size": "6638184"
+                },
+                {
+                    "name": "setup_tokyo_xanadu_ex_v1.08_(18828)-1.bin",
+                    "size": "4294142974"
+                },
+                {
+                    "name": "setup_tokyo_xanadu_ex_v1.08_(18828)-2.bin",
+                    "size": "2010427036"
+                },
+                {
+                    "name": "setup_tokyo_xanadu_ex_v1.08_(18828).exe",
+                    "size": "831616"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2E28BF845F",
+                            "link": "https://filecrypt.cc/Container/2E28BF845F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/65F7CB2CEA",
+                            "link": "https://filecrypt.cc/Container/65F7CB2CEA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4903D00073",
+                            "link": "https://filecrypt.cc/Container/4903D00073"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

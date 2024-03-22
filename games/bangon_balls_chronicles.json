@@ -1,0 +1,76 @@
+{
+    "href": "/game/bangon_balls_chronicles",
+    "MSG": {
+        "id": "1117332315",
+        "title": "Bang-on Balls: Chronicles",
+        "slug": "bangon_balls_chronicles",
+        "thumb_id": "27ad8766beddfeac4abe7bd916facee8adccb96c9968fe7409d029707d73a1e6",
+        "bg_id": "b53892a150143715449132865481e1d7e0a5d3e23ac9508642d34b4333bcb292",
+        "url": "https://www.gog.com/en/game/bangon_balls_chronicles",
+        "developer": "Exit Plan Games",
+        "publisher": "Untold Tales",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709639416",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_bang-on_balls_chronicles_0.5.9_(68003)-1.bin",
+                    "size": "4294117374"
+                },
+                {
+                    "name": "setup_bang-on_balls_chronicles_0.5.9_(68003)-2.bin",
+                    "size": "222439982"
+                },
+                {
+                    "name": "setup_bang-on_balls_chronicles_0.5.9_(68003).exe",
+                    "size": "860088"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/79DFBD1F82",
+                            "link": "https://filecrypt.cc/Container/79DFBD1F82"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F79AF91827",
+                            "link": "https://filecrypt.cc/Container/F79AF91827"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A57A5AC0C8",
+                            "link": "https://filecrypt.cc/Container/A57A5AC0C8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

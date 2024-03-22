@@ -1,0 +1,68 @@
+{
+    "href": "/game/one_night_stand",
+    "MSG": {
+        "id": "1883816745",
+        "title": "One Night Stand",
+        "slug": "one_night_stand",
+        "thumb_id": "c1284d8439057927df4fc51d9b7302ab2a52bf37bad27b44ed908513d68a77eb",
+        "bg_id": "7d4e36eda4de8ad45748b05e7c56a9f57d4401099709b39bf6f8226dfd8215fd",
+        "url": "https://www.gog.com/en/game/one_night_stand",
+        "developer": "Kinmoku",
+        "publisher": "Kinmoku",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709884680",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_one_night_stand_2.282_(71414).exe",
+                    "size": "193782528"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C6BFDC9A7B",
+                            "link": "https://filecrypt.cc/Container/C6BFDC9A7B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E59548D8B0",
+                            "link": "https://filecrypt.cc/Container/E59548D8B0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8B3017D2D1",
+                            "link": "https://filecrypt.cc/Container/8B3017D2D1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

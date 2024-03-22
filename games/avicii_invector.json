@@ -1,0 +1,91 @@
+{
+    "href": "/game/avicii_invector",
+    "MSG": {
+        "id": "1714053596",
+        "title": "AVICII Invector",
+        "slug": "avicii_invector",
+        "thumb_id": "85a7dc7a45564af493187ba467274eb052c5d12504d2f340f30ecba65f62357b",
+        "bg_id": "998c95f160077fb17e8c3d56d2a8f2babc6ef854e92ddbcaffe3c9566df8a2af",
+        "url": "https://www.gog.com/game/avicii_invector",
+        "developer": "Hello There Games",
+        "publisher": "Wired Productions",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1684800870",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_avicii_invector_-_magma_track_pack_1.6.8_(64bit)_(48895).exe",
+                    "size": "6555240"
+                },
+                {
+                    "name": "setup_avicii_invector_-_tim_track_pack_1.6.8_(64bit)_(48895).exe",
+                    "size": "5944504"
+                },
+                {
+                    "name": "setup_avicii_invector_1.6.8_(64bit)_(48895)-1.bin",
+                    "size": "2556196713"
+                },
+                {
+                    "name": "setup_avicii_invector_1.6.8_(64bit)_(48895).exe",
+                    "size": "850880"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F2348E5A38",
+                            "link": "https://filecrypt.cc/Container/F2348E5A38"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F9892BECC1",
+                            "link": "https://filecrypt.cc/Container/F9892BECC1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2C0C2736F2",
+                            "link": "https://filecrypt.cc/Container/2C0C2736F2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/75B0385EDD",
+                            "link": "https://filecrypt.cc/Container/75B0385EDD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

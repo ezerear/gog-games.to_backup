@@ -1,0 +1,90 @@
+{
+    "href": "/game/hellfire",
+    "MSG": {
+        "id": "1826514265",
+        "title": "Hellfire",
+        "slug": "hellfire",
+        "thumb_id": "715d2354ca2ea7e66a402cadd49a8ca2c61fcba04aa84630242676e60c2c38ac",
+        "bg_id": "cfdac041e0f55478c94ca145859a11b9aab96b55d2dbd403acefc1d2867817b8",
+        "url": "https://www.gog.com/en/game/hellfire",
+        "developer": "Bitwave Games, Toaplan",
+        "publisher": "Bitwave Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707539737",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hellfire_7_(64bit)_(67544).exe",
+                    "size": "12762752"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/812CC2D805",
+                            "link": "https://filecrypt.cc/Container/812CC2D805"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/47CDA33224",
+                            "link": "https://filecrypt.cc/Container/47CDA33224"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2C23DF09E7",
+                            "link": "https://filecrypt.cc/Container/2C23DF09E7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/22C29C6ADC",
+                            "link": "https://filecrypt.cc/Container/22C29C6ADC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A5D36623AF",
+                            "link": "https://filecrypt.cc/Container/A5D36623AF"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

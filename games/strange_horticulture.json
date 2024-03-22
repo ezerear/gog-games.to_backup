@@ -1,0 +1,68 @@
+{
+    "href": "/game/strange_horticulture",
+    "MSG": {
+        "id": "1110845119",
+        "title": "Strange Horticulture",
+        "slug": "strange_horticulture",
+        "thumb_id": "14dfa346892c82cdac4f798ab626329a679a8cc7f6f10cb2cf73a173ca4c0914",
+        "bg_id": "46cc7e11c9c5721fc02d60d333b8a00859120d2b88e2ce662207be95361a0e20",
+        "url": "https://www.gog.com/game/strange_horticulture",
+        "developer": "Bad Viking",
+        "publisher": "Iceberg Interactive",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709129402",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_strange_horticulture_1.1.26_(64bit)_(59461).exe",
+                    "size": "289424080"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9F986B469E",
+                            "link": "https://filecrypt.cc/Container/9F986B469E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/97C951AC7D",
+                            "link": "https://filecrypt.cc/Container/97C951AC7D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/59B77CB4D9",
+                            "link": "https://filecrypt.cc/Container/59B77CB4D9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

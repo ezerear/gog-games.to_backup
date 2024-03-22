@@ -1,0 +1,79 @@
+{
+    "href": "/game/windward",
+    "MSG": {
+        "id": "1434370838",
+        "title": "Windward",
+        "slug": "windward",
+        "thumb_id": "513f2fd6f886174ef0c2116e51ba0e5d80f41e809216028e28dac948f106c252",
+        "bg_id": "84d681b6941184f3333372896413d5a57f394bbde034458b1d8a38c48bb6ca20",
+        "url": "https://web.archive.org/web/20190824075505/https://www.gog.com/game/windward",
+        "developer": "Tasharen Entertainment Inc.",
+        "publisher": "Tasharen Entertainment Inc.",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1684046186",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_windward_2017-06-17.0_(12847).exe",
+                    "size": "89600216"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4B5645A828",
+                            "link": "https://filecrypt.cc/Container/4B5645A828"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DB12954B3F",
+                            "link": "https://filecrypt.cc/Container/DB12954B3F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E8B71C1A73",
+                            "link": "https://filecrypt.cc/Container/E8B71C1A73"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E7B817F9D5",
+                            "link": "https://filecrypt.cc/Container/E7B817F9D5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

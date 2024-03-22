@@ -1,0 +1,79 @@
+{
+    "href": "/game/mutropolis",
+    "MSG": {
+        "id": "1160660574",
+        "title": "Mutropolis",
+        "slug": "mutropolis",
+        "thumb_id": "51b3cb6134e4e680569b63f2e20e8383ebe185323d8a7182196cb7b819075a30",
+        "bg_id": "a7ade9d43659ddec4b2708cabb3c3cae9ca00fb111ead12720bb9b17e455b65a",
+        "url": "https://www.gog.com/game/mutropolis",
+        "developer": "Pirita Studio",
+        "publisher": "Application Systems Heidelberg",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1685107617",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_mutropolis_2.0.0_(57084).exe",
+                    "size": "1519151040"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6B37218335",
+                            "link": "https://filecrypt.cc/Container/6B37218335"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0BA069A77B",
+                            "link": "https://filecrypt.cc/Container/0BA069A77B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0D08405F8C",
+                            "link": "https://filecrypt.cc/Container/0D08405F8C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/03FFC56E3A",
+                            "link": "https://filecrypt.cc/Container/03FFC56E3A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

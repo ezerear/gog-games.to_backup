@@ -1,0 +1,72 @@
+{
+    "href": "/game/stubbs_the_zombie_in_rebel_without_a_pulse",
+    "MSG": {
+        "id": "1862877679",
+        "title": "Stubbs the Zombie in Rebel Without a Pulse",
+        "slug": "stubbs_the_zombie_in_rebel_without_a_pulse",
+        "thumb_id": "85b273bb3b904435516921639042b762344e210b4c9dabb845d6532a4c7381fc",
+        "bg_id": "a0b4c4dc84801f8f80fc499a5f7653dfbce093d5f75ed81934b576bc681f4b48",
+        "url": "https://www.gog.com/game/stubbs_the_zombie_in_rebel_without_a_pulse",
+        "developer": "Aspyr",
+        "publisher": "Aspyr",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710211961",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_stubbs_the_zombie_in_rebel_without_a_pulse_1.0_(45609)-1.bin",
+                    "size": "2276849973"
+                },
+                {
+                    "name": "setup_stubbs_the_zombie_in_rebel_without_a_pulse_1.0_(45609).exe",
+                    "size": "876504"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/875C859176",
+                            "link": "https://filecrypt.cc/Container/875C859176"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/707CE556B4",
+                            "link": "https://filecrypt.cc/Container/707CE556B4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/61AEFFFD98",
+                            "link": "https://filecrypt.cc/Container/61AEFFFD98"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

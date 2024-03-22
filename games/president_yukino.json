@@ -1,0 +1,61 @@
+{
+    "href": "/game/president_yukino",
+    "MSG": {
+        "id": "1946804996",
+        "title": "President Yukino",
+        "slug": "president_yukino",
+        "thumb_id": "3fcea67e779be59743313f59db448449e36fa799d534ef31b7802c3930ef16ad",
+        "bg_id": "783232315ce691f0b7da4578bd2e51d774ff28c13dda0f69a44afa8cf6dce94b",
+        "url": "https://www.gog.com/en/game/president_yukino",
+        "developer": "Acerola",
+        "publisher": "Kagura Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709210732",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_president_yukino_unrated_v1_(59266).exe",
+                    "size": "703828840"
+                },
+                {
+                    "name": "setup_president_yukino_v1_(59266).exe",
+                    "size": "385933648"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DB2B7CC784",
+                            "link": "https://filecrypt.cc/Container/DB2B7CC784"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4CC3EDBAA5",
+                            "link": "https://filecrypt.cc/Container/4CC3EDBAA5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

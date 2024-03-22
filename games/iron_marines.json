@@ -1,0 +1,94 @@
+{
+    "href": "/game/iron_marines",
+    "MSG": {
+        "id": "2047907642",
+        "title": "Iron Marines",
+        "slug": "iron_marines",
+        "thumb_id": "e690adf039a6279a6636f74ebde5079974d7f0068437b336ea2cd95a57771c60",
+        "bg_id": "cc3ffde8434de2928bda86fe5a0a073a1eaeb45c8dc81564ede3217aaaa0ee66",
+        "url": "https://www.gog.com/game/iron_marines",
+        "developer": "Ironhide Game Studio",
+        "publisher": "Ironhide Game Studio",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1707319366",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_iron_marines_1.0.6_(64bit)_(47125)-1.bin",
+                    "size": "1223925721"
+                },
+                {
+                    "name": "setup_iron_marines_1.0.6_(64bit)_(47125).exe",
+                    "size": "820248"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/66C596A4DF",
+                            "link": "https://filecrypt.cc/Container/66C596A4DF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/34DB8611F0",
+                            "link": "https://filecrypt.cc/Container/34DB8611F0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0F762FBF3F",
+                            "link": "https://filecrypt.cc/Container/0F762FBF3F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F5833D1F38",
+                            "link": "https://filecrypt.cc/Container/F5833D1F38"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/57680D13CA",
+                            "link": "https://filecrypt.cc/Container/57680D13CA"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

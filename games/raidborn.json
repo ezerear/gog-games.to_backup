@@ -1,0 +1,90 @@
+{
+    "href": "/game/raidborn",
+    "MSG": {
+        "id": "2061161309",
+        "title": "RAIDBORN",
+        "slug": "raidborn",
+        "thumb_id": "94135a96515078dcdf67a5c56e7f6cfa427f4a028f1ee2412629bbc56cc3d7e3",
+        "bg_id": "209bc4c38cfac06729130693cbb339bd9593e10e2b63ca36b9446d31337c2048",
+        "url": "https://www.gog.com/en/game/raidborn",
+        "developer": "Phodex Games",
+        "publisher": "Phodex Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1703608064",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_raidborn_gog.2023.12.22_(69903).exe",
+                    "size": "758777000"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E46132C41E",
+                            "link": "https://filecrypt.cc/Container/E46132C41E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/89BB92BDBF",
+                            "link": "https://filecrypt.cc/Container/89BB92BDBF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/106936C151",
+                            "link": "https://filecrypt.cc/Container/106936C151"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FC17C299D5",
+                            "link": "https://filecrypt.cc/Container/FC17C299D5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/040D9C78BE",
+                            "link": "https://filecrypt.cc/Container/040D9C78BE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

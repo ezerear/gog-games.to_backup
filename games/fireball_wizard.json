@@ -1,0 +1,68 @@
+{
+    "href": "/game/fireball_wizard",
+    "MSG": {
+        "id": "1507542784",
+        "title": "Fireball Wizard",
+        "slug": "fireball_wizard",
+        "thumb_id": "f9c30a2e7df6010a9ccecb21377e1d0ffcf3765ad97d6b4bf2c6239ef0ed60d3",
+        "bg_id": "098f4aca1f9a052f7ca7b0707eba2f99789ffcbbece9f94ce3882efb66392e34",
+        "url": "https://www.gog.com/en/game/fireball_wizard",
+        "developer": "ginTronic",
+        "publisher": "PID Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710418925",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_fireball_wizard_fireball_wizard_v.1.1.0_(65821).exe",
+                    "size": "98007384"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AD9553FE8C",
+                            "link": "https://filecrypt.cc/Container/AD9553FE8C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E6AD9645E5",
+                            "link": "https://filecrypt.cc/Container/E6AD9645E5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D715691142",
+                            "link": "https://filecrypt.cc/Container/D715691142"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

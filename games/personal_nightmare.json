@@ -1,0 +1,79 @@
+{
+    "href": "/game/personal_nightmare",
+    "MSG": {
+        "id": "1207658773",
+        "title": "Personal Nightmare",
+        "slug": "personal_nightmare",
+        "thumb_id": "4ae8f11e287489a31297928db6cb48d9dc7958771142868de5285a374c04befc",
+        "bg_id": "0f537057a9c605d9f3d67a24d52e21e6ba5c56a97552638b157e02be85160a67",
+        "url": "https://www.gog.com/game/personal_nightmare",
+        "developer": "Horrorsoft",
+        "publisher": "Adventure Soft",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1684051204",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_personal_nightmare_1.0_(28044).exe",
+                    "size": "13261312"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5471CE925C",
+                            "link": "https://filecrypt.cc/Container/5471CE925C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D4620FCCD3",
+                            "link": "https://filecrypt.cc/Container/D4620FCCD3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C65BE123C7",
+                            "link": "https://filecrypt.cc/Container/C65BE123C7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F639B5F0E7",
+                            "link": "https://filecrypt.cc/Container/F639B5F0E7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

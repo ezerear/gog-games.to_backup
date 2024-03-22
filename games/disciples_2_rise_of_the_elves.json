@@ -1,0 +1,109 @@
+{
+    "href": "/game/disciples_2_rise_of_the_elves",
+    "MSG": {
+        "id": "1207663713",
+        "title": "Disciples 2 - Rise of the Elves",
+        "slug": "disciples_2_rise_of_the_elves",
+        "thumb_id": "181fa95481e68fd90f12596356d9e1e242615df7db6217a5e3ec9abb8534f566",
+        "bg_id": "19b59ca8db3ebcbda0b3ed09020e74d7a42db105c7d9b63aa0d5236be0dd5b09",
+        "url": "https://www.gog.com/game/disciples_2_gold",
+        "developer": "Strategy First",
+        "publisher": "Strategy First",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710159904",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_disciples_2_-_rise_of_the_elves_3.01_(30373)-1.bin",
+                    "size": "1355675946"
+                },
+                {
+                    "name": "setup_disciples_2_-_rise_of_the_elves_3.01_(30373).exe",
+                    "size": "851736"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "disciples_2_artworks.zip",
+                    "size": "72421815"
+                },
+                {
+                    "name": "disciples_2_avatars.zip",
+                    "size": "1180023"
+                },
+                {
+                    "name": "disciples_2_gold_manual.zip",
+                    "size": "10075971"
+                },
+                {
+                    "name": "disciples_2_gold_ost_flac.zip",
+                    "size": "297998190"
+                },
+                {
+                    "name": "disciples_2_gold_soundtrack.zip",
+                    "size": "97124233"
+                },
+                {
+                    "name": "disciples_2_wallpapers.zip",
+                    "size": "11325636"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4AE41F866E",
+                            "link": "https://filecrypt.cc/Container/4AE41F866E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C08FFDC9FD",
+                            "link": "https://filecrypt.cc/Container/C08FFDC9FD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/48C45772D6",
+                            "link": "https://filecrypt.cc/Container/48C45772D6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/466805EB22",
+                            "link": "https://filecrypt.cc/Container/466805EB22"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

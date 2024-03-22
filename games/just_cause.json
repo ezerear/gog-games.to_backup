@@ -1,0 +1,76 @@
+{
+    "href": "/game/just_cause",
+    "MSG": {
+        "id": "1084263831",
+        "title": "Just Cause",
+        "slug": "just_cause",
+        "thumb_id": "15ce60f89cdea5a0b7263049dd98d9671da8b6d5e01372d8550c21fc7699817e",
+        "bg_id": "145f37c4a904c40b19036746681fb49405203e9f94dbe89dba37b8bf61fe93ce",
+        "url": "https://www.gog.com/game/just_cause",
+        "developer": "Avalanche Studios",
+        "publisher": "Square Enix",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710504766",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_just_cause_1.0_(48205)-1.bin",
+                    "size": "4293967870"
+                },
+                {
+                    "name": "setup_just_cause_1.0_(48205)-2.bin",
+                    "size": "2403365184"
+                },
+                {
+                    "name": "setup_just_cause_1.0_(48205).exe",
+                    "size": "1006000"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8527783D80",
+                            "link": "https://filecrypt.cc/Container/8527783D80"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/131744C904",
+                            "link": "https://filecrypt.cc/Container/131744C904"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A89C0F46FE",
+                            "link": "https://filecrypt.cc/Container/A89C0F46FE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

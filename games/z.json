@@ -1,0 +1,119 @@
+{
+    "href": "/game/z",
+    "MSG": {
+        "id": "1207664893",
+        "title": "Z: The Game",
+        "slug": "z",
+        "thumb_id": "04684beb5775a79ef06720c6a5e857a79440e6ddda91557ab24022c900f56c3e",
+        "bg_id": "5ce3429606f55c27e332547b395098d3945a721344a7480abc522d12c0c78975",
+        "url": "https://www.gog.com/game/z",
+        "developer": "TickTock Games",
+        "publisher": "Kiss",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710081173",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_z_2.3.0.8.exe",
+                    "size": "322238784"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "z_game_guides.zip",
+                    "size": "3077378"
+                },
+                {
+                    "name": "z_manual.zip",
+                    "size": "3561405"
+                },
+                {
+                    "name": "z_soundtrack_mp3.zip",
+                    "size": "55589581"
+                },
+                {
+                    "name": "z_wallpapers.zip",
+                    "size": "4238218"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/66C329CA79",
+                            "link": "https://filecrypt.cc/Container/66C329CA79"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9C289CCE8B",
+                            "link": "https://filecrypt.cc/Container/9C289CCE8B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/29E3B0F391",
+                            "link": "https://filecrypt.cc/Container/29E3B0F391"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B3CEE564DF",
+                            "link": "https://filecrypt.cc/Container/B3CEE564DF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9B7A15C96E",
+                            "link": "https://filecrypt.cc/Container/9B7A15C96E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CF1377E9E7",
+                            "link": "https://filecrypt.cc/Container/CF1377E9E7"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

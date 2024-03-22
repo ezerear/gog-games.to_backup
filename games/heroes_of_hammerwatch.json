@@ -1,0 +1,102 @@
+{
+    "href": "/game/heroes_of_hammerwatch",
+    "MSG": {
+        "id": "2143654691",
+        "title": "Heroes of Hammerwatch",
+        "slug": "heroes_of_hammerwatch",
+        "thumb_id": "f5cd4271e3b45717bbbc08da9fc50551e5624fd5ab16875a11fada9af1caedad",
+        "bg_id": "635e167b1a3ff5c010f00b6cd392649e8c3a79d06b3f17ab655a3ca55cb07647",
+        "url": "https://www.gog.com/game/heroes_of_hammerwatch",
+        "developer": "Crackshell",
+        "publisher": "Crackshell",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1705052207",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_heroes_of_hammerwatch_104_(36573).exe",
+                    "size": "317770624"
+                },
+                {
+                    "name": "setup_heroes_of_hammerwatch_moon_temple_104_(36573).exe",
+                    "size": "6305528"
+                },
+                {
+                    "name": "setup_heroes_of_hammerwatch_pyramid_of_prophecy_104_(36573).exe",
+                    "size": "6124200"
+                },
+                {
+                    "name": "setup_heroes_of_hammerwatch_witch_hunter_104_(36573).exe",
+                    "size": "6426816"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E0B6733263",
+                            "link": "https://filecrypt.cc/Container/E0B6733263"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FEB85A5547",
+                            "link": "https://filecrypt.cc/Container/FEB85A5547"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/25D55C218F",
+                            "link": "https://filecrypt.cc/Container/25D55C218F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0B0FC0DA40",
+                            "link": "https://filecrypt.cc/Container/0B0FC0DA40"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3581E179C6",
+                            "link": "https://filecrypt.cc/Container/3581E179C6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

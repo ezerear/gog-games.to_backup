@@ -1,0 +1,135 @@
+{
+    "href": "/game/roboquest",
+    "MSG": {
+        "id": "1664741320",
+        "title": "Roboquest",
+        "slug": "roboquest",
+        "thumb_id": "f57a495ca87aa8e97d09bb2173ac512e89a9ca21c80a04fb67c8548ec8237780",
+        "bg_id": "5e9bb10768142df7f8765af11e118798a5f50f42ab4cfeb5fa7303cb345c4adb",
+        "url": "https://www.gog.com/game/roboquest",
+        "developer": "RyseUp Studios",
+        "publisher": "RyseUp Studios",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709051688",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_roboquest_1.1.0_-_hotfix_-_19_(64bit)_(70361)-1.bin",
+                    "size": "4294123518"
+                },
+                {
+                    "name": "setup_roboquest_1.1.0_-_hotfix_-_19_(64bit)_(70361)-2.bin",
+                    "size": "299904998"
+                },
+                {
+                    "name": "setup_roboquest_1.1.0_-_hotfix_-_19_(64bit)_(70361).exe",
+                    "size": "853864"
+                },
+                {
+                    "name": "setup_roboquest_soundtrack_1.1.0_-_hotfix_-_19_(64bit)_(70361).exe",
+                    "size": "6758624"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "Art_Of_Roboquest.zip",
+                    "size": "154375119"
+                },
+                {
+                    "name": "roboquest_OST_mp3.zip",
+                    "size": "266181217"
+                },
+                {
+                    "name": "roboquest_ost_wav.zip",
+                    "size": "1704094169"
+                },
+                {
+                    "name": "roboquest_soundtrack_mp3.zip",
+                    "size": "198613209"
+                },
+                {
+                    "name": "roboquest_soundtrack_wav.zip",
+                    "size": "1053483956"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7935FA56FA",
+                            "link": "https://filecrypt.cc/Container/7935FA56FA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/693F7A5A9A",
+                            "link": "https://filecrypt.cc/Container/693F7A5A9A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F2C04A9729",
+                            "link": "https://filecrypt.cc/Container/F2C04A9729"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C810CDCA6F",
+                            "link": "https://filecrypt.cc/Container/C810CDCA6F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/04D4F0A178",
+                            "link": "https://filecrypt.cc/Container/04D4F0A178"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7A9A1055F5",
+                            "link": "https://filecrypt.cc/Container/7A9A1055F5"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

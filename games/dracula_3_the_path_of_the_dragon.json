@@ -1,0 +1,119 @@
+{
+    "href": "/game/dracula_3_the_path_of_the_dragon",
+    "MSG": {
+        "id": "1207661573",
+        "title": "Dracula 3 - The Path of the Dragon",
+        "slug": "dracula_3_the_path_of_the_dragon",
+        "thumb_id": "648ca22095fd550dc686b4bb43e74363a2bf0cb71685e42a49e7138b371e5173",
+        "bg_id": "ad503cdad24748edf5020c8c0e01cd012ec3efe1d91b21db722ff56076d5a1df",
+        "url": "https://www.gog.com/game/dracula_trilogy",
+        "developer": "Anuman Interactive",
+        "publisher": "Anuman Interactive",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708472815",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dracula3_2.1.0.5-1.bin",
+                    "size": "2625584032"
+                },
+                {
+                    "name": "setup_dracula3_2.1.0.5.exe",
+                    "size": "31588952"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "dracula_trilogy_avatars.zip",
+                    "size": "28196"
+                },
+                {
+                    "name": "dracula_trilogy_manuals.zip",
+                    "size": "6046222"
+                },
+                {
+                    "name": "dracula_trilogy_wallpaper.zip",
+                    "size": "666590"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/160FBCF84C",
+                            "link": "https://filecrypt.cc/Container/160FBCF84C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6EE5C5B240",
+                            "link": "https://filecrypt.cc/Container/6EE5C5B240"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6471E9F485",
+                            "link": "https://filecrypt.cc/Container/6471E9F485"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/33BCD078AE",
+                            "link": "https://filecrypt.cc/Container/33BCD078AE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2388372DF7",
+                            "link": "https://filecrypt.cc/Container/2388372DF7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DDE27C5175",
+                            "link": "https://filecrypt.cc/Container/DDE27C5175"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

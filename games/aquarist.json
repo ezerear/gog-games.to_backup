@@ -1,0 +1,72 @@
+{
+    "href": "/game/aquarist",
+    "MSG": {
+        "id": "1995737499",
+        "title": "Aquarist",
+        "slug": "aquarist",
+        "thumb_id": "d1484a6601c13dcc414808e7a270d1ca29bcb290bbc8ce8f23a8863b18768a2b",
+        "bg_id": "c765607b882520c04b83e528df7a1f6697d52085587953461c58d850c495541e",
+        "url": "https://www.gog.com/en/game/aquarist",
+        "developer": "FreeMind S.A.",
+        "publisher": "FreeMind S.A.",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1709059744",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_aquarist_1.0_(64bit)_(60950)-1.bin",
+                    "size": "2640719808"
+                },
+                {
+                    "name": "setup_aquarist_1.0_(64bit)_(60950).exe",
+                    "size": "878424"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AE2B8DE01E",
+                            "link": "https://filecrypt.cc/Container/AE2B8DE01E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9CC25A68B0",
+                            "link": "https://filecrypt.cc/Container/9CC25A68B0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BD654116FC",
+                            "link": "https://filecrypt.cc/Container/BD654116FC"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

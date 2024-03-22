@@ -1,0 +1,68 @@
+{
+    "href": "/game/yuppie_psycho_executive_edition",
+    "MSG": {
+        "id": "1712606960",
+        "title": "Yuppie Psycho: Executive Edition",
+        "slug": "yuppie_psycho_executive_edition",
+        "thumb_id": "d1938652107c06a6399f3cb95e6c28795f56886ff12adda50276b128a808ff79",
+        "bg_id": "e8d933c69ad6dff93200e1e819bbd7d0ceb4ccd499d336185aa936fde44a2dc2",
+        "url": "https://www.gog.com/game/yuppie_psycho_executive_edition",
+        "developer": "Baroque Decay",
+        "publisher": "Another Indie",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709378903",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_yuppie_psycho_executive_edition_2.5.12_(64bit)_(60060).exe",
+                    "size": "1415469120"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6409C10B8E",
+                            "link": "https://filecrypt.cc/Container/6409C10B8E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2CEAA9E560",
+                            "link": "https://filecrypt.cc/Container/2CEAA9E560"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/79FCE9361F",
+                            "link": "https://filecrypt.cc/Container/79FCE9361F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

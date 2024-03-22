@@ -1,0 +1,90 @@
+{
+    "href": "/game/tower_of_boin",
+    "MSG": {
+        "id": "1122201249",
+        "title": "Tower of Boin",
+        "slug": "tower_of_boin",
+        "thumb_id": "2e22bf08c47167562ae8f5d72652e00838ea361bc05dbe053cc05921a138f456",
+        "bg_id": "f7ad156e9b18f79205e8e1a92511c7a2910f8db2c91390696ea9508da02c6527",
+        "url": "https://www.gog.com/en/game/tower_of_boin",
+        "developer": "Nenokuni Studio",
+        "publisher": "Shady Corner Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1704998704",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_tower_of_boin_1.2_(68288).exe",
+                    "size": "36364160"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4BA0B2D638",
+                            "link": "https://filecrypt.cc/Container/4BA0B2D638"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/176E865A27",
+                            "link": "https://filecrypt.cc/Container/176E865A27"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/607EF9E2D2",
+                            "link": "https://filecrypt.cc/Container/607EF9E2D2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EC266FD349",
+                            "link": "https://filecrypt.cc/Container/EC266FD349"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/28FE79C990",
+                            "link": "https://filecrypt.cc/Container/28FE79C990"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

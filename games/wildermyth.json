@@ -1,0 +1,76 @@
+{
+    "href": "/game/wildermyth",
+    "MSG": {
+        "id": "1853330157",
+        "title": "Wildermyth",
+        "slug": "wildermyth",
+        "thumb_id": "8a0fa5980b8ad7158e94999d5c2c9035dab0c80bf3c8fc768b1fe6d8b0c9f6b9",
+        "bg_id": "6a0c95f0f6d735812b74de346c1d7038f6d4bf654dd3bd7afd0f0200626c7ecb",
+        "url": "https://www.gog.com/en/game/wildermyth",
+        "developer": "Worldwalker Games LLC",
+        "publisher": "Worldwalker Games LLC",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709887816",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_wildermyth_-_armors_and_skins_1.15505_orien_marten_(64bit)_(68180).exe",
+                    "size": "5802024"
+                },
+                {
+                    "name": "setup_wildermyth_1.15505_orien_marten_(64bit)_(68180)-1.bin",
+                    "size": "1933204498"
+                },
+                {
+                    "name": "setup_wildermyth_1.15505_orien_marten_(64bit)_(68180).exe",
+                    "size": "5972264"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3E9843BEC2",
+                            "link": "https://filecrypt.cc/Container/3E9843BEC2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3BCB7B02F0",
+                            "link": "https://filecrypt.cc/Container/3BCB7B02F0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4F1649880D",
+                            "link": "https://filecrypt.cc/Container/4F1649880D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

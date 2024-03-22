@@ -1,0 +1,115 @@
+{
+    "href": "/game/elven_legacy_collection",
+    "MSG": {
+        "id": "1455891732",
+        "title": "Elven Legacy Collection",
+        "slug": "elven_legacy_collection",
+        "thumb_id": "82f64f3f45fbccfa805aa50306b964ffcdb662602c3b8980d9ad2a73e53ffbac",
+        "bg_id": "308980f68ba5ada10d814e5e82cf3699a2745df5de663ec7eb383511ece1ba30",
+        "url": "https://www.gog.com/game/elven_legacy_collection",
+        "developer": "1C: Ino-Co",
+        "publisher": "1C Publishing",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710257350",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_elven_legacy_collection_1.0.9.2_(19071)-1.bin",
+                    "size": "2376840157"
+                },
+                {
+                    "name": "setup_elven_legacy_collection_1.0.9.2_(19071).exe",
+                    "size": "944984"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "elven_legacy_manual.zip",
+                    "size": "24115305"
+                },
+                {
+                    "name": "elven_legacy_wallpapers.zip",
+                    "size": "483813"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B52D8DC6CF",
+                            "link": "https://filecrypt.cc/Container/B52D8DC6CF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B66117C5E2",
+                            "link": "https://filecrypt.cc/Container/B66117C5E2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B3F0CC98CF",
+                            "link": "https://filecrypt.cc/Container/B3F0CC98CF"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A5485FAF56",
+                            "link": "https://filecrypt.cc/Container/A5485FAF56"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1546F53FA0",
+                            "link": "https://filecrypt.cc/Container/1546F53FA0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/33FFB79256",
+                            "link": "https://filecrypt.cc/Container/33FFB79256"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

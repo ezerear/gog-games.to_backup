@@ -1,0 +1,107 @@
+{
+    "href": "/game/waxworks",
+    "MSG": {
+        "id": "1207658702",
+        "title": "Waxworks",
+        "slug": "waxworks",
+        "thumb_id": "2594db9a403f6b063929f996037a69b32573e2f689ceaf955ae993221f325b90",
+        "bg_id": "590cb9218d7c4706d0dffff17e7873d4348c54318015722599fdc49d087a0703",
+        "url": "https://www.gog.com/game/waxworks",
+        "developer": "Horrorsoft",
+        "publisher": "Adventure Soft",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710276366",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_waxworks_1.0_(28045).exe",
+                    "size": "20438280"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "waxworks_manual.zip",
+                    "size": "3487218"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2102117DF9",
+                            "link": "https://filecrypt.cc/Container/2102117DF9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D303238745",
+                            "link": "https://filecrypt.cc/Container/D303238745"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3F50B1B95A",
+                            "link": "https://filecrypt.cc/Container/3F50B1B95A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E6E07C3E50",
+                            "link": "https://filecrypt.cc/Container/E6E07C3E50"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/82A2A78F35",
+                            "link": "https://filecrypt.cc/Container/82A2A78F35"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AD5EF063F7",
+                            "link": "https://filecrypt.cc/Container/AD5EF063F7"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,72 @@
+{
+    "href": "/game/mahokenshi",
+    "MSG": {
+        "id": "1409800471",
+        "title": "Mahokenshi",
+        "slug": "mahokenshi",
+        "thumb_id": "c71c070f59b72dc895b57950bc6410e0794ab57edf2052e03bf34ab536a4b959",
+        "bg_id": "e9b0e9a1ce3699228dccdf5bcc9311d2cdbefb5c503832480ef64a1b157b3d5c",
+        "url": "https://www.gog.com/en/game/mahokenshi",
+        "developer": "Game Source Studio",
+        "publisher": "Iceberg Interactive",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710836334",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_mahokenshi_1.3.5_(64140)-1.bin",
+                    "size": "2184141265"
+                },
+                {
+                    "name": "setup_mahokenshi_1.3.5_(64140).exe",
+                    "size": "830544"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5415E2D12B",
+                            "link": "https://filecrypt.cc/Container/5415E2D12B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F4BCC352DC",
+                            "link": "https://filecrypt.cc/Container/F4BCC352DC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/40FF293F84",
+                            "link": "https://filecrypt.cc/Container/40FF293F84"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

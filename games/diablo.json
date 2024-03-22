@@ -1,0 +1,123 @@
+{
+    "href": "/game/diablo",
+    "MSG": {
+        "id": "1412601690",
+        "title": "Diablo + Hellfire",
+        "slug": "diablo",
+        "thumb_id": "2a351ec2315d2b082c120a1499434480758e56603d2cf21a93e544300c0f3829",
+        "bg_id": "5edc48110ce3b84fcf36933cd88c41e53b343359c630f81c44efaaf8be105972",
+        "url": "https://www.gog.com/game/diablo",
+        "developer": "Blizzard Entertainment, Inc.",
+        "publisher": "Blizzard Entertainment, Inc.",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709990400",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_diablo_1.09_hellfire_v2_(30038).exe",
+                    "size": "850110240"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "diablo_manual.zip",
+                    "size": "22955137"
+                },
+                {
+                    "name": "diablo_manual_DE.zip",
+                    "size": "3784990"
+                },
+                {
+                    "name": "diablo_manual_FR.zip",
+                    "size": "5291073"
+                },
+                {
+                    "name": "diablo_manual_IT.zip",
+                    "size": "5177718"
+                },
+                {
+                    "name": "wallpaper_2560x1440_diablo.zip",
+                    "size": "1960808"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/17E5BD3218",
+                            "link": "https://filecrypt.cc/Container/17E5BD3218"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/272994A992",
+                            "link": "https://filecrypt.cc/Container/272994A992"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E343DE7D3B",
+                            "link": "https://filecrypt.cc/Container/E343DE7D3B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8B0EBBA3E1",
+                            "link": "https://filecrypt.cc/Container/8B0EBBA3E1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EE74C5B51B",
+                            "link": "https://filecrypt.cc/Container/EE74C5B51B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BD62582D33",
+                            "link": "https://filecrypt.cc/Container/BD62582D33"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

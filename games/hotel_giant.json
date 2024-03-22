@@ -1,0 +1,90 @@
+{
+    "href": "/game/hotel_giant",
+    "MSG": {
+        "id": "1698260742",
+        "title": "Hotel Giant",
+        "slug": "hotel_giant",
+        "thumb_id": "b75c95e7bfd0381d207a5e889eecd396c98c7647605a0bc5f1936a7059eb49a4",
+        "bg_id": "7779bef9f357b6e6524aa7850bff7d5f3b04c17c0d9b34c28850013130b10371",
+        "url": "https://www.gog.com/en/game/hotel_giant",
+        "developer": "QLOC",
+        "publisher": "Toplitz Productions",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1703099004",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hotel_giant_1.0.0.0._(53531).exe",
+                    "size": "391713760"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/87AF6BEE59",
+                            "link": "https://filecrypt.cc/Container/87AF6BEE59"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DA00F25FD7",
+                            "link": "https://filecrypt.cc/Container/DA00F25FD7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A0BFDA3641",
+                            "link": "https://filecrypt.cc/Container/A0BFDA3641"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/705906489E",
+                            "link": "https://filecrypt.cc/Container/705906489E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E5C96D10CC",
+                            "link": "https://filecrypt.cc/Container/E5C96D10CC"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

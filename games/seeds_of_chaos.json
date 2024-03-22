@@ -1,0 +1,68 @@
+{
+    "href": "/game/seeds_of_chaos",
+    "MSG": {
+        "id": "1615566724",
+        "title": "Seeds of Chaos",
+        "slug": "seeds_of_chaos",
+        "thumb_id": "be48dc62d5e5797e88e1d9254e07e2d11e3970f0d91407d7519d438377139da8",
+        "bg_id": "3dd60b55411c18fa40ffacf740c8f028fdb55dc61dfa8e01cf880d95f1a11c8c",
+        "url": "https://www.gog.com/en/game/seeds_of_chaos",
+        "developer": "Venus Noire",
+        "publisher": "TinyHat Studios",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709203460",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_seeds_of_chaos_0.3.11_(64234).exe",
+                    "size": "1345877832"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AEDF752FCD",
+                            "link": "https://filecrypt.cc/Container/AEDF752FCD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4BDEC6DB04",
+                            "link": "https://filecrypt.cc/Container/4BDEC6DB04"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EF2FCB95A4",
+                            "link": "https://filecrypt.cc/Container/EF2FCB95A4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

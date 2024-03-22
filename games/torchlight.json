@@ -1,0 +1,127 @@
+{
+    "href": "/game/torchlight",
+    "MSG": {
+        "id": "1207659069",
+        "title": "Torchlight",
+        "slug": "torchlight",
+        "thumb_id": "395336bf671bf508dbc0adcf7ae55e1f6cb7763bb1aba000074a1193ae293f82",
+        "bg_id": "51a5d1be8c50b36655a0f057b12a0e13c9412de0c921a3b3f4aa753198bbd364",
+        "url": "https://www.gog.com/game/torchlight",
+        "developer": "Runic Games Inc.",
+        "publisher": "Runic Games Inc.",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710466826",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_torchlight_1.15(a)_(23675).exe",
+                    "size": "441477232"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "torchlight_artworks.zip",
+                    "size": "10202678"
+                },
+                {
+                    "name": "torchlight_avatars.zip",
+                    "size": "179993"
+                },
+                {
+                    "name": "torchlight_level_editor.zip",
+                    "size": "403385063"
+                },
+                {
+                    "name": "torchlight_manual.zip",
+                    "size": "2593660"
+                },
+                {
+                    "name": "torchlight_soundtrack.zip",
+                    "size": "58118308"
+                },
+                {
+                    "name": "torchlight_wallpapers.zip",
+                    "size": "21785184"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5EBC9E2E87",
+                            "link": "https://filecrypt.cc/Container/5EBC9E2E87"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0DE9220B7D",
+                            "link": "https://filecrypt.cc/Container/0DE9220B7D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/987F0CB3C1",
+                            "link": "https://filecrypt.cc/Container/987F0CB3C1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1A802AC207",
+                            "link": "https://filecrypt.cc/Container/1A802AC207"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/348F2B1A00",
+                            "link": "https://filecrypt.cc/Container/348F2B1A00"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F2282F29A7",
+                            "link": "https://filecrypt.cc/Container/F2282F29A7"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

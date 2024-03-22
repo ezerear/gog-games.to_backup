@@ -1,0 +1,84 @@
+{
+    "href": "/game/outward_definitive_edition",
+    "MSG": {
+        "id": "1091409855",
+        "title": "Outward Definitive Edition",
+        "slug": "outward_definitive_edition",
+        "thumb_id": "7c4cd2e23abe549391b2a009eba3bc45c6096cb7c46a9d297c1054da64f2acb1",
+        "bg_id": "256a289ac10919b55881889583553babfdee03f85c4389855d16e96b637c8b3c",
+        "url": "https://www.gog.com/en/game/outward_definitive_edition",
+        "developer": "Nine Dots Studio",
+        "publisher": "Prime Matter",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710007937",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_outward_definitive_edition_1.0.2b_(59585)-1.bin",
+                    "size": "4286594558"
+                },
+                {
+                    "name": "setup_outward_definitive_edition_1.0.2b_(59585)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_outward_definitive_edition_1.0.2b_(59585)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_outward_definitive_edition_1.0.2b_(59585)-4.bin",
+                    "size": "3859693007"
+                },
+                {
+                    "name": "setup_outward_definitive_edition_1.0.2b_(59585).exe",
+                    "size": "8382976"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/153BB20959",
+                            "link": "https://filecrypt.cc/Container/153BB20959"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D2A6216F23",
+                            "link": "https://filecrypt.cc/Container/D2A6216F23"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D6F091D9B0",
+                            "link": "https://filecrypt.cc/Container/D6F091D9B0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,115 @@
+{
+    "href": "/game/konung_legend_of_the_north",
+    "MSG": {
+        "id": "1455290088",
+        "title": "Konung: Legend of the North",
+        "slug": "konung_legend_of_the_north",
+        "thumb_id": "7e143d1242b62cf0ea7dfb5f40189971ba962d46b5deaf3c7f77104bdea5cee5",
+        "bg_id": "ae9c09cb6ec9f77138ca616d5f11be2df0b19ffee17c0301586ef20c6c06ce10",
+        "url": "https://www.gog.com/game/konung_1_2",
+        "developer": "1C Company",
+        "publisher": "1C Publishing",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709958587",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_konung_2.0.0.2.exe",
+                    "size": "269357032"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "konung_legend_of_the_north_concept_art.zip",
+                    "size": "1084901"
+                },
+                {
+                    "name": "konung_legend_of_the_north_manual.zip",
+                    "size": "285470"
+                },
+                {
+                    "name": "konung_legend_of_the_north_soundtrack.zip",
+                    "size": "20830255"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/270F3666A6",
+                            "link": "https://filecrypt.cc/Container/270F3666A6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3C56ED4650",
+                            "link": "https://filecrypt.cc/Container/3C56ED4650"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/256970594A",
+                            "link": "https://filecrypt.cc/Container/256970594A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3764DA8487",
+                            "link": "https://filecrypt.cc/Container/3764DA8487"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/86AB7D39D0",
+                            "link": "https://filecrypt.cc/Container/86AB7D39D0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9FCFA736D3",
+                            "link": "https://filecrypt.cc/Container/9FCFA736D3"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,72 @@
+{
+    "href": "/game/event0",
+    "MSG": {
+        "id": "1976935743",
+        "title": "Event[0]",
+        "slug": "event0",
+        "thumb_id": "bb47d4337f84ce6e7342c2bbc3e72f2cc5ff59b43603dde99be0db305f88fc87",
+        "bg_id": "a9e98d313c673d39861778c1ae5a0a1adfdf3fb696f0e2b1fb2bad70eaa9408b",
+        "url": "https://www.gog.com/game/event0",
+        "developer": "Ocelot Society",
+        "publisher": "Ocelot Society",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710470327",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_event0_169221(20171207)_(16957)-1.bin",
+                    "size": "2717440620"
+                },
+                {
+                    "name": "setup_event0_169221(20171207)_(16957).exe",
+                    "size": "2086560"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CDABFD0176",
+                            "link": "https://filecrypt.cc/Container/CDABFD0176"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3F98D3D464",
+                            "link": "https://filecrypt.cc/Container/3F98D3D464"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C7AC556EAE",
+                            "link": "https://filecrypt.cc/Container/C7AC556EAE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

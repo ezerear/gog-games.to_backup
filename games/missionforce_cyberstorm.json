@@ -1,0 +1,90 @@
+{
+    "href": "/game/missionforce_cyberstorm",
+    "MSG": {
+        "id": "2099484877",
+        "title": "MissionForce: CyberStorm",
+        "slug": "missionforce_cyberstorm",
+        "thumb_id": "0f13045bf97b780143134b02af0236079f8b9563d139f21203af864fb43612fb",
+        "bg_id": "490239ba30dff86e640c50a6de7110010386261b92d02501e6552e6130a32fff",
+        "url": "https://www.gog.com/game/missionforce_cyberstorm",
+        "developer": "Dynamix",
+        "publisher": "Activision",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1704735492",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_missionforce_cyberstorm_1.1_(31064).exe",
+                    "size": "248538712"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/255C8DE47C",
+                            "link": "https://filecrypt.cc/Container/255C8DE47C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1AE0A5FEB6",
+                            "link": "https://filecrypt.cc/Container/1AE0A5FEB6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C2308F0780",
+                            "link": "https://filecrypt.cc/Container/C2308F0780"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/07A2E1C273",
+                            "link": "https://filecrypt.cc/Container/07A2E1C273"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EE7C78CCC4",
+                            "link": "https://filecrypt.cc/Container/EE7C78CCC4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

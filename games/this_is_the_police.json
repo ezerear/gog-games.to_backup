@@ -1,0 +1,94 @@
+{
+    "href": "/game/this_is_the_police",
+    "MSG": {
+        "id": "1513553405",
+        "title": "This Is the Police",
+        "slug": "this_is_the_police",
+        "thumb_id": "7b7136ab536473c03d5b4afee7eec6f312c68574c99f161a517b7bbe898913fe",
+        "bg_id": "b48b223094ce53b11e237d21dad4522ec6883fdfc4ac0b8ca3a467bcfa85526b",
+        "url": "https://www.gog.com/game/this_is_the_police",
+        "developer": "Weappy Studio",
+        "publisher": "THQ Nordic GmbH",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1707771558",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_this_is_the_police_1.1.3.0_(11248)-1.bin",
+                    "size": "1062081402"
+                },
+                {
+                    "name": "setup_this_is_the_police_1.1.3.0_(11248).exe",
+                    "size": "722584"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/829C683513",
+                            "link": "https://filecrypt.cc/Container/829C683513"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D6BADB2611",
+                            "link": "https://filecrypt.cc/Container/D6BADB2611"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E5563166ED",
+                            "link": "https://filecrypt.cc/Container/E5563166ED"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/25E7D1DB71",
+                            "link": "https://filecrypt.cc/Container/25E7D1DB71"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3A1FD90D42",
+                            "link": "https://filecrypt.cc/Container/3A1FD90D42"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

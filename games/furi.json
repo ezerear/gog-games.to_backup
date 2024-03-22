@@ -1,0 +1,119 @@
+{
+    "href": "/game/furi",
+    "MSG": {
+        "id": "2098128602",
+        "title": "Furi",
+        "slug": "furi",
+        "thumb_id": "5a4fde164d02c1a7f6529442621d6809d79de5f749593d756ddc29c041d3e362",
+        "bg_id": "ecbeb1437e68e7e4dbc7e170fa64d32f2f642cd40e402e2d12ff051d8c53120f",
+        "url": "https://www.gog.com/game/furi",
+        "developer": "The Game Bakers",
+        "publisher": "Plug In Digital",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709758231",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_furi_-_onnamusha_1.7.224_official_(64bit)_(56585).exe",
+                    "size": "6594520"
+                },
+                {
+                    "name": "setup_furi_1.7.224_official_(64bit)_(56585)-1.bin",
+                    "size": "2329736472"
+                },
+                {
+                    "name": "setup_furi_1.7.224_official_(64bit)_(56585).exe",
+                    "size": "875256"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "furi_original_soundtrack_flac.zip",
+                    "size": "1230133354"
+                },
+                {
+                    "name": "furi_original_soundtrack_mp3.zip",
+                    "size": "188143069"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/99C0BCE77D",
+                            "link": "https://filecrypt.cc/Container/99C0BCE77D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/60FB93987D",
+                            "link": "https://filecrypt.cc/Container/60FB93987D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/027A2B44CF",
+                            "link": "https://filecrypt.cc/Container/027A2B44CF"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4D831F027B",
+                            "link": "https://filecrypt.cc/Container/4D831F027B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/835FDF4BE2",
+                            "link": "https://filecrypt.cc/Container/835FDF4BE2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E6B5418C91",
+                            "link": "https://filecrypt.cc/Container/E6B5418C91"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

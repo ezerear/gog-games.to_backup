@@ -1,0 +1,123 @@
+{
+    "href": "/game/dropsy",
+    "MSG": {
+        "id": "1441869560",
+        "title": "Dropsy",
+        "slug": "dropsy",
+        "thumb_id": "146f4238388fa4b833156f8621a43c8c0350c3b1f589e83bcef98ff952c1ceff",
+        "bg_id": "8dfbe3ea431cf6e58d79c282cd1b31b61a8f7d07eb9835a9f21371a8c4defe1d",
+        "url": "https://www.gog.com/game/dropsy",
+        "developer": "Tendershoot, A Jolly Corpse",
+        "publisher": "Devolver Digital",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710100149",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dropsy_1.4_(17629).exe",
+                    "size": "260087288"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "dropsy_wdh_book_of_secrets.zip",
+                    "size": "71877183"
+                },
+                {
+                    "name": "dropsy_wdh_eternal_hug_ep_flac.zip",
+                    "size": "132132928"
+                },
+                {
+                    "name": "dropsy_wdh_eternal_hug_ep_mp3.zip",
+                    "size": "54321597"
+                },
+                {
+                    "name": "dropsy_wdh_ost_flac.zip",
+                    "size": "497830074"
+                },
+                {
+                    "name": "dropsy_wdh_ost_mp3.zip",
+                    "size": "108686978"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/514B6A9EAC",
+                            "link": "https://filecrypt.cc/Container/514B6A9EAC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C7A7E9BA68",
+                            "link": "https://filecrypt.cc/Container/C7A7E9BA68"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DA83CC6B14",
+                            "link": "https://filecrypt.cc/Container/DA83CC6B14"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/140C8BDCA3",
+                            "link": "https://filecrypt.cc/Container/140C8BDCA3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8640E59C2D",
+                            "link": "https://filecrypt.cc/Container/8640E59C2D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/83F07EA9BE",
+                            "link": "https://filecrypt.cc/Container/83F07EA9BE"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

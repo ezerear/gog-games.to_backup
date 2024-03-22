@@ -1,0 +1,109 @@
+{
+    "href": "/game/book_of_demons",
+    "MSG": {
+        "id": "1580300418",
+        "title": "Book of Demons",
+        "slug": "book_of_demons",
+        "thumb_id": "d9d03ff8ba239fc9bb49308ada8c734aee945b35426496d255157ab3ce37f581",
+        "bg_id": "ccd678d5fc317aa8e24d07cd958085c612b95cedc077c9df2188b0eec373dd26",
+        "url": "https://www.gog.com/game/book_of_demons",
+        "developer": "Thing Trunk",
+        "publisher": "Thing Trunk",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710145334",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_book_of_demons_1.05.221221_(61311).exe",
+                    "size": "808726008"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "book_of_demons_avatars.zip",
+                    "size": "4744441"
+                },
+                {
+                    "name": "book_of_demons_digital_artbook.zip",
+                    "size": "79012641"
+                },
+                {
+                    "name": "book_of_demons_digital_poster.zip",
+                    "size": "107966225"
+                },
+                {
+                    "name": "book_of_demons_prototype.zip",
+                    "size": "7290805"
+                },
+                {
+                    "name": "book_of_demons_soundtrack_flac.zip",
+                    "size": "863160120"
+                },
+                {
+                    "name": "book_of_demons_soundtrack_mp3.zip",
+                    "size": "198346389"
+                },
+                {
+                    "name": "book_of_demons_wallpapers.zip",
+                    "size": "224737553"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/37FB606563",
+                            "link": "https://filecrypt.cc/Container/37FB606563"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7B4027EE11",
+                            "link": "https://filecrypt.cc/Container/7B4027EE11"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9A602C393B",
+                            "link": "https://filecrypt.cc/Container/9A602C393B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1BC8D89164",
+                            "link": "https://filecrypt.cc/Container/1BC8D89164"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

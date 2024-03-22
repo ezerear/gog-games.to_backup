@@ -1,0 +1,94 @@
+{
+    "href": "/game/attentat_1942",
+    "MSG": {
+        "id": "1153735119",
+        "title": "Attentat 1942",
+        "slug": "attentat_1942",
+        "thumb_id": "3ba6b0d6efb3fd19eb52756e15aa99c01fa5f2eeecc1c038cb2c6dea57e649f4",
+        "bg_id": "f9d05527356014a3d00c60fa2e07ab580c35c3434311026f98d40178bc280c1d",
+        "url": "https://www.gog.com/en/game/attentat_1942",
+        "developer": "Charles Games",
+        "publisher": "Charles Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1699665322",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_attentat_1942_1.1_(64bit)_(60661)-1.bin",
+                    "size": "2069703329"
+                },
+                {
+                    "name": "setup_attentat_1942_1.1_(64bit)_(60661).exe",
+                    "size": "965800"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E08AE707CD",
+                            "link": "https://filecrypt.cc/Container/E08AE707CD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/73A5D8BD17",
+                            "link": "https://filecrypt.cc/Container/73A5D8BD17"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D72B5F0EB0",
+                            "link": "https://filecrypt.cc/Container/D72B5F0EB0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1CB30774BC",
+                            "link": "https://filecrypt.cc/Container/1CB30774BC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5B80006EA3",
+                            "link": "https://filecrypt.cc/Container/5B80006EA3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,119 @@
+{
+    "href": "/game/evoland",
+    "MSG": {
+        "id": "1207659200",
+        "title": "Evoland",
+        "slug": "evoland",
+        "thumb_id": "328f64d901b4604a2a56c696639ecc3fff0760386bd187589009b0b3b478ade1",
+        "bg_id": "40d3976553fb63ffd1e410d907d6a869982371feeab99f04e7659761b55d2d4d",
+        "url": "https://www.gog.com/game/evoland",
+        "developer": "Shiro Games",
+        "publisher": "Shiro Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708514679",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_evoland_1.1.2490_(20677).exe",
+                    "size": "93042368"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "evoland_avatars.zip",
+                    "size": "116722"
+                },
+                {
+                    "name": "evoland_concept_art.zip",
+                    "size": "2229859"
+                },
+                {
+                    "name": "evoland_soundtrack.zip",
+                    "size": "15701154"
+                },
+                {
+                    "name": "evoland_wallpapers.zip",
+                    "size": "2369227"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/757D7893E5",
+                            "link": "https://filecrypt.cc/Container/757D7893E5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1ACC2B7F09",
+                            "link": "https://filecrypt.cc/Container/1ACC2B7F09"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A95E65D387",
+                            "link": "https://filecrypt.cc/Container/A95E65D387"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/083D1C5A9E",
+                            "link": "https://filecrypt.cc/Container/083D1C5A9E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/63D18E2725",
+                            "link": "https://filecrypt.cc/Container/63D18E2725"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D540779CAF",
+                            "link": "https://filecrypt.cc/Container/D540779CAF"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,104 @@
+{
+    "href": "/game/polaris_sector",
+    "MSG": {
+        "id": "1439608799",
+        "title": "Polaris Sector - Gold Edition",
+        "slug": "polaris_sector",
+        "thumb_id": "6de7dfca44b8bf35c431a3f2f6d124b1391b55af1cb246237cb52afc55ff5482",
+        "bg_id": "fc6802cb290dd28dc72130c0f1529404e27f905b0e24a6d79d785284d2b0c7e6",
+        "url": "https://www.gog.com/game/polaris_sector",
+        "developer": "SoftWarWare",
+        "publisher": "Slitherine Ltd.",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1709326766",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_polaris_sector_1.06g_(24374)-1.bin",
+                    "size": "4294008318"
+                },
+                {
+                    "name": "setup_polaris_sector_1.06g_(24374)-2.bin",
+                    "size": "299898340"
+                },
+                {
+                    "name": "setup_polaris_sector_1.06g_(24374).exe",
+                    "size": "965864"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "polaris_sector_manual.zip",
+                    "size": "3180764"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/18D126D5CD",
+                            "link": "https://filecrypt.cc/Container/18D126D5CD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/90B556FC6C",
+                            "link": "https://filecrypt.cc/Container/90B556FC6C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CC741E39DF",
+                            "link": "https://filecrypt.cc/Container/CC741E39DF"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C9EC0FC8BC",
+                            "link": "https://filecrypt.cc/Container/C9EC0FC8BC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A22B0178AE",
+                            "link": "https://filecrypt.cc/Container/A22B0178AE"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

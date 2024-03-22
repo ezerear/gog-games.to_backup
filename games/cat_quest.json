@@ -1,0 +1,68 @@
+{
+    "href": "/game/cat_quest",
+    "MSG": {
+        "id": "1687656736",
+        "title": "Cat Quest",
+        "slug": "cat_quest",
+        "thumb_id": "bacd0633f29e3ca0e170b11019426dce088d319b45aff5086f73095d0fb3cc9d",
+        "bg_id": "3a3e312c9313665c49e4a85b9d833232e153b18fcefeed5593e1e199ea11e64c",
+        "url": "https://www.gog.com/game/cat_quest",
+        "developer": "The Gentlebros",
+        "publisher": "PQube Limited",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709210924",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_cat_quest_1.2.10.2_(42782).exe",
+                    "size": "113567136"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/20FA68C855",
+                            "link": "https://filecrypt.cc/Container/20FA68C855"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5F9BA4E4BA",
+                            "link": "https://filecrypt.cc/Container/5F9BA4E4BA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8D70BF6C11",
+                            "link": "https://filecrypt.cc/Container/8D70BF6C11"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,79 @@
+{
+    "href": "/game/adventures_of_chris",
+    "MSG": {
+        "id": "1554215892",
+        "title": "Adventures of Chris",
+        "slug": "adventures_of_chris",
+        "thumb_id": "38e8d43298fcc5e2621bff81718bc72ae1c2d821ee5fcd458329795ac3c1ebe1",
+        "bg_id": "2c5ac4ae64478b3e57e95a25363bdc616af9816e6ff06753b3ab22c56ba16958",
+        "url": "https://www.gog.com/game/adventures_of_chris",
+        "developer": "Render Cube",
+        "publisher": " Graffiti Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1703221044",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_adventures_of_chris_1.4_(64bit)_(42647).exe",
+                    "size": "444663616"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0A0F753A58",
+                            "link": "https://filecrypt.cc/Container/0A0F753A58"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/41CF04E631",
+                            "link": "https://filecrypt.cc/Container/41CF04E631"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C96BE98FAF",
+                            "link": "https://filecrypt.cc/Container/C96BE98FAF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/42A31C67B8",
+                            "link": "https://filecrypt.cc/Container/42A31C67B8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

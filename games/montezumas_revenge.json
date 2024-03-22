@@ -1,0 +1,57 @@
+{
+    "href": "/game/montezumas_revenge",
+    "MSG": {
+        "id": "1571578826",
+        "title": "Montezuma's Revenge",
+        "slug": "montezumas_revenge",
+        "thumb_id": "24e6e826abe3962adc5bb773f20a7a771fbb1b413cd46a02fcd5aee37875c96b",
+        "bg_id": "a151f1f0e8c0f1321518efe9c901ce452507b65038a93d7356f2dd337e7d8f0f",
+        "url": "https://www.gog.com/en/game/montezumas_revenge",
+        "developer": "Normal Distribution LLC",
+        "publisher": "Normal Distribution LLC",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710742011",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_montezumas_revenge_1.32_(71825).exe",
+                    "size": "97768664"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B886D35DC0",
+                            "link": "https://filecrypt.cc/Container/B886D35DC0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8967307C4C",
+                            "link": "https://filecrypt.cc/Container/8967307C4C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

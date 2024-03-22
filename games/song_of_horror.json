@@ -1,0 +1,88 @@
+{
+    "href": "/game/song_of_horror",
+    "MSG": {
+        "id": "1957403324",
+        "title": "Song of Horror",
+        "slug": "song_of_horror",
+        "thumb_id": "8d3950f7d89d3c1e8995fedf4ac9884fbc28a948b9213669fac30a0e25ba6d74",
+        "bg_id": "87301f79508ebc871e342d38f87cdc949bb02ad4e3fd1703f089c41bccdf2aca",
+        "url": "https://www.gog.com/game/song_of_horror",
+        "developer": "Protocol Games",
+        "publisher": "Raiser Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1705980104",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_song_of_horror_1.25_(64bit)_(54257)-1.bin",
+                    "size": "4293956094"
+                },
+                {
+                    "name": "setup_song_of_horror_1.25_(64bit)_(54257)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_song_of_horror_1.25_(64bit)_(54257)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_song_of_horror_1.25_(64bit)_(54257)-4.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_song_of_horror_1.25_(64bit)_(54257)-5.bin",
+                    "size": "907634624"
+                },
+                {
+                    "name": "setup_song_of_horror_1.25_(64bit)_(54257).exe",
+                    "size": "1018760"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2C0BBD3457",
+                            "link": "https://filecrypt.cc/Container/2C0BBD3457"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AD8873BD80",
+                            "link": "https://filecrypt.cc/Container/AD8873BD80"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F63D08B152",
+                            "link": "https://filecrypt.cc/Container/F63D08B152"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/buccaneers",
+    "MSG": {
+        "id": "1396258045",
+        "title": "Buccaneers!",
+        "slug": "buccaneers",
+        "thumb_id": "67bf8f90e9fc8820c93e2615d6c13229a953e5d91d43375e92c00a26552c3337",
+        "bg_id": "14adb096e69c08594708957e2b254e41f6f6c979edb38f96d9f06f53393641a9",
+        "url": "https://www.gog.com/en/game/buccaneers",
+        "developer": "Skyward Digital",
+        "publisher": "Valkyrie Initiative",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710687998",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_buccaneers_1.0.14_(64bit)_(59844).exe",
+                    "size": "1413921848"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0A75067E07",
+                            "link": "https://filecrypt.cc/Container/0A75067E07"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DF8EE4B256",
+                            "link": "https://filecrypt.cc/Container/DF8EE4B256"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E0F834D023",
+                            "link": "https://filecrypt.cc/Container/E0F834D023"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

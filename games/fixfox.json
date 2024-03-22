@@ -1,0 +1,90 @@
+{
+    "href": "/game/fixfox",
+    "MSG": {
+        "id": "1082323622",
+        "title": "FixFox",
+        "slug": "fixfox",
+        "thumb_id": "3a63130a416cdca0306c7b0bfcb03e5123bda12f04036db41ab17460c75c5860",
+        "bg_id": "f09af397f2b722bd3ed474c552265680f9953312b226ce115ffa50299a5709a4",
+        "url": "https://www.gog.com/en/game/fixfox",
+        "developer": "Rendlike",
+        "publisher": "Joystick Ventures",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1706041569",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_fixfox_402_c39e385a_(61432).exe",
+                    "size": "201074552"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EFAA5DB4C6",
+                            "link": "https://filecrypt.cc/Container/EFAA5DB4C6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FD2100D308",
+                            "link": "https://filecrypt.cc/Container/FD2100D308"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C922D6EE8C",
+                            "link": "https://filecrypt.cc/Container/C922D6EE8C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/990D873391",
+                            "link": "https://filecrypt.cc/Container/990D873391"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D0FAF7967D",
+                            "link": "https://filecrypt.cc/Container/D0FAF7967D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

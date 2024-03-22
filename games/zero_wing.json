@@ -1,0 +1,90 @@
+{
+    "href": "/game/zero_wing",
+    "MSG": {
+        "id": "1958853343",
+        "title": "Zero Wing",
+        "slug": "zero_wing",
+        "thumb_id": "a01ae2d7ce85f50ca4b62684991928879a89ac49cd9fb87e542f6e2ea380d974",
+        "bg_id": "2bc67eef3efde6c4032fd577161735033be76de941bfef5e1f388475829dea0b",
+        "url": "https://www.gog.com/en/game/zero_wing",
+        "developer": "Bitwave Games",
+        "publisher": "Bitwave Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707048230",
+        "votes": "2",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_zero_wing_35_(64bit)_(70879).exe",
+                    "size": "13233128"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6849746D85",
+                            "link": "https://filecrypt.cc/Container/6849746D85"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F26352F982",
+                            "link": "https://filecrypt.cc/Container/F26352F982"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3690DA6BFB",
+                            "link": "https://filecrypt.cc/Container/3690DA6BFB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4CF9CDF59E",
+                            "link": "https://filecrypt.cc/Container/4CF9CDF59E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/47B7E0C195",
+                            "link": "https://filecrypt.cc/Container/47B7E0C195"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,111 @@
+{
+    "href": "/game/vampire_the_masquerade_bloodlines",
+    "MSG": {
+        "id": "1207659240",
+        "title": "Vampire®: The Masquerade - Bloodlines™",
+        "slug": "vampire_the_masquerade_bloodlines",
+        "thumb_id": "8bbb356c33d8a97cd6ec70793c81aa29d55680f38e93688d61d69fe3fa831719",
+        "bg_id": "6149bf4331decb630de8b414edf102ed9ff1d328dea6ad5eb9efa790c1138f00",
+        "url": "https://www.gog.com/game/vampire_the_masquerade_bloodlines",
+        "developer": "Troika Games",
+        "publisher": "Activision",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710463287",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_vampire_the_masquerade_-_bloodlines_1.2_(up_11.511.410.2)_(68368)-1.bin",
+                    "size": "2782948153"
+                },
+                {
+                    "name": "setup_vampire_the_masquerade_-_bloodlines_1.2_(up_11.511.410.2)_(68368).exe",
+                    "size": "3510456"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "vtm_bloodlines_manual.zip",
+                    "size": "424575"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C8F108F588",
+                            "link": "https://filecrypt.cc/Container/C8F108F588"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FC9113F9D2",
+                            "link": "https://filecrypt.cc/Container/FC9113F9D2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/487D34CDB8",
+                            "link": "https://filecrypt.cc/Container/487D34CDB8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1D723224C3",
+                            "link": "https://filecrypt.cc/Container/1D723224C3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B555B616A5",
+                            "link": "https://filecrypt.cc/Container/B555B616A5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9C9870BDB1",
+                            "link": "https://filecrypt.cc/Container/9C9870BDB1"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

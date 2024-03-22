@@ -1,0 +1,83 @@
+{
+    "href": "/game/sable",
+    "MSG": {
+        "id": "1928501328",
+        "title": "Sable",
+        "slug": "sable",
+        "thumb_id": "3ea193960da2817ff6b4763a3878ed1ecdcedd76c07927104a01233ed636d8e2",
+        "bg_id": "8a349be4dcad4cad004af6abdc883a5cc7f898cf6c4862467f052903959564c5",
+        "url": "https://www.gog.com/game/sable",
+        "developer": "Shedworks",
+        "publisher": "Raw Fury",
+        "category": "Racing",
+        "uploading": "0",
+        "last_upload": "1708246149",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sable_4.3.4_(64bit)_(60909)-1.bin",
+                    "size": "2029611230"
+                },
+                {
+                    "name": "setup_sable_4.3.4_(64bit)_(60909).exe",
+                    "size": "1009808"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/450F98DF86",
+                            "link": "https://filecrypt.cc/Container/450F98DF86"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/537D4E237E",
+                            "link": "https://filecrypt.cc/Container/537D4E237E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FCC6575966",
+                            "link": "https://filecrypt.cc/Container/FCC6575966"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DC8C4CE61C",
+                            "link": "https://filecrypt.cc/Container/DC8C4CE61C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

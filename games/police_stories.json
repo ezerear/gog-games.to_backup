@@ -1,0 +1,79 @@
+{
+    "href": "/game/police_stories",
+    "MSG": {
+        "id": "1261094933",
+        "title": "Police Stories",
+        "slug": "police_stories",
+        "thumb_id": "b2446f46bbec188f73c9170bc1d8ebba45a3c3cfbfd64f2d92ea58d5bdf3bda2",
+        "bg_id": "e02ea6842e4c421242f6ba1f4a53467d814b43675ef52f15d7e96d3d998dbde8",
+        "url": "https://www.gog.com/game/police_stories",
+        "developer": "Mighty Morgan",
+        "publisher": "HypeTrain Digital",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707924258",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_police_stories_1.3.2_(48039).exe",
+                    "size": "288280760"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EFBAFED78E",
+                            "link": "https://filecrypt.cc/Container/EFBAFED78E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FE6428F1BF",
+                            "link": "https://filecrypt.cc/Container/FE6428F1BF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4AE470F39D",
+                            "link": "https://filecrypt.cc/Container/4AE470F39D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CC38EE7F06",
+                            "link": "https://filecrypt.cc/Container/CC38EE7F06"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

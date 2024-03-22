@@ -1,0 +1,68 @@
+{
+    "href": "/game/exiled_kingdoms",
+    "MSG": {
+        "id": "1091791464",
+        "title": "Exiled Kingdoms",
+        "slug": "exiled_kingdoms",
+        "thumb_id": "768502cb732c2e4e710411cb2a752f8f97daeaf6641fc860cfa072423cd08fd3",
+        "bg_id": "77b62c8fed6bef249fe150108725bfc880b6cc7c7edc203cd7116782744984dd",
+        "url": "https://www.gog.com/game/exiled_kingdoms",
+        "developer": "4 Dimension Games",
+        "publisher": "4 Dimension Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710471536",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_exiled_kingdoms_1.3.1175_(50337).exe",
+                    "size": "183271888"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/84FA5DE653",
+                            "link": "https://filecrypt.cc/Container/84FA5DE653"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A3DEB3352C",
+                            "link": "https://filecrypt.cc/Container/A3DEB3352C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/50B4717B00",
+                            "link": "https://filecrypt.cc/Container/50B4717B00"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

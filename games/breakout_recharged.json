@@ -1,0 +1,101 @@
+{
+    "href": "/game/breakout_recharged",
+    "MSG": {
+        "id": "1340291710",
+        "title": "Breakout Recharged",
+        "slug": "breakout_recharged",
+        "thumb_id": "eceb6f287f19d7f7e264c6410578e24b40319323babba02c9300407520909c59",
+        "bg_id": "c5d94b68f9b3dc88a1b8c03af6a65e3774bb4ece4ec8fce5d32169c0d1602eeb",
+        "url": "https://www.gog.com/en/game/breakout_recharged",
+        "developer": "Adamvision Studios",
+        "publisher": "Atari",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1701378742",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_breakout_recharged_1.0_(61258).exe",
+                    "size": "215695544"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BA5F9CB8C0",
+                            "link": "https://filecrypt.cc/Container/BA5F9CB8C0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A1F5523C5D",
+                            "link": "https://filecrypt.cc/Container/A1F5523C5D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0A776B54D6",
+                            "link": "https://filecrypt.cc/Container/0A776B54D6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/77BC4E7122",
+                            "link": "https://filecrypt.cc/Container/77BC4E7122"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/44422CEF89",
+                            "link": "https://filecrypt.cc/Container/44422CEF89"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CC18C95C86",
+                            "link": "https://filecrypt.cc/Container/CC18C95C86"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

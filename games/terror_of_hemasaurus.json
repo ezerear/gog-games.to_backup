@@ -1,0 +1,68 @@
+{
+    "href": "/game/terror_of_hemasaurus",
+    "MSG": {
+        "id": "1405178990",
+        "title": "Terror of Hemasaurus",
+        "slug": "terror_of_hemasaurus",
+        "thumb_id": "864a4908080e04d98d72ce2cbe6da8fc3bcec7fedce987255344b08eb1ac5212",
+        "bg_id": "31a314d8c0351315738787fc786ca7ccc7a60c9e8ee0174a372ba957f9f7f34c",
+        "url": "https://www.gog.com/en/game/terror_of_hemasaurus",
+        "developer": "Loren Lemcke",
+        "publisher": "Digerati",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709688091",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_terror_of_hemasaurus_1.11_(64bit)_(60393).exe",
+                    "size": "490062112"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9F108DA19F",
+                            "link": "https://filecrypt.cc/Container/9F108DA19F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0ACF494D29",
+                            "link": "https://filecrypt.cc/Container/0ACF494D29"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CCC2D1005D",
+                            "link": "https://filecrypt.cc/Container/CCC2D1005D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

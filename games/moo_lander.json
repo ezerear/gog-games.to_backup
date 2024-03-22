@@ -1,0 +1,83 @@
+{
+    "href": "/game/moo_lander",
+    "MSG": {
+        "id": "1295008803",
+        "title": "Moo Lander",
+        "slug": "moo_lander",
+        "thumb_id": "78b6d320dcf7fdc23a735ea82ff4f07c5dca67ded6422fed513d811b1290a5d9",
+        "bg_id": "100ff201cc8851b98822dd79450df1986cc8cf07ae1e2805d91e23284181b4a3",
+        "url": "https://www.gog.com/en/game/moo_lander",
+        "developer": "The Sixth Hammer",
+        "publisher": "The Sixth Hammer",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1694993532",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_moo_lander_1.5.7.3_(60398)-1.bin",
+                    "size": "1744459140"
+                },
+                {
+                    "name": "setup_moo_lander_1.5.7.3_(60398).exe",
+                    "size": "1028928"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F7351B3C6D",
+                            "link": "https://filecrypt.cc/Container/F7351B3C6D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4A8D1E7F46",
+                            "link": "https://filecrypt.cc/Container/4A8D1E7F46"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CC8E1D0588",
+                            "link": "https://filecrypt.cc/Container/CC8E1D0588"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B8A67B4734",
+                            "link": "https://filecrypt.cc/Container/B8A67B4734"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

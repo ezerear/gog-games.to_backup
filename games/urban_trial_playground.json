@@ -1,0 +1,88 @@
+{
+    "href": "/game/urban_trial_playground",
+    "MSG": {
+        "id": "1617276554",
+        "title": "Urban Trial Playground",
+        "slug": "urban_trial_playground",
+        "thumb_id": "8fb84a612b4ac00b8ee41cc6e2b99b52b528c8d44f9e846d03e3d60932330cdb",
+        "bg_id": "2d3d5983d9286ab60ae00fddeb1da2acc1b964c709778848d7e6006e278bdc85",
+        "url": "https://www.gog.com/game/urban_trial_playground",
+        "developer": "Tate Multimedia, Teyon",
+        "publisher": "Tate Multimedia",
+        "category": "Racing",
+        "uploading": "0",
+        "last_upload": "1710752991",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_urban_trial_playground_1.0.0_(47821)-1.bin",
+                    "size": "4293984766"
+                },
+                {
+                    "name": "setup_urban_trial_playground_1.0.0_(47821)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_urban_trial_playground_1.0.0_(47821)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_urban_trial_playground_1.0.0_(47821)-4.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_urban_trial_playground_1.0.0_(47821)-5.bin",
+                    "size": "369173242"
+                },
+                {
+                    "name": "setup_urban_trial_playground_1.0.0_(47821).exe",
+                    "size": "989152"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A95442A5B7",
+                            "link": "https://filecrypt.cc/Container/A95442A5B7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3A5865D9F5",
+                            "link": "https://filecrypt.cc/Container/3A5865D9F5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A8480E0728",
+                            "link": "https://filecrypt.cc/Container/A8480E0728"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

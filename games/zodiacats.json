@@ -1,0 +1,107 @@
+{
+    "href": "/game/zodiacats",
+    "MSG": {
+        "id": "1435098189",
+        "title": "Zodiacats",
+        "slug": "zodiacats",
+        "thumb_id": "70fa8b0848c7b1f56243e66f486edb8d96eb6cc6290aca3d860086191b02ddc9",
+        "bg_id": "cb272309cd896e284fe9c501186e07b74a6825f6186d9479ce48a0e670568215",
+        "url": "https://www.gog.com/en/game/zodiacats",
+        "developer": "Devcats",
+        "publisher": "Devcats",
+        "category": "Puzzle",
+        "uploading": "0",
+        "last_upload": "1709379418",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_zodiacats_1.0006_-_gog_wrapper_ok_(64bit)_(63182).exe",
+                    "size": "243107344"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "zodiacats_supporter_pack.zip",
+                    "size": "27881003"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/82F899A5FB",
+                            "link": "https://filecrypt.cc/Container/82F899A5FB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3AB1C38B19",
+                            "link": "https://filecrypt.cc/Container/3AB1C38B19"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/43DFC4DC1C",
+                            "link": "https://filecrypt.cc/Container/43DFC4DC1C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E0B36CDFC0",
+                            "link": "https://filecrypt.cc/Container/E0B36CDFC0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9C8C8CAA82",
+                            "link": "https://filecrypt.cc/Container/9C8C8CAA82"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/90668072FB",
+                            "link": "https://filecrypt.cc/Container/90668072FB"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

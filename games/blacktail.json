@@ -1,0 +1,127 @@
+{
+    "href": "/game/blacktail",
+    "MSG": {
+        "id": "1544899074",
+        "title": "BLACKTAIL",
+        "slug": "blacktail",
+        "thumb_id": "d4a8be5103ac91770f8106d409cb272b2b352d14b28b41a3c6fd3d7c6fb2fb8e",
+        "bg_id": "ef82d4c2d701228a27f90753053e082dbd18dd7726ae5870b4dbe6c9d6be921c",
+        "url": "https://www.gog.com/game/blacktail",
+        "developer": "THE PARASIGHT",
+        "publisher": "Focus Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707143815",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_blacktail_1.5_rc_c_ship_(64bit)_(62126)-1.bin",
+                    "size": "4293959678"
+                },
+                {
+                    "name": "setup_blacktail_1.5_rc_c_ship_(64bit)_(62126)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_blacktail_1.5_rc_c_ship_(64bit)_(62126)-3.bin",
+                    "size": "3954329661"
+                },
+                {
+                    "name": "setup_blacktail_1.5_rc_c_ship_(64bit)_(62126).exe",
+                    "size": "1017880"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "blacktail_soundtrack_flac.zip",
+                    "size": "542823761"
+                },
+                {
+                    "name": "blacktail_soundtrack_mp3.zip",
+                    "size": "86926139"
+                },
+                {
+                    "name": "blacktail_soundtrack_wav.zip",
+                    "size": "820483270"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C47AF632E3",
+                            "link": "https://filecrypt.cc/Container/C47AF632E3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C84BCF4761",
+                            "link": "https://filecrypt.cc/Container/C84BCF4761"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/49EE4848A9",
+                            "link": "https://filecrypt.cc/Container/49EE4848A9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/87ABB7245A",
+                            "link": "https://filecrypt.cc/Container/87ABB7245A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7D7BF96711",
+                            "link": "https://filecrypt.cc/Container/7D7BF96711"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/462B8C4AF9",
+                            "link": "https://filecrypt.cc/Container/462B8C4AF9"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

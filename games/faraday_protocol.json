@@ -1,0 +1,94 @@
+{
+    "href": "/game/faraday_protocol",
+    "MSG": {
+        "id": "2077208216",
+        "title": "Faraday Protocol",
+        "slug": "faraday_protocol",
+        "thumb_id": "bc1f689a56001790db74a37772b8e6c0b5989fa9696977f561f0f1722352b279",
+        "bg_id": "ceb2fed56e99ff2f3b5ec4a060a81ff10404abd7444c0e5f9d768f66c659b45b",
+        "url": "https://www.gog.com/game/faraday_protocol",
+        "developer": "Red Koi Box",
+        "publisher": "Deck13",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1703367482",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_faraday_protocol_1.0.2.2_(64bit)_(52093)-1.bin",
+                    "size": "1906564738"
+                },
+                {
+                    "name": "setup_faraday_protocol_1.0.2.2_(64bit)_(52093).exe",
+                    "size": "808272"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/02185996AE",
+                            "link": "https://filecrypt.cc/Container/02185996AE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1B90E5BD86",
+                            "link": "https://filecrypt.cc/Container/1B90E5BD86"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/03572A7AB0",
+                            "link": "https://filecrypt.cc/Container/03572A7AB0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F1A18C4310",
+                            "link": "https://filecrypt.cc/Container/F1A18C4310"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4CAFDCC31F",
+                            "link": "https://filecrypt.cc/Container/4CAFDCC31F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

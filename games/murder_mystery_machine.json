@@ -1,0 +1,68 @@
+{
+    "href": "/game/murder_mystery_machine",
+    "MSG": {
+        "id": "1693622295",
+        "title": "Murder Mystery Machine",
+        "slug": "murder_mystery_machine",
+        "thumb_id": "7544ae84c32304671fb5d6ee3e1664202ecb3cf0175b94bf820fc22814786879",
+        "bg_id": "9b8d0835e43e7e27cf3c8d065427a0ca46cc7eb61acbef6152a578e2df911676",
+        "url": "https://www.gog.com/game/murder_mystery_machine",
+        "developer": "Blazing Griffin",
+        "publisher": "Microids",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709693338",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_murder_mystery_machine_1.0.3_(52168).exe",
+                    "size": "1380368576"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FA520E58F6",
+                            "link": "https://filecrypt.cc/Container/FA520E58F6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CE2655FE01",
+                            "link": "https://filecrypt.cc/Container/CE2655FE01"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5543E9676B",
+                            "link": "https://filecrypt.cc/Container/5543E9676B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

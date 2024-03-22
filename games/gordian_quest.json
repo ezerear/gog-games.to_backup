@@ -1,0 +1,111 @@
+{
+    "href": "/game/gordian_quest",
+    "MSG": {
+        "id": "1916547709",
+        "title": "Gordian Quest",
+        "slug": "gordian_quest",
+        "thumb_id": "574e4d59f45b43674a3bc6f72040b35a26f34c9bc5ca114b2b167bd904c762d2",
+        "bg_id": "e460a34358658fb6b095a9b14c3e6d725ab241f3df8f014cbdf3b523a5d2a429",
+        "url": "https://www.gog.com/game/gordian_quest",
+        "developer": " Mixed Realms Pte Ltd",
+        "publisher": " Mixed Realms Pte Ltd",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710955515",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_gordian_quest_1.4.3_(67642).exe",
+                    "size": "1645736008"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "gordian_quest_soundtrack_flac.zip",
+                    "size": "582409659"
+                },
+                {
+                    "name": "gordian_quest_soundtrack_mp3.zip",
+                    "size": "127917024"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2E9D6EE907",
+                            "link": "https://filecrypt.cc/Container/2E9D6EE907"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/03DAED62B3",
+                            "link": "https://filecrypt.cc/Container/03DAED62B3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9FD383339A",
+                            "link": "https://filecrypt.cc/Container/9FD383339A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2D3D64FB26",
+                            "link": "https://filecrypt.cc/Container/2D3D64FB26"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AAF7D682D8",
+                            "link": "https://filecrypt.cc/Container/AAF7D682D8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/48ABE6B9A1",
+                            "link": "https://filecrypt.cc/Container/48ABE6B9A1"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,87 @@
+{
+    "href": "/game/farmers_life",
+    "MSG": {
+        "id": "1997897783",
+        "title": "Farmer's Life",
+        "slug": "farmers_life",
+        "thumb_id": "e62d261d8a70cc619494e355fa10838ff262ada3767566cc518b2e9877c60e7d",
+        "bg_id": "0591521aed671a11dfa95d280c223e42b56aa4a82f4ec4d4c31e01254b7e5850",
+        "url": "https://www.gog.com/en/game/farmers_life",
+        "developer": "FreeMind S.A.",
+        "publisher": "FreeMind S.A.",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1706839616",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_farmers_life_1.0.01_(68555)-1.bin",
+                    "size": "4293924862"
+                },
+                {
+                    "name": "setup_farmers_life_1.0.01_(68555)-2.bin",
+                    "size": "242159894"
+                },
+                {
+                    "name": "setup_farmers_life_1.0.01_(68555).exe",
+                    "size": "1052544"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/289420404C",
+                            "link": "https://filecrypt.cc/Container/289420404C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D3D5D4F204",
+                            "link": "https://filecrypt.cc/Container/D3D5D4F204"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/40081CD3F0",
+                            "link": "https://filecrypt.cc/Container/40081CD3F0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AE91DB3495",
+                            "link": "https://filecrypt.cc/Container/AE91DB3495"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

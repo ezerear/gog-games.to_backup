@@ -1,0 +1,101 @@
+{
+    "href": "/game/sunblaze",
+    "MSG": {
+        "id": "1763369377",
+        "title": "Sunblaze",
+        "slug": "sunblaze",
+        "thumb_id": "515d878fe15c75fd1ac2ec35385579467e6ec8fde51ec559895e94454c4a1ad1",
+        "bg_id": "4065dba66099d5a3868095e0d9d70a09be07c30c82617c4fc5bdc31378d88203",
+        "url": "https://www.gog.com/game/sunblaze",
+        "developer": "Games From Earth",
+        "publisher": "Bonus Stage Publishing",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1697255889",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sunblaze_1.1.2.016_(64bit)_(48132).exe",
+                    "size": "110313584"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F209163A58",
+                            "link": "https://filecrypt.cc/Container/F209163A58"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E815C353BE",
+                            "link": "https://filecrypt.cc/Container/E815C353BE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9783F74C6E",
+                            "link": "https://filecrypt.cc/Container/9783F74C6E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3C7592A2A1",
+                            "link": "https://filecrypt.cc/Container/3C7592A2A1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7B8A95D2EB",
+                            "link": "https://filecrypt.cc/Container/7B8A95D2EB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/96BEE7C4BD",
+                            "link": "https://filecrypt.cc/Container/96BEE7C4BD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,72 @@
+{
+    "href": "/game/jupiter_hell",
+    "MSG": {
+        "id": "1603513052",
+        "title": "Jupiter Hell",
+        "slug": "jupiter_hell",
+        "thumb_id": "52c0e973c6ebe97026433f5c59d73d38ec7302b1f87bcf45e35b390ced4c9a5b",
+        "bg_id": "d3f580534d25413382437bdb706b9ca6576bc0029f0c8c9229e365d196346be3",
+        "url": "https://www.gog.com/game/jupiter_hell",
+        "developer": " ChaosForge",
+        "publisher": " ChaosForge",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709857153",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_jupiter_hell_1.7c_(64bit)_(68276)-1.bin",
+                    "size": "2051987131"
+                },
+                {
+                    "name": "setup_jupiter_hell_1.7c_(64bit)_(68276).exe",
+                    "size": "800800"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AD9B095A15",
+                            "link": "https://filecrypt.cc/Container/AD9B095A15"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7B289A2618",
+                            "link": "https://filecrypt.cc/Container/7B289A2618"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/739E5B41A9",
+                            "link": "https://filecrypt.cc/Container/739E5B41A9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

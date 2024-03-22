@@ -1,0 +1,72 @@
+{
+    "href": "/game/icbm",
+    "MSG": {
+        "id": "1502248609",
+        "title": "ICBM",
+        "slug": "icbm",
+        "thumb_id": "3c2f8e86b2c6f9e713d6c2c386f51c016b407085f43fa145754c71514e6fa5f0",
+        "bg_id": "62ebd1c2af30d7e7bb56a6512a0956f7fcdd11e4c3d5a3e59ffa7ee37573fd04",
+        "url": "https://www.gog.com/game/icbm",
+        "developer": "SoftWarWare",
+        "publisher": "Slitherine Ltd.",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1707902575",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_icbm_1.02.03_(58785)-1.bin",
+                    "size": "3130954255"
+                },
+                {
+                    "name": "setup_icbm_1.02.03_(58785).exe",
+                    "size": "901776"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E073739BF2",
+                            "link": "https://filecrypt.cc/Container/E073739BF2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ADA50C3EC4",
+                            "link": "https://filecrypt.cc/Container/ADA50C3EC4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D93B567264",
+                            "link": "https://filecrypt.cc/Container/D93B567264"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

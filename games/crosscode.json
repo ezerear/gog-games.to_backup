@@ -1,0 +1,127 @@
+{
+    "href": "/game/crosscode",
+    "MSG": {
+        "id": "1252295864",
+        "title": "CrossCode",
+        "slug": "crosscode",
+        "thumb_id": "e2c6641351abb0bd4c9e97c3506cde372365a3efac06df0e9734624928dc3035",
+        "bg_id": "cc44e9d7553aed38d3d939dcf6bf89df2e059bbfccdae8e8dc3ccccca4dfef3c",
+        "url": "https://www.gog.com/game/crosscode",
+        "developer": "Radical Fish Games",
+        "publisher": "Deck13",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710487748",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_crosscode_-_ninja_skin_1.4.2-3_(65218).exe",
+                    "size": "6724096"
+                },
+                {
+                    "name": "setup_crosscode_1.4.2-3_(64bit)_(65218).exe",
+                    "size": "572183120"
+                },
+                {
+                    "name": "setup_crosscode_a_new_home_1.4.2-3_(65218).exe",
+                    "size": "10530848"
+                },
+                {
+                    "name": "setup_crosscode_manlea_1.4.2-3_(65218).exe",
+                    "size": "7198944"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "crosscode_ost_ex_flac.zip",
+                    "size": "1116200173"
+                },
+                {
+                    "name": "crosscode_ost_ex_mp3.zip",
+                    "size": "295637179"
+                },
+                {
+                    "name": "crosscode_ost_mp3.zip",
+                    "size": "348439606"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/07F1879264",
+                            "link": "https://filecrypt.cc/Container/07F1879264"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/582723F122",
+                            "link": "https://filecrypt.cc/Container/582723F122"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9CE9BF2A51",
+                            "link": "https://filecrypt.cc/Container/9CE9BF2A51"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2F27ADD14B",
+                            "link": "https://filecrypt.cc/Container/2F27ADD14B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DD1F9CFB9C",
+                            "link": "https://filecrypt.cc/Container/DD1F9CFB9C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/54BF0C5DE6",
+                            "link": "https://filecrypt.cc/Container/54BF0C5DE6"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,123 @@
+{
+    "href": "/game/the_legend_of_heroes_trails_in_the_sky",
+    "MSG": {
+        "id": "1207665083",
+        "title": "The Legend of Heroes: Trails in the Sky",
+        "slug": "the_legend_of_heroes_trails_in_the_sky",
+        "thumb_id": "a8d756078a63faff65d0964da16d38a98600dd5def90cc1daa9e4daa208721be",
+        "bg_id": "55e8d17b2d4dc2375da5975209a858581d6ffc7b1a43716daf57ff01b61808d9",
+        "url": "https://www.gog.com/game/the_legend_of_heroes_trails_in_the_sky",
+        "developer": "Nihon Falcom Corporation",
+        "publisher": "XSEED Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709898794",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_legend_of_heroes_trails_in_the_sky_2022-09-22_(60452)-1.bin",
+                    "size": "2429175683"
+                },
+                {
+                    "name": "setup_the_legend_of_heroes_trails_in_the_sky_2022-09-22_(60452).exe",
+                    "size": "842688"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "loh_avatars.zip",
+                    "size": "1693121"
+                },
+                {
+                    "name": "loh_character_artworks.zip",
+                    "size": "2801211"
+                },
+                {
+                    "name": "loh_concept_artworks.zip",
+                    "size": "8465179"
+                },
+                {
+                    "name": "loh_wallpapers.zip",
+                    "size": "16825502"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F7AB9DF03A",
+                            "link": "https://filecrypt.cc/Container/F7AB9DF03A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/81405DF29F",
+                            "link": "https://filecrypt.cc/Container/81405DF29F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1B25B1D512",
+                            "link": "https://filecrypt.cc/Container/1B25B1D512"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/80A9EFC13E",
+                            "link": "https://filecrypt.cc/Container/80A9EFC13E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/05EF2AB8D8",
+                            "link": "https://filecrypt.cc/Container/05EF2AB8D8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F77B564BBD",
+                            "link": "https://filecrypt.cc/Container/F77B564BBD"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/60_seconds",
+    "MSG": {
+        "id": "1288288255",
+        "title": "60 Seconds!",
+        "slug": "60_seconds",
+        "thumb_id": "b73f553385aa447c26599d3ff0be1f115c42a18dccdf8af50bc4e56ede479362",
+        "bg_id": "8dd355165f7493a34167dd06c1a407bb2774c7ffb54c8f7b35f0df0c703516c1",
+        "url": "https://www.gog.com/game/60_seconds",
+        "developer": "Robot Gentleman",
+        "publisher": "Robot Gentleman",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1708520707",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_60_seconds_1.400_(22987).exe",
+                    "size": "975097568"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B78CC89C4F",
+                            "link": "https://filecrypt.cc/Container/B78CC89C4F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A77A4A8B67",
+                            "link": "https://filecrypt.cc/Container/A77A4A8B67"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5E06AA0A3C",
+                            "link": "https://filecrypt.cc/Container/5E06AA0A3C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

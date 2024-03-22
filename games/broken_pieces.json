@@ -1,0 +1,80 @@
+{
+    "href": "/game/broken_pieces",
+    "MSG": {
+        "id": "1147294126",
+        "title": "Broken Pieces",
+        "slug": "broken_pieces",
+        "thumb_id": "3799636d53e8971883a06110b88283e394cc21d4759befac640ec1a519c92882",
+        "bg_id": "a02bbbf260f2ecc5534740001bba2fa7ce956ff512379e4cf050ba8685276264",
+        "url": "https://www.gog.com/en/game/broken_pieces",
+        "developer": "Elseware Experience, Benoit Dereau, Mael Vignaux",
+        "publisher": "Freedom Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709128119",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_broken_pieces_1.3.1_(63183)-1.bin",
+                    "size": "4293824510"
+                },
+                {
+                    "name": "setup_broken_pieces_1.3.1_(63183)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_broken_pieces_1.3.1_(63183)-3.bin",
+                    "size": "3564090090"
+                },
+                {
+                    "name": "setup_broken_pieces_1.3.1_(63183).exe",
+                    "size": "1153080"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EC441E8021",
+                            "link": "https://filecrypt.cc/Container/EC441E8021"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7383DED61C",
+                            "link": "https://filecrypt.cc/Container/7383DED61C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FB92309E53",
+                            "link": "https://filecrypt.cc/Container/FB92309E53"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

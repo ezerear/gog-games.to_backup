@@ -1,0 +1,80 @@
+{
+    "href": "/game/dreadful_river",
+    "MSG": {
+        "id": "1763953268",
+        "title": "Dreadful River",
+        "slug": "dreadful_river",
+        "thumb_id": "ddee76aeba6023b5ee228914493a71be646985f852a49df5d6b3a2aaa2c8cf31",
+        "bg_id": "65683ea63d1faf765c95364818dbb2750c09b24de56d44e762073d8826312572",
+        "url": "https://www.gog.com/en/game/dreadful_river",
+        "developer": "SureAI",
+        "publisher": "SureAI",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709260974",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dreadful_river_0.5.0.0_(64bit)_(71526)-1.bin",
+                    "size": "4294063102"
+                },
+                {
+                    "name": "setup_dreadful_river_0.5.0.0_(64bit)_(71526)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_dreadful_river_0.5.0.0_(64bit)_(71526)-3.bin",
+                    "size": "2609934631"
+                },
+                {
+                    "name": "setup_dreadful_river_0.5.0.0_(64bit)_(71526).exe",
+                    "size": "911512"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D46E0E22E4",
+                            "link": "https://filecrypt.cc/Container/D46E0E22E4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D9048FA7CC",
+                            "link": "https://filecrypt.cc/Container/D9048FA7CC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AA95D38D56",
+                            "link": "https://filecrypt.cc/Container/AA95D38D56"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

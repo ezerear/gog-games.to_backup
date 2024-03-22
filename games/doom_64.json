@@ -1,0 +1,79 @@
+{
+    "href": "/game/doom_64",
+    "MSG": {
+        "id": "1456611261",
+        "title": "DOOM 64",
+        "slug": "doom_64",
+        "thumb_id": "b2e98f5d13ad7c3fac89cb9ab2b3ec361c47ca259414eb5a82de754ef11a5800",
+        "bg_id": "3b7096708631d7516500c97f53ba8d54aa806dcdc71d49fd0437bca3a4a418aa",
+        "url": "https://www.gog.com/en/game/doom_64",
+        "developer": "id Software",
+        "publisher": "Bethesda Softworks LLC",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707957257",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_doom_64_20220523_(56385).exe",
+                    "size": "196355368"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F81BE4599E",
+                            "link": "https://filecrypt.cc/Container/F81BE4599E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/53EDA45272",
+                            "link": "https://filecrypt.cc/Container/53EDA45272"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F83A98E89D",
+                            "link": "https://filecrypt.cc/Container/F83A98E89D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EAF06CC49B",
+                            "link": "https://filecrypt.cc/Container/EAF06CC49B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

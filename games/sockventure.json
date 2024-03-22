@@ -1,0 +1,90 @@
+{
+    "href": "/game/sockventure",
+    "MSG": {
+        "id": "1706164376",
+        "title": "Sockventure",
+        "slug": "sockventure",
+        "thumb_id": "3c6572dd2f4ea24c0b21d35de25f2bee5074b5236ae2b9d57d62a2e1c66f3a15",
+        "bg_id": "0f54090ce02da4ea74d299312021cccb6ae77e04cc36d620fb19c6cbdfb9724c",
+        "url": "https://www.gog.com/game/sockventure",
+        "developer": "Nighthouse Games",
+        "publisher": "Versus Evil",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707519432",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sockventure_1.0.2a_(64bit)_(47622).exe",
+                    "size": "371956040"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5B4F4D52E9",
+                            "link": "https://filecrypt.cc/Container/5B4F4D52E9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4CD29F99B0",
+                            "link": "https://filecrypt.cc/Container/4CD29F99B0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7898E3A8E8",
+                            "link": "https://filecrypt.cc/Container/7898E3A8E8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8AE4333E62",
+                            "link": "https://filecrypt.cc/Container/8AE4333E62"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2136A5162F",
+                            "link": "https://filecrypt.cc/Container/2136A5162F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

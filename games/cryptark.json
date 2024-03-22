@@ -1,0 +1,115 @@
+{
+    "href": "/game/cryptark",
+    "MSG": {
+        "id": "1938069609",
+        "title": "Cryptark",
+        "slug": "cryptark",
+        "thumb_id": "1f2249bfdc0fcabcd604c890f7bb04a92d8c9302c7c4600a8ae9f85b49af948c",
+        "bg_id": "39569b0e5fb49ffb91e3394f20848df83c772d12124207510e9b28607bc49f7c",
+        "url": "https://www.gog.com/game/cryptark",
+        "developer": "Alientrap Games",
+        "publisher": "Alientrap Games",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1709211947",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_cryptark_1.23_(22764).exe",
+                    "size": "573391824"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "cryptark_ost_flac.zip",
+                    "size": "485009808"
+                },
+                {
+                    "name": "cryptark_ost_mp3.zip",
+                    "size": "153424814"
+                },
+                {
+                    "name": "cryptark_wallpaper.zip",
+                    "size": "1323432"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4B1B46607A",
+                            "link": "https://filecrypt.cc/Container/4B1B46607A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A534A6AC5B",
+                            "link": "https://filecrypt.cc/Container/A534A6AC5B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/868700B8D8",
+                            "link": "https://filecrypt.cc/Container/868700B8D8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/57D5CE791B",
+                            "link": "https://filecrypt.cc/Container/57D5CE791B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/35E0694BFB",
+                            "link": "https://filecrypt.cc/Container/35E0694BFB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0A034DE250",
+                            "link": "https://filecrypt.cc/Container/0A034DE250"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

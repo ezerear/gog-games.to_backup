@@ -1,0 +1,90 @@
+{
+    "href": "/game/seal_of_evil",
+    "MSG": {
+        "id": "1973516426",
+        "title": "Seal of Evil",
+        "slug": "seal_of_evil",
+        "thumb_id": "6bab93874372626c33b82f36d7661ea48d6e7fc73065a5d6f8e9f53a1860f11a",
+        "bg_id": "0985426d3af1df8aa99538d759279a552da07cfea20a6029ee9aaa16a99cdb65",
+        "url": "https://www.gog.com/en/game/seal_of_evil",
+        "developer": "Object Software Limited",
+        "publisher": "",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707068682",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_seal_of_evil_1.06_(66125).exe",
+                    "size": "1656822432"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2FB87FC7DF",
+                            "link": "https://filecrypt.cc/Container/2FB87FC7DF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7C6B7C245A",
+                            "link": "https://filecrypt.cc/Container/7C6B7C245A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/01949FA586",
+                            "link": "https://filecrypt.cc/Container/01949FA586"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6E00A0B359",
+                            "link": "https://filecrypt.cc/Container/6E00A0B359"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/33028EEEC9",
+                            "link": "https://filecrypt.cc/Container/33028EEEC9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

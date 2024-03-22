@@ -1,0 +1,76 @@
+{
+    "href": "/game/fear_3",
+    "MSG": {
+        "id": "1217589235",
+        "title": "F.E.A.R. 3",
+        "slug": "fear_3",
+        "thumb_id": "f385740d136d8e9424b7db662a0ab2f66c3dd955a5b0f066ba07ffafa8083c43",
+        "bg_id": "c03de9b6e8bf5d11c219c85fdf4be2ca0dc44c850da42b0beaadc893fa9fe739",
+        "url": "https://www.gog.com/en/game/fear_3",
+        "developer": "Day 1 Studios",
+        "publisher": "Warner Bros. Interactive Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710731919",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_f.e.a.r._3_20.1060_(60564)-1.bin",
+                    "size": "4294094846"
+                },
+                {
+                    "name": "setup_f.e.a.r._3_20.1060_(60564)-2.bin",
+                    "size": "209627438"
+                },
+                {
+                    "name": "setup_f.e.a.r._3_20.1060_(60564).exe",
+                    "size": "882264"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F3D9A9CB4A",
+                            "link": "https://filecrypt.cc/Container/F3D9A9CB4A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4AB8B5C5FC",
+                            "link": "https://filecrypt.cc/Container/4AB8B5C5FC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/70B488B306",
+                            "link": "https://filecrypt.cc/Container/70B488B306"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

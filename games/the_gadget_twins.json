@@ -1,0 +1,68 @@
+{
+    "href": "/game/the_gadget_twins",
+    "MSG": {
+        "id": "1237302557",
+        "title": "The Gadget Twins",
+        "slug": "the_gadget_twins",
+        "thumb_id": "1cc61ad577a8261e65d77e3702a5689a407431b5ef34467f7c851dc4be8b8d78",
+        "bg_id": "e5166a7a590d195e191ed6ea3702a97ae49c192eea22900042801101424fe0f7",
+        "url": "https://www.gog.com/en/game/the_gadget_twins",
+        "developer": "Imagitec Design",
+        "publisher": "Piko Interactive",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1687479746",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_gadget_twins_1.0_(64141).exe",
+                    "size": "13769216"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/86AF69BC38",
+                            "link": "https://filecrypt.cc/Container/86AF69BC38"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/88DA69CF8D",
+                            "link": "https://filecrypt.cc/Container/88DA69CF8D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E2EC801EFA",
+                            "link": "https://filecrypt.cc/Container/E2EC801EFA"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

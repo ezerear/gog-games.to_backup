@@ -1,0 +1,92 @@
+{
+    "href": "/game/outlast_2",
+    "MSG": {
+        "id": "1453301453",
+        "title": "Outlast 2",
+        "slug": "outlast_2",
+        "thumb_id": "409993ae05dfa48caa30943b3d2f97cd0f462e0da9fca81edff85cc6a957fe3d",
+        "bg_id": "43403daacd6b52936659e57977d4aa58e92fe532b1b7f48248267e270a557a72",
+        "url": "https://www.gog.com/game/outlast_2",
+        "developer": "Red Barrels",
+        "publisher": "Red Barrels",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709608887",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_outlast_2_gog-4_(19597)-1.bin",
+                    "size": "4293722110"
+                },
+                {
+                    "name": "setup_outlast_2_gog-4_(19597)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_outlast_2_gog-4_(19597)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_outlast_2_gog-4_(19597)-4.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_outlast_2_gog-4_(19597)-5.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_outlast_2_gog-4_(19597)-6.bin",
+                    "size": "3552006043"
+                },
+                {
+                    "name": "setup_outlast_2_gog-4_(19597).exe",
+                    "size": "1252328"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7004E3CBA4",
+                            "link": "https://filecrypt.cc/Container/7004E3CBA4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9392C4A2A8",
+                            "link": "https://filecrypt.cc/Container/9392C4A2A8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A4C8C84AE5",
+                            "link": "https://filecrypt.cc/Container/A4C8C84AE5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

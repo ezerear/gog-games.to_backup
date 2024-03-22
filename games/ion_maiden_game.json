@@ -1,0 +1,72 @@
+{
+    "href": "/game/ion_maiden_game",
+    "MSG": {
+        "id": "1740836875",
+        "title": "Ion Fury",
+        "slug": "ion_maiden_game",
+        "thumb_id": "34ebb94353fd48904926255731fe75b1d673c1f39b80cae3bd28e327a911b0ce",
+        "bg_id": "de8dcb08d44ab67c3a05a76d7c41a505839bfbd6e82411c8a96af5ca987fef5f",
+        "url": "https://www.gog.com/game/ion_fury",
+        "developer": "Voidpoint",
+        "publisher": "3D Realms",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1709896702",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_ion_fury_3.0.0.9_(64bit)_(68519).exe",
+                    "size": "101343280"
+                },
+                {
+                    "name": "setup_ion_fury_aftershock_3.0.0.9_(64bit)_(68519).exe",
+                    "size": "174610376"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/082C71B63F",
+                            "link": "https://filecrypt.cc/Container/082C71B63F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C95CF62291",
+                            "link": "https://filecrypt.cc/Container/C95CF62291"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0952E10298",
+                            "link": "https://filecrypt.cc/Container/0952E10298"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

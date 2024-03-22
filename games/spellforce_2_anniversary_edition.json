@@ -1,0 +1,76 @@
+{
+    "href": "/game/spellforce_2_anniversary_edition",
+    "MSG": {
+        "id": "1123662938",
+        "title": "SpellForce 2 - Anniversary Edition",
+        "slug": "spellforce_2_anniversary_edition",
+        "thumb_id": "091dfb2493ebe61379566219b045d015b62964528c59d6d4525c2df7ddb1b715",
+        "bg_id": "392de411291c91b7861e12722abbca532fabadb950d8602a2d24f5cc3a567dd8",
+        "url": "https://www.gog.com/game/spellforce_2_anniversary_edition",
+        "developer": "Phenomic, THQ Nordic GmbH",
+        "publisher": "THQ Nordic GmbH",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1707685382",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_spellforce_2_anniversary_edition_2.01.85906_(11243)-1.bin",
+                    "size": "4293882878"
+                },
+                {
+                    "name": "setup_spellforce_2_anniversary_edition_2.01.85906_(11243)-2.bin",
+                    "size": "506337809"
+                },
+                {
+                    "name": "setup_spellforce_2_anniversary_edition_2.01.85906_(11243).exe",
+                    "size": "1091408"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C96E63D154",
+                            "link": "https://filecrypt.cc/Container/C96E63D154"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F42CDEC470",
+                            "link": "https://filecrypt.cc/Container/F42CDEC470"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5A3AE5FAD6",
+                            "link": "https://filecrypt.cc/Container/5A3AE5FAD6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

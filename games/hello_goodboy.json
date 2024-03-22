@@ -1,0 +1,111 @@
+{
+    "href": "/game/hello_goodboy",
+    "MSG": {
+        "id": "1356723649",
+        "title": "Hello Goodboy",
+        "slug": "hello_goodboy",
+        "thumb_id": "808191e1428c96a56cb8ba18e415957c92b9f93d30e12796dd23ea351db3b713",
+        "bg_id": "0b1ca8951a0841c92dc92dea89900909a5a1dea76c221eff5dacdfaa31a9f585",
+        "url": "https://www.gog.com/en/game/hello_goodboy",
+        "developer": "Rolling Glory Jam",
+        "publisher": "Freedom Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710102038",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hello_goodboy_1.1.0_(65140).exe",
+                    "size": "576347472"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "hello_goodboy_soundtrack_mp3.zip",
+                    "size": "132522740"
+                },
+                {
+                    "name": "hello_goodboy_soundtrack_wav.zip",
+                    "size": "1146016813"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3DF011F080",
+                            "link": "https://filecrypt.cc/Container/3DF011F080"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/477CE317D8",
+                            "link": "https://filecrypt.cc/Container/477CE317D8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2DC4EEB5B7",
+                            "link": "https://filecrypt.cc/Container/2DC4EEB5B7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A50D5C7A1B",
+                            "link": "https://filecrypt.cc/Container/A50D5C7A1B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9A50001D1D",
+                            "link": "https://filecrypt.cc/Container/9A50001D1D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3913379D59",
+                            "link": "https://filecrypt.cc/Container/3913379D59"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

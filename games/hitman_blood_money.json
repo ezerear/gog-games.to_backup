@@ -1,0 +1,61 @@
+{
+    "href": "/game/hitman_blood_money",
+    "MSG": {
+        "id": "1942346586",
+        "title": "Hitman: Blood Money",
+        "slug": "hitman_blood_money",
+        "thumb_id": "cec1348b3067dec876242af1a972eedc6e7dad695b724a130914ec85a68ec8b7",
+        "bg_id": "26f4b6afa4c60dabb3e65223da53cdea85daed1ea5ffa7887edfb77cc7bcf413",
+        "url": "https://www.gog.com/game/hitman_blood_money",
+        "developer": "Io-Interactive",
+        "publisher": "Io-Interactive",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710184664",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hitman_blood_money_1.2_(27639)-1.bin",
+                    "size": "4275868750"
+                },
+                {
+                    "name": "setup_hitman_blood_money_1.2_(27639).exe",
+                    "size": "866368"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7CD615B007",
+                            "link": "https://filecrypt.cc/Container/7CD615B007"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/029B4D1C26",
+                            "link": "https://filecrypt.cc/Container/029B4D1C26"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

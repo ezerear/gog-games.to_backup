@@ -1,0 +1,123 @@
+{
+    "href": "/game/necrobarista",
+    "MSG": {
+        "id": "1327048803",
+        "title": "Necrobarista",
+        "slug": "necrobarista",
+        "thumb_id": "832abc8e09adb86e6e4957738f621cc3ed44f11163d059c7cb9e248f14f9ba42",
+        "bg_id": "8bcafbadc4fc563e67185b5cfc269bc8f1c0e5438e8153b7f59ecbd8fd508708",
+        "url": "https://www.gog.com/game/necrobarista",
+        "developer": "Route 59",
+        "publisher": "AGM PLAYISM",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709566336",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_necrobarista_1.08p3_(55471)-1.bin",
+                    "size": "3761751328"
+                },
+                {
+                    "name": "setup_necrobarista_1.08p3_(55471).exe",
+                    "size": "2880760"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "necrobarista_ost_flac.zip",
+                    "size": "310016014"
+                },
+                {
+                    "name": "necrobarista_ost_mp3.zip",
+                    "size": "57747804"
+                },
+                {
+                    "name": "necrobarista_ost_wav.zip",
+                    "size": "484667887"
+                },
+                {
+                    "name": "necrobarista_wallpaper.zip",
+                    "size": "2489571"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/52ADDAA5AD",
+                            "link": "https://filecrypt.cc/Container/52ADDAA5AD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AA22BA2429",
+                            "link": "https://filecrypt.cc/Container/AA22BA2429"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/98859BDFEC",
+                            "link": "https://filecrypt.cc/Container/98859BDFEC"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3860C67699",
+                            "link": "https://filecrypt.cc/Container/3860C67699"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6166D02990",
+                            "link": "https://filecrypt.cc/Container/6166D02990"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A17BD2FC57",
+                            "link": "https://filecrypt.cc/Container/A17BD2FC57"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,76 @@
+{
+    "href": "/game/scars_of_summer",
+    "MSG": {
+        "id": "1384959600",
+        "title": "Scars of Summer",
+        "slug": "scars_of_summer",
+        "thumb_id": "7e4cde4f636b9ebb0c13f2a1ca461d945fad49c87a88c78a90750e4f9a0c1941",
+        "bg_id": "72b50f0031231dfc0b5df81760c9b752130cfdd21d1ee13d8aa8c27485ec98db",
+        "url": "https://www.gog.com/en/game/scars_of_summer",
+        "developer": "Shinachiku-castella",
+        "publisher": "Kagura Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709496697",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_scars_of_summer_unrated_v1_(58374)-1.bin",
+                    "size": "905671005"
+                },
+                {
+                    "name": "setup_scars_of_summer_unrated_v1_(58374).exe",
+                    "size": "1133488"
+                },
+                {
+                    "name": "setup_scars_of_summer_v1_(58374).exe",
+                    "size": "300454672"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2EC0FBAF01",
+                            "link": "https://filecrypt.cc/Container/2EC0FBAF01"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BE1A2DCAA4",
+                            "link": "https://filecrypt.cc/Container/BE1A2DCAA4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C6FB68A364",
+                            "link": "https://filecrypt.cc/Container/C6FB68A364"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

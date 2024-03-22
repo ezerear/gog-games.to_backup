@@ -1,0 +1,72 @@
+{
+    "href": "/game/of_orcs_and_men",
+    "MSG": {
+        "id": "1177610018",
+        "title": "Of Orcs And Men",
+        "slug": "of_orcs_and_men",
+        "thumb_id": "e8c8ed8872c71287e3b78019f4449a77a9625b2f2d9fe047076c72594fa3253a",
+        "bg_id": "2dc24d84db99000e48895bb0eaeb43110ad42eb134c2c08c46a1ff6f94d952c4",
+        "url": "https://www.gog.com/game/of_orcs_and_men",
+        "developer": "Cyanide Studio",
+        "publisher": "Nacon",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709993459",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_of_orcs_and_men_1.02_(1233)_(34456)-1.bin",
+                    "size": "4010595508"
+                },
+                {
+                    "name": "setup_of_orcs_and_men_1.02_(1233)_(34456).exe",
+                    "size": "854184"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/754D89BCAC",
+                            "link": "https://filecrypt.cc/Container/754D89BCAC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A9D0759A37",
+                            "link": "https://filecrypt.cc/Container/A9D0759A37"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/10C2DDB4AA",
+                            "link": "https://filecrypt.cc/Container/10C2DDB4AA"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

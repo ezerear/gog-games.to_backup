@@ -1,0 +1,68 @@
+{
+    "href": "/game/christmas_massacre",
+    "MSG": {
+        "id": "2106493981",
+        "title": "Christmas Massacre",
+        "slug": "christmas_massacre",
+        "thumb_id": "6eec19c984eb6411dda90fecd2e4387e1b6dd679d0966662c1e7e42bf5c0d7fe",
+        "bg_id": "66c14a17d94cb6eb3eac88f665fc266d8e2c8c404a752107146293adb420cdde",
+        "url": "https://www.gog.com/en/game/christmas_massacre",
+        "developer": "Puppet Combo",
+        "publisher": "Puppet Combo",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710405960",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_christmas_massacre_1.02_(59991).exe",
+                    "size": "601845104"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BB5E5073CB",
+                            "link": "https://filecrypt.cc/Container/BB5E5073CB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D1F11FF427",
+                            "link": "https://filecrypt.cc/Container/D1F11FF427"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D8B86496C7",
+                            "link": "https://filecrypt.cc/Container/D8B86496C7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

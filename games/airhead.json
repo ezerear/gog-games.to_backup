@@ -1,0 +1,79 @@
+{
+    "href": "/game/airhead",
+    "MSG": {
+        "id": "2117066175",
+        "title": "Airhead",
+        "slug": "airhead",
+        "thumb_id": "cadca8c84bf85b0e8d934cb4b79dcd82767f02c541c2855898edce844a1cd6f7",
+        "bg_id": "7e3fc655e5aa25231a5e615ec902f755b9b8693ec62ed1077caa414690df3d20",
+        "url": "https://www.gog.com/game/airhead",
+        "developer": "Octato",
+        "publisher": "HandyGames",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708125265",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_airhead_0.408_(64bit)_(71147).exe",
+                    "size": "1381487000"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/713B3A3BCA",
+                            "link": "https://filecrypt.cc/Container/713B3A3BCA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/009AF72C9B",
+                            "link": "https://filecrypt.cc/Container/009AF72C9B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E59AE46DD4",
+                            "link": "https://filecrypt.cc/Container/E59AE46DD4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5A2381D624",
+                            "link": "https://filecrypt.cc/Container/5A2381D624"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

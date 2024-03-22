@@ -1,0 +1,87 @@
+{
+    "href": "/game/retreat_to_enen",
+    "MSG": {
+        "id": "1840846196",
+        "title": "Retreat to Enen",
+        "slug": "retreat_to_enen",
+        "thumb_id": "eb24bc739a2275a7305707d642cd554752da8f42825232b156fbc07823976b65",
+        "bg_id": "fbd2a8b54d1827f73e5f1efbc9f8bb23fb1b9152a921a28172abd75997a2c3e5",
+        "url": "https://www.gog.com/en/game/retreat_to_enen",
+        "developer": "Head West",
+        "publisher": "Freedom Games",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1705128220",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_retreat_to_enen_1.1.0_(70343)-1.bin",
+                    "size": "4294095870"
+                },
+                {
+                    "name": "setup_retreat_to_enen_1.1.0_(70343)-2.bin",
+                    "size": "156443163"
+                },
+                {
+                    "name": "setup_retreat_to_enen_1.1.0_(70343).exe",
+                    "size": "881272"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E6D6BF4859",
+                            "link": "https://filecrypt.cc/Container/E6D6BF4859"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/88376870A3",
+                            "link": "https://filecrypt.cc/Container/88376870A3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6E428A5C75",
+                            "link": "https://filecrypt.cc/Container/6E428A5C75"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1E5D4E016F",
+                            "link": "https://filecrypt.cc/Container/1E5D4E016F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

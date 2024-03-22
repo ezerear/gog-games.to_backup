@@ -1,0 +1,57 @@
+{
+    "href": "/game/canine",
+    "MSG": {
+        "id": "2141270817",
+        "title": "CANINE",
+        "slug": "canine",
+        "thumb_id": "14c7da3f0e46c27816d525847aba845a5629be4c140880ccff0b600bba51234e",
+        "bg_id": "e65c38f845b6de22da8de788ee9ef9ca26cc453c83bf25dab153b911e65badae",
+        "url": "https://www.gog.com/en/game/canine",
+        "developer": "PuKo",
+        "publisher": "PuKo",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708936310",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_canine_1.3.1.4_(71398).exe",
+                    "size": "487233816"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A002093BA1",
+                            "link": "https://filecrypt.cc/Container/A002093BA1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9FB9CE4B7B",
+                            "link": "https://filecrypt.cc/Container/9FB9CE4B7B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

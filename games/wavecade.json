@@ -1,0 +1,80 @@
+{
+    "href": "/game/wavecade",
+    "MSG": {
+        "id": "1627033777",
+        "title": "WAVECADE",
+        "slug": "wavecade",
+        "thumb_id": "224e067d2786c01f80ccee9bc8e7bc507808ef34ee94f8e4977c5fe8aa5e8ac4",
+        "bg_id": "eaff0557609126ab39e0e3db7b03febb89c0ca704791f5142fd81ae3800ca64d",
+        "url": "https://www.gog.com/en/game/wavecade",
+        "developer": "Andrew Spalato, Lewis Spalato",
+        "publisher": "Spalato Bros",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709900877",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_wavecade_-_designs_pack_1.6.3_(1)_(64bit)_(68211).exe",
+                    "size": "5964352"
+                },
+                {
+                    "name": "setup_wavecade_-_propulsions_pack_1.6.3_(1)_(64bit)_(68211).exe",
+                    "size": "6275496"
+                },
+                {
+                    "name": "setup_wavecade_-_ships_pack_1.6.3_(1)_(64bit)_(68211).exe",
+                    "size": "7100344"
+                },
+                {
+                    "name": "setup_wavecade_1.6.3_(1)_(64bit)_(68211).exe",
+                    "size": "362613552"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/341F99C5E2",
+                            "link": "https://filecrypt.cc/Container/341F99C5E2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CE3BF34218",
+                            "link": "https://filecrypt.cc/Container/CE3BF34218"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4B7C98F7D5",
+                            "link": "https://filecrypt.cc/Container/4B7C98F7D5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

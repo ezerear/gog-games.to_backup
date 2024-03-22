@@ -1,0 +1,83 @@
+{
+    "href": "/game/attack_of_the_earthlings",
+    "MSG": {
+        "id": "1786054782",
+        "title": "Attack of the Earthlings",
+        "slug": "attack_of_the_earthlings",
+        "thumb_id": "3e2d14238ce8622cc3f3c8974a3e669656b27432d00935011f0cb90cc7813832",
+        "bg_id": "b30bb88ee89964eb02f525d33aa16395f3105329dea79a05015d93ab859ef0c2",
+        "url": "https://www.gog.com/game/attack_of_the_earthlings",
+        "developer": "Team Junkfish",
+        "publisher": " Junkfish Limited",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1708059181",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_attack_of_the_earthlings_1.0.4_(64bit)_(20170)-1.bin",
+                    "size": "1148177091"
+                },
+                {
+                    "name": "setup_attack_of_the_earthlings_1.0.4_(64bit)_(20170).exe",
+                    "size": "778232"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7B50A77E6F",
+                            "link": "https://filecrypt.cc/Container/7B50A77E6F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FC66EC4BE4",
+                            "link": "https://filecrypt.cc/Container/FC66EC4BE4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7C06DDFD1F",
+                            "link": "https://filecrypt.cc/Container/7C06DDFD1F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/685B160D5D",
+                            "link": "https://filecrypt.cc/Container/685B160D5D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

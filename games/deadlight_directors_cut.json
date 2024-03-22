@@ -1,0 +1,119 @@
+{
+    "href": "/game/deadlight_directors_cut",
+    "MSG": {
+        "id": "1230412827",
+        "title": "Deadlight: Director's Cut",
+        "slug": "deadlight_directors_cut",
+        "thumb_id": "e8785dec6b2029bdf87ec50174c4c960cd195a5296fe679178e3c39cd7c73b7d",
+        "bg_id": "9a9ea4bd4e2c659632cc3887704edd0e36dfa370a7e8b0403ee3b88a58205fa1",
+        "url": "https://www.gog.com/game/deadlight_directors_cut",
+        "developer": "Tequila Works / Abstraction Games",
+        "publisher": "Deep Silver",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710547326",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_deadlight_directors_cut_gog-2(cs)_(19167)-1.bin",
+                    "size": "4294073854"
+                },
+                {
+                    "name": "setup_deadlight_directors_cut_gog-2(cs)_(19167)-2.bin",
+                    "size": "391425727"
+                },
+                {
+                    "name": "setup_deadlight_directors_cut_gog-2(cs)_(19167).exe",
+                    "size": "900512"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "deadlight_avatars_jpg.zip",
+                    "size": "470067"
+                },
+                {
+                    "name": "deadlight_wallpapers_jpg.zip",
+                    "size": "1441563"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FCBC41148B",
+                            "link": "https://filecrypt.cc/Container/FCBC41148B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6DA8F0D7FD",
+                            "link": "https://filecrypt.cc/Container/6DA8F0D7FD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F0B4D64F84",
+                            "link": "https://filecrypt.cc/Container/F0B4D64F84"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E9A909A469",
+                            "link": "https://filecrypt.cc/Container/E9A909A469"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B2FD85F912",
+                            "link": "https://filecrypt.cc/Container/B2FD85F912"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B362803ED6",
+                            "link": "https://filecrypt.cc/Container/B362803ED6"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

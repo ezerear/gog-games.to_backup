@@ -1,0 +1,111 @@
+{
+    "href": "/game/a_bird_story",
+    "MSG": {
+        "id": "1207666783",
+        "title": "A Bird Story",
+        "slug": "a_bird_story",
+        "thumb_id": "e0d58db9850a43fe73b057a13f0ea2d5f8be7f996d6a3f2a4a81647758a3bcaf",
+        "bg_id": "bf4b4e2fd1f382e106e65835e292d62c869cfca71fbe68f75d0a0206380e67f3",
+        "url": "https://www.gog.com/game/a_bird_story",
+        "developer": "Freebird Games",
+        "publisher": "Freebird Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710462605",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_a_bird_story_1.0_(12441).exe",
+                    "size": "178746528"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "a_bird_story_original_soundtrack_flac.zip",
+                    "size": "260688805"
+                },
+                {
+                    "name": "a_bird_story_original_soundtrack_mp3.zip",
+                    "size": "81818175"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0BB22C5633",
+                            "link": "https://filecrypt.cc/Container/0BB22C5633"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/93B959CEDF",
+                            "link": "https://filecrypt.cc/Container/93B959CEDF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/20B5DD055E",
+                            "link": "https://filecrypt.cc/Container/20B5DD055E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/590F828C36",
+                            "link": "https://filecrypt.cc/Container/590F828C36"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/13E5AAD8BE",
+                            "link": "https://filecrypt.cc/Container/13E5AAD8BE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/573FF605ED",
+                            "link": "https://filecrypt.cc/Container/573FF605ED"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

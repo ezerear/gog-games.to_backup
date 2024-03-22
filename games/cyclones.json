@@ -1,0 +1,68 @@
+{
+    "href": "/game/cyclones",
+    "MSG": {
+        "id": "1659763953",
+        "title": "CyClones",
+        "slug": "cyclones",
+        "thumb_id": "5d41de29d3410ba7cf13fff7d724f8fceeaf33eed214a2cf0e5aa024675ac8ed",
+        "bg_id": "77bbc7b97609f468a5ddb89224566d995a9b203015100954e206c3e8b35eba10",
+        "url": "https://www.gog.com/en/game/cyclones",
+        "developer": "Raven Software",
+        "publisher": "SNEG",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1687971572",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_cyclones_1.0_(65630).exe",
+                    "size": "431339968"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6AF63C5BB9",
+                            "link": "https://filecrypt.cc/Container/6AF63C5BB9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FADEA7554A",
+                            "link": "https://filecrypt.cc/Container/FADEA7554A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/44B1C16B9B",
+                            "link": "https://filecrypt.cc/Container/44B1C16B9B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

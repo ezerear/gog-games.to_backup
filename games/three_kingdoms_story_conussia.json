@@ -1,0 +1,80 @@
+{
+    "href": "/game/three_kingdoms_story_conussia",
+    "MSG": {
+        "id": "1266833574",
+        "title": "Three kingdoms story: Conussia",
+        "slug": "three_kingdoms_story_conussia",
+        "thumb_id": "90a1866d3823342b890e8dcaa128aa44aca8a85fb2e57d76c2bbc5a7170fb2dc",
+        "bg_id": "2baeb757e6096504a1ef99856f88d0e5a8b7dd6be9f887d9a280175782ba991d",
+        "url": "https://www.gog.com/en/game/three_kingdoms_story_conussia",
+        "developer": "kamti",
+        "publisher": "",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708472123",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_three_kingdoms_story_conussia_-_complete_rework_1.63_(62555).exe",
+                    "size": "291585424"
+                },
+                {
+                    "name": "setup_three_kingdoms_story_conussia_-_unrated_dlc_1.63_(62555).exe",
+                    "size": "9849120"
+                },
+                {
+                    "name": "setup_three_kingdoms_story_conussia_1.63_(62555)-1.bin",
+                    "size": "1791146081"
+                },
+                {
+                    "name": "setup_three_kingdoms_story_conussia_1.63_(62555).exe",
+                    "size": "948536"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4BBDA255EA",
+                            "link": "https://filecrypt.cc/Container/4BBDA255EA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7A3B31FA35",
+                            "link": "https://filecrypt.cc/Container/7A3B31FA35"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FE4E77E331",
+                            "link": "https://filecrypt.cc/Container/FE4E77E331"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

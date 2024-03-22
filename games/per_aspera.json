@@ -1,0 +1,135 @@
+{
+    "href": "/game/per_aspera",
+    "MSG": {
+        "id": "1854141325",
+        "title": "Per Aspera",
+        "slug": "per_aspera",
+        "thumb_id": "eb8170ea939951bfca2bb6fcaa7ae7880527a4cdc56a297d0c316c6a3b9f8155",
+        "bg_id": "24bc5ba6b551a568f3aee775e10890a11bf1fbdac2689e7df24677db7c8ede05",
+        "url": "https://www.gog.com/game/per_aspera",
+        "developer": "Tlön Industries",
+        "publisher": "Raw Fury",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710904195",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_per_aspera_-_blue_mars_v.1.8.2.32335.2023.3.28.1_(64bit)_(63450).exe",
+                    "size": "5687984"
+                },
+                {
+                    "name": "setup_per_aspera_v.1.8.2.32335.2023.3.28.1_(64bit)_(63450)-1.bin",
+                    "size": "1945661320"
+                },
+                {
+                    "name": "setup_per_aspera_v.1.8.2.32335.2023.3.28.1_(64bit)_(63450).exe",
+                    "size": "806976"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "per_aspera_artbook.zip",
+                    "size": "176231773"
+                },
+                {
+                    "name": "per_aspera_audiobook.zip",
+                    "size": "342008203"
+                },
+                {
+                    "name": "per_aspera_audio_drama.zip",
+                    "size": "339240902"
+                },
+                {
+                    "name": "per_aspera_ost_mp3.zip",
+                    "size": "173011453"
+                },
+                {
+                    "name": "per_aspera_ost_wav.zip",
+                    "size": "1390083453"
+                },
+                {
+                    "name": "per_aspera_soundtrack_mp3.zip",
+                    "size": "203710802"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6283920F2A",
+                            "link": "https://filecrypt.cc/Container/6283920F2A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B28A3A9203",
+                            "link": "https://filecrypt.cc/Container/B28A3A9203"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7E02760BD0",
+                            "link": "https://filecrypt.cc/Container/7E02760BD0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4ECE4567FF",
+                            "link": "https://filecrypt.cc/Container/4ECE4567FF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/206FD59D6F",
+                            "link": "https://filecrypt.cc/Container/206FD59D6F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AB054EAD5E",
+                            "link": "https://filecrypt.cc/Container/AB054EAD5E"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

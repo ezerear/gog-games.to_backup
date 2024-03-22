@@ -1,0 +1,90 @@
+{
+    "href": "/game/bombuzal",
+    "MSG": {
+        "id": "1288614568",
+        "title": "Bombuzal",
+        "slug": "bombuzal",
+        "thumb_id": "cc4fea567625c5625227df79d366aa916cd4e84408734fa8793a4250bcff2756",
+        "bg_id": "d24c52a1d5bcd3597e4bb2d3f29238ff73191960ca014903ba91915321507966",
+        "url": "https://www.gog.com/en/game/bombuzal",
+        "developer": "Image Works",
+        "publisher": "Mirrorsoft",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1707359794",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_bombuzal_1.0_(55423).exe",
+                    "size": "8797720"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/408563D1BA",
+                            "link": "https://filecrypt.cc/Container/408563D1BA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BDEE1E2443",
+                            "link": "https://filecrypt.cc/Container/BDEE1E2443"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FB7659437B",
+                            "link": "https://filecrypt.cc/Container/FB7659437B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0A9BA208BE",
+                            "link": "https://filecrypt.cc/Container/0A9BA208BE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/34A77650C2",
+                            "link": "https://filecrypt.cc/Container/34A77650C2"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

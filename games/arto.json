@@ -1,0 +1,94 @@
+{
+    "href": "/game/arto",
+    "MSG": {
+        "id": "1858999015",
+        "title": "Arto",
+        "slug": "arto",
+        "thumb_id": "d42ca985e296ff7a7fd5098ed0974372bc73411b3d41b3b0ee60f0a35e5143c7",
+        "bg_id": "bb3763e5c6fc733eda36f017a9a340cf0408608f50e36dfb618b0303d43553c8",
+        "url": "https://www.gog.com/en/game/arto",
+        "developer": "OrionGames",
+        "publisher": "Freedom Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1704009068",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_arto_ver_1.0.10_(66622)-1.bin",
+                    "size": "2206964467"
+                },
+                {
+                    "name": "setup_arto_ver_1.0.10_(66622).exe",
+                    "size": "834936"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/09CCB55E34",
+                            "link": "https://filecrypt.cc/Container/09CCB55E34"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/874B9E127E",
+                            "link": "https://filecrypt.cc/Container/874B9E127E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B80E9255C4",
+                            "link": "https://filecrypt.cc/Container/B80E9255C4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/357046BBC9",
+                            "link": "https://filecrypt.cc/Container/357046BBC9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/97D794AB6B",
+                            "link": "https://filecrypt.cc/Container/97D794AB6B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

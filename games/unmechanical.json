@@ -1,0 +1,115 @@
+{
+    "href": "/game/unmechanical",
+    "MSG": {
+        "id": "1207659087",
+        "title": "Unmechanical: Extended",
+        "slug": "unmechanical",
+        "thumb_id": "41824ad5fe5d95bae6b7c991d77d88b9f2400cdb23da1bca853b952b6eb1ec34",
+        "bg_id": "c64c7ba00c211fdc9b908c70337663373b009746c3bd031d77893bf25e708dc4",
+        "url": "https://www.gog.com/game/unmechanical",
+        "developer": "Talawa Games",
+        "publisher": "Teotl Studios",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710389515",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_unmechanical_2.3.0.24.exe",
+                    "size": "911039648"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "unmechanical_artwork.zip",
+                    "size": "3415342"
+                },
+                {
+                    "name": "unmechanical_avatars.zip",
+                    "size": "234340"
+                },
+                {
+                    "name": "unmechanical_wallpapers.zip",
+                    "size": "8609574"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3E3C830F16",
+                            "link": "https://filecrypt.cc/Container/3E3C830F16"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6E380198A2",
+                            "link": "https://filecrypt.cc/Container/6E380198A2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9A2ED5D588",
+                            "link": "https://filecrypt.cc/Container/9A2ED5D588"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C6D586E6BC",
+                            "link": "https://filecrypt.cc/Container/C6D586E6BC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CD43119774",
+                            "link": "https://filecrypt.cc/Container/CD43119774"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/134FC7FD11",
+                            "link": "https://filecrypt.cc/Container/134FC7FD11"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

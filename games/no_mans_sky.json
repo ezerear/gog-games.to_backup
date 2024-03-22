@@ -1,0 +1,131 @@
+{
+    "href": "/game/no_mans_sky",
+    "MSG": {
+        "id": "1446213994",
+        "title": "No Man's Sky",
+        "slug": "no_mans_sky",
+        "thumb_id": "dc081f56918398592a7e7641b13b8ecdaf9475028374b3d0669083cbad7a921b",
+        "bg_id": "03c2d23092eb78ed212b64626531b10b8ac459d8f5f1c901bcb8a8fedde062e7",
+        "url": "https://www.gog.com/game/no_mans_sky",
+        "developer": "Hello Games",
+        "publisher": "Hello Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709254522",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_no_mans_sky_4.52_omega_117978_(71512)-1.bin",
+                    "size": "4294008830"
+                },
+                {
+                    "name": "setup_no_mans_sky_4.52_omega_117978_(71512)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_no_mans_sky_4.52_omega_117978_(71512)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_no_mans_sky_4.52_omega_117978_(71512)-4.bin",
+                    "size": "2425944602"
+                },
+                {
+                    "name": "setup_no_mans_sky_4.52_omega_117978_(71512).exe",
+                    "size": "965848"
+                },
+                {
+                    "name": "setup_no_mans_sky_pre-order_dlc_4.52_omega_117978_(71512).exe",
+                    "size": "5982552"
+                }
+            ],
+            "PATCHES": [
+                {
+                    "name": "patch_no_mans_sky_4.51_Omega_117645_(71322)_to_4.52_Omega_117978_(71512)-1.bin",
+                    "size": "2383274993"
+                },
+                {
+                    "name": "patch_no_mans_sky_4.51_Omega_117645_(71322)_to_4.52_Omega_117978_(71512).exe",
+                    "size": "746616"
+                }
+            ],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B0AC2782A5",
+                            "link": "https://filecrypt.cc/Container/B0AC2782A5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2CB3216A11",
+                            "link": "https://filecrypt.cc/Container/2CB3216A11"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5B8F482F87",
+                            "link": "https://filecrypt.cc/Container/5B8F482F87"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A9EAAEEE7E",
+                            "link": "https://filecrypt.cc/Container/A9EAAEEE7E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6A49C3BABC",
+                            "link": "https://filecrypt.cc/Container/6A49C3BABC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AA6E9330B9",
+                            "link": "https://filecrypt.cc/Container/AA6E9330B9"
+                        }
+                    ]
+                }
+            ],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

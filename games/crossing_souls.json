@@ -1,0 +1,79 @@
+{
+    "href": "/game/crossing_souls",
+    "MSG": {
+        "id": "1271058609",
+        "title": "Crossing Souls",
+        "slug": "crossing_souls",
+        "thumb_id": "2120962fc4038d8b7dfd26624b0d53a467d67b393fc74da9663eaad7b91dd309",
+        "bg_id": "0a566ebeb33dbe6d3fd7cfc3930705931dce7a5f5d4c2d98428b65adae08971f",
+        "url": "https://www.gog.com/game/crossing_souls",
+        "developer": "Fourattic",
+        "publisher": "Devolver Digital",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708132365",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_crossing_souls_1.2.4_(19428).exe",
+                    "size": "1429488488"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8EA0E2C69C",
+                            "link": "https://filecrypt.cc/Container/8EA0E2C69C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3004962C19",
+                            "link": "https://filecrypt.cc/Container/3004962C19"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/665C68DC47",
+                            "link": "https://filecrypt.cc/Container/665C68DC47"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/694FF1A2CA",
+                            "link": "https://filecrypt.cc/Container/694FF1A2CA"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

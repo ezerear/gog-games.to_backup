@@ -1,0 +1,68 @@
+{
+    "href": "/game/synergia",
+    "MSG": {
+        "id": "1528521693",
+        "title": "Synergia",
+        "slug": "synergia",
+        "thumb_id": "22f013e06fcac6bbc15be0819d2a08cf9807ea9efb8d5f21c44ebc3fdfe928e3",
+        "bg_id": "0512af2f31e648fa3e29a8bc4c5df5ae40992231763467e461c78158191d6a72",
+        "url": "https://www.gog.com/game/synergia",
+        "developer": "Radi Art",
+        "publisher": "Top Hat Studios Inc",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710696723",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_synergia_1.01_(40070).exe",
+                    "size": "787428400"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CAFE6EE04D",
+                            "link": "https://filecrypt.cc/Container/CAFE6EE04D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/92FA98E915",
+                            "link": "https://filecrypt.cc/Container/92FA98E915"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/20E1B91929",
+                            "link": "https://filecrypt.cc/Container/20E1B91929"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

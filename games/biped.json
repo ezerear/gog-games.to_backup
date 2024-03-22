@@ -1,0 +1,72 @@
+{
+    "href": "/game/biped",
+    "MSG": {
+        "id": "1292687435",
+        "title": "Biped",
+        "slug": "biped",
+        "thumb_id": "ba0a38f70b0d7827e02f82a69e3ceaf5a86c5f9cc20adc67975e1aec6c24884c",
+        "bg_id": "9d016df1b623651e46119db8374665bf8f63f2dafbefbfb3f58e454f86434051",
+        "url": "https://www.gog.com/game/biped",
+        "developer": "NEXT Studios",
+        "publisher": "NEXT Studios, bilibili, META Publishing",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708466264",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_biped_1.6_(39586)-1.bin",
+                    "size": "3676008822"
+                },
+                {
+                    "name": "setup_biped_1.6_(39586).exe",
+                    "size": "932440"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B1E8EF3FDF",
+                            "link": "https://filecrypt.cc/Container/B1E8EF3FDF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/592FCF60AC",
+                            "link": "https://filecrypt.cc/Container/592FCF60AC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E126BB4DD7",
+                            "link": "https://filecrypt.cc/Container/E126BB4DD7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

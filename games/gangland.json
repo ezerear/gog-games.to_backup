@@ -1,0 +1,143 @@
+{
+    "href": "/game/gangland",
+    "MSG": {
+        "id": "1207658977",
+        "title": "Gangland",
+        "slug": "gangland",
+        "thumb_id": "312053957570809bb6de59ce01dadb738cb2153b9e9143d69b7d7323bdfeccf3",
+        "bg_id": "4cf70fca3a1d7bac196cc424bc0f4406f841a5a1a08d6794179e47cc2c28cd8c",
+        "url": "https://web.archive.org/web/20190711223836/https://www.gog.com/game/gangland",
+        "developer": "MediaMobsters",
+        "publisher": "Focus Home Interactive",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709041629",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_gangland_2.0.0.3.exe",
+                    "size": "328783320"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "gangland_artwork.zip",
+                    "size": "2176938"
+                },
+                {
+                    "name": "gangland_manual.zip",
+                    "size": "1749110"
+                },
+                {
+                    "name": "gangland_ref_card.zip",
+                    "size": "26193"
+                },
+                {
+                    "name": "gangland_soundtrack.zip",
+                    "size": "102120049"
+                },
+                {
+                    "name": "gangland_wallpaper.zip",
+                    "size": "2778022"
+                },
+                {
+                    "name": "gl_artworks.zip",
+                    "size": "2176498"
+                },
+                {
+                    "name": "gl_manual.zip",
+                    "size": "1750297"
+                },
+                {
+                    "name": "gl_reference_card.zip",
+                    "size": "26187"
+                },
+                {
+                    "name": "gl_soundtrack.zip",
+                    "size": "100924057"
+                },
+                {
+                    "name": "gl_wallpaper.zip",
+                    "size": "2778013"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E76661F7FF",
+                            "link": "https://filecrypt.cc/Container/E76661F7FF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C37606AF95",
+                            "link": "https://filecrypt.cc/Container/C37606AF95"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DA4469A558",
+                            "link": "https://filecrypt.cc/Container/DA4469A558"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C41413BB87",
+                            "link": "https://filecrypt.cc/Container/C41413BB87"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0A4596A6B1",
+                            "link": "https://filecrypt.cc/Container/0A4596A6B1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7C83B5158A",
+                            "link": "https://filecrypt.cc/Container/7C83B5158A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

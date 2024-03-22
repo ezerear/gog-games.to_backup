@@ -1,0 +1,80 @@
+{
+    "href": "/game/slay_the_princess",
+    "MSG": {
+        "id": "1512893158",
+        "title": "Slay the Princess",
+        "slug": "slay_the_princess",
+        "thumb_id": "9f82ebbaa8660dc59c432bec0e01770b116dd81060b44a3ae816efa124896a95",
+        "bg_id": "b0bae30a478c96debfdf75fd1714b8772c11d36ca25fe9735c0ff5b4bcdee484",
+        "url": "https://www.gog.com/en/game/slay_the_princess",
+        "developer": "Black Tabby Games",
+        "publisher": "Black Tabby Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709328050",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_slay_the_princess_windows_1.0f_release_(68785)-1.bin",
+                    "size": "4293875710"
+                },
+                {
+                    "name": "setup_slay_the_princess_windows_1.0f_release_(68785)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_slay_the_princess_windows_1.0f_release_(68785)-3.bin",
+                    "size": "852650070"
+                },
+                {
+                    "name": "setup_slay_the_princess_windows_1.0f_release_(68785).exe",
+                    "size": "1101616"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C89589DD88",
+                            "link": "https://filecrypt.cc/Container/C89589DD88"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/102F6A12C3",
+                            "link": "https://filecrypt.cc/Container/102F6A12C3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/31C19A42E1",
+                            "link": "https://filecrypt.cc/Container/31C19A42E1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,76 @@
+{
+    "href": "/game/chaos_child",
+    "MSG": {
+        "id": "2018454546",
+        "title": "CHAOS;CHILD",
+        "slug": "chaos_child",
+        "thumb_id": "d0d4c72c448ce485bf592e43b4cdd596c2c9de33d996982ad668c6c880d305e4",
+        "bg_id": "72735d8c788fa4e6c6469005714640cbbc01d6cb885dac358c9a25373860eca8",
+        "url": "https://www.gog.com/en/game/chaos_child",
+        "developer": "MAGES. Inc.",
+        "publisher": "Spike Chunsoft Co., Ltd.",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709750356",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_chaoschild_1.0_(59718)-1.bin",
+                    "size": "4294041598"
+                },
+                {
+                    "name": "setup_chaoschild_1.0_(59718)-2.bin",
+                    "size": "4090350689"
+                },
+                {
+                    "name": "setup_chaoschild_1.0_(59718).exe",
+                    "size": "935984"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/65865F7C28",
+                            "link": "https://filecrypt.cc/Container/65865F7C28"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EC7D3882FF",
+                            "link": "https://filecrypt.cc/Container/EC7D3882FF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E606A99D68",
+                            "link": "https://filecrypt.cc/Container/E606A99D68"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

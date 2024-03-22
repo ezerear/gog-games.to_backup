@@ -1,0 +1,88 @@
+{
+    "href": "/game/uboat",
+    "MSG": {
+        "id": "1771607985",
+        "title": "UBOAT",
+        "slug": "uboat",
+        "thumb_id": "dfe72a6cc19d69704f3d0974a4213e4d85d260ad6080f5c13c47cc984925a0f3",
+        "bg_id": "e2734a9254e193832f53019379a00886cc27ab9968ba6983f538086fb9616cda",
+        "url": "https://www.gog.com/game/uboat",
+        "developer": "Deep Water Studio",
+        "publisher": "PlayWay",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710902908",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_uboat_2022.1_patch_21_(64bit)_(61964)-1.bin",
+                    "size": "4293194238"
+                },
+                {
+                    "name": "setup_uboat_2022.1_patch_21_(64bit)_(61964)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_uboat_2022.1_patch_21_(64bit)_(61964)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_uboat_2022.1_patch_21_(64bit)_(61964)-4.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_uboat_2022.1_patch_21_(64bit)_(61964)-5.bin",
+                    "size": "877536123"
+                },
+                {
+                    "name": "setup_uboat_2022.1_patch_21_(64bit)_(61964).exe",
+                    "size": "1783272"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/97E19FD09C",
+                            "link": "https://filecrypt.cc/Container/97E19FD09C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D04DF59A51",
+                            "link": "https://filecrypt.cc/Container/D04DF59A51"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/065EAFF215",
+                            "link": "https://filecrypt.cc/Container/065EAFF215"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

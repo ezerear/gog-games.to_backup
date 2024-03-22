@@ -1,0 +1,111 @@
+{
+    "href": "/game/the_shivah",
+    "MSG": {
+        "id": "1207660263",
+        "title": "The Shivah",
+        "slug": "the_shivah",
+        "thumb_id": "9078dd5d14b10b6eafbf9ebc254dae1a9f32ee6fdf05d97b7c3992ddf40b6abc",
+        "bg_id": "71ebbdd2f1b93589dad383111e8181dfc28eebf5326d5bb29163e6db62c00f82",
+        "url": "https://www.gog.com/game/the_shivah",
+        "developer": "Wadjet Eye Games",
+        "publisher": "Wadjet Eye Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708861281",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_shivah_3.0_(66466).exe",
+                    "size": "91637784"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "shivah_classic.zip",
+                    "size": "94155172"
+                },
+                {
+                    "name": "shivah_ost.zip",
+                    "size": "24565720"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C9A9FBA921",
+                            "link": "https://filecrypt.cc/Container/C9A9FBA921"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9A5071BC4A",
+                            "link": "https://filecrypt.cc/Container/9A5071BC4A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DAF8750591",
+                            "link": "https://filecrypt.cc/Container/DAF8750591"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/812FED1B25",
+                            "link": "https://filecrypt.cc/Container/812FED1B25"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/027A733479",
+                            "link": "https://filecrypt.cc/Container/027A733479"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4409F8DC99",
+                            "link": "https://filecrypt.cc/Container/4409F8DC99"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

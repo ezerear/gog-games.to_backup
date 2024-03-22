@@ -1,0 +1,72 @@
+{
+    "href": "/game/return_to_mysterious_island_2",
+    "MSG": {
+        "id": "1646077970",
+        "title": "Return to Mysterious Island 2",
+        "slug": "return_to_mysterious_island_2",
+        "thumb_id": "1d546375b9a41dac7ba01be543c6211d5210eaf18b9cb391ebe265ffbf4539ee",
+        "bg_id": "23b3cb22004e283fb01e71181ec45ea7ab1aa44ac1e81862849ae68bb756f485",
+        "url": "https://www.gog.com/en/game/return_to_mysterious_island_2",
+        "developer": "Kheops Studio",
+        "publisher": "Microids",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710448738",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_return_to_mysterious_island_2_1.06_(57220)-1.bin",
+                    "size": "3028828469"
+                },
+                {
+                    "name": "setup_return_to_mysterious_island_2_1.06_(57220).exe",
+                    "size": "858536"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/298E25942F",
+                            "link": "https://filecrypt.cc/Container/298E25942F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C0ABD82989",
+                            "link": "https://filecrypt.cc/Container/C0ABD82989"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5C4FA3B316",
+                            "link": "https://filecrypt.cc/Container/5C4FA3B316"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,115 @@
+{
+    "href": "/game/zork_grand_inquisitor",
+    "MSG": {
+        "id": "1207658948",
+        "title": "Zork: Grand Inquisitor",
+        "slug": "zork_grand_inquisitor",
+        "thumb_id": "e2d051192855ee7bd50597c524edaf67f654da072614c689f8ba18ba731ef805",
+        "bg_id": "4e349df96f6f11f35dbf4f2c9c7992200214bad968e2c1de58a1cb31a8f4da09",
+        "url": "https://www.gog.com/game/zork_grand_inquisitor",
+        "developer": "Activision",
+        "publisher": "Activision",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709160091",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_zork_grand_inquisitor_1.0_dvd_(20293)-1.bin",
+                    "size": "2179360568"
+                },
+                {
+                    "name": "setup_zork_grand_inquisitor_1.0_dvd_(20293).exe",
+                    "size": "1295344"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "Zork_Grand_Inquisitor_chronologue.zip",
+                    "size": "16609261"
+                },
+                {
+                    "name": "Zork_Grand_Inquisitor_manual.zip",
+                    "size": "3819705"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/55EC53C8B2",
+                            "link": "https://filecrypt.cc/Container/55EC53C8B2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3D6C37AC06",
+                            "link": "https://filecrypt.cc/Container/3D6C37AC06"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D1FA6DBC00",
+                            "link": "https://filecrypt.cc/Container/D1FA6DBC00"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/613AC2D82B",
+                            "link": "https://filecrypt.cc/Container/613AC2D82B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C269B7FCC0",
+                            "link": "https://filecrypt.cc/Container/C269B7FCC0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DC766BDBAC",
+                            "link": "https://filecrypt.cc/Container/DC766BDBAC"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/moto_racer_2",
+    "MSG": {
+        "id": "1207658896",
+        "title": "Moto Racer 2",
+        "slug": "moto_racer_2",
+        "thumb_id": "3130a44427e07737bb32deadd777fce8931a59eec0c4200556e877a207a3cc9d",
+        "bg_id": "f400901039e714bb73c35b06b45f4b2cbd13127d54cb2c1f08038bc421d6c5e1",
+        "url": "https://www.gog.com/game/moto_racer_2",
+        "developer": "Delphine Software",
+        "publisher": "Anuman Interactive",
+        "category": "Racing",
+        "uploading": "0",
+        "last_upload": "1708377373",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_moto_racer2_2.1.0.9.exe",
+                    "size": "486347184"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/bgimWGf",
+                            "link": "https://safelinking.net/bgimWGf"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/imDS3gf",
+                            "link": "https://safelinking.net/imDS3gf"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/MMZ8I3G",
+                            "link": "https://safelinking.net/MMZ8I3G"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

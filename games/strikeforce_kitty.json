@@ -1,0 +1,79 @@
+{
+    "href": "/game/strikeforce_kitty",
+    "MSG": {
+        "id": "1863212789",
+        "title": "StrikeForce Kitty",
+        "slug": "strikeforce_kitty",
+        "thumb_id": "8d75fde3e78b1356308b6cd21e054a1356cea6e63573a5b1ccdcf033fbc68398",
+        "bg_id": "804577282d968b40653975d84900a8e0c13a563990b9706867ed491746d776ed",
+        "url": "https://www.gog.com/en/game/strikeforce_kitty",
+        "developer": "Creepy Brothers",
+        "publisher": "Creepy Brothers",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708034923",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_strike_force_kitty_1.0_(66127).exe",
+                    "size": "133702896"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C686345E11",
+                            "link": "https://filecrypt.cc/Container/C686345E11"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/892232571F",
+                            "link": "https://filecrypt.cc/Container/892232571F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/ADA3AF33EA",
+                            "link": "https://filecrypt.cc/Container/ADA3AF33EA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1CF3A17D06",
+                            "link": "https://filecrypt.cc/Container/1CF3A17D06"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

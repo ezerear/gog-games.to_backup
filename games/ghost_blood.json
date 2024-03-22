@@ -1,0 +1,94 @@
+{
+    "href": "/game/ghost_blood",
+    "MSG": {
+        "id": "1639436859",
+        "title": "Ghost Blood",
+        "slug": "ghost_blood",
+        "thumb_id": "089b08cd449578ee100e12e476c04bb280a72e83faf36e85414e76ab2b212b6f",
+        "bg_id": "8e9d9cbd54151c1393dfef393a865135461bca23b5b2970d51a7024374c4f45c",
+        "url": "https://www.gog.com/en/game/ghost_blood",
+        "developer": "BigBread",
+        "publisher": "Meridian4",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1704867107",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_ghost_blood_1.01_(62606)-1.bin",
+                    "size": "2070207073"
+                },
+                {
+                    "name": "setup_ghost_blood_1.01_(62606).exe",
+                    "size": "839488"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B40D28AD42",
+                            "link": "https://filecrypt.cc/Container/B40D28AD42"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/079FBB19A3",
+                            "link": "https://filecrypt.cc/Container/079FBB19A3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CE84DCDEEA",
+                            "link": "https://filecrypt.cc/Container/CE84DCDEEA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F340358B59",
+                            "link": "https://filecrypt.cc/Container/F340358B59"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EFD6C6ED0D",
+                            "link": "https://filecrypt.cc/Container/EFD6C6ED0D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,76 @@
+{
+    "href": "/game/sniper_ghost_warrior",
+    "MSG": {
+        "id": "1345222405",
+        "title": "Sniper: Ghost Warrior",
+        "slug": "sniper_ghost_warrior",
+        "thumb_id": "d5525ae1ce5aaf97ddd32a7f57f84ccc9f010250122af691e045572a0d9fa571",
+        "bg_id": "d2f36e8560017a8dad49a56d48624b9eec3015a18de09a212445c7e9e7a06981",
+        "url": "https://www.gog.com/game/sniper_ghost_warrior",
+        "developer": "City Interactive",
+        "publisher": "CI Games",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1709686315",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sniper_ghost_warrior_1.2_(34044)-1.bin",
+                    "size": "4294058494"
+                },
+                {
+                    "name": "setup_sniper_ghost_warrior_1.2_(34044)-2.bin",
+                    "size": "3132442256"
+                },
+                {
+                    "name": "setup_sniper_ghost_warrior_1.2_(34044).exe",
+                    "size": "915952"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C1C64C7F68",
+                            "link": "https://filecrypt.cc/Container/C1C64C7F68"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5F7CCDBB0A",
+                            "link": "https://filecrypt.cc/Container/5F7CCDBB0A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/463C8AEF16",
+                            "link": "https://filecrypt.cc/Container/463C8AEF16"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

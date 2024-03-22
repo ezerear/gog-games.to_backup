@@ -1,0 +1,93 @@
+{
+    "href": "/game/zephyr",
+    "MSG": {
+        "id": "1977099785",
+        "title": "Zephyr",
+        "slug": "zephyr",
+        "thumb_id": "6c4aa59fd2ed4a43dd1e586c626a36dfa6028b54594329353f4d2525ba6a1ed0",
+        "bg_id": "25a0becaffafc083fa1702d7384b8ecc8ed3e232f01ea38367f8b66d2b9270e9",
+        "url": "https://www.gog.com/game/zephyr",
+        "developer": "New World Computing, Inc.",
+        "publisher": "Ziggurat Interactive",
+        "category": "Racing",
+        "uploading": "0",
+        "last_upload": "1710173946",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_zephyr_1.0_(43417).exe",
+                    "size": "650510064"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "zephyr_bonus_artwork.zip",
+                    "size": "28011582"
+                },
+                {
+                    "name": "zephyr_manual.zip",
+                    "size": "15283984"
+                },
+                {
+                    "name": "zephyr_quick_reference_cards.zip",
+                    "size": "7841493"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/016AFCE897",
+                            "link": "https://filecrypt.cc/Container/016AFCE897"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/629B972EFD",
+                            "link": "https://filecrypt.cc/Container/629B972EFD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6699B15072",
+                            "link": "https://filecrypt.cc/Container/6699B15072"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/00290E00EA",
+                            "link": "https://filecrypt.cc/Container/00290E00EA"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

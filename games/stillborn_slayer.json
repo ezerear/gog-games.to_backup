@@ -1,0 +1,68 @@
+{
+    "href": "/game/stillborn_slayer",
+    "MSG": {
+        "id": "1837868719",
+        "title": "Stillborn Slayer",
+        "slug": "stillborn_slayer",
+        "thumb_id": "04bb3646ba77d750913a1b9c000e28eed650420ff01e60cda09dbec48d768cac",
+        "bg_id": "d3d9bfedb696fc08c01409ff1d4648ab8b31b6599c232c6b5964833286583f0a",
+        "url": "https://www.gog.com/en/game/stillborn_slayer",
+        "developer": "Apushev Vitaly",
+        "publisher": "Meridian4",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1690208966",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_stillborn_slayer_1.0_(65514).exe",
+                    "size": "57352784"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/40D81F929E",
+                            "link": "https://filecrypt.cc/Container/40D81F929E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B92B4D7C79",
+                            "link": "https://filecrypt.cc/Container/B92B4D7C79"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/632E8D3B12",
+                            "link": "https://filecrypt.cc/Container/632E8D3B12"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

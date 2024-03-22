@@ -1,0 +1,80 @@
+{
+    "href": "/game/dramatical_murder",
+    "MSG": {
+        "id": "1500048917",
+        "title": "DRAMAtical Murder",
+        "slug": "dramatical_murder",
+        "thumb_id": "ac641109375db181cc910f668ec0e09a711b7269bdc1cd7859ca438892272bb1",
+        "bg_id": "de494add74370159c5d4c819f5d3b0e4e2b0f1588705f6adba1779780b358249",
+        "url": "https://www.gog.com/en/game/dramatical_murder",
+        "developer": "Nitro+CHiRAL",
+        "publisher": "JAST USA",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1708008744",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dramatical_murder_1.00s_(60994)-1.bin",
+                    "size": "4294096894"
+                },
+                {
+                    "name": "setup_dramatical_murder_1.00s_(60994)-2.bin",
+                    "size": "978607640"
+                },
+                {
+                    "name": "setup_dramatical_murder_1.00s_(60994).exe",
+                    "size": "880584"
+                },
+                {
+                    "name": "setup_dramatical_murder_unrated_patch_1.00s_(60994).exe",
+                    "size": "148221000"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CCCA58BBD2",
+                            "link": "https://filecrypt.cc/Container/CCCA58BBD2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4021C12220",
+                            "link": "https://filecrypt.cc/Container/4021C12220"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9CC847DEC0",
+                            "link": "https://filecrypt.cc/Container/9CC847DEC0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

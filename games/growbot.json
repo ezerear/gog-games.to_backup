@@ -1,0 +1,101 @@
+{
+    "href": "/game/growbot",
+    "MSG": {
+        "id": "1762582591",
+        "title": "Growbot",
+        "slug": "growbot",
+        "thumb_id": "2353e4f03d2bf5db71afb72a48cd8258ab8f5e892fa15206cef0a3ffebed9f84",
+        "bg_id": "b1b979b33ff929a22e18906d08b8d97384878535a8f295341ad102793ef3122c",
+        "url": "https://www.gog.com/game/growbot",
+        "developer": "Wabisabi Play",
+        "publisher": "Application Systems Heidelberg",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1699459417",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_growbot_1.6_(64bit)_(55880).exe",
+                    "size": "751666632"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CE3747CF84",
+                            "link": "https://filecrypt.cc/Container/CE3747CF84"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/99B96282CB",
+                            "link": "https://filecrypt.cc/Container/99B96282CB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9B7D2BEAC9",
+                            "link": "https://filecrypt.cc/Container/9B7D2BEAC9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B0813C6FC2",
+                            "link": "https://filecrypt.cc/Container/B0813C6FC2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8548E5517D",
+                            "link": "https://filecrypt.cc/Container/8548E5517D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C35634AF0F",
+                            "link": "https://filecrypt.cc/Container/C35634AF0F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

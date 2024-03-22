@@ -1,0 +1,72 @@
+{
+    "href": "/game/lost_horizon",
+    "MSG": {
+        "id": "1196011241",
+        "title": "Lost Horizon",
+        "slug": "lost_horizon",
+        "thumb_id": "ae74c7abf2d1ab84dacd764b5df014cffb9c88836286a0f8873628757db65aa3",
+        "bg_id": "73d7f0749df95c032aca958aa2b2279b6cb7f46c5129df8a88ce9e2a342d56be",
+        "url": "https://www.gog.com/game/lost_horizon",
+        "developer": "Animation Arts",
+        "publisher": "Deep Silver",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709102150",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_lost_horizon_1.00_(33204)-1.bin",
+                    "size": "4056369781"
+                },
+                {
+                    "name": "setup_lost_horizon_1.00_(33204).exe",
+                    "size": "849952"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1230E4BB24",
+                            "link": "https://filecrypt.cc/Container/1230E4BB24"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5B6C66FB22",
+                            "link": "https://filecrypt.cc/Container/5B6C66FB22"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1B21D5751E",
+                            "link": "https://filecrypt.cc/Container/1B21D5751E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,80 @@
+{
+    "href": "/game/spacebourne_2",
+    "MSG": {
+        "id": "1649813385",
+        "title": "SpaceBourne 2",
+        "slug": "spacebourne_2",
+        "thumb_id": "28b168072695a9836fcd8339089a0d6074de5b13fa27ce9dce5a93127efc7233",
+        "bg_id": "c489c1c674f8f3314c69b4fbb9944411f97035120dd39fd4c151b0417d832b36",
+        "url": "https://www.gog.com/en/game/spacebourne_2",
+        "developer": "Burak Dabak",
+        "publisher": "",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1708689197",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_spacebourne_2_3.0.10_(64bit)_(68645)-1.bin",
+                    "size": "4293997054"
+                },
+                {
+                    "name": "setup_spacebourne_2_3.0.10_(64bit)_(68645)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_spacebourne_2_3.0.10_(64bit)_(68645)-3.bin",
+                    "size": "3184600967"
+                },
+                {
+                    "name": "setup_spacebourne_2_3.0.10_(64bit)_(68645).exe",
+                    "size": "980152"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/61265F92D6",
+                            "link": "https://filecrypt.cc/Container/61265F92D6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CF78409314",
+                            "link": "https://filecrypt.cc/Container/CF78409314"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B8AABC1D71",
+                            "link": "https://filecrypt.cc/Container/B8AABC1D71"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

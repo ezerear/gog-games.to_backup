@@ -1,0 +1,79 @@
+{
+    "href": "/game/the_great_perhaps",
+    "MSG": {
+        "id": "1097240632",
+        "title": "The Great Perhaps",
+        "slug": "the_great_perhaps",
+        "thumb_id": "2273d84b08d9fed9a10bf2b7211c497fcefd6d14e200cc39a83b21fc43708dc1",
+        "bg_id": "ce1442920eb2ec2a6745cc12738ac3baf0a17b498318406d2ec1d8f79ced3324",
+        "url": "https://www.gog.com/game/the_great_perhaps",
+        "developer": "Caligari Games",
+        "publisher": "Daedalic Entertainment",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1684098558",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_great_perhaps_1.32.14_(31595).exe",
+                    "size": "615957712"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F7F7A6D539",
+                            "link": "https://filecrypt.cc/Container/F7F7A6D539"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/927C673E5E",
+                            "link": "https://filecrypt.cc/Container/927C673E5E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9B3137AEE8",
+                            "link": "https://filecrypt.cc/Container/9B3137AEE8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/535055D5AB",
+                            "link": "https://filecrypt.cc/Container/535055D5AB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

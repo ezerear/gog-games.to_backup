@@ -1,0 +1,90 @@
+{
+    "href": "/game/crawl",
+    "MSG": {
+        "id": "1207665263",
+        "title": "Crawl",
+        "slug": "crawl",
+        "thumb_id": "7335a19965e10e84ce5330d9337078d404f2b29d13278e9a339e855e9ff1661e",
+        "bg_id": "afb74ed6cd2b015448514e8565d1acdd365d75893e1d0fa064f7355fe13ae269",
+        "url": "https://www.gog.com/game/crawl",
+        "developer": "Powerhoof",
+        "publisher": "Fellow Traveller",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707508410",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_crawl_1.0.1_(11409).exe",
+                    "size": "59059512"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5CA3E65BD1",
+                            "link": "https://filecrypt.cc/Container/5CA3E65BD1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A634D06B22",
+                            "link": "https://filecrypt.cc/Container/A634D06B22"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8BC23E6823",
+                            "link": "https://filecrypt.cc/Container/8BC23E6823"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9D56F2137B",
+                            "link": "https://filecrypt.cc/Container/9D56F2137B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5450C83ACE",
+                            "link": "https://filecrypt.cc/Container/5450C83ACE"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

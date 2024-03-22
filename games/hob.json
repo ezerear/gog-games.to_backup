@@ -1,0 +1,83 @@
+{
+    "href": "/game/hob",
+    "MSG": {
+        "id": "1300281766",
+        "title": "Hob",
+        "slug": "hob",
+        "thumb_id": "b9904714523f866b95316bc5fb2da14bbb07ab12bab137fc5731bccb3ff70a9c",
+        "bg_id": "f8a01cde24d58b327c1f344a3a06bade6d4e70e0053c78351e0e1bc72168a9a9",
+        "url": "https://www.gog.com/game/hob",
+        "developer": "Runic Games Inc.",
+        "publisher": "Runic Games Inc.",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707994339",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hob_1.17.3.0_(16560)-1.bin",
+                    "size": "2268434785"
+                },
+                {
+                    "name": "setup_hob_1.17.3.0_(16560).exe",
+                    "size": "1716584"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B52241A938",
+                            "link": "https://filecrypt.cc/Container/B52241A938"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A3A404BFDE",
+                            "link": "https://filecrypt.cc/Container/A3A404BFDE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/38148AF64C",
+                            "link": "https://filecrypt.cc/Container/38148AF64C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/27116FD880",
+                            "link": "https://filecrypt.cc/Container/27116FD880"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

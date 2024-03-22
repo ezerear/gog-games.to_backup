@@ -1,0 +1,80 @@
+{
+    "href": "/game/risen_3_titan_lords",
+    "MSG": {
+        "id": "1454068042",
+        "title": "Risen 3: Titan Lords",
+        "slug": "risen_3_titan_lords",
+        "thumb_id": "488173a26cfbc3b8cccc6d3c504ef9a2340e3b8b379fef2cb6d64dc7dd5c89ef",
+        "bg_id": "396e6316559c670f300a5440a92da934899a3fbf2997b91e37549aadfe365b17",
+        "url": "https://www.gog.com/game/risen_3_titan_lords",
+        "developer": "Piranha Bytes",
+        "publisher": "Deep Silver",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1706311250",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_risen_3_titan_lords_-_upgrade_to_complete_1.2_ee_(37620).exe",
+                    "size": "7097880"
+                },
+                {
+                    "name": "setup_risen_3_titan_lords_1.2_ee_(37620)-1.bin",
+                    "size": "4294061566"
+                },
+                {
+                    "name": "setup_risen_3_titan_lords_1.2_ee_(37620)-2.bin",
+                    "size": "2717569029"
+                },
+                {
+                    "name": "setup_risen_3_titan_lords_1.2_ee_(37620).exe",
+                    "size": "912904"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1E4BC62930",
+                            "link": "https://filecrypt.cc/Container/1E4BC62930"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/320A07F0E9",
+                            "link": "https://filecrypt.cc/Container/320A07F0E9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4683B0284D",
+                            "link": "https://filecrypt.cc/Container/4683B0284D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

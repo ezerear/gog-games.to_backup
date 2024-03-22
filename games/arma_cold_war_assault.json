@@ -1,0 +1,123 @@
+{
+    "href": "/game/arma_cold_war_assault",
+    "MSG": {
+        "id": "1207658661",
+        "title": "ARMA: Cold War Assault",
+        "slug": "arma_cold_war_assault",
+        "thumb_id": "47d1aace61b19bc99466ba5128cc5cf4e34be59c80254ac1d20213fb33b6d1bf",
+        "bg_id": "64960023ca4b41da2dd7e2eff6315236a46d1a75d535c4e15b6983a7e8af2241",
+        "url": "https://www.gog.com/game/arma_cold_war_assault",
+        "developer": "Bohemia Interactive Studio",
+        "publisher": "Bohemia Interactive Studio",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1708708309",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_arma_cold_war_assault_2.0.0.6.exe",
+                    "size": "447624096"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "arma_cwa_avatar.zip",
+                    "size": "29832"
+                },
+                {
+                    "name": "arma_cwa_manual.zip",
+                    "size": "1173079"
+                },
+                {
+                    "name": "arma_cwa_maps.zip",
+                    "size": "6094995"
+                },
+                {
+                    "name": "arma_cwa_refcard.zip",
+                    "size": "43574"
+                },
+                {
+                    "name": "arma_cwa_soundtrack.zip",
+                    "size": "98569925"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C1B4EE15FA",
+                            "link": "https://filecrypt.cc/Container/C1B4EE15FA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C651EC6C89",
+                            "link": "https://filecrypt.cc/Container/C651EC6C89"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D075DEAD81",
+                            "link": "https://filecrypt.cc/Container/D075DEAD81"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/24D1861D2D",
+                            "link": "https://filecrypt.cc/Container/24D1861D2D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BA7CFEF27A",
+                            "link": "https://filecrypt.cc/Container/BA7CFEF27A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0343EF7A8A",
+                            "link": "https://filecrypt.cc/Container/0343EF7A8A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

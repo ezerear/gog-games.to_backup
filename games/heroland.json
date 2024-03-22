@@ -1,0 +1,68 @@
+{
+    "href": "/game/heroland",
+    "MSG": {
+        "id": "1545982617",
+        "title": "Heroland",
+        "slug": "heroland",
+        "thumb_id": "7ec21a21438939caff28422d7101608c610c3f5efc8f75d74f17b7b4345d5e1e",
+        "bg_id": "cdede8dde25b9e38a9ba3dcdf32b856f831b144dd6600ac75c262c7ceada2808",
+        "url": "https://www.gog.com/game/heroland",
+        "developer": "FURYU Corporation",
+        "publisher": "XSEED Games, Marvelous USA, Inc.",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1682664516",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_heroland_0.1.07_(32385).exe",
+                    "size": "645831080"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8DDEAD681E",
+                            "link": "https://filecrypt.cc/Container/8DDEAD681E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/H8o4RGe",
+                            "link": "https://safelinking.net/H8o4RGe"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D6D78F292A",
+                            "link": "https://filecrypt.cc/Container/D6D78F292A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

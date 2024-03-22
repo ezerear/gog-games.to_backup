@@ -1,0 +1,68 @@
+{
+    "href": "/game/castle_on_the_coast",
+    "MSG": {
+        "id": "1565525472",
+        "title": "Castle on the Coast",
+        "slug": "castle_on_the_coast",
+        "thumb_id": "59d1cbd4e89e5a0896cbaff3491783b22274f7fc1e93dc5ac95c11320c3b8f14",
+        "bg_id": "a36f557f8bbdd198b0ce9cefc2bab6018ce37721a8d1da1e0ecb266f47e267f8",
+        "url": "https://www.gog.com/game/castle_on_the_coast",
+        "developer": "Big Heart Productions",
+        "publisher": "Klabater",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708467598",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_castle_on_the_coast_1.0_(64bit)_(51875).exe",
+                    "size": "448392104"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C91D96F7CA",
+                            "link": "https://filecrypt.cc/Container/C91D96F7CA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/23DD2AC90B",
+                            "link": "https://filecrypt.cc/Container/23DD2AC90B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EBB4DDDCBF",
+                            "link": "https://filecrypt.cc/Container/EBB4DDDCBF"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

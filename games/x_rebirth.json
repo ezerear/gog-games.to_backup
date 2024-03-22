@@ -1,0 +1,84 @@
+{
+    "href": "/game/x_rebirth",
+    "MSG": {
+        "id": "1455645883",
+        "title": "X Rebirth",
+        "slug": "x_rebirth",
+        "thumb_id": "cb93fa8698fc129a73dec64225917021dae70a668d2249acd1e476b699a81cba",
+        "bg_id": "7c6c1f8f55536b3831261274f547591161c2275bd5b1db0b7ab80e802d683a08",
+        "url": "https://www.gog.com/game/x_rebirth",
+        "developer": "Egosoft",
+        "publisher": "Egosoft",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1710676481",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_x_rebirth_4.30_(16976)-1.bin",
+                    "size": "4294209022"
+                },
+                {
+                    "name": "setup_x_rebirth_4.30_(16976)-2.bin",
+                    "size": "2236873999"
+                },
+                {
+                    "name": "setup_x_rebirth_4.30_(16976).exe",
+                    "size": "765408"
+                },
+                {
+                    "name": "setup_x_rebirth_home_of_light_4.30_(16976).exe",
+                    "size": "361296824"
+                },
+                {
+                    "name": "setup_x_rebirth_the_teladi_outpost_4.30_(16976).exe",
+                    "size": "290648296"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/192BFE07DE",
+                            "link": "https://filecrypt.cc/Container/192BFE07DE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/03AEA15E01",
+                            "link": "https://filecrypt.cc/Container/03AEA15E01"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4DD6506E88",
+                            "link": "https://filecrypt.cc/Container/4DD6506E88"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

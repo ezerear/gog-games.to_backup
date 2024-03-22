@@ -1,0 +1,61 @@
+{
+    "href": "/game/zombasite",
+    "MSG": {
+        "id": "1218352612",
+        "title": "Zombasite",
+        "slug": "zombasite",
+        "thumb_id": "d42521271b9247e6f4da19609060f6dca967fa2c1b22e968d7f42d12cc0a09ef",
+        "bg_id": "25fa37a6a055531948c6a7a8c73779defbe5313c2f909f348a061efb7775e814",
+        "url": "https://www.gog.com/game/zombasite",
+        "developer": "Soldak Entertainment",
+        "publisher": "Soldak Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710169881",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_zombasite_1.025_(32754).exe",
+                    "size": "424279904"
+                },
+                {
+                    "name": "setup_zombasite_orc_schism_1.025_(32754).exe",
+                    "size": "47434584"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EDE7040AA9",
+                            "link": "https://filecrypt.cc/Container/EDE7040AA9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4082D1BDC5",
+                            "link": "https://filecrypt.cc/Container/4082D1BDC5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

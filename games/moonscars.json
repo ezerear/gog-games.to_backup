@@ -1,0 +1,72 @@
+{
+    "href": "/game/moonscars",
+    "MSG": {
+        "id": "2106173825",
+        "title": "Moonscars",
+        "slug": "moonscars",
+        "thumb_id": "b762cdb0eb4e1a92906e456ae713736ea36860e6635d1efcfd95cb78f3068b40",
+        "bg_id": "003b93ccac7ea7dded992514619822dd8c5c69f27a1850f1286e58341dd71b3d",
+        "url": "https://www.gog.com/en/game/moonscars",
+        "developer": "Black Mermaid",
+        "publisher": "Humble Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708858123",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_moonscars_1.6.009_(64bit)_(65684)-1.bin",
+                    "size": "271992303"
+                },
+                {
+                    "name": "setup_moonscars_1.6.009_(64bit)_(65684).exe",
+                    "size": "822800"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/117186F241",
+                            "link": "https://filecrypt.cc/Container/117186F241"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/28A7A2DCCA",
+                            "link": "https://filecrypt.cc/Container/28A7A2DCCA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8676F79A2C",
+                            "link": "https://filecrypt.cc/Container/8676F79A2C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

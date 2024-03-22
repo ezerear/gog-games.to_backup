@@ -1,0 +1,90 @@
+{
+    "href": "/game/split",
+    "MSG": {
+        "id": "1867636993",
+        "title": "Split",
+        "slug": "split",
+        "thumb_id": "9f490b2d4b1c1b9f3cf8d78b69a13a38228c695490646120ecb0d07a3f1ef14c",
+        "bg_id": "6fd45dea8e131be101c8a07ce84f4a2955ce5db460905e9eb7a7dbb55373245d",
+        "url": "https://www.gog.com/en/game/split",
+        "developer": "Garlic Jam",
+        "publisher": "GamePlanet, FreeMind S.A.",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1706795863",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_split_0.9.20_(62269).exe",
+                    "size": "839796832"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/417613627C",
+                            "link": "https://filecrypt.cc/Container/417613627C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/209D6C1D02",
+                            "link": "https://filecrypt.cc/Container/209D6C1D02"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AE619157A6",
+                            "link": "https://filecrypt.cc/Container/AE619157A6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/14EEEF7A48",
+                            "link": "https://filecrypt.cc/Container/14EEEF7A48"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B81930664E",
+                            "link": "https://filecrypt.cc/Container/B81930664E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

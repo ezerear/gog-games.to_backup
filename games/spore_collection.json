@@ -1,0 +1,115 @@
+{
+    "href": "/game/spore_collection",
+    "MSG": {
+        "id": "1948823323",
+        "title": "SPORE™ Collection",
+        "slug": "spore_collection",
+        "thumb_id": "a844cf7a2a287621f4b18af0e0ce6b3372848ae716214b953ec4325678c0981e",
+        "bg_id": "5892b5690711f07f399dc1a5963ca6d1106922bc246af43be5e63df4d6cd321e",
+        "url": "https://www.gog.com/game/spore_collection",
+        "developer": "Maxis Software Inc.",
+        "publisher": "Electronic Arts",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710276346",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_spore_3.1.0.22_(10834)-1.bin",
+                    "size": "4294138878"
+                },
+                {
+                    "name": "setup_spore_3.1.0.22_(10834)-2.bin",
+                    "size": "598872638"
+                },
+                {
+                    "name": "setup_spore_3.1.0.22_(10834).exe",
+                    "size": "835456"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "spore_collenction_manuals.zip",
+                    "size": "11639793"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BF1029BDE0",
+                            "link": "https://filecrypt.cc/Container/BF1029BDE0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8990FAC70E",
+                            "link": "https://filecrypt.cc/Container/8990FAC70E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D8913A05A4",
+                            "link": "https://filecrypt.cc/Container/D8913A05A4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1B02E45AD7",
+                            "link": "https://filecrypt.cc/Container/1B02E45AD7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FDBF647580",
+                            "link": "https://filecrypt.cc/Container/FDBF647580"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/07CDB89934",
+                            "link": "https://filecrypt.cc/Container/07CDB89934"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

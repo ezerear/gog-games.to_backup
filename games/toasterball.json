@@ -1,0 +1,68 @@
+{
+    "href": "/game/toasterball",
+    "MSG": {
+        "id": "1767603219",
+        "title": "Toasterball",
+        "slug": "toasterball",
+        "thumb_id": "a12f362e50466300bd43f7c786e59663498b38551a239b42a4a7e998dbe3ef4b",
+        "bg_id": "be8734722b63b3d4c434f39380bca84517b220c6c0152393a8bd4a98b30dc7c9",
+        "url": "https://www.gog.com/en/game/toasterball",
+        "developer": "Les Crafteurs",
+        "publisher": "Les Crafteurs",
+        "category": "Sports",
+        "uploading": "0",
+        "last_upload": "1710677590",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_toasterball_2.1.2_(64bit)_(68143).exe",
+                    "size": "314838520"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A78B59D85F",
+                            "link": "https://filecrypt.cc/Container/A78B59D85F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/763E0094EA",
+                            "link": "https://filecrypt.cc/Container/763E0094EA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E3264F806A",
+                            "link": "https://filecrypt.cc/Container/E3264F806A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

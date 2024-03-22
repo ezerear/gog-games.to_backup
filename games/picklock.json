@@ -1,0 +1,101 @@
+{
+    "href": "/game/picklock",
+    "MSG": {
+        "id": "1823930892",
+        "title": "Picklock",
+        "slug": "picklock",
+        "thumb_id": "fe7a65a2215e876ae11af99602033f680279e72f6326faf8995b925117df53d8",
+        "bg_id": "462e0e413f3c2436fffd4a13b3b6e88a0a3e5457d2809b1017f3e90d96fdc974",
+        "url": "https://www.gog.com/en/game/picklock",
+        "developer": "Creepy Brothers",
+        "publisher": "",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1698005020",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_picklock_1.0_(66127).exe",
+                    "size": "135807904"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7E020DE7BD",
+                            "link": "https://filecrypt.cc/Container/7E020DE7BD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/603C911893",
+                            "link": "https://filecrypt.cc/Container/603C911893"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0C6ADA55FB",
+                            "link": "https://filecrypt.cc/Container/0C6ADA55FB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2B77CFA7FF",
+                            "link": "https://filecrypt.cc/Container/2B77CFA7FF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/32B81F3428",
+                            "link": "https://filecrypt.cc/Container/32B81F3428"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3145F2D5D9",
+                            "link": "https://filecrypt.cc/Container/3145F2D5D9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

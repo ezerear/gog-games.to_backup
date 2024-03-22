@@ -1,0 +1,79 @@
+{
+    "href": "/game/breach",
+    "MSG": {
+        "id": "1323966768",
+        "title": "Breach",
+        "slug": "breach",
+        "thumb_id": "c5c054ac9533fde46708647dcedab6a2ced8e92cce720ce4460fe3e4cb2da4a0",
+        "bg_id": "6b42a0e45f1dbcdd3b10b7c0990d12c240da4d05e1d32445d475b0c64d0b65f1",
+        "url": "https://www.gog.com/en/game/breach",
+        "developer": "Omnitrend Software, Inc.",
+        "publisher": "Throwback Entertainment",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1707905587",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_breach_v1.0_(67696).exe",
+                    "size": "9183224"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/224B9A61C8",
+                            "link": "https://filecrypt.cc/Container/224B9A61C8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/25DCF08E4F",
+                            "link": "https://filecrypt.cc/Container/25DCF08E4F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/00CD00AABE",
+                            "link": "https://filecrypt.cc/Container/00CD00AABE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F5E03E9D58",
+                            "link": "https://filecrypt.cc/Container/F5E03E9D58"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

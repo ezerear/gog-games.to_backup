@@ -1,0 +1,68 @@
+{
+    "href": "/game/third_crisis",
+    "MSG": {
+        "id": "1889589606",
+        "title": "Third Crisis",
+        "slug": "third_crisis",
+        "thumb_id": "3dfb204a54514ea9056795d8976effd413555d62ea001be645772fe1bebe9886",
+        "bg_id": "b61c8273ee51d46d2b2e46cbe7f8ab061dc3445ef513708d81d611837ed2b92d",
+        "url": "https://www.gog.com/en/game/third_crisis",
+        "developer": "Anduo Games",
+        "publisher": "",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709262168",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_third_crisis_0.58.1_(64bit)_(71531).exe",
+                    "size": "868468432"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0FDFF096E8",
+                            "link": "https://filecrypt.cc/Container/0FDFF096E8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/17B46A7CA1",
+                            "link": "https://filecrypt.cc/Container/17B46A7CA1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4B80F18F5E",
+                            "link": "https://filecrypt.cc/Container/4B80F18F5E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

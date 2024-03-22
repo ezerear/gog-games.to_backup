@@ -1,0 +1,68 @@
+{
+    "href": "/game/onde",
+    "MSG": {
+        "id": "1613568205",
+        "title": "Onde",
+        "slug": "onde",
+        "thumb_id": "edb847b211fdf1c66fab2cb91267c7ef24aa0928e530477e43680fdfb86ff42c",
+        "bg_id": "a56b1033bed80dd9f3c32896894e4ce530724aef12529f0f5cc2c03215d62954",
+        "url": "https://www.gog.com/game/onde",
+        "developer": "Lance, 3-50",
+        "publisher": "Mixtvision",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708801074",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_onde_1.2_(64bit)_(54548).exe",
+                    "size": "1127849840"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/08DF78EC39",
+                            "link": "https://filecrypt.cc/Container/08DF78EC39"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D6C04E6DEF",
+                            "link": "https://filecrypt.cc/Container/D6C04E6DEF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/065B228404",
+                            "link": "https://filecrypt.cc/Container/065B228404"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

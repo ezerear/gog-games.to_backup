@@ -1,0 +1,79 @@
+{
+    "href": "/game/bear_and_breakfast",
+    "MSG": {
+        "id": "1587536467",
+        "title": "Bear and Breakfast",
+        "slug": "bear_and_breakfast",
+        "thumb_id": "56135f82aa426a106476d7f07f97fed9a004814c83c242c7ea4de99796baa3d7",
+        "bg_id": "fe94dd699556c5f0884c8542f12f8cbaa8e5005912ff41a82904701593f81d21",
+        "url": "https://www.gog.com/en/game/bear_and_breakfast",
+        "developer": "Gummy Cat",
+        "publisher": "Armor Games Studios",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1708199663",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_bear_and_breakfast_1.7.3_(64bit)_(63113).exe",
+                    "size": "1037628392"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D18C592DD7",
+                            "link": "https://filecrypt.cc/Container/D18C592DD7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E1375B8512",
+                            "link": "https://filecrypt.cc/Container/E1375B8512"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EF334DF67E",
+                            "link": "https://filecrypt.cc/Container/EF334DF67E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E2195DB7F9",
+                            "link": "https://filecrypt.cc/Container/E2195DB7F9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

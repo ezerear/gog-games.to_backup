@@ -1,0 +1,68 @@
+{
+    "href": "/game/funtasia",
+    "MSG": {
+        "id": "1526953585",
+        "title": "Funtasia",
+        "slug": "funtasia",
+        "thumb_id": "4ea8fcfb684f287d987ed8df760e05f15e8621d2cbd274f3c2009ef3e71c29f9",
+        "bg_id": "5f6d92a62303086b77b549bb073c8a0e44a62441d455bc42542ba7e9fca99400",
+        "url": "https://www.gog.com/en/game/funtasia",
+        "developer": "Fantastico Studio",
+        "publisher": "Freedom Games",
+        "category": "Racing",
+        "uploading": "0",
+        "last_upload": "1708388063",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_funtasia_0.1_(64bit)_(62975).exe",
+                    "size": "637346360"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/8ZRFCx8",
+                            "link": "https://safelinking.net/8ZRFCx8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/HwSI93q",
+                            "link": "https://safelinking.net/HwSI93q"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/FKin9ka",
+                            "link": "https://safelinking.net/FKin9ka"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

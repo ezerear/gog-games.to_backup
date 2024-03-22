@@ -1,0 +1,90 @@
+{
+    "href": "/game/take_no_prisoners",
+    "MSG": {
+        "id": "1191470805",
+        "title": "Take No Prisoners",
+        "slug": "take_no_prisoners",
+        "thumb_id": "b0ce963d700b086c2d1f777db38241fc2759d2b6d39b1ffedc2a14daacab11b5",
+        "bg_id": "1abe357a7d08b5cb323378e38a26d01f4967d0d7413995d00e267934bbb5855d",
+        "url": "https://www.gog.com/en/game/take_no_prisoners",
+        "developer": "Raven Software",
+        "publisher": "",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1706531899",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_take_no_prisoners_1.0_(65630).exe",
+                    "size": "119153968"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/80CF914F84",
+                            "link": "https://filecrypt.cc/Container/80CF914F84"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/07493F577A",
+                            "link": "https://filecrypt.cc/Container/07493F577A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/55AEE65415",
+                            "link": "https://filecrypt.cc/Container/55AEE65415"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FCEE42FD58",
+                            "link": "https://filecrypt.cc/Container/FCEE42FD58"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/43EDC2D0D3",
+                            "link": "https://filecrypt.cc/Container/43EDC2D0D3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

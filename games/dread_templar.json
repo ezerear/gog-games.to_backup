@@ -1,0 +1,72 @@
+{
+    "href": "/game/dread_templar",
+    "MSG": {
+        "id": "1561818206",
+        "title": "Dread Templar",
+        "slug": "dread_templar",
+        "thumb_id": "6e85c30455376593589951e7994cc210c736e09f2ee0c3776b7c71eba57fcfc7",
+        "bg_id": "9226b2428bff1cd31c4b7fe0b466258b1e00c966a4224a2c8123e13d893002ae",
+        "url": "https://www.gog.com/game/dread_templar",
+        "developer": "T19 Games",
+        "publisher": "1C Entertainment",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1709557947",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dread_templar_1.0.2b_(64bit)_(62247)-1.bin",
+                    "size": "2408093909"
+                },
+                {
+                    "name": "setup_dread_templar_1.0.2b_(64bit)_(62247).exe",
+                    "size": "862296"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4D916658A1",
+                            "link": "https://filecrypt.cc/Container/4D916658A1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1F6ED77E45",
+                            "link": "https://filecrypt.cc/Container/1F6ED77E45"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CC61CE20F8",
+                            "link": "https://filecrypt.cc/Container/CC61CE20F8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

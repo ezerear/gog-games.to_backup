@@ -1,0 +1,94 @@
+{
+    "href": "/game/they_always_run",
+    "MSG": {
+        "id": "1150677504",
+        "title": "They Always Run",
+        "slug": "they_always_run",
+        "thumb_id": "0922e2ce4619fb162d7df08e3a822170adcc55afadba86ba81c7157cd2f7e9ce",
+        "bg_id": "4133b220c4f48d3a917782949d8dc50d1260ba50206cfcb48cacdd7c4dd64116",
+        "url": "https://www.gog.com/game/they_always_run",
+        "developer": "Alawar Premium",
+        "publisher": "Alawar Premium",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1706776843",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_they_always_run_1.0.15.920_(64bit)_(59069)-1.bin",
+                    "size": "3077170220"
+                },
+                {
+                    "name": "setup_they_always_run_1.0.15.920_(64bit)_(59069).exe",
+                    "size": "961408"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F009040FE2",
+                            "link": "https://filecrypt.cc/Container/F009040FE2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/35C9306443",
+                            "link": "https://filecrypt.cc/Container/35C9306443"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BC2D679C56",
+                            "link": "https://filecrypt.cc/Container/BC2D679C56"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B624D43B82",
+                            "link": "https://filecrypt.cc/Container/B624D43B82"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/40FBCD9DBD",
+                            "link": "https://filecrypt.cc/Container/40FBCD9DBD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

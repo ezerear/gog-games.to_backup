@@ -1,0 +1,68 @@
+{
+    "href": "/game/legend_of_the_sword",
+    "MSG": {
+        "id": "1874647951",
+        "title": "Legend of the Sword",
+        "slug": "legend_of_the_sword",
+        "thumb_id": "adc88b46bd196923cea7bf8e476497d62dbcd73b311741eaa430947c4e1e1d57",
+        "bg_id": "615c782d54d39f9ee9da216f9f19439b3879e9d7a7c8f091f09f0e5b046a78e9",
+        "url": "https://www.gog.com/en/game/legend_of_the_sword",
+        "developer": "Silicon Software",
+        "publisher": "Mirrorsoft",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1682678907",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_legend_of_the_sword_1.0.1_(53919).exe",
+                    "size": "12946904"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1FBE506A80",
+                            "link": "https://filecrypt.cc/Container/1FBE506A80"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/RCu5Mfz",
+                            "link": "https://safelinking.net/RCu5Mfz"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/191D647965",
+                            "link": "https://filecrypt.cc/Container/191D647965"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

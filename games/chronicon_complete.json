@@ -1,0 +1,90 @@
+{
+    "href": "/game/chronicon_complete",
+    "MSG": {
+        "id": "1844781243",
+        "title": "Chronicon Complete",
+        "slug": "chronicon_complete",
+        "thumb_id": "8c2992b8227963d4c978cce11050e08ac6b911fad5eeb6520729be2ef6ed7ff6",
+        "bg_id": "5e42f805e151f3561bef3421685af7cef5b7a383301b2bb7e2978050ebf74c94",
+        "url": "https://www.gog.com/en/game/chronicon_complete",
+        "developer": "Subworld",
+        "publisher": "Subworld",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1704984814",
+        "votes": "2",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_chronicon_1.52.0_(64bit)_(63105).exe",
+                    "size": "421054832"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4A245B2BC4",
+                            "link": "https://filecrypt.cc/Container/4A245B2BC4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/83AECC0EEE",
+                            "link": "https://filecrypt.cc/Container/83AECC0EEE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B8FA5B7EB7",
+                            "link": "https://filecrypt.cc/Container/B8FA5B7EB7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0191876A62",
+                            "link": "https://filecrypt.cc/Container/0191876A62"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/610A99EF01",
+                            "link": "https://filecrypt.cc/Container/610A99EF01"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

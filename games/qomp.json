@@ -1,0 +1,68 @@
+{
+    "href": "/game/qomp",
+    "MSG": {
+        "id": "1645985738",
+        "title": "qomp",
+        "slug": "qomp",
+        "thumb_id": "a47628ed111f6998e7ad10812fe8e74251bfe540bf8401278d21c243dc4e4bef",
+        "bg_id": "c89adbe2abc7d8a0b4f5551524c78b76f547a29dc3a22619c7bd535d133d40b2",
+        "url": "https://www.gog.com/en/game/qomp",
+        "developer": "Stuffed Wombat, Britt Brady, Miroko, Clovelt",
+        "publisher": "Atari",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709379370",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_qomp_1.0_(60610).exe",
+                    "size": "225636608"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9F6E2BB804",
+                            "link": "https://filecrypt.cc/Container/9F6E2BB804"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3BCEF72EA9",
+                            "link": "https://filecrypt.cc/Container/3BCEF72EA9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8857D60DC8",
+                            "link": "https://filecrypt.cc/Container/8857D60DC8"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

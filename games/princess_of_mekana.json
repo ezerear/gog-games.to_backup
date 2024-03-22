@@ -1,0 +1,68 @@
+{
+    "href": "/game/princess_of_mekana",
+    "MSG": {
+        "id": "2143101736",
+        "title": "Princess of Mekana",
+        "slug": "princess_of_mekana",
+        "thumb_id": "5d44b68d263399bcd93b7ac9943b9a8a675ffb221fe42d8fdfc65746c375a7a5",
+        "bg_id": "1dddef2ca31015742ed3edea3e9045fc51595992773fdfc00a6dbd3378cf6be4",
+        "url": "https://www.gog.com/en/game/princess_of_mekana",
+        "developer": "Noxurtica",
+        "publisher": "Noxurtica",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710571992",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_princess_of_mekana_v1_(66545).exe",
+                    "size": "237515400"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5E3D632119",
+                            "link": "https://filecrypt.cc/Container/5E3D632119"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/20A9FBA519",
+                            "link": "https://filecrypt.cc/Container/20A9FBA519"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BCE0B36CAD",
+                            "link": "https://filecrypt.cc/Container/BCE0B36CAD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

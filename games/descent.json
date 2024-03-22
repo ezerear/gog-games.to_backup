@@ -1,0 +1,127 @@
+{
+    "href": "/game/descent",
+    "MSG": {
+        "id": "1207663083",
+        "title": "Descent",
+        "slug": "descent",
+        "thumb_id": "f79aa212c3088da17ecc8bd7ef70c0509404ace65e757d8d9c61f5082235fe11",
+        "bg_id": "269fce05c92eb36d85ec364638ab6682b9ad785ebf9ee961b5895e69f7d8ce32",
+        "url": "https://www.gog.com/game/descent",
+        "developer": "Parallax Software",
+        "publisher": "Interplay",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1709028286",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_descent_1.4a_(16596).exe",
+                    "size": "25744576"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "Descent_(MAC_game_soundtrack).zip",
+                    "size": "93353407"
+                },
+                {
+                    "name": "descent_1_manual.zip",
+                    "size": "6261962"
+                },
+                {
+                    "name": "descent_1_reference_card.zip",
+                    "size": "37178"
+                },
+                {
+                    "name": "descent_avatar.zip",
+                    "size": "26613"
+                },
+                {
+                    "name": "descent_soundtrack.zip",
+                    "size": "119083544"
+                },
+                {
+                    "name": "descent_wallpaper.zip",
+                    "size": "5667196"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B00D04E5AB",
+                            "link": "https://filecrypt.cc/Container/B00D04E5AB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BFC7736459",
+                            "link": "https://filecrypt.cc/Container/BFC7736459"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/33D774F24A",
+                            "link": "https://filecrypt.cc/Container/33D774F24A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E1377A56EE",
+                            "link": "https://filecrypt.cc/Container/E1377A56EE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5E3857E9A6",
+                            "link": "https://filecrypt.cc/Container/5E3857E9A6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BB13A69F72",
+                            "link": "https://filecrypt.cc/Container/BB13A69F72"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

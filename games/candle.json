@@ -1,0 +1,87 @@
+{
+    "href": "/game/candle",
+    "MSG": {
+        "id": "1411619402",
+        "title": "Candle",
+        "slug": "candle",
+        "thumb_id": "3285b4eeb47310f44e208d8c13834d3ee185e9586550e67eaed42aff557a3e0e",
+        "bg_id": "8b92fa71ff03103760e0373e98051c333b0d3d94d9897f3a9b95ffde490d8bf8",
+        "url": "https://www.gog.com/game/candle",
+        "developer": "Teku Studios",
+        "publisher": "Daedalic Entertainment",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1684099424",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_candle_1.1.17_(12850)-1.bin",
+                    "size": "4294236670"
+                },
+                {
+                    "name": "setup_candle_1.1.17_(12850)-2.bin",
+                    "size": "1008749316"
+                },
+                {
+                    "name": "setup_candle_1.1.17_(12850).exe",
+                    "size": "737792"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DC73BD9ACC",
+                            "link": "https://filecrypt.cc/Container/DC73BD9ACC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1913364B94",
+                            "link": "https://filecrypt.cc/Container/1913364B94"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C4EEB98127",
+                            "link": "https://filecrypt.cc/Container/C4EEB98127"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5B92F25832",
+                            "link": "https://filecrypt.cc/Container/5B92F25832"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

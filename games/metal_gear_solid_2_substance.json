@@ -1,0 +1,72 @@
+{
+    "href": "/game/metal_gear_solid_2_substance",
+    "MSG": {
+        "id": "2069117974",
+        "title": "METAL GEAR SOLID 2 SUBSTANCE",
+        "slug": "metal_gear_solid_2_substance",
+        "thumb_id": "196923a202a4072672b9a44e7b7270cb25651c3c9076d343da0f52a9108a9dd0",
+        "bg_id": "4401e5604a90a496df1708f085f84dd4c4da5732b44f10ca03ece78d5b61f4c4",
+        "url": "https://web.archive.org/web/20201002011705/https://www.gog.com/game/metal_gear_solid_2_substance",
+        "developer": "Konami Computer Entertainment Japan, Inc.",
+        "publisher": "Konami Digital Entertainment",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1709434401",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_metal_gear_solid_2_substance_1.0_amd_rdna_fix_(52998)-1.bin",
+                    "size": "4005210346"
+                },
+                {
+                    "name": "setup_metal_gear_solid_2_substance_1.0_amd_rdna_fix_(52998).exe",
+                    "size": "1169632"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8725B46941",
+                            "link": "https://filecrypt.cc/Container/8725B46941"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CAB4D356F6",
+                            "link": "https://filecrypt.cc/Container/CAB4D356F6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C8548778E3",
+                            "link": "https://filecrypt.cc/Container/C8548778E3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

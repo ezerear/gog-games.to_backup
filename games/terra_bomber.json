@@ -1,0 +1,68 @@
+{
+    "href": "/game/terra_bomber",
+    "MSG": {
+        "id": "1928005452",
+        "title": "Terra Bomber",
+        "slug": "terra_bomber",
+        "thumb_id": "76fed92f1e40074a08cc12badf22ba31e4d07b188e03bf950d8017d59486e854",
+        "bg_id": "f39926af6a1571d19223ba0b6c9f4eed6c79980d5732f177d656c36099e7f9b6",
+        "url": "https://www.gog.com/game/terra_bomber",
+        "developer": "DM Media",
+        "publisher": "Funbox Media Limited",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1709887508",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_terra_bomber_1.0_(49217).exe",
+                    "size": "66546176"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8C0B3095DA",
+                            "link": "https://filecrypt.cc/Container/8C0B3095DA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D9DB843509",
+                            "link": "https://filecrypt.cc/Container/D9DB843509"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B8F4999D89",
+                            "link": "https://filecrypt.cc/Container/B8F4999D89"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,115 @@
+{
+    "href": "/game/full_throttle_remastered",
+    "MSG": {
+        "id": "1325415523",
+        "title": "Full Throttle Remastered",
+        "slug": "full_throttle_remastered",
+        "thumb_id": "ac3fdfa98a006fd65d359c9746fa2dc101fe6b384f8faa4f3e4a7ac9411bd19d",
+        "bg_id": "2a56394fabc52e2b89f6654c722299f7da67b104c181cdeaf4cff57579a1d97f",
+        "url": "https://www.gog.com/game/full_throttle_remastered",
+        "developer": "Double Fine Productions",
+        "publisher": "Double Fine Productions",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709125941",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_full_throttle_remastered_1.1.891868_(14024)-1.bin",
+                    "size": "4294248958"
+                },
+                {
+                    "name": "setup_full_throttle_remastered_1.1.891868_(14024)-2.bin",
+                    "size": "434562729"
+                },
+                {
+                    "name": "setup_full_throttle_remastered_1.1.891868_(14024).exe",
+                    "size": "725320"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "full_throttle_remastered_wallpapers.zip",
+                    "size": "8614786"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FE0C71F97B",
+                            "link": "https://filecrypt.cc/Container/FE0C71F97B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/07200BC3CC",
+                            "link": "https://filecrypt.cc/Container/07200BC3CC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EF65FD49D7",
+                            "link": "https://filecrypt.cc/Container/EF65FD49D7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C965FE0C5D",
+                            "link": "https://filecrypt.cc/Container/C965FE0C5D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E5E7C1FBED",
+                            "link": "https://filecrypt.cc/Container/E5E7C1FBED"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/283CFE4DBE",
+                            "link": "https://filecrypt.cc/Container/283CFE4DBE"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,72 @@
+{
+    "href": "/game/transport_giant",
+    "MSG": {
+        "id": "2005873727",
+        "title": "Transport Giant",
+        "slug": "transport_giant",
+        "thumb_id": "a2290851f6fb6da898b46df48df84f9cfc7256d1c4632afd2a9f43cbe7c8d049",
+        "bg_id": "35444777ce385e878dad97b3dbd51d9fdfb4313a8ff25c4f5915944ffe8bf46a",
+        "url": "https://www.gog.com/en/game/transport_giant",
+        "developer": "Fancy Bytes, Reactor",
+        "publisher": "Toplitz Productions",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710501397",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_transport_giant_2.30_(53602)-1.bin",
+                    "size": "760234057"
+                },
+                {
+                    "name": "setup_transport_giant_2.30_(53602).exe",
+                    "size": "950512"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4DEF932FC7",
+                            "link": "https://filecrypt.cc/Container/4DEF932FC7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0C7D3EAF3F",
+                            "link": "https://filecrypt.cc/Container/0C7D3EAF3F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/060B04A4A0",
+                            "link": "https://filecrypt.cc/Container/060B04A4A0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

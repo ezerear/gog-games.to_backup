@@ -1,0 +1,72 @@
+{
+    "href": "/game/river_city_girls",
+    "MSG": {
+        "id": "1439166945",
+        "title": "River City Girls",
+        "slug": "river_city_girls",
+        "thumb_id": "6e81e6021d03af3998ee7161f59b47a79fbbf35053710bf6b920c9cadf5e524e",
+        "bg_id": "c629471d39677f6190ddcf0d7e3557efa908336d75639a719f1188df5f96355a",
+        "url": "https://www.gog.com/game/river_city_girls",
+        "developer": "Wayforward Technologies",
+        "publisher": "Wayforward Technologies",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709024092",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_river_city_girls_1.1_(35468)-1.bin",
+                    "size": "3228928975"
+                },
+                {
+                    "name": "setup_river_city_girls_1.1_(35468).exe",
+                    "size": "903488"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2A45E2DB0F",
+                            "link": "https://filecrypt.cc/Container/2A45E2DB0F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9CBC61FC36",
+                            "link": "https://filecrypt.cc/Container/9CBC61FC36"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CC2FA26E15",
+                            "link": "https://filecrypt.cc/Container/CC2FA26E15"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

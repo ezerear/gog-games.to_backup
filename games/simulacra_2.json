@@ -1,0 +1,84 @@
+{
+    "href": "/game/simulacra_2",
+    "MSG": {
+        "id": "1955953352",
+        "title": "SIMULACRA 2",
+        "slug": "simulacra_2",
+        "thumb_id": "8580ea56ee485b17467142bdc97b3da8c68b4abe9b659739724896b686d6f98d",
+        "bg_id": "ccaa8b44aa91e89ce30b7dacb5c7a8d3f04648462e55bcfadc311bc9dd7b4142",
+        "url": "https://www.gog.com/game/simulacra_2",
+        "developer": "Kaigan Games OÜ",
+        "publisher": "Another Indie",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708736021",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_simulacra_2_2.4.1106.353_(38886)-1.bin",
+                    "size": "4293959166"
+                },
+                {
+                    "name": "setup_simulacra_2_2.4.1106.353_(38886)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_simulacra_2_2.4.1106.353_(38886)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_simulacra_2_2.4.1106.353_(38886)-4.bin",
+                    "size": "2348620124"
+                },
+                {
+                    "name": "setup_simulacra_2_2.4.1106.353_(38886).exe",
+                    "size": "1015368"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CAFD986777",
+                            "link": "https://filecrypt.cc/Container/CAFD986777"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B5E42CECA1",
+                            "link": "https://filecrypt.cc/Container/B5E42CECA1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5A6A2DD886",
+                            "link": "https://filecrypt.cc/Container/5A6A2DD886"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

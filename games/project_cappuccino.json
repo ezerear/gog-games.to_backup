@@ -1,0 +1,107 @@
+{
+    "href": "/game/project_cappuccino",
+    "MSG": {
+        "id": "1242631604",
+        "title": "Project Cappuccino",
+        "slug": "project_cappuccino",
+        "thumb_id": "1a1e95fda755922f089b19e23a412fbc3ab8f5eb4d2900839a7d1bbe40909e2e",
+        "bg_id": "8b4d8ce30166f390f9cd3a3b369960ab67f338e5413b61d3b284c08e9f55a4ce",
+        "url": "https://www.gog.com/en/game/project_cappuccino",
+        "developer": "Tentakero",
+        "publisher": "MediBang Inc.",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710735922",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_project_cappuccino_1.25.4_achievements_(71706).exe",
+                    "size": "459672840"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "mp3.zip",
+                    "size": "20859492"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D2B492CA48",
+                            "link": "https://filecrypt.cc/Container/D2B492CA48"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/83D364B6E8",
+                            "link": "https://filecrypt.cc/Container/83D364B6E8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6B833CBD44",
+                            "link": "https://filecrypt.cc/Container/6B833CBD44"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BC2755AAEB",
+                            "link": "https://filecrypt.cc/Container/BC2755AAEB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AC83AB59FD",
+                            "link": "https://filecrypt.cc/Container/AC83AB59FD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DC3EFFE220",
+                            "link": "https://filecrypt.cc/Container/DC3EFFE220"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

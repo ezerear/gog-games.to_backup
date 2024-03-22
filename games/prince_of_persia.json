@@ -1,0 +1,139 @@
+{
+    "href": "/game/prince_of_persia",
+    "MSG": {
+        "id": "1207659109",
+        "title": "Prince of Persia",
+        "slug": "prince_of_persia",
+        "thumb_id": "465413237cb962d9b0ded6b3eaaaa96ea78d029c39b68f00e10f3727fad7f7e3",
+        "bg_id": "2f3c58954e4a25d5be2c81faf23066bcc917dffc05b3c12b6aa0e207eb2c6284",
+        "url": "https://www.gog.com/game/prince_of_persia",
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710403573",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_prince_of_persia_1.0_v2_(28572)-1.bin",
+                    "size": "4294091774"
+                },
+                {
+                    "name": "setup_prince_of_persia_1.0_v2_(28572)-2.bin",
+                    "size": "3299035904"
+                },
+                {
+                    "name": "setup_prince_of_persia_1.0_v2_(28572).exe",
+                    "size": "882496"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "pop_2008_artworks.zip",
+                    "size": "25499968"
+                },
+                {
+                    "name": "pop_2008_avatars.zip",
+                    "size": "452939"
+                },
+                {
+                    "name": "pop_2008_developers_diaries.zip",
+                    "size": "1241952002"
+                },
+                {
+                    "name": "pop_2008_manual.zip",
+                    "size": "7474148"
+                },
+                {
+                    "name": "pop_2008_soundtrack.zip",
+                    "size": "277920739"
+                },
+                {
+                    "name": "pop_2008_storybook.zip",
+                    "size": "3943330"
+                },
+                {
+                    "name": "pop_2008_wallpapers.zip",
+                    "size": "32578565"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BECF6AEAD5",
+                            "link": "https://filecrypt.cc/Container/BECF6AEAD5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AF18636EA2",
+                            "link": "https://filecrypt.cc/Container/AF18636EA2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F80256081D",
+                            "link": "https://filecrypt.cc/Container/F80256081D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8852A5B5B4",
+                            "link": "https://filecrypt.cc/Container/8852A5B5B4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1F72F05611",
+                            "link": "https://filecrypt.cc/Container/1F72F05611"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DB9DC6C09F",
+                            "link": "https://filecrypt.cc/Container/DB9DC6C09F"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

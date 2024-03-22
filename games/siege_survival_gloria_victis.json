@@ -1,0 +1,76 @@
+{
+    "href": "/game/siege_survival_gloria_victis",
+    "MSG": {
+        "id": "1991069301",
+        "title": "Siege Survival: Gloria Victis",
+        "slug": "siege_survival_gloria_victis",
+        "thumb_id": "b1d694a00f323e249858e166dda322e915d79775e24ac8949de696717928f7c2",
+        "bg_id": "bb9a3fbe08ff1201e539793241f9ed8e68ad2d1e4b6d51d01d190d12e441043c",
+        "url": "https://www.gog.com/game/siege_survival_gloria_victis",
+        "developer": "FishTankStudio",
+        "publisher": "Black Eye Games",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1703854278",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_siege_survival_gloria_victis_6998499_(64bit)_(48466)-1.bin",
+                    "size": "4294071294"
+                },
+                {
+                    "name": "setup_siege_survival_gloria_victis_6998499_(64bit)_(48466)-2.bin",
+                    "size": "2693153185"
+                },
+                {
+                    "name": "setup_siege_survival_gloria_victis_6998499_(64bit)_(48466).exe",
+                    "size": "902144"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6AA363A2D5",
+                            "link": "https://filecrypt.cc/Container/6AA363A2D5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5895646E57",
+                            "link": "https://filecrypt.cc/Container/5895646E57"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8F27B38ECD",
+                            "link": "https://filecrypt.cc/Container/8F27B38ECD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

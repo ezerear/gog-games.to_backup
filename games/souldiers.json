@@ -1,0 +1,115 @@
+{
+    "href": "/game/souldiers",
+    "MSG": {
+        "id": "1572819346",
+        "title": "Souldiers",
+        "slug": "souldiers",
+        "thumb_id": "d2797043b6dbdaab9281dba1a4e5579955dff0a5cf2487ec4cce4e8579ffcb29",
+        "bg_id": "9cf739f98308ed36fbbe3b585716afd24bd310f27697bc0fd369629369ac3d24",
+        "url": "https://www.gog.com/game/souldiers",
+        "developer": "Retro Forge",
+        "publisher": "Dear Villagers",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709402545",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_souldiers_1.2.3_(64186).exe",
+                    "size": "658792872"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "souldiers_artbook.zip",
+                    "size": "29449248"
+                },
+                {
+                    "name": "souldiers_ost_mp3.zip",
+                    "size": "87283571"
+                },
+                {
+                    "name": "souldiers_ost_wav.zip",
+                    "size": "1501718186"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FB7C5D5FFC",
+                            "link": "https://filecrypt.cc/Container/FB7C5D5FFC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/268C2DA6AE",
+                            "link": "https://filecrypt.cc/Container/268C2DA6AE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8FE44137C5",
+                            "link": "https://filecrypt.cc/Container/8FE44137C5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/14EFEB87EE",
+                            "link": "https://filecrypt.cc/Container/14EFEB87EE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/94811E690F",
+                            "link": "https://filecrypt.cc/Container/94811E690F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/186716E361",
+                            "link": "https://filecrypt.cc/Container/186716E361"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

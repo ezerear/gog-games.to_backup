@@ -1,0 +1,72 @@
+{
+    "href": "/game/evening_starter",
+    "MSG": {
+        "id": "1468265243",
+        "title": "Evening Starter",
+        "slug": "evening_starter",
+        "thumb_id": "084d25585a728adae88bfe99bccf9ed37f6ac7a857af15c348217762a2aace9f",
+        "bg_id": "f1845aa7308658ddeaa0b0f350a731a6802221239c48cf30aa88e930b00d8481",
+        "url": "https://www.gog.com/en/game/evening_starter",
+        "developer": "baron sengia",
+        "publisher": "Kagura Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710423567",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_evening_starter_unrated_v1_(60063).exe",
+                    "size": "281453808"
+                },
+                {
+                    "name": "setup_evening_starter_v1_(60063).exe",
+                    "size": "529670568"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/15C6D1C5FF",
+                            "link": "https://filecrypt.cc/Container/15C6D1C5FF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/71BB766768",
+                            "link": "https://filecrypt.cc/Container/71BB766768"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9F2C22442B",
+                            "link": "https://filecrypt.cc/Container/9F2C22442B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

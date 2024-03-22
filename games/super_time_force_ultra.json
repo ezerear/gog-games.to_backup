@@ -1,0 +1,115 @@
+{
+    "href": "/game/super_time_force_ultra",
+    "MSG": {
+        "id": "1207665553",
+        "title": "Super Time Force Ultra",
+        "slug": "super_time_force_ultra",
+        "thumb_id": "15a1675da96c58e911a5bc5ddf0b8f1e06bc671ce4b354f42cc0126021fcfad6",
+        "bg_id": "435463abee070a3e4c862939cc0f5be1d01f1246452014693c7392275da06e71",
+        "url": "https://www.gog.com/game/super_time_force_ultra",
+        "developer": "Capybara Games",
+        "publisher": "Capybara Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710899720",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "patch_super_time_force_ultra_2.0.1.2.exe",
+                    "size": "52399056"
+                },
+                {
+                    "name": "setup_super_time_force_ultra_2.0.0.1.exe",
+                    "size": "744587600"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "stfu_avatars.zip",
+                    "size": "511864"
+                },
+                {
+                    "name": "stfu_wallpapers.zip",
+                    "size": "1163863"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/02242DAE4A",
+                            "link": "https://filecrypt.cc/Container/02242DAE4A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4E8451F45B",
+                            "link": "https://filecrypt.cc/Container/4E8451F45B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/68491B1FCD",
+                            "link": "https://filecrypt.cc/Container/68491B1FCD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/87A06BF6E4",
+                            "link": "https://filecrypt.cc/Container/87A06BF6E4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6EC2C34010",
+                            "link": "https://filecrypt.cc/Container/6EC2C34010"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3BF4E55F7B",
+                            "link": "https://filecrypt.cc/Container/3BF4E55F7B"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,131 @@
+{
+    "href": "/game/icewind_dale_enhanced_edition",
+    "MSG": {
+        "id": "1207666683",
+        "title": "Icewind Dale: Enhanced Edition",
+        "slug": "icewind_dale_enhanced_edition",
+        "thumb_id": "07b99d39695f0b08d82487a86cfb784fe880da91dd53c0dc9269017a069c22f9",
+        "bg_id": "d880df28629714033f0244da528cf7585dab5354c9e4c9f7b1cd9868402fd567",
+        "url": "https://www.gog.com/game/icewind_dale_enhanced_edition",
+        "developer": "Beamdog",
+        "publisher": "Beamdog",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709482335",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_icewind_dale_enhanced_edition_2.6.6.0_(64bit)_(46870)-1.bin",
+                    "size": "2714871816"
+                },
+                {
+                    "name": "setup_icewind_dale_enhanced_edition_2.6.6.0_(64bit)_(46870).exe",
+                    "size": "1551448"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "iwd_ee_avatars.zip",
+                    "size": "1416833"
+                },
+                {
+                    "name": "iwd_ee_melee_magic.zip",
+                    "size": "3169227"
+                },
+                {
+                    "name": "iwd_ee_ost_flac.zip",
+                    "size": "316812585"
+                },
+                {
+                    "name": "iwd_ee_ost_mp3.zip",
+                    "size": "146070174"
+                },
+                {
+                    "name": "iwd_ee_survival_guide.zip",
+                    "size": "1271898"
+                },
+                {
+                    "name": "iwd_ee_wallpapers.zip",
+                    "size": "5479609"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8B0A78C101",
+                            "link": "https://filecrypt.cc/Container/8B0A78C101"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E4526257A6",
+                            "link": "https://filecrypt.cc/Container/E4526257A6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BC59C6417B",
+                            "link": "https://filecrypt.cc/Container/BC59C6417B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/27812D5813",
+                            "link": "https://filecrypt.cc/Container/27812D5813"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/92885CC211",
+                            "link": "https://filecrypt.cc/Container/92885CC211"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/894560B057",
+                            "link": "https://filecrypt.cc/Container/894560B057"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

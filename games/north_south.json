@@ -1,0 +1,68 @@
+{
+    "href": "/game/north_south",
+    "MSG": {
+        "id": "1934438439",
+        "title": "North & South",
+        "slug": "north_south",
+        "thumb_id": "5ca1255f5b541b7c9e719ca85e70abd91260ae99fa477d529c58f6e42ce0e1ba",
+        "bg_id": "8db7d8663c1734b8a2a387ad7d0e1b1ac2a4cab7a501ab6a1dda85dc1e9f9ee6",
+        "url": "https://www.gog.com/game/north_south",
+        "developer": "Microids",
+        "publisher": "Microids",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1709402810",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_north__south_1.0_(47045).exe",
+                    "size": "18038248"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0394EFA5C8",
+                            "link": "https://filecrypt.cc/Container/0394EFA5C8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D8F121ED1A",
+                            "link": "https://filecrypt.cc/Container/D8F121ED1A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DEB3B9B88D",
+                            "link": "https://filecrypt.cc/Container/DEB3B9B88D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

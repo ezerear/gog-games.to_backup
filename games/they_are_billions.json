@@ -1,0 +1,119 @@
+{
+    "href": "/game/they_are_billions",
+    "MSG": {
+        "id": "1335738339",
+        "title": "They Are Billions",
+        "slug": "they_are_billions",
+        "thumb_id": "4601925a09d791d8f1a882407021f4c18447a40d4d15f0a6a02eba7cb47f5280",
+        "bg_id": "9095a344a9157674d09eaa6cc8cc832cdf1163ea3ee0b962f1dfa9b35c36e1ed",
+        "url": "https://www.gog.com/game/they_are_billions",
+        "developer": "Numantian Games",
+        "publisher": "Numantian Games",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1710194298",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_they_are_billions_1.1.4.10_(64bit)_(44651)-1.bin",
+                    "size": "2655067940"
+                },
+                {
+                    "name": "setup_they_are_billions_1.1.4.10_(64bit)_(44651).exe",
+                    "size": "1168200"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "they_are_billions_artbook.zip",
+                    "size": "52121671"
+                },
+                {
+                    "name": "they_are_billions_ost_flac.zip",
+                    "size": "296668738"
+                },
+                {
+                    "name": "they_are_billions_ost_mp3.zip",
+                    "size": "231504515"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A28EC611C0",
+                            "link": "https://filecrypt.cc/Container/A28EC611C0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AACCA21F08",
+                            "link": "https://filecrypt.cc/Container/AACCA21F08"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/25B7B5FA6C",
+                            "link": "https://filecrypt.cc/Container/25B7B5FA6C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BBC79E1F47",
+                            "link": "https://filecrypt.cc/Container/BBC79E1F47"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0FD3378737",
+                            "link": "https://filecrypt.cc/Container/0FD3378737"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BDA0791220",
+                            "link": "https://filecrypt.cc/Container/BDA0791220"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

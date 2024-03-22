@@ -1,0 +1,94 @@
+{
+    "href": "/game/dead_end_aegis",
+    "MSG": {
+        "id": "1676340103",
+        "title": "Dead End Aegis",
+        "slug": "dead_end_aegis",
+        "thumb_id": "ca3042310bc759f0b7fc58a2cef67e852ccb54b049e0418ab23772b0d5f32496",
+        "bg_id": "93b5426272345aa80d234f03d7c27ff8d155cd149b4684dadfbe54f08cf30856",
+        "url": "https://www.gog.com/game/dead_end_aegis",
+        "developer": "metalogiq",
+        "publisher": "JAST USA",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1706518497",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dead_end_aegis_1.0_(52715)-1.bin",
+                    "size": "2587619034"
+                },
+                {
+                    "name": "setup_dead_end_aegis_1.0_(52715).exe",
+                    "size": "977496"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A856126BFC",
+                            "link": "https://filecrypt.cc/Container/A856126BFC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/56FF09C795",
+                            "link": "https://filecrypt.cc/Container/56FF09C795"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0B30681D1E",
+                            "link": "https://filecrypt.cc/Container/0B30681D1E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4A5E4387C1",
+                            "link": "https://filecrypt.cc/Container/4A5E4387C1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D5130614A1",
+                            "link": "https://filecrypt.cc/Container/D5130614A1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

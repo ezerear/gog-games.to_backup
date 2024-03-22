@@ -1,0 +1,68 @@
+{
+    "href": "/game/chasmtherift",
+    "MSG": {
+        "id": "1302753134",
+        "title": "Chasm: The Rift",
+        "slug": "chasmtherift",
+        "thumb_id": "b0d4bf8b4f0bbf25b9246f8a6dde38c2fdfb3992d2fb6d9540dcea6fee8e7529",
+        "bg_id": "b965e865146384e3331330bd7537dca2371aae110374e967770a02a7b61c6652",
+        "url": "https://www.gog.com/en/game/chasmtherift",
+        "developer": "Action Forms, General Arcade",
+        "publisher": "SNEG",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1708980323",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_chasm_the_rift_1.0.22_(64bit)_(65146).exe",
+                    "size": "800530776"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8251C87368",
+                            "link": "https://filecrypt.cc/Container/8251C87368"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/941618BD96",
+                            "link": "https://filecrypt.cc/Container/941618BD96"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CCAA691ED1",
+                            "link": "https://filecrypt.cc/Container/CCAA691ED1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

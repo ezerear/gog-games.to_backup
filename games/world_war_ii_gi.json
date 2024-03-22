@@ -1,0 +1,90 @@
+{
+    "href": "/game/world_war_ii_gi",
+    "MSG": {
+        "id": "1625778777",
+        "title": "World War II GI",
+        "slug": "world_war_ii_gi",
+        "thumb_id": "ba06dedefc7c06e7db0324665e31195c3141503207b24bae99186e95989a0ab9",
+        "bg_id": "6ef660166ebbfcdcad93551ebd86f46eee2d3b5dca981ff7633af73789641ce1",
+        "url": "https://www.gog.com/en/game/world_war_ii_gi",
+        "developer": "TNT Team",
+        "publisher": "Ziggurat Interactive",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1706620374",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_world_war_ii_gi_1.0_(57254).exe",
+                    "size": "832400552"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/03F81AD067",
+                            "link": "https://filecrypt.cc/Container/03F81AD067"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/521CB9E51D",
+                            "link": "https://filecrypt.cc/Container/521CB9E51D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4217E08FB5",
+                            "link": "https://filecrypt.cc/Container/4217E08FB5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D96A3FD115",
+                            "link": "https://filecrypt.cc/Container/D96A3FD115"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5647FECED0",
+                            "link": "https://filecrypt.cc/Container/5647FECED0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

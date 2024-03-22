@@ -1,0 +1,107 @@
+{
+    "href": "/game/countdown",
+    "MSG": {
+        "id": "1862276614",
+        "title": "Countdown",
+        "slug": "countdown",
+        "thumb_id": "32b0f608ebc995eaf347774701f6153446fe3784dbead2d49b66f60c9959540a",
+        "bg_id": "9eaeadae52d8f7adfe7d14af0db8770127b1a69b6dc106e81e991bcfe2564060",
+        "url": "https://www.gog.com/game/countdown",
+        "developer": "Access Software",
+        "publisher": "Big Finish Games",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710490556",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_countdown_1.2_(48657).exe",
+                    "size": "16550144"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "countdown_manual.zip",
+                    "size": "1823487"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/452D1FD0C4",
+                            "link": "https://filecrypt.cc/Container/452D1FD0C4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6BC5813915",
+                            "link": "https://filecrypt.cc/Container/6BC5813915"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8E7ADE1D10",
+                            "link": "https://filecrypt.cc/Container/8E7ADE1D10"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/79D1E19819",
+                            "link": "https://filecrypt.cc/Container/79D1E19819"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6F3E3B2258",
+                            "link": "https://filecrypt.cc/Container/6F3E3B2258"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4FED4FF1BD",
+                            "link": "https://filecrypt.cc/Container/4FED4FF1BD"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

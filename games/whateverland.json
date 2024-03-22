@@ -1,0 +1,94 @@
+{
+    "href": "/game/whateverland",
+    "MSG": {
+        "id": "1078928100",
+        "title": "Whateverland",
+        "slug": "whateverland",
+        "thumb_id": "523a08b8ced2b7ad542f0da4768aa3b072776bd9cc031e580b1d6a5b6c99632a",
+        "bg_id": "7587898e948245f7674efdd6737bda9986695a632aa01a9eb692819470b8b160",
+        "url": "https://www.gog.com/game/whateverland",
+        "developer": "Caligari Games",
+        "publisher": "Caligari Games, WhisperGames",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1706769329",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_whateverland_1.0.3_(58812)-1.bin",
+                    "size": "2224624386"
+                },
+                {
+                    "name": "setup_whateverland_1.0.3_(58812).exe",
+                    "size": "936912"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6E25214FFD",
+                            "link": "https://filecrypt.cc/Container/6E25214FFD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7D25E7FF28",
+                            "link": "https://filecrypt.cc/Container/7D25E7FF28"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1DDA984408",
+                            "link": "https://filecrypt.cc/Container/1DDA984408"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/85A9EEFE12",
+                            "link": "https://filecrypt.cc/Container/85A9EEFE12"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3F81065117",
+                            "link": "https://filecrypt.cc/Container/3F81065117"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

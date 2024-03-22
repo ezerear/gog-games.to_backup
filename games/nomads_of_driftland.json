@@ -1,0 +1,76 @@
+{
+    "href": "/game/nomads_of_driftland",
+    "MSG": {
+        "id": "1433027987",
+        "title": "Nomads of Driftland",
+        "slug": "nomads_of_driftland",
+        "thumb_id": "639db451490d29c5b1a2644307939ce47a23e13e4428db58153540685b3424d6",
+        "bg_id": "890623c129a399d059662d8809f6ad849983651fbb5b9e545f2e268db438e627",
+        "url": "https://www.gog.com/game/nomads_of_driftland",
+        "developer": "Star Drifters",
+        "publisher": "Star Drifters",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1708440847",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_nomads_of_driftland_nomads_1.0.48a_(64bit)_(44177)-1.bin",
+                    "size": "2662403090"
+                },
+                {
+                    "name": "setup_nomads_of_driftland_nomads_1.0.48a_(64bit)_(44177).exe",
+                    "size": "831728"
+                },
+                {
+                    "name": "setup_nomads_of_driftland_the_forgotten_passage_nomads_1.0.48a_(64bit)_(44177).exe",
+                    "size": "5975088"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/I8CMABf",
+                            "link": "https://safelinking.net/I8CMABf"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/yjbgZPf",
+                            "link": "https://safelinking.net/yjbgZPf"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/Clo9nbM",
+                            "link": "https://safelinking.net/Clo9nbM"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

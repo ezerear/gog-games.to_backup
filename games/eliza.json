@@ -1,0 +1,68 @@
+{
+    "href": "/game/eliza",
+    "MSG": {
+        "id": "1556341645",
+        "title": "Eliza",
+        "slug": "eliza",
+        "thumb_id": "b3d55ab48ada296c69e9dc733540628de610aad6f68ad4cc0bbd572342adc0bf",
+        "bg_id": "9317be8a19202db2daf50546140b829681559d10c9cb00fe77cf333e50714628",
+        "url": "https://www.gog.com/game/eliza",
+        "developer": "Zachtronics",
+        "publisher": "Zachtronics",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710354284",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_eliza_march_2023_update_(63852).exe",
+                    "size": "1021560096"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4CBCDD38D1",
+                            "link": "https://filecrypt.cc/Container/4CBCDD38D1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7A0B287A96",
+                            "link": "https://filecrypt.cc/Container/7A0B287A96"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/748FE39E89",
+                            "link": "https://filecrypt.cc/Container/748FE39E89"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

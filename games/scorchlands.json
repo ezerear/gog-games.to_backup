@@ -1,0 +1,90 @@
+{
+    "href": "/game/scorchlands",
+    "MSG": {
+        "id": "1075212708",
+        "title": "Scorchlands",
+        "slug": "scorchlands",
+        "thumb_id": "71d591c8c1e649760b2ad6984ff795e3b899fc88fa5162bb4198e99118be359b",
+        "bg_id": "6ed0b612351b7d5f99b519120072cdcb2137b9efbbcff7553fcef6cdc80394dc",
+        "url": "https://www.gog.com/game/scorchlands",
+        "developer": "Ringlab",
+        "publisher": "Star Drifters",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1706159387",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_scorchlands_0.3.2_(64bit)_(70499).exe",
+                    "size": "131966600"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1B506D3550",
+                            "link": "https://filecrypt.cc/Container/1B506D3550"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C94C0237AE",
+                            "link": "https://filecrypt.cc/Container/C94C0237AE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FC42E15181",
+                            "link": "https://filecrypt.cc/Container/FC42E15181"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A602D1B6D3",
+                            "link": "https://filecrypt.cc/Container/A602D1B6D3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4BD209A6B6",
+                            "link": "https://filecrypt.cc/Container/4BD209A6B6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

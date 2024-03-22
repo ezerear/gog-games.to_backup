@@ -1,0 +1,84 @@
+{
+    "href": "/game/hellblade_senuas_sacrifice_vr",
+    "MSG": {
+        "id": "1923443149",
+        "title": "Hellblade: Senua's Sacrifice VR",
+        "slug": "hellblade_senuas_sacrifice_vr",
+        "thumb_id": "deb53e8c9039f1aa20bba071bee7d4d5c1dae8be66e1b62b27f88ea9918992dc",
+        "bg_id": "cbb5689c45d0c84d34e582c936e2d8d27ad2650a15cae58f5a925eaba4302d06",
+        "url": "https://www.gog.com/game/hellblade_senuas_sacrifice_pack",
+        "developer": "Ninja Theory",
+        "publisher": "Ninja Theory",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1699011503",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_hellblade_senuas_sacrifice_vr_1.01_(22815)-1.bin",
+                    "size": "4293905918"
+                },
+                {
+                    "name": "setup_hellblade_senuas_sacrifice_vr_1.01_(22815)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_hellblade_senuas_sacrifice_vr_1.01_(22815)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_hellblade_senuas_sacrifice_vr_1.01_(22815)-4.bin",
+                    "size": "3805796006"
+                },
+                {
+                    "name": "setup_hellblade_senuas_sacrifice_vr_1.01_(22815).exe",
+                    "size": "1068520"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/262CA228FB",
+                            "link": "https://filecrypt.cc/Container/262CA228FB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5592354A78",
+                            "link": "https://filecrypt.cc/Container/5592354A78"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2DE21926DB",
+                            "link": "https://filecrypt.cc/Container/2DE21926DB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

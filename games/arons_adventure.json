@@ -1,0 +1,76 @@
+{
+    "href": "/game/arons_adventure",
+    "MSG": {
+        "id": "1304684573",
+        "title": "Aron's Adventure",
+        "slug": "arons_adventure",
+        "thumb_id": "b8b0429d2bfaa7d6f174b65baec0c3867a5add9e926b30b8e3eb1c6921660cb5",
+        "bg_id": "c6e8b61d196b33bd9f668c2660a3ae7da94c9f441d448c3a797352a0e5a878be",
+        "url": "https://www.gog.com/game/arons_adventure",
+        "developer": "Tim van Kan, Tom Raudys",
+        "publisher": "TiMer Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710516145",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_arons_adventure_1_3_40_(64bit)_(51158)-1.bin",
+                    "size": "4294106110"
+                },
+                {
+                    "name": "setup_arons_adventure_1_3_40_(64bit)_(51158)-2.bin",
+                    "size": "2000623732"
+                },
+                {
+                    "name": "setup_arons_adventure_1_3_40_(64bit)_(51158).exe",
+                    "size": "867712"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6D1522063E",
+                            "link": "https://filecrypt.cc/Container/6D1522063E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8A3DE032B3",
+                            "link": "https://filecrypt.cc/Container/8A3DE032B3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B76F264A7B",
+                            "link": "https://filecrypt.cc/Container/B76F264A7B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

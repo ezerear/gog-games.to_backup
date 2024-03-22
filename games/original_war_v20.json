@@ -1,0 +1,72 @@
+{
+    "href": "/game/original_war_v20",
+    "MSG": {
+        "id": "1137422289",
+        "title": "Original War Legacy Version",
+        "slug": "original_war_v20",
+        "thumb_id": "4fa41c8b155b70716ac942400532670ac5d569c837afc2060bc2a9e2b3aa621d",
+        "bg_id": "1b95feeb7b19629e1611720d54d08cf834990035535c68cc8ee622827968fe32",
+        "url": "https://web.archive.org/web/20140207095351/https://gog.com/game/original_war",
+        "developer": "Altar Interactive",
+        "publisher": "Bohemia Interactive",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1708819696",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_original_war_2.0_legacy_beta_1_(39654)-1.bin",
+                    "size": "1310124938"
+                },
+                {
+                    "name": "setup_original_war_2.0_legacy_beta_1_(39654).exe",
+                    "size": "1105952"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B234312E09",
+                            "link": "https://filecrypt.cc/Container/B234312E09"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A7C34A6BDC",
+                            "link": "https://filecrypt.cc/Container/A7C34A6BDC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0587E55DF4",
+                            "link": "https://filecrypt.cc/Container/0587E55DF4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,68 @@
+{
+    "href": "/game/monster_bash_hd",
+    "MSG": {
+        "id": "1272652876",
+        "title": "Monster Bash HD",
+        "slug": "monster_bash_hd",
+        "thumb_id": "9e15de261cdf0fe019c3455c5425f9fae69fd154e30ed3a78f47193054554224",
+        "bg_id": "25d36d5392b49c9d162465c467e616ca44027425c3170b13a69c81dfcdbbebc1",
+        "url": "https://www.gog.com/game/monster_bash_hd",
+        "developer": "Apogee Entertainment",
+        "publisher": "Apogee Entertainment",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709721239",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_monster_bash_hd_v1.1.5.2_(64891).exe",
+                    "size": "63493136"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9D61CC900F",
+                            "link": "https://filecrypt.cc/Container/9D61CC900F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D8EC1DBF4D",
+                            "link": "https://filecrypt.cc/Container/D8EC1DBF4D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A18FC1C4F6",
+                            "link": "https://filecrypt.cc/Container/A18FC1C4F6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

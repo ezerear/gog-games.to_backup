@@ -1,0 +1,100 @@
+{
+    "href": "/game/dark_envoy",
+    "MSG": {
+        "id": "1459769749",
+        "title": "Dark Envoy",
+        "slug": "dark_envoy",
+        "thumb_id": "fd03589674334560613a799fd03d0c5d3fffea26ca8dddebd3bce480218abe7d",
+        "bg_id": "b47fe57a622f75476bc456392bb76f27ac6ca95c7ddc4325c66e41206f0dac2d",
+        "url": "https://www.gog.com/game/dark_envoy",
+        "developer": "Event Horizon",
+        "publisher": "Event Horizon",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1708232423",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dark_envoy_1.3.0.72323_(71224)-1.bin",
+                    "size": "4293638142"
+                },
+                {
+                    "name": "setup_dark_envoy_1.3.0.72323_(71224)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_dark_envoy_1.3.0.72323_(71224)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_dark_envoy_1.3.0.72323_(71224)-4.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_dark_envoy_1.3.0.72323_(71224)-5.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_dark_envoy_1.3.0.72323_(71224)-6.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_dark_envoy_1.3.0.72323_(71224)-7.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_dark_envoy_1.3.0.72323_(71224)-8.bin",
+                    "size": "4192979745"
+                },
+                {
+                    "name": "setup_dark_envoy_1.3.0.72323_(71224).exe",
+                    "size": "1336536"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/20F10A79D5",
+                            "link": "https://filecrypt.cc/Container/20F10A79D5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/672EEE559E",
+                            "link": "https://filecrypt.cc/Container/672EEE559E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FF094189D3",
+                            "link": "https://filecrypt.cc/Container/FF094189D3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

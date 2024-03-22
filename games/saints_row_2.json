@@ -1,0 +1,127 @@
+{
+    "href": "/game/saints_row_2",
+    "MSG": {
+        "id": "1430740458",
+        "title": "Saints Row 2",
+        "slug": "saints_row_2",
+        "thumb_id": "e5054aacbe4d66cc91783dfe5d2eb996e49d08523f8ed6f2cb07bd9cc747aed2",
+        "bg_id": "8c43c91ccf0b6f50ec72cb8673bb73633499b1ebed6b89a327983da0d9c287ff",
+        "url": "https://www.gog.com/game/saints_row_2",
+        "developer": "Volition",
+        "publisher": "Deep Silver",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710365943",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "patch_sr2_lang_selection_hotfix.exe",
+                    "size": "10856032"
+                },
+                {
+                    "name": "setup_saints_row_2_gog-5_(9656)-1.bin",
+                    "size": "4294241790"
+                },
+                {
+                    "name": "setup_saints_row_2_gog-5_(9656)-2.bin",
+                    "size": "2094896753"
+                },
+                {
+                    "name": "setup_saints_row_2_gog-5_(9656).exe",
+                    "size": "732696"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "saints_row_2_avatars.zip",
+                    "size": "506385"
+                },
+                {
+                    "name": "saints_row_2_manual.zip",
+                    "size": "1416135"
+                },
+                {
+                    "name": "saints_row_2_wallpapers.zip",
+                    "size": "3524148"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/240207DADF",
+                            "link": "https://filecrypt.cc/Container/240207DADF"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2EB8E0D2C2",
+                            "link": "https://filecrypt.cc/Container/2EB8E0D2C2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/01CF4092F1",
+                            "link": "https://filecrypt.cc/Container/01CF4092F1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4C3D4AEFCD",
+                            "link": "https://filecrypt.cc/Container/4C3D4AEFCD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/25D8EEE841",
+                            "link": "https://filecrypt.cc/Container/25D8EEE841"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8E25943BA5",
+                            "link": "https://filecrypt.cc/Container/8E25943BA5"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

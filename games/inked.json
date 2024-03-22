@@ -1,0 +1,115 @@
+{
+    "href": "/game/inked",
+    "MSG": {
+        "id": "1599295807",
+        "title": "Inked",
+        "slug": "inked",
+        "thumb_id": "7668e8c733595f0e7a79ccf1e1b3f002331f2c31d47932c6cd54220dcbd6c0e9",
+        "bg_id": "50f35d190ed1f9ed588577fff0c28a84de68a2ff47d2447a854de503865e518f",
+        "url": "https://web.archive.org/web/20200118152655/https://www.gog.com/game/inked",
+        "developer": "Somnium Games d.o.o.",
+        "publisher": "Starbreeze Publishing AB",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709856831",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_inked_20180528-1_(24344).exe",
+                    "size": "1499529352"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "inked_digital_artbook.zip",
+                    "size": "179681584"
+                },
+                {
+                    "name": "inked_soundtrack_flac.zip",
+                    "size": "583787903"
+                },
+                {
+                    "name": "inked_soundtrack_mp3.zip",
+                    "size": "350528184"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/94F6773AB8",
+                            "link": "https://filecrypt.cc/Container/94F6773AB8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E9E5A467DD",
+                            "link": "https://filecrypt.cc/Container/E9E5A467DD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/13F11B3DF3",
+                            "link": "https://filecrypt.cc/Container/13F11B3DF3"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/55F3C076AA",
+                            "link": "https://filecrypt.cc/Container/55F3C076AA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/22F942A582",
+                            "link": "https://filecrypt.cc/Container/22F942A582"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1EF9957A28",
+                            "link": "https://filecrypt.cc/Container/1EF9957A28"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

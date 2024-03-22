@@ -1,0 +1,72 @@
+{
+    "href": "/game/inside",
+    "MSG": {
+        "id": "1916896012",
+        "title": "INSIDE",
+        "slug": "inside",
+        "thumb_id": "cde8b43b33ac15046a6969a59ddf5dd87ada2524ce0db3c6f721fff44308df9b",
+        "bg_id": "e75778c2c2e587fd07eb866428d92072bd461adc3209ba4743151f67dcdd9e76",
+        "url": "https://www.gog.com/game/inside",
+        "developer": "Playdead",
+        "publisher": "Playdead",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710239183",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_inside_10_(16955)-1.bin",
+                    "size": "1645232885"
+                },
+                {
+                    "name": "setup_inside_10_(16955).exe",
+                    "size": "914856"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5240309E3E",
+                            "link": "https://filecrypt.cc/Container/5240309E3E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/29F944202C",
+                            "link": "https://filecrypt.cc/Container/29F944202C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BCD0FA9EA5",
+                            "link": "https://filecrypt.cc/Container/BCD0FA9EA5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,131 @@
+{
+    "href": "/game/faces_of_war",
+    "MSG": {
+        "id": "1428586504",
+        "title": "Faces of War",
+        "slug": "faces_of_war",
+        "thumb_id": "f7dbeaa4f9c7ccad1f8daf873239a0b2c97633e201bbd1a9682ab268538670ae",
+        "bg_id": "b86f3252aa4f87344d258b6f3e044b9a8378bad81f6c2c8b4f6592b02a26c44e",
+        "url": "https://www.gog.com/game/faces_of_war",
+        "developer": "Best Way",
+        "publisher": "1C Publishing",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1708742251",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_faces_of_war_1.04.1_(21466)-1.bin",
+                    "size": "1587736362"
+                },
+                {
+                    "name": "setup_faces_of_war_1.04.1_(21466).exe",
+                    "size": "772656"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "fow_artworks.zip",
+                    "size": "7311083"
+                },
+                {
+                    "name": "fow_concept_art.zip",
+                    "size": "5685775"
+                },
+                {
+                    "name": "fow_design_documents.zip",
+                    "size": "1306300"
+                },
+                {
+                    "name": "fow_manual.zip",
+                    "size": "2076359"
+                },
+                {
+                    "name": "fow_poster.zip",
+                    "size": "3254757"
+                },
+                {
+                    "name": "fow_renders.zip",
+                    "size": "77867814"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4FE7D8A99B",
+                            "link": "https://filecrypt.cc/Container/4FE7D8A99B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FA226F094F",
+                            "link": "https://filecrypt.cc/Container/FA226F094F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3702AA185D",
+                            "link": "https://filecrypt.cc/Container/3702AA185D"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/34B43B9AB8",
+                            "link": "https://filecrypt.cc/Container/34B43B9AB8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A55D56FE24",
+                            "link": "https://filecrypt.cc/Container/A55D56FE24"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/24D612A65C",
+                            "link": "https://filecrypt.cc/Container/24D612A65C"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

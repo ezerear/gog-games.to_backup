@@ -1,0 +1,72 @@
+{
+    "href": "/game/voyage_journey_to_the_moon",
+    "MSG": {
+        "id": "1749322974",
+        "title": "Voyage: Journey to the Moon",
+        "slug": "voyage_journey_to_the_moon",
+        "thumb_id": "26a9ec322adc2e0ade5e6c55f142a0f615be9c2a678d71e545556351c82ab8d5",
+        "bg_id": "566cd4526994847faad344fbcc77b1c6a64c054b4328cbc7390a891ff9897590",
+        "url": "https://www.gog.com/en/game/voyage_journey_to_the_moon",
+        "developer": "Microids",
+        "publisher": "Microids",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710440542",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_voyage_journey_to_the_moon_1.04_(57126)-1.bin",
+                    "size": "1467429902"
+                },
+                {
+                    "name": "setup_voyage_journey_to_the_moon_1.04_(57126).exe",
+                    "size": "824560"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D58EF66A0E",
+                            "link": "https://filecrypt.cc/Container/D58EF66A0E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CD83F40176",
+                            "link": "https://filecrypt.cc/Container/CD83F40176"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/91E6EA4668",
+                            "link": "https://filecrypt.cc/Container/91E6EA4668"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

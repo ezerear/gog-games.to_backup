@@ -1,0 +1,80 @@
+{
+    "href": "/game/silverfall_gold_edition",
+    "MSG": {
+        "id": "1284627191",
+        "title": "Silverfall: Complete",
+        "slug": "silverfall_gold_edition",
+        "thumb_id": "bb08327b26d855455ff36ad355c7b63532476123b53069842d249aad1cb823bb",
+        "bg_id": "7500d33b7d8507995ff46ca2dadbeab73d5cd90801512e84d56a1c48f6c5a2dd",
+        "url": "https://www.gog.com/game/silverfall_complete",
+        "developer": "Monte Cristo",
+        "publisher": "Focus Home Interactive",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709111653",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_silverfall_gold_edition_1.50_(41166)-1.bin",
+                    "size": "4293073406"
+                },
+                {
+                    "name": "setup_silverfall_gold_edition_1.50_(41166)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_silverfall_gold_edition_1.50_(41166)-3.bin",
+                    "size": "2359550380"
+                },
+                {
+                    "name": "setup_silverfall_gold_edition_1.50_(41166).exe",
+                    "size": "1900936"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9350E57181",
+                            "link": "https://filecrypt.cc/Container/9350E57181"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F90D495F8F",
+                            "link": "https://filecrypt.cc/Container/F90D495F8F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1E804E1225",
+                            "link": "https://filecrypt.cc/Container/1E804E1225"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

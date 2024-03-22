@@ -1,0 +1,79 @@
+{
+    "href": "/game/samorost_1",
+    "MSG": {
+        "id": "2006298293",
+        "title": "Samorost 1",
+        "slug": "samorost_1",
+        "thumb_id": "ed8121351be7442a1a0f46ee2f82d6986e8d5163620d58a306149a0064445a48",
+        "bg_id": "1cb6346767fd17f951e9841359a3a30c399e7a2da492827074a858c56df5827d",
+        "url": "https://www.gog.com/game/samorost_1",
+        "developer": "Amanita Design",
+        "publisher": "Amanita Design",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1686751304",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_samorost_1_1.12_(47177).exe",
+                    "size": "64905712"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A9A368E3C1",
+                            "link": "https://filecrypt.cc/Container/A9A368E3C1"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7F0F4B8961",
+                            "link": "https://filecrypt.cc/Container/7F0F4B8961"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F082FF09B6",
+                            "link": "https://filecrypt.cc/Container/F082FF09B6"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A3C281FB3B",
+                            "link": "https://filecrypt.cc/Container/A3C281FB3B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

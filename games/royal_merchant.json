@@ -1,0 +1,101 @@
+{
+    "href": "/game/royal_merchant",
+    "MSG": {
+        "id": "1365427550",
+        "title": "Royal Merchant",
+        "slug": "royal_merchant",
+        "thumb_id": "5c4081c78a6f96dc4b8e493270b54b339c1f07a3af562c282a2b0708328e1a10",
+        "bg_id": "c4699eb6ad3c59458f634b2f2ddbd993a491b236299a082d48535a443edc4447",
+        "url": "https://www.gog.com/en/game/royal_merchant",
+        "developer": "Badim",
+        "publisher": "Meridian4",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1697535457",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_royal_merchant_1.013_(65128).exe",
+                    "size": "70893848"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F1A72CB9BA",
+                            "link": "https://filecrypt.cc/Container/F1A72CB9BA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/25DFC291DB",
+                            "link": "https://filecrypt.cc/Container/25DFC291DB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/666300DC8A",
+                            "link": "https://filecrypt.cc/Container/666300DC8A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/44DF99A91D",
+                            "link": "https://filecrypt.cc/Container/44DF99A91D"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/EF4C34CED9",
+                            "link": "https://filecrypt.cc/Container/EF4C34CED9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/350E3F1485",
+                            "link": "https://filecrypt.cc/Container/350E3F1485"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,111 @@
+{
+    "href": "/game/braid",
+    "MSG": {
+        "id": "1461061433",
+        "title": "Braid",
+        "slug": "braid",
+        "thumb_id": "98c3efa64b9ce51d165e8d4514e6eccfb7596ff376310ab71c396771e157e92a",
+        "bg_id": "1f11cd6eaa1c70a9fb66a7464dc7ac9d141a4d0a5d97632be95f5999c2ec9542",
+        "url": "https://www.gog.com/game/braid",
+        "developer": "Number None",
+        "publisher": "Number None",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710238966",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_braid_1.0_(22813).exe",
+                    "size": "238272904"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "braid_poster.zip",
+                    "size": "2317609"
+                },
+                {
+                    "name": "braid_wallpapers.zip",
+                    "size": "2214420"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E1F170608B",
+                            "link": "https://filecrypt.cc/Container/E1F170608B"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/74FD29DC5F",
+                            "link": "https://filecrypt.cc/Container/74FD29DC5F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DE154A7F08",
+                            "link": "https://filecrypt.cc/Container/DE154A7F08"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B050D33E00",
+                            "link": "https://filecrypt.cc/Container/B050D33E00"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/05260FC0D2",
+                            "link": "https://filecrypt.cc/Container/05260FC0D2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F3FA89BA37",
+                            "link": "https://filecrypt.cc/Container/F3FA89BA37"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

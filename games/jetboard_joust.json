@@ -1,0 +1,79 @@
+{
+    "href": "/game/jetboard_joust",
+    "MSG": {
+        "id": "1365746918",
+        "title": "Jetboard Joust",
+        "slug": "jetboard_joust",
+        "thumb_id": "e325d4e88dab6de50ad463376b7ce42865aea7bca0d75fcafba69f289c42a955",
+        "bg_id": "cd4b4b4bb0a207009f13a0b764b02d3b02b654bfa83a8fc8b53778ba27888608",
+        "url": "https://www.gog.com/en/game/jetboard_joust",
+        "developer": "BitBull Ltd",
+        "publisher": "",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1682523371",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_jetboard_joust_1.1.04_(64bit)_(62994).exe",
+                    "size": "206671192"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "uploadbuzz",
+                    "name": "UploadBuzz",
+                    "icon": "<img src=\"/static/img/hoster_logos/uploadbuzz.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/fNlw4Kj",
+                            "link": "https://safelinking.net/fNlw4Kj"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/5DDF49C673",
+                            "link": "https://filecrypt.cc/Container/5DDF49C673"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/rMrYLU8",
+                            "link": "https://safelinking.net/rMrYLU8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/696A374859",
+                            "link": "https://filecrypt.cc/Container/696A374859"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

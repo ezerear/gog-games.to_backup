@@ -1,0 +1,84 @@
+{
+    "href": "/game/xcom_chimera_squad",
+    "MSG": {
+        "id": "1914671919",
+        "title": "XCOM®: Chimera Squad",
+        "slug": "xcom_chimera_squad",
+        "thumb_id": "8ec88f51b7d94debcea299b199b66aa20ddc6d56d031421424f989965a71aec8",
+        "bg_id": "eff27ed556b2c84347103d70f16c041be74e660dea51fa7edbe13b508d084d44",
+        "url": "https://www.gog.com/game/xcom_chimera_squad",
+        "developer": "Firaxis Games",
+        "publisher": "2K Games",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1709468150",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_xcom_chimera_squad_1532151_(64bit)_(51682)-1.bin",
+                    "size": "4286495230"
+                },
+                {
+                    "name": "setup_xcom_chimera_squad_1532151_(64bit)_(51682)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_xcom_chimera_squad_1532151_(64bit)_(51682)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_xcom_chimera_squad_1532151_(64bit)_(51682)-4.bin",
+                    "size": "2684811701"
+                },
+                {
+                    "name": "setup_xcom_chimera_squad_1532151_(64bit)_(51682).exe",
+                    "size": "8478648"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/10D94DB49A",
+                            "link": "https://filecrypt.cc/Container/10D94DB49A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A1F42E1267",
+                            "link": "https://filecrypt.cc/Container/A1F42E1267"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/72C224CEF5",
+                            "link": "https://filecrypt.cc/Container/72C224CEF5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

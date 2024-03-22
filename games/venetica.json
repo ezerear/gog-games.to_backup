@@ -1,0 +1,120 @@
+{
+    "href": "/game/venetica",
+    "MSG": {
+        "id": "1345182195",
+        "title": "Venetica - Gold Edition",
+        "slug": "venetica",
+        "thumb_id": "39ee0faef6dc014d96dffa267c11ebb940e71f7df1120a4e4ab5123ab0ee30cf",
+        "bg_id": "0114942e849c022ef42c88e31f7102d3994c2f5521e2aa8b1ada0e7548637956",
+        "url": "https://www.gog.com/game/venetica",
+        "developer": "Deck13",
+        "publisher": "Deck13",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707334901",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_venetica_1.0.3_(31094)-1.bin",
+                    "size": "4290296830"
+                },
+                {
+                    "name": "setup_venetica_1.0.3_(31094)-2.bin",
+                    "size": "2367850831"
+                },
+                {
+                    "name": "setup_venetica_1.0.3_(31094).exe",
+                    "size": "4677656"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "artbook.zip",
+                    "size": "162237585"
+                },
+                {
+                    "name": "making_of.zip",
+                    "size": "644672245"
+                },
+                {
+                    "name": "manual.zip",
+                    "size": "2263507"
+                },
+                {
+                    "name": "soundtrack.zip",
+                    "size": "52733790"
+                },
+                {
+                    "name": "venice.zip",
+                    "size": "149521728"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/64924C2B1A",
+                            "link": "https://filecrypt.cc/Container/64924C2B1A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/204ABF82A2",
+                            "link": "https://filecrypt.cc/Container/204ABF82A2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1A88327DF5",
+                            "link": "https://filecrypt.cc/Container/1A88327DF5"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3C6FC699EA",
+                            "link": "https://filecrypt.cc/Container/3C6FC699EA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8C13E89107",
+                            "link": "https://filecrypt.cc/Container/8C13E89107"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

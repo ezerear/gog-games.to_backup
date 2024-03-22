@@ -1,0 +1,79 @@
+{
+    "href": "/game/bloodwych",
+    "MSG": {
+        "id": "1809914413",
+        "title": "Bloodwych",
+        "slug": "bloodwych",
+        "thumb_id": "78d55df49e1600e0fd71a99c21122686ad26058cf287d97be3efa006b78e497e",
+        "bg_id": "68f5b79fae638f18ce283539f6be895161779d60af018ce7e5b615493b5f0b3e",
+        "url": "https://www.gog.com/game/bloodwych",
+        "developer": " Image Works",
+        "publisher": "Throwback Entertainment",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1682386638",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_bloodwych_1.1_(42271).exe",
+                    "size": "26718600"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "uploadbuzz",
+                    "name": "UploadBuzz",
+                    "icon": "<img src=\"/static/img/hoster_logos/uploadbuzz.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/PxNZqwm",
+                            "link": "https://safelinking.net/PxNZqwm"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/131445D723",
+                            "link": "https://filecrypt.cc/Container/131445D723"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://safelinking.net/dmBiiGY",
+                            "link": "https://safelinking.net/dmBiiGY"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2C4F8ACBB1",
+                            "link": "https://filecrypt.cc/Container/2C4F8ACBB1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

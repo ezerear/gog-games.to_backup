@@ -1,0 +1,68 @@
+{
+    "href": "/game/elasto_mania",
+    "MSG": {
+        "id": "1720716146",
+        "title": "Elasto Mania Remastered",
+        "slug": "elasto_mania",
+        "thumb_id": "fd22f7518a85bb79d232ba6f6c91fc7287d1fc0918c89c528d502b75e7ff32ec",
+        "bg_id": "c673a207b5358371acf3d494b80d443386c3ebeb33aad6770ea81d7a95702609",
+        "url": "https://www.gog.com/game/elasto_mania",
+        "developer": "Balazs Rozsa",
+        "publisher": "Elasto Mania Team",
+        "category": "Racing",
+        "uploading": "0",
+        "last_upload": "1710487938",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_elasto_mania_1.19_(64bit)_(68074).exe",
+                    "size": "55030552"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/95B7B9C039",
+                            "link": "https://filecrypt.cc/Container/95B7B9C039"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0C752041F8",
+                            "link": "https://filecrypt.cc/Container/0C752041F8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0B9CFBD9B4",
+                            "link": "https://filecrypt.cc/Container/0B9CFBD9B4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

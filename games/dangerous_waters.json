@@ -1,0 +1,79 @@
+{
+    "href": "/game/dangerous_waters",
+    "MSG": {
+        "id": "1219067675",
+        "title": "Dangerous Waters",
+        "slug": "dangerous_waters",
+        "thumb_id": "f884dbb85f68bf56ff8547ac2d253877e6617df3535dacc241fa55181c6bf94e",
+        "bg_id": "6ed944576edd7731d0aef0f3a8743218762759a03d51221ddec01c4a48ef7836",
+        "url": "https://www.gog.com/en/game/dangerous_waters",
+        "developer": "Sonalysts",
+        "publisher": "Strategy First",
+        "category": "Strategy",
+        "uploading": "0",
+        "last_upload": "1707223585",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dangerous_waters_1.0.0.1_(60671).exe",
+                    "size": "1092927168"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CB018579D5",
+                            "link": "https://filecrypt.cc/Container/CB018579D5"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1238BAB677",
+                            "link": "https://filecrypt.cc/Container/1238BAB677"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B8FFE970ED",
+                            "link": "https://filecrypt.cc/Container/B8FFE970ED"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/897D4360A0",
+                            "link": "https://filecrypt.cc/Container/897D4360A0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

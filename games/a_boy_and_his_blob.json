@@ -1,0 +1,68 @@
+{
+    "href": "/game/a_boy_and_his_blob",
+    "MSG": {
+        "id": "1446645514",
+        "title": "A Boy and His Blob",
+        "slug": "a_boy_and_his_blob",
+        "thumb_id": "b1860e6967a62867c74ec9b07d1d00a93cd03cb458e72f74275d341ebac765bb",
+        "bg_id": "25d4b13358bec1cf23827bd32c04d1c9f5b2c252e381de279db653d7be780d4c",
+        "url": "https://www.gog.com/game/a_boy_and_his_blob",
+        "developer": "Abstraction and WayForward Technologies",
+        "publisher": "Majesco",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708544297",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_a_boy_and_his_blob_gog-3_(16594).exe",
+                    "size": "522083200"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/479899F6A8",
+                            "link": "https://filecrypt.cc/Container/479899F6A8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4F04104659",
+                            "link": "https://filecrypt.cc/Container/4F04104659"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/607907A12A",
+                            "link": "https://filecrypt.cc/Container/607907A12A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

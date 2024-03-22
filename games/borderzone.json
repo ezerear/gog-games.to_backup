@@ -1,0 +1,94 @@
+{
+    "href": "/game/borderzone",
+    "MSG": {
+        "id": "1134401292",
+        "title": "BorderZone",
+        "slug": "borderzone",
+        "thumb_id": "d1cc381b3389c12e8caf3648935d9f467c38e3e1133127b5480f1e95e063b425",
+        "bg_id": "6b80d7ee1dd457c50b42e22523ef8884bbf3405e0553bdc7cef9672647a1cd81",
+        "url": "https://www.gog.com/en/game/borderzone",
+        "developer": "Saturn-plus, Orion",
+        "publisher": "Fulqrum Publishing",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1706756571",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_borderzone_1.1_(59095)-1.bin",
+                    "size": "1872501230"
+                },
+                {
+                    "name": "setup_borderzone_1.1_(59095).exe",
+                    "size": "2460400"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2EF045065C",
+                            "link": "https://filecrypt.cc/Container/2EF045065C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BF2894E8D3",
+                            "link": "https://filecrypt.cc/Container/BF2894E8D3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AD4AD933BC",
+                            "link": "https://filecrypt.cc/Container/AD4AD933BC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AD91CF9EDB",
+                            "link": "https://filecrypt.cc/Container/AD91CF9EDB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E96FDBF1F6",
+                            "link": "https://filecrypt.cc/Container/E96FDBF1F6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

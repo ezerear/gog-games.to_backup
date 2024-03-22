@@ -1,0 +1,106 @@
+{
+    "href": "/game/sinsations",
+    "MSG": {
+        "id": "2060696100",
+        "title": "Sinsations",
+        "slug": "sinsations",
+        "thumb_id": "bc6db1326808813ab0e24911a4e2ca67d503f5cde665545f611371280fab831c",
+        "bg_id": "da508fc793aaad159bb75aaa9759378130b5cc7c6828c810dd64861a7bceb784",
+        "url": "https://www.gog.com/en/game/sinsations",
+        "developer": "Frigid Delights Studios LLC",
+        "publisher": "MediBang Inc.",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708784256",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_sinsation_1.0_(64bit)_(67279)-1.bin",
+                    "size": "2206503527"
+                },
+                {
+                    "name": "setup_sinsation_1.0_(64bit)_(67279).exe",
+                    "size": "863528"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E055379083",
+                            "link": "https://filecrypt.cc/Container/E055379083"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/36DA0BC848",
+                            "link": "https://filecrypt.cc/Container/36DA0BC848"
+                        },
+                        {
+                            "name": "https://filecrypt.cc/Container/DEA331427C",
+                            "link": "https://filecrypt.cc/Container/DEA331427C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A6DF197BBE",
+                            "link": "https://filecrypt.cc/Container/A6DF197BBE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BB25B91702",
+                            "link": "https://filecrypt.cc/Container/BB25B91702"
+                        },
+                        {
+                            "name": "https://filecrypt.cc/Container/C174051BE2",
+                            "link": "https://filecrypt.cc/Container/C174051BE2"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C6424A6E1A",
+                            "link": "https://filecrypt.cc/Container/C6424A6E1A"
+                        },
+                        {
+                            "name": "https://filecrypt.cc/Container/D341A46709",
+                            "link": "https://filecrypt.cc/Container/D341A46709"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

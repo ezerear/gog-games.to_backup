@@ -1,0 +1,115 @@
+{
+    "href": "/game/saboteur",
+    "MSG": {
+        "id": "1403000599",
+        "title": "The Saboteur™",
+        "slug": "saboteur",
+        "thumb_id": "aef9a577405b01be6fc8b1e7a71062c4a1140baa71d147749a002a11e2663130",
+        "bg_id": "ffacb580c8ef7c0e32c1304e4914f0e10b320a470047fb556a41536767397a7d",
+        "url": "https://www.gog.com/game/saboteur",
+        "developer": "Pandemic Studios",
+        "publisher": "Electronic Arts",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709897487",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_saboteur_1.3_hotfix_(22140)-1.bin",
+                    "size": "4294098430"
+                },
+                {
+                    "name": "setup_the_saboteur_1.3_hotfix_(22140)-2.bin",
+                    "size": "2682177026"
+                },
+                {
+                    "name": "setup_the_saboteur_1.3_hotfix_(22140).exe",
+                    "size": "875776"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "the_saboteur_manual.zip",
+                    "size": "4656184"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A3C90F3F60",
+                            "link": "https://filecrypt.cc/Container/A3C90F3F60"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FF07548D93",
+                            "link": "https://filecrypt.cc/Container/FF07548D93"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/661B8D3561",
+                            "link": "https://filecrypt.cc/Container/661B8D3561"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6AFB445254",
+                            "link": "https://filecrypt.cc/Container/6AFB445254"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/90F8F3A852",
+                            "link": "https://filecrypt.cc/Container/90F8F3A852"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/23F0C99A36",
+                            "link": "https://filecrypt.cc/Container/23F0C99A36"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

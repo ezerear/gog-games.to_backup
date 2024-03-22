@@ -1,0 +1,68 @@
+{
+    "href": "/game/backpack_hero",
+    "MSG": {
+        "id": "1115847033",
+        "title": "Backpack Hero",
+        "slug": "backpack_hero",
+        "thumb_id": "d8ea0e03b438095e002315ab4e7e1d98469fe26760cc2f2aca0b47e225a02b40",
+        "bg_id": "7c14d6753fb468de36c88f8d66b48a86cd2fb72819702ef3d14bf7c83083bfaa",
+        "url": "https://www.gog.com/en/game/backpack_hero",
+        "developer": "Jaspel",
+        "publisher": "Different Tales",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708845150",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_backpack_hero_3_(68990).exe",
+                    "size": "170988240"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CE22903380",
+                            "link": "https://filecrypt.cc/Container/CE22903380"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/65ADC98770",
+                            "link": "https://filecrypt.cc/Container/65ADC98770"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AB7750B88E",
+                            "link": "https://filecrypt.cc/Container/AB7750B88E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

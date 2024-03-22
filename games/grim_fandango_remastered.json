@@ -1,0 +1,127 @@
+{
+    "href": "/game/grim_fandango_remastered",
+    "MSG": {
+        "id": "1207667183",
+        "title": "Grim Fandango Remastered",
+        "slug": "grim_fandango_remastered",
+        "thumb_id": "95910410e5529a2355205f99a459c2c5ef1186cb741d40eb41bf7dcaa9690823",
+        "bg_id": "8ce25a8cdbc73c34246fac31fd9a5f1a22c692baed8556835edcbad8d8146cb7",
+        "url": "https://www.gog.com/game/grim_fandango_remastered",
+        "developer": "Double Fine Productions",
+        "publisher": "Double Fine Productions",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1710389360",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_grim_fandango_remastererd_1.4.0_(17097)-1.bin",
+                    "size": "4229867910"
+                },
+                {
+                    "name": "setup_grim_fandango_remastererd_1.4.0_(17097).exe",
+                    "size": "749912"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "gfrm_making_of_part_1.zip",
+                    "size": "1531777453"
+                },
+                {
+                    "name": "gfrm_making_of_part_2.zip",
+                    "size": "877388997"
+                },
+                {
+                    "name": "gfrm_making_of_part_3.zip",
+                    "size": "1807792779"
+                },
+                {
+                    "name": "gf_remastered_wallpaper.zip",
+                    "size": "1358719"
+                },
+                {
+                    "name": "grim_fandango_remastered_fan_art.zip",
+                    "size": "57964166"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0060250CC4",
+                            "link": "https://filecrypt.cc/Container/0060250CC4"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/6E710AD922",
+                            "link": "https://filecrypt.cc/Container/6E710AD922"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2CE57E5A16",
+                            "link": "https://filecrypt.cc/Container/2CE57E5A16"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/50C1DA37AE",
+                            "link": "https://filecrypt.cc/Container/50C1DA37AE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CED6A0BF39",
+                            "link": "https://filecrypt.cc/Container/CED6A0BF39"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DD0495594E",
+                            "link": "https://filecrypt.cc/Container/DD0495594E"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

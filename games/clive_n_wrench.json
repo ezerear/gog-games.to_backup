@@ -1,0 +1,87 @@
+{
+    "href": "/game/clive_n_wrench",
+    "MSG": {
+        "id": "1936905339",
+        "title": "Clive 'N' Wrench",
+        "slug": "clive_n_wrench",
+        "thumb_id": "be7184063ad999b8bcc70be6731aeb3fe385ae9e6feeb7c6fdadc3483b358a4e",
+        "bg_id": "41ba40e1031821e5d41a77dc05a62ad901557624779dab0b39247be8a1ece788",
+        "url": "https://www.gog.com/en/game/clive_n_wrench",
+        "developer": "Dinosaur Bytes Studio",
+        "publisher": "Numskull Games",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1685117232",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_clive_n_wrench_patch_1.1_(63109)-1.bin",
+                    "size": "4293924350"
+                },
+                {
+                    "name": "setup_clive_n_wrench_patch_1.1_(63109)-2.bin",
+                    "size": "275287613"
+                },
+                {
+                    "name": "setup_clive_n_wrench_patch_1.1_(63109).exe",
+                    "size": "1052984"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D5E64C0CB9",
+                            "link": "https://filecrypt.cc/Container/D5E64C0CB9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2318092C40",
+                            "link": "https://filecrypt.cc/Container/2318092C40"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AD9F4A358A",
+                            "link": "https://filecrypt.cc/Container/AD9F4A358A"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BF245CD6F9",
+                            "link": "https://filecrypt.cc/Container/BF245CD6F9"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

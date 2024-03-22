@@ -1,0 +1,68 @@
+{
+    "href": "/game/grunnd",
+    "MSG": {
+        "id": "2090694147",
+        "title": "GRUNND",
+        "slug": "grunnd",
+        "thumb_id": "91a222fd62d273f524afc1387b5c0a94346f59e5a471dca4171ed9c753698d15",
+        "bg_id": "ac5bb62053bcae922aa1bd92a14918b29073bc2012779f81a8b4dd1917b4d0fc",
+        "url": "https://www.gog.com/en/game/grunnd",
+        "developer": "SEKTAHOUSE",
+        "publisher": "",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1704821148",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_grunnd_1.017a_(62581).exe",
+                    "size": "1533013256"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3BFB6EE7FC",
+                            "link": "https://filecrypt.cc/Container/3BFB6EE7FC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/30591BDE07",
+                            "link": "https://filecrypt.cc/Container/30591BDE07"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/340413397E",
+                            "link": "https://filecrypt.cc/Container/340413397E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

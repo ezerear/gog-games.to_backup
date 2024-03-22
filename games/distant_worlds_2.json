@@ -1,0 +1,88 @@
+{
+    "href": "/game/distant_worlds_2",
+    "MSG": {
+        "id": "1562671603",
+        "title": "Distant Worlds 2",
+        "slug": "distant_worlds_2",
+        "thumb_id": "f035ea690494501e25fbb37a17f829a6126c663a7f3b548edd34f0cee193c0a2",
+        "bg_id": "dce8936cfa69942ecbaac5d47345f2493f24d2087d618e1f544ce335945a6d58",
+        "url": "https://www.gog.com/game/distant_worlds_2",
+        "developer": "Code Force",
+        "publisher": "Slitherine Ltd.",
+        "category": "Simulation",
+        "uploading": "0",
+        "last_upload": "1708234016",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_distant_worlds_2_1.2.0.5_(64bit)_(71076)-1.bin",
+                    "size": "4293596670"
+                },
+                {
+                    "name": "setup_distant_worlds_2_1.2.0.5_(64bit)_(71076)-2.bin",
+                    "size": "2594169800"
+                },
+                {
+                    "name": "setup_distant_worlds_2_1.2.0.5_(64bit)_(71076).exe",
+                    "size": "1377880"
+                },
+                {
+                    "name": "setup_distant_worlds_2_factions_-_ikkuro_and_dhayut_1.2.0.5_(64bit)_(71076).exe",
+                    "size": "836573464"
+                },
+                {
+                    "name": "setup_distant_worlds_2_factions_-_quameno_and_gizureans_1.2.0.5_(64bit)_(71076)-1.bin",
+                    "size": "1908392137"
+                },
+                {
+                    "name": "setup_distant_worlds_2_factions_-_quameno_and_gizureans_1.2.0.5_(64bit)_(71076).exe",
+                    "size": "834256"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BD5F059A56",
+                            "link": "https://filecrypt.cc/Container/BD5F059A56"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/10B7A4B7F9",
+                            "link": "https://filecrypt.cc/Container/10B7A4B7F9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/72CA30F531",
+                            "link": "https://filecrypt.cc/Container/72CA30F531"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

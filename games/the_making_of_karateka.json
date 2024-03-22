@@ -1,0 +1,72 @@
+{
+    "href": "/game/the_making_of_karateka",
+    "MSG": {
+        "id": "1697504638",
+        "title": "The Making of Karateka",
+        "slug": "the_making_of_karateka",
+        "thumb_id": "1abe81f1f98c5632f5a516111eadc4afbf95d18a6e5f93a07c23adee8903a1a5",
+        "bg_id": "85ded45119f7488c6dd5bca45d2b97ffb66298bd1b8c5f9ccd9982af3a6585e8",
+        "url": "https://www.gog.com/en/game/the_making_of_karateka",
+        "developer": "Digital Eclipse",
+        "publisher": "",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708515483",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_the_making_of_karateka_1.0_(64bit)_(66508)-1.bin",
+                    "size": "3472528061"
+                },
+                {
+                    "name": "setup_the_making_of_karateka_1.0_(64bit)_(66508).exe",
+                    "size": "818656"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E08CDDC762",
+                            "link": "https://filecrypt.cc/Container/E08CDDC762"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8D3796F360",
+                            "link": "https://filecrypt.cc/Container/8D3796F360"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/1431A0EA6A",
+                            "link": "https://filecrypt.cc/Container/1431A0EA6A"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

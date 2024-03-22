@@ -1,0 +1,72 @@
+{
+    "href": "/game/gripper",
+    "MSG": {
+        "id": "1482604046",
+        "title": "Gripper",
+        "slug": "gripper",
+        "thumb_id": "e949f65cf86d4e415346b8eeb707375118e76bb522d66a274830607f5f0e6a89",
+        "bg_id": "50aaad824653ad648eeeb5e580cf6b28cd073990af5700aa39f51652739e60c8",
+        "url": "https://www.gog.com/en/game/gripper",
+        "developer": "Heart Core",
+        "publisher": "Heart Core",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709962381",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_gripper_1.1.0_(64bit)_(64019)-1.bin",
+                    "size": "1987607416"
+                },
+                {
+                    "name": "setup_gripper_1.1.0_(64bit)_(64019).exe",
+                    "size": "807264"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/866A5092C3",
+                            "link": "https://filecrypt.cc/Container/866A5092C3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0BC7565B90",
+                            "link": "https://filecrypt.cc/Container/0BC7565B90"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/0A2974EF9E",
+                            "link": "https://filecrypt.cc/Container/0A2974EF9E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

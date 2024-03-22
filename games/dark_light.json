@@ -1,0 +1,94 @@
+{
+    "href": "/game/dark_light",
+    "MSG": {
+        "id": "1546650311",
+        "title": "Dark Light",
+        "slug": "dark_light",
+        "thumb_id": "4fe43945569275400d2897f253b16debb6f5300286efd90a1fe12d93f092f8f1",
+        "bg_id": "08c60920e6f2a6c373812eed1c616148606540587d65e058f56b9c077cf3253e",
+        "url": "https://www.gog.com/en/game/dark_light",
+        "developer": "Mirari&Co.",
+        "publisher": "Mirari&Co., Maple Whispering Limited",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1707874221",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dark_light_1.1.0.11_(71155)-1.bin",
+                    "size": "2488931255"
+                },
+                {
+                    "name": "setup_dark_light_1.1.0.11_(71155).exe",
+                    "size": "877304"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B5A7F215BD",
+                            "link": "https://filecrypt.cc/Container/B5A7F215BD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4ECB7937E0",
+                            "link": "https://filecrypt.cc/Container/4ECB7937E0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/40BFEB808E",
+                            "link": "https://filecrypt.cc/Container/40BFEB808E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/93745512F8",
+                            "link": "https://filecrypt.cc/Container/93745512F8"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/01DE80B5EB",
+                            "link": "https://filecrypt.cc/Container/01DE80B5EB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

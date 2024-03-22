@@ -1,0 +1,57 @@
+{
+    "href": "/game/jet_lancer",
+    "MSG": {
+        "id": "1489231569",
+        "title": "Jet Lancer",
+        "slug": "jet_lancer",
+        "thumb_id": "231a85da49d55ee5689f30375d2a3f7690f39958771a2109dd6a4e09a0764d35",
+        "bg_id": "5e74706d109f2d6c72b2c07bd7e2e92ac47a0adaf5e1094142643941147da75d",
+        "url": "https://www.gog.com/game/jet_lancer",
+        "developer": "Vladimir Fedyushkin, Nicolai Danielsen",
+        "publisher": "Armor Games Studios",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1710125682",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_jet_lancer_1.1.10_(43770).exe",
+                    "size": "213841280"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/409E8DE128",
+                            "link": "https://filecrypt.cc/Container/409E8DE128"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/A6824B6CD6",
+                            "link": "https://filecrypt.cc/Container/A6824B6CD6"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

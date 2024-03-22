@@ -1,0 +1,76 @@
+{
+    "href": "/game/legrand_legacy",
+    "MSG": {
+        "id": "1335936125",
+        "title": "LEGRAND LEGACY: Tale of the Fatebounds",
+        "slug": "legrand_legacy",
+        "thumb_id": "8a5d9d08430eebedf100c4165c5b7759c02c7cea4ade9149f9ee506040c48c04",
+        "bg_id": "32145e699e1d48b050ed83e347a28abea77b6a77ec4ca550a923e1d429655c31",
+        "url": "https://www.gog.com/game/legrand_legacy",
+        "developer": "SEMISOFT",
+        "publisher": "Another Indie/Mayflower Entertainment [KR]",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1700618050",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_legrand_legacy_tale_of_the_fatebounds_gog_2.0.6_(34954)-1.bin",
+                    "size": "4293965822"
+                },
+                {
+                    "name": "setup_legrand_legacy_tale_of_the_fatebounds_gog_2.0.6_(34954)-2.bin",
+                    "size": "3072701884"
+                },
+                {
+                    "name": "setup_legrand_legacy_tale_of_the_fatebounds_gog_2.0.6_(34954).exe",
+                    "size": "1008336"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/E5653E3DCE",
+                            "link": "https://filecrypt.cc/Container/E5653E3DCE"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CB9D62B229",
+                            "link": "https://filecrypt.cc/Container/CB9D62B229"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9744E1E48C",
+                            "link": "https://filecrypt.cc/Container/9744E1E48C"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

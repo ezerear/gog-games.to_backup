@@ -1,0 +1,79 @@
+{
+    "href": "/game/the_saboteur",
+    "MSG": {
+        "id": "1770251309",
+        "title": "Saboteur!",
+        "slug": "the_saboteur",
+        "thumb_id": "aa99144e23537c840553b3cebefa2bdb54edb50aaf2eed1b15fe69ffd1df8583",
+        "bg_id": "75e7765234c1528ced5d4f6583c623f7c3fae957e63e8b50d5a3fa363feadd95",
+        "url": "https://www.gog.com/game/the_saboteur",
+        "developer": "Clive Townsend",
+        "publisher": "SimFabric",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1708124883",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_saboteur_1.00_(64bit)_(47678).exe",
+                    "size": "90673480"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C1F276E191",
+                            "link": "https://filecrypt.cc/Container/C1F276E191"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AE4852949C",
+                            "link": "https://filecrypt.cc/Container/AE4852949C"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7DB61BEAA9",
+                            "link": "https://filecrypt.cc/Container/7DB61BEAA9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/30D236F48E",
+                            "link": "https://filecrypt.cc/Container/30D236F48E"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,90 @@
+{
+    "href": "/game/pajama_sams_lost_found",
+    "MSG": {
+        "id": "1434535284",
+        "title": "Pajama Sam’s Lost & Found",
+        "slug": "pajama_sams_lost_found",
+        "thumb_id": "9a5012ad426d0f1eff2540077ee74eb0f0293b537d2fb47ed73b19a13b661a85",
+        "bg_id": "29eaa3d678f1efdc53c00608f547114b0ade1e58ee56e08e52d72db9e78e0bd6",
+        "url": "https://www.gog.com/game/pajama_sam_vol_1",
+        "developer": "Humongous Entertainment",
+        "publisher": "Retroism",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1704927020",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_pajama_sams_lost_and_found_1.0_(20270).exe",
+                    "size": "33738208"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/84560E3457",
+                            "link": "https://filecrypt.cc/Container/84560E3457"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CC67A64BE9",
+                            "link": "https://filecrypt.cc/Container/CC67A64BE9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/86106209B7",
+                            "link": "https://filecrypt.cc/Container/86106209B7"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DF32063F70",
+                            "link": "https://filecrypt.cc/Container/DF32063F70"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CD5137011F",
+                            "link": "https://filecrypt.cc/Container/CD5137011F"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

@@ -1,0 +1,76 @@
+{
+    "href": "/game/pandemic_train",
+    "MSG": {
+        "id": "1263268802",
+        "title": "Pandemic Train",
+        "slug": "pandemic_train",
+        "thumb_id": "db2005aa7c6be09fd16a3bff6f39476aeddd7fbf71bd88d8916de08a060f10c2",
+        "bg_id": "43b50581c444feca0fb04f0abfe55e94cf71c5255e34b3f960fd334be112c63d",
+        "url": "https://www.gog.com/en/game/pandemic_train",
+        "developer": "Trigger Labs",
+        "publisher": "IMGN.PRO, Games Operators, PlayWay S.A.",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710535018",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_pandemic_train_1.0_(64bit)_(71744)-1.bin",
+                    "size": "4294012414"
+                },
+                {
+                    "name": "setup_pandemic_train_1.0_(64bit)_(71744)-2.bin",
+                    "size": "3323075572"
+                },
+                {
+                    "name": "setup_pandemic_train_1.0_(64bit)_(71744).exe",
+                    "size": "961992"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/95589845EB",
+                            "link": "https://filecrypt.cc/Container/95589845EB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2BC6D5D796",
+                            "link": "https://filecrypt.cc/Container/2BC6D5D796"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C062042BDA",
+                            "link": "https://filecrypt.cc/Container/C062042BDA"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

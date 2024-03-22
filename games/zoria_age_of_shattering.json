@@ -1,0 +1,80 @@
+{
+    "href": "/game/zoria_age_of_shattering",
+    "MSG": {
+        "id": "1976780992",
+        "title": "Zoria: Age of Shattering",
+        "slug": "zoria_age_of_shattering",
+        "thumb_id": "6414da59971a1633632044ff401a8827ad1dd43db8b3cfac82f062370f56a304",
+        "bg_id": "3de06d4f8eec7bd456e48efcbde17dd5c1d1eef9b3a018472f0300251a172d4e",
+        "url": "https://www.gog.com/game/zoria_age_of_shattering",
+        "developer": "Tiny Trinket Games",
+        "publisher": "Anshar Publishing",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1710893198",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_zoria_age_of_shattering_1.0.2_(71920)-1.bin",
+                    "size": "4293473790"
+                },
+                {
+                    "name": "setup_zoria_age_of_shattering_1.0.2_(71920)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_zoria_age_of_shattering_1.0.2_(71920)-3.bin",
+                    "size": "3633961175"
+                },
+                {
+                    "name": "setup_zoria_age_of_shattering_1.0.2_(71920).exe",
+                    "size": "1500456"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B26D11D435",
+                            "link": "https://filecrypt.cc/Container/B26D11D435"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/24C2FB3F74",
+                            "link": "https://filecrypt.cc/Container/24C2FB3F74"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3302106CBD",
+                            "link": "https://filecrypt.cc/Container/3302106CBD"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

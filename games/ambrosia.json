@@ -1,0 +1,76 @@
+{
+    "href": "/game/ambrosia",
+    "MSG": {
+        "id": "1270026588",
+        "title": "Ambrosia",
+        "slug": "ambrosia",
+        "thumb_id": "125d663809a7965ddf59898c59782acfa4e9e2d5ec6e605f233c9d0ab439c075",
+        "bg_id": "3e8e23a3a1f9e261477c9ce48415a5e2f9e48eeebc125213622518fb51b90e68",
+        "url": "https://www.gog.com/en/game/ambrosia",
+        "developer": "Shimobashira Workshop",
+        "publisher": "Kagura Games",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1709008579",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_ambrosia_unrated_v1_(en_1.07_cn_1.03)_(53046).exe",
+                    "size": "471887344"
+                },
+                {
+                    "name": "setup_ambrosia_v1_(en_1.07_cn_1.03)_(53046)-1.bin",
+                    "size": "902067046"
+                },
+                {
+                    "name": "setup_ambrosia_v1_(en_1.07_cn_1.03)_(53046).exe",
+                    "size": "984328"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4BD7330112",
+                            "link": "https://filecrypt.cc/Container/4BD7330112"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/2877C11DAA",
+                            "link": "https://filecrypt.cc/Container/2877C11DAA"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F11F2A251B",
+                            "link": "https://filecrypt.cc/Container/F11F2A251B"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

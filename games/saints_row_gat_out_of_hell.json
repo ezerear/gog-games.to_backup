@@ -1,0 +1,80 @@
+{
+    "href": "/game/saints_row_gat_out_of_hell",
+    "MSG": {
+        "id": "1978178686",
+        "title": "Saints Row: Gat out of Hell",
+        "slug": "saints_row_gat_out_of_hell",
+        "thumb_id": "622522f4593afcffde8bf2daf00c3c7acdb2d464c8e4e3a9d7d4404c40ffe9c2",
+        "bg_id": "2f1df1defbaeeba7723a287d7091df96e98f9261b0a1a67d16be9434ad2ee103",
+        "url": "https://www.gog.com/game/saints_row_gat_out_of_hell",
+        "developer": "Deep Silver Volition / High Voltage Software",
+        "publisher": "Deep Silver",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709911246",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_saints_row_-_gat_out_of_hell_20170523_(12199)-1.bin",
+                    "size": "4294247934"
+                },
+                {
+                    "name": "setup_saints_row_-_gat_out_of_hell_20170523_(12199)-2.bin",
+                    "size": "1078085194"
+                },
+                {
+                    "name": "setup_saints_row_-_gat_out_of_hell_20170523_(12199).exe",
+                    "size": "726480"
+                },
+                {
+                    "name": "setup_saints_row_-_gat_out_of_hell_devils_workshop_pack_20170523_(12199).exe",
+                    "size": "4964480"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/420899F561",
+                            "link": "https://filecrypt.cc/Container/420899F561"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/9D30EFDC35",
+                            "link": "https://filecrypt.cc/Container/9D30EFDC35"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/47F477C221",
+                            "link": "https://filecrypt.cc/Container/47F477C221"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

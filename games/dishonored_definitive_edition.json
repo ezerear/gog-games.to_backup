@@ -1,0 +1,73 @@
+{
+    "href": "/game/dishonored_definitive_edition",
+    "MSG": {
+        "id": "1701063787",
+        "title": "Dishonored - Definitive Edition",
+        "slug": "dishonored_definitive_edition",
+        "thumb_id": "059f24a27dd530a1390c368bfd276b60615bb73f10dd7e3051432640f28e712b",
+        "bg_id": "edd4245cb63356ca0ff402096a5cf7fc6530e86ccf6a35cf034385d508fc05e5",
+        "url": "https://www.gog.com/game/dishonored_definitive_edition",
+        "developer": "Arkane Studios",
+        "publisher": "Bethesda Softworks LLC",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1709385626",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dishonored_definitive_edition_334700_2022_(60656)-1.bin",
+                    "size": "4292211710"
+                },
+                {
+                    "name": "setup_dishonored_definitive_edition_334700_2022_(60656)-2.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_dishonored_definitive_edition_334700_2022_(60656)-3.bin",
+                    "size": "4294967294"
+                },
+                {
+                    "name": "setup_dishonored_definitive_edition_334700_2022_(60656)-4.bin",
+                    "size": "2553258844"
+                },
+                {
+                    "name": "setup_dishonored_definitive_edition_334700_2022_(60656).exe",
+                    "size": "2765880"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F65398C0EC",
+                            "link": "https://filecrypt.cc/Container/F65398C0EC"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DAD2AD61CB",
+                            "link": "https://filecrypt.cc/Container/DAD2AD61CB"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

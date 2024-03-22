@@ -1,0 +1,90 @@
+{
+    "href": "/game/soul_saga",
+    "MSG": {
+        "id": "1792376179",
+        "title": "Soul Saga",
+        "slug": "soul_saga",
+        "thumb_id": "175655d3e8967a51af2de6ff48981336f5c22ebba016b854e38067388b101542",
+        "bg_id": "5e778e64a14f2e5f75c02106af81ae88d123fa6f1f39197bbb739697a92c483e",
+        "url": "https://www.gog.com/game/soul_saga",
+        "developer": "Disastercake",
+        "publisher": "Disastercake",
+        "category": "Role-playing",
+        "uploading": "0",
+        "last_upload": "1703944866",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_soul_saga_20.03.29.03_(64bit)_(37220).exe",
+                    "size": "1032179752"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/7003C49003",
+                            "link": "https://filecrypt.cc/Container/7003C49003"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/4E38736F25",
+                            "link": "https://filecrypt.cc/Container/4E38736F25"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DF2DAB6D59",
+                            "link": "https://filecrypt.cc/Container/DF2DAB6D59"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/98E3419D3F",
+                            "link": "https://filecrypt.cc/Container/98E3419D3F"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/49D62D9776",
+                            "link": "https://filecrypt.cc/Container/49D62D9776"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

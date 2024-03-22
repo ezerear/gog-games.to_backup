@@ -1,0 +1,119 @@
+{
+    "href": "/game/fractured_soul",
+    "MSG": {
+        "id": "1207660833",
+        "title": "Fractured Soul",
+        "slug": "fractured_soul",
+        "thumb_id": "70c94c1f03cf816a7cebef8b75560cc04b220c01e45976b2a49486ec67b9dc73",
+        "bg_id": "d0b2e6f85279b41ff85cf1d02a2ce05f697840d3f274fb0bb109ca5a92982173",
+        "url": "https://web.archive.org/web/20200124072712/https://www.gog.com/game/fractured_soul",
+        "developer": "Endgame Studios",
+        "publisher": "Endgame Studios",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1710349047",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_fractured_soul_2.1.0.12.exe",
+                    "size": "681310624"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "name": "fractured_soul_avatars.zip",
+                    "size": "416520"
+                },
+                {
+                    "name": "fractured_soul_ost_flac.zip",
+                    "size": "337786169"
+                },
+                {
+                    "name": "fractured_soul_ost_mp3.zip",
+                    "size": "96557083"
+                },
+                {
+                    "name": "fractured_soul_wallpapers.zip",
+                    "size": "2352077"
+                }
+            ]
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/109797BC01",
+                            "link": "https://filecrypt.cc/Container/109797BC01"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C8EE999EAD",
+                            "link": "https://filecrypt.cc/Container/C8EE999EAD"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/19B080B5E4",
+                            "link": "https://filecrypt.cc/Container/19B080B5E4"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/BB19C6D727",
+                            "link": "https://filecrypt.cc/Container/BB19C6D727"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/AFD5D00148",
+                            "link": "https://filecrypt.cc/Container/AFD5D00148"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F077E9FE62",
+                            "link": "https://filecrypt.cc/Container/F077E9FE62"
+                        }
+                    ]
+                }
+            ]
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

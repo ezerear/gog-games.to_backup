@@ -1,0 +1,80 @@
+{
+    "href": "/game/atlantis_evolution",
+    "MSG": {
+        "id": "1294416884",
+        "title": "Atlantis Evolution",
+        "slug": "atlantis_evolution",
+        "thumb_id": "82880d053bec582c86e51c33fbb8d6954b0af5b102061dc2e886b060576461af",
+        "bg_id": "d96abb502bcc97707d4eea74634f183c9aa7988c17e4a30b5cfaede3fd697990",
+        "url": "https://www.gog.com/en/game/atlantis_evolution",
+        "developer": "Atlantis Interactive Entertainment",
+        "publisher": "Microids",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1709067457",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_atlantis_evolution_1.0.1_(57244)-1.bin",
+                    "size": "2000878452"
+                },
+                {
+                    "name": "setup_atlantis_evolution_1.0.1_(57244)-1.bin",
+                    "size": "2000878452"
+                },
+                {
+                    "name": "setup_atlantis_evolution_1.0.1_(57244).exe",
+                    "size": "1996880"
+                },
+                {
+                    "name": "setup_atlantis_evolution_1.0.1_(57244).exe",
+                    "size": "1996880"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DA7EC4E373",
+                            "link": "https://filecrypt.cc/Container/DA7EC4E373"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/73799670AB",
+                            "link": "https://filecrypt.cc/Container/73799670AB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/45564D5060",
+                            "link": "https://filecrypt.cc/Container/45564D5060"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

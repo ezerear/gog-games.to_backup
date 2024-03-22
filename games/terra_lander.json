@@ -1,0 +1,79 @@
+{
+    "href": "/game/terra_lander",
+    "MSG": {
+        "id": "1583003279",
+        "title": "Terra Lander",
+        "slug": "terra_lander",
+        "thumb_id": "f98c6a37850b4f8a025864aed1b9ca709dd860fc9429c4301c72b947b09d1c08",
+        "bg_id": "00453c29f8080ff78442fcc34703f9b569a0de559e350149cd14247b062cc99b",
+        "url": "https://www.gog.com/game/terra_lander",
+        "developer": "DM Media",
+        "publisher": "Funbox Media Limited",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1684172770",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_terra_lander_1.0_(49193).exe",
+                    "size": "72369040"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/237D9D5E68",
+                            "link": "https://filecrypt.cc/Container/237D9D5E68"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/B42EB87717",
+                            "link": "https://filecrypt.cc/Container/B42EB87717"
+                        }
+                    ]
+                },
+                {
+                    "slug": "pixeldrain",
+                    "name": "Pixeldrain",
+                    "icon": "<img src=\"/static/img/hoster_logos/pixeldrain.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/F29645BF7E",
+                            "link": "https://filecrypt.cc/Container/F29645BF7E"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D6A927B9F0",
+                            "link": "https://filecrypt.cc/Container/D6A927B9F0"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}

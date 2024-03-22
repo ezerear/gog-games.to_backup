@@ -1,0 +1,76 @@
+{
+    "href": "/game/titan_station",
+    "MSG": {
+        "id": "2059886098",
+        "title": "Titan Station",
+        "slug": "titan_station",
+        "thumb_id": "c1081c2120a6de747202cc35667980f304e3f2dfb4794ffea390620ec0242477",
+        "bg_id": "b37aa25f01d02709395282e55730b541dcbc722cbf05850076704b2cb7a99cc8",
+        "url": "https://www.gog.com/en/game/titan_station",
+        "developer": "Joakim Larsen",
+        "publisher": "Joakim Larsen",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1708652485",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_titan_station_1.3_(64bit)_(60900)-1.bin",
+                    "size": "4294131198"
+                },
+                {
+                    "name": "setup_titan_station_1.3_(64bit)_(60900)-2.bin",
+                    "size": "1747330571"
+                },
+                {
+                    "name": "setup_titan_station_1.3_(64bit)_(60900).exe",
+                    "size": "846264"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/87AC810F27",
+                            "link": "https://filecrypt.cc/Container/87AC810F27"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/C1835FEA90",
+                            "link": "https://filecrypt.cc/Container/C1835FEA90"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/03DF3954DF",
+                            "link": "https://filecrypt.cc/Container/03DF3954DF"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

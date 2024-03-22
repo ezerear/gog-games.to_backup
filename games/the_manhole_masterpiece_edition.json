@@ -1,0 +1,90 @@
+{
+    "href": "/game/the_manhole_masterpiece_edition",
+    "MSG": {
+        "id": "1207658820",
+        "title": "The Manhole: Masterpiece Edition",
+        "slug": "the_manhole_masterpiece_edition",
+        "thumb_id": "dbc7a90c88bd53cef5779cff44887d4ce99cd848ae18a6c58b1a2caf9dd8acbd",
+        "bg_id": "a61a47efedcdb2a5135f3adcae81ca6bf9795001e6e8d48db543574dfee2d8a3",
+        "url": "https://www.gog.com/game/the_manhole_masterpiece_edition",
+        "developer": "Cyan Worlds",
+        "publisher": "Cyan Inc",
+        "category": "Adventure",
+        "uploading": "0",
+        "last_upload": "1697808296",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_manhole_masterpiece_edition_2.0.0.5.exe",
+                    "size": "150549424"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "sendcm",
+                    "name": "Send.cm",
+                    "icon": "<img src=\"/static/img/hoster_logos/sendcm.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/CD4A4385E0",
+                            "link": "https://filecrypt.cc/Container/CD4A4385E0"
+                        }
+                    ]
+                },
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/221D657739",
+                            "link": "https://filecrypt.cc/Container/221D657739"
+                        }
+                    ]
+                },
+                {
+                    "slug": "hexupload",
+                    "name": "HexUpload",
+                    "icon": "<img src=\"/static/img/hoster_logos/hexupload.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/29CD00BA21",
+                            "link": "https://filecrypt.cc/Container/29CD00BA21"
+                        }
+                    ]
+                },
+                {
+                    "slug": "userscloud",
+                    "name": "Userscloud",
+                    "icon": "<img src=\"/static/img/hoster_logos/userscloud.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/FA5E5E9DC3",
+                            "link": "https://filecrypt.cc/Container/FA5E5E9DC3"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/DBAFF43706",
+                            "link": "https://filecrypt.cc/Container/DBAFF43706"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": true
+    },
+    "SUCCESS": true
+}
