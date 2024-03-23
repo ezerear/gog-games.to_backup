@@ -1,0 +1,68 @@
+{
+    "href": "/game/no_more_snow",
+    "MSG": {
+        "id": "1914400841",
+        "title": "No More Snow",
+        "slug": "no_more_snow",
+        "thumb_id": "c2e0677025930c4db132cee7ff09f6d97b544cf7a5e465049b13130d706a223b",
+        "bg_id": "80e66830232c154e22b3a518935543bb01c99d86dd275a588bad3455603a17dd",
+        "url": "https://www.gog.com/en/game/no_more_snow",
+        "developer": "Barzda",
+        "publisher": "Barzda",
+        "category": "Shooter",
+        "uploading": "0",
+        "last_upload": "1711175542",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_no_more_snow_1.0.3_(71995).exe",
+                    "size": "192524888"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/8B334509AB",
+                            "link": "https://filecrypt.cc/Container/8B334509AB"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/D2EB93EB69",
+                            "link": "https://filecrypt.cc/Container/D2EB93EB69"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/604CD859C1",
+                            "link": "https://filecrypt.cc/Container/604CD859C1"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}

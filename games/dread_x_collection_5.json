@@ -1,0 +1,76 @@
+{
+    "href": "/game/dread_x_collection_5",
+    "MSG": {
+        "id": "1824789434",
+        "title": "Dread X Collection 5",
+        "slug": "dread_x_collection_5",
+        "thumb_id": "5da0af91b0fcbcf41bdb56c00737f9053dcb0823acc2893bab9101f102678b24",
+        "bg_id": "d9d9f4b340609034f624ee65b6ef237d0f108186c12d09cbe9d8a8d29cc3de78",
+        "url": "https://www.gog.com/en/game/dread_x_collection_5",
+        "developer": "DreadXP",
+        "publisher": "DreadXP",
+        "category": "Action",
+        "uploading": "0",
+        "last_upload": "1711175515",
+        "votes": "1",
+        "files": {
+            "GAME": [
+                {
+                    "name": "setup_dread_x_collection_5_rc1_(68654)-1.bin",
+                    "size": "4293805566"
+                },
+                {
+                    "name": "setup_dread_x_collection_5_rc1_(68654)-2.bin",
+                    "size": "4119647195"
+                },
+                {
+                    "name": "setup_dread_x_collection_5_rc1_(68654).exe",
+                    "size": "1171552"
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "links": {
+            "GAME": [
+                {
+                    "slug": "1fichier",
+                    "name": "1fichier",
+                    "icon": "<img src=\"/static/img/hoster_logos/1fichier.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/55DCD4DF19",
+                            "link": "https://filecrypt.cc/Container/55DCD4DF19"
+                        }
+                    ]
+                },
+                {
+                    "slug": "gofile",
+                    "name": "Gofile",
+                    "icon": "<img src=\"/static/img/hoster_logos/gofile.svg\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/3AC9AEB0E9",
+                            "link": "https://filecrypt.cc/Container/3AC9AEB0E9"
+                        }
+                    ]
+                },
+                {
+                    "slug": "multiup",
+                    "name": "MultiUp",
+                    "icon": "<img src=\"/static/img/hoster_logos/multiup.png\" class=\"fac-hoster\">",
+                    "links": [
+                        {
+                            "name": "https://filecrypt.cc/Container/27B0985FC7",
+                            "link": "https://filecrypt.cc/Container/27B0985FC7"
+                        }
+                    ]
+                }
+            ],
+            "PATCHES": [],
+            "GOODIES": []
+        },
+        "can_vote": false
+    },
+    "SUCCESS": true
+}
